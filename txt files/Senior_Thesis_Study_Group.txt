@@ -1,0 +1,730 @@
+<PERSON ID="S1" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S2" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S3" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S4" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="SS" LANG="NS" ROLE="SU, Students" SEX="U" RESTRICT="NONE" AGE="1"/>
+
+
+
+
+<S2: LAUGH>
+S1: oh, okay. <PAUSE:09> i_ okay <LAUGH>
+S2: yeah seven's good. [S1: okay ] thanks. <S3: LAUGH>
+S1: alright.
+S3: okay
+S1: alright
+S2: we'll be here.
+S1: yo- you wanna put our forms all together, (in this)
+S2: i hope that music from the coffee shop doesn't, well they're pretty powerful microphones i suppose. <S3: LAUGH>
+S1: w- should we go up and like testing testing. <LAUGH>
+S2: testing testing one two three. [S3: um ] so who's gonna talk first? i have some exciting news.
+S1: i have a lot of news too.
+S3: okay i want to hear the exciting news.
+S2: well i mean it's not exciting personal news it's just about my project.
+S1: well yeah i know. <SS: LAUGH>
+S3: tell us.
+S2: okay well i f- well i first i talked to Frank Erikson and i got the uh extension.
+S1: good
+S3: oh i need to do that
+S2: so that was good_ are you gonna do it? did you
+S3: well i need to talk to um, C-K my boss my... <SS: LAUGH> um to see if she's gonna be around or not or, like i don't... <LAUGH>
+S2: i'm just laughing at you. okay i'm gonna stop now.
+S1: i know Emily. <LAUGH>
+S3: to see if she'll be around this summer and if she's not then, i don't know whether i can ask Frank is he gonna be around?
+S2: well he said he's gonna be in Germany in May but [S1: yeah ] he'll be here in June and i would_ [S3: okay ] cuz all you need to do is just hand it in to him. he's just gonna read it or whatever.
+S3: well, i mean, do you think it's okay if i wa- t- were to do a paper that didn't have an advisor? like she didn't end up reading it or <SS: LAUGH>
+S2: well i don't_ i mean he asks me he asked me again last week if he was my advisor for my I-C-P. [S1: oh dear ] but i know when he had me do the senior thes- you know i mean he's technically should be my advisor for that too, [S3: mhm ] but, i think he was under the impression that my professor on North Campus was gonna read it too and i might have her read it_ well actually, my big news is, involves that she probably will read it but i don't think he would care.
+S3: yeah mkay cuz like
+S2: could y- could you email it to her or something?
+S3: i was thinking about that. i'm_ the thing i'm most worried about is that i want a letter of recommendation from her and i feel like she's gonna be like, you know she didn't really turn in a very good paper for me last semester and now she's not even doing this one i only kn- i know she's only taking a couple classes like [S2: mhm mhm ] why doesn't she have like
+S1: i don't think so i think that like she might feel that you're going like out of your way to do this special project [S3: yeah ] or something. and she might be like, [S3: yeah ] this girl is motivated.
+S3: i need to have, i need to have Frank email her and just like i think she's too_ like she thinks it's more of a thing than it is like that. you know cuz i was like oh it's like twenty-five or thirty pages and she's like well how much like ah you know she wants like, [S2: mm ] i don't know. [S1: um ] she's not used to the R-C.
+S1: i, i thought that yeah like i thought that Mabelle my advisor was gonna she was gonna read my paper and write my evaluation. that's what i think.
+S3: yeah, that's the other thing. is i'm afraid that, [S2: oh ] um
+S1: that's what Fra- that's actually what Frank told me. [S3: mkay ] so
+S3: yeah see that's my other problem so, if she needs_ [S2: maybe you won't be able to ] yeah i might not be able to or i need to see if like someone else could like kinda just take it on right now or, if Frank if i could be like oh Frank will you just write it? or something like that you know.
+S2: uhuh mhm, [S3: (xx) ] yeah. well so i got the extension from him and then i finally just ended up talking to my professor on North Campus about it. and i told her what i was interested in doing, and then i was like could i use the research? and she was like_ cuz there's several different parcels of research like, there's like five different communities i think in Detroit that they did interviews with and like s- like (peer g-) the diff- there're different characteristics for all of 'em. some of 'em are like industrial areas some of 'em are retail areas, and so some of them a- um all of them are gonna be going into the research that she does at the end of the year and stuff but also like she went to like different neighborhood organizations like, maybe like um, employment organizations and things in the area and was like do you guys want some of the information that we get from this stuff? like cuz it would probably be [S3: mhm ] [S1: yeah ] helpful to them. so that's what i've been working on a lot for her last year was doing that for a couple um like uh, industrial organizations around the area and some of them haven't been done at all. so she wanted me to do some of those um for, my project. so then <SS: LAUGH> so then i would do them and i would put that in my project. like i would have a part that was like this is empowerment zones in Detroit. [S1: yeah ] this is um, like what local labor market theory is and then like this is one specific thing so i would on- also get i would paid for it. <LAUGH> which is kind of cool.
+S3: that's nice.
+S1: i think that that, that would be good because like, we're supposed to have like a other aspect besides [S2: mhm ] like the research in our project. (we'll like) do something else
+S3: mhm yeah
+S2: yeah that's what he's been saying a lot is [S3: right ] that like it's gotta be like h- kinda hands-on or something [S3: right ] like that. so, [S1: yeah ] i mean, she's really hard to work with like she was just like y- i m- she's just very vague and like you can't pin her down but i got like a rough draft of s- um something someone else did for her so, [S3: yeah ] i don't know. and then i got um some good articles so i'm still reading some articles about theory but my plan is to read these articles about theory, and then um, read the rough draft that someone made [S3: mhm ] and then um, kind of propose an idea to her, and then she can like_ i don't t- i totally don't mind if she completely knocks it down because if she knocks it down [S3: she'll give you ] at least she's telling me what she wants. [S3: yeah exactly ] [S1: yeah she'll (xx) ] cuz at this point she's not saying anything. [S3: yeah ] [S1: like if she w- yeah ] so_ so i'm all like_ i envision this so she'll be like, no do this i'll be like okay fine. [S3: yeah ] and i'll do it.
+S1: are do you think that your um, like your research packet is gonna be like useful to these businesses too? like you might want to give them a copy of it or
+S2: well that's who's gonna be getting it_ or oh you mean the people who were interviewed?
+S1: yeah.
+S2: um, i think that when they went around and did the interviews o- the one of the questions was like would you be interested in seeing our results? or something [S3: mhm ] like that. so that's being taken care of. it's someone e- [S1: oh ] maybe like the final cumulative results will be given to them or something. [S1: yeah ] but for example like the thing i wrote last year, it was given to this, Eastside Industrial Council that included most of the businesses we interviewed so they inadvertently got it.
+S1: yeah
+S3: mhm
+S2: so
+S1: that's good. useful.
+S2: yeah. so that's good that my project has a lot_ i mean it's just definitely being done now <LAUGH> i [S1: yeah ] guess. [S3: you have like yeah i mean you have a direction. yeah ] it's not more done, but at least now i know what i'm doing
+<SS: LAUGH>
+S1: yeah before you just had like these little forms and you were like circling things and, <SS: LAUGH>[S2: i know, i know ] and you wouldn't show up ever. <SS: LAUGH> no you were s-
+S3: or chewing gum. <LAUGH>
+S2: but you were s- <LAUGH>
+S2: <LAUGH> yeah and i would chew gum. <SS: LAUGH> yeah i was the class delinquent and now i'm the head of the class. <SS: LAUGH>
+S1: um
+S3: and you're getting paid for your work.
+S1: yeah you're getting paid.
+S2: well yeah i don't know if she's gonna, i'm sure she'll pay me for it i bet if Frank knew that he'd be like no you can't do it. <SS: LAUGH> it seems so but she might be like well can you_ she might question it or something like that at which point i wouldn't, [S3: you wouldn't like ] [S1: you wouldn't like push it. ] get the money for or whatever like <SS: LAUGH> i don't really care.
+S3: you wouldn't threaten to quit or anything
+S2: i have to do it either way. yeah.
+S1: how much would you get paid? (just to)
+S3: it's ten dollars an hour
+S2: i get paid ten dollars an hour.
+S1: oh, <S2: LAUGH> that's nice.
+S3: yeah ten dollars an hour is a nice um
+S2: should i should put in like all [S3: salary ] the research time i do on my own <S1: LAUGH> for like the other parts of it that (were) <LAUGH>
+S3: yeah [S1: you could really_ money-making ] it's hard not to be like how do you k- um keep track of your hours?
+S2: with h- oh it's so random. like today i just filled it in on the bus. li- from the last five weeks. <SS: LAUGH>
+S3: yeah exactly like that's how it is with C-K and like it's hard not to just kinda like skimp a little cuz like, [S2: yeah ] like yeah there's times i spend emailing her there's times i go like to check her office see if she's [S2: mhm ] there like i mean
+S2: yeah well i [S3: (i don't know) ] think that if anything i underestimate it and i wish i kept better track because like, [S3: yeah ] like for example i spent, i like some of the stuff i'm not willing to put down because like i spent like fifty hundred hours at Kinko's because the people there were like, [S1: yeah ] totally screwing around and like i couldn't get [S3: mhm ] this really simple thing done. so i don't, i like, [S1: i think you should include that. ] i know i get i don't i know if i should_ i mean i, i feel like on one hand i should but on the other hand it was like a ten-minute project or whatever.
+S1: yeah and you got a little break like you weren't actually working you were just kinda waiting.
+S3: yeah
+S2: yeah although th- that was definitely worse than working you know cuz i'm sitting in there going like oh my god i hate this place and, <SS: LAUGH> but, whatever. and and then i also like added a couple hours on because i- it cost me so much money at Kinko's.
+S3: yeah i have um yeah i always use like, i translate how many [S2: mm ] hours i use from the cards and i always make it a little bit more cuz taxes are gonna take out. so
+<SS: LAUGH>
+S1: Emily
+S2: oh that's funny.
+S3: it's true cuz like sometimes i'll go through like twenty dollars in copying [S2: mhm ] and if i say two hours i'm not gonna get two hundred
+S1: oh i see what you're saying yeah
+S3: dollars see what i'm saying? [S2: yeah ] like the taxes are gonna take out so.
+S2: that's funny. yeah that's true. it is true.
+S1: so they_ your people don't give you money for when you make copies? they don't
+S2: well she_ if i said something to her_ she's just so scatter- she's just [S1: oh ] like yeah print it out. <S3: LAUGH> you know and it's like an eighty-page thing and like ten of pages are color, [S1: yeah ] so that's i had to go t- for the ten pages of color i had to go to Kinko's or whatever. [S3: right ] she doesn't think it through but if i was like, explain_ i just don't even want to hassle her about it [S3: mhm ] cuz she's just so_ so i'm like it'd be easier for me. it's coming out of the same pot. [S1: yeah ] it'd be easier for me to just be like i worked an extra hour, [S3: right ] and to get the money that way.
+S3: yeah also um like the lady at the Center for Chinese Studies is where i actually get paid from um she was like oh you should use our, copiers and she'll have like a code you know it's like all the money that you'll you know come but, like i'm not gonna take journal i can't even take out journals from the library [S2: mhm ] like, [S1: yeah ] out_ i mean that'd be such a hassle even if i could (bring) like five books across the s- you know [S1: yeah ] s- and so
+S2: i have this uh funny st- i don't know if i told you this but_ well m- i don't know which if i told either of you this <SS: LAUGH> but it's related to my research work or whatever like, when we had our last meeting for just my job job like um she wanted me to try to find these books for her on like this, kind of obscure topic that she was having trouble finding books on and so like she told me a little bit about like, the issue involved and, um you know like what type of things she was interested in learning from it and then like i just went to MIRLYN and kinda like messed around for a while and like you know just entering various words and like looking through different um, ways going through it on the internet and i found like fifteen titles or whatever and gave it to her and then the next couple of days i got this email from her research assistant who's a grad student, <S3: LAUGH> and she's like u- could i meet with you about these titles or whatever and i'm like this i don't understand like why do you need to meet with me about thi- but i go in and she's like well, Margie said that o- or, i guess that this woman had tried to find these titles on this thing and couldn't find anything about it and Margie was like Erica's so wonderful at finding obscure top- i'm like all i_ it's not_ [S1: yeah ] no one does anything better <S3: LAUGH> like you just look at_ so she's like i wanted to know some of your secrets about_ so i had to sit there for twenty minutes <S1: LAUGH> and i'm like well, well first i do keyword searches, <SS: LAUGH> and, you know i you know uh
+S3: then i
+S1: i think it's true though because i re- [S2: mix up the words ] i remember when you_ like i was trying to research that Warren/Connor Development [S2: oh uhuh ] Center that you told me about and i was like Erica i can't find anything on the internet about it and so you're like okay fine i'll go on the internet. and you found like ten things you came back with like a list of things
+S3: you're gifted
+S1: and i mean_ yeah you (could) be a librarian.
+S2: i mean, if_ yeah i mean like i i believe that like yeah like i'm a little better maybe at going through those things because the first year i worked on this project that's all i did for her. was i had to find titles for [S3: yeah ] these two topics and like, the more titles i brought back like the you know better i had done [S1: right ] basically so i tried really hard. but it's nothing li- you know what i mean like,
+S3: i think it's just like fiddling around and like
+S2: it was very strange that this woman_ exactly. it was just the amount [S3: yeah ] of time i put into it. or like looking in [S3: mhm ] bibliographies and going_ like it was very a- weird that this woman was asking me that. <LAUGH>
+S3: yeah, like i think i'm probably a lot better at it now after working for C-K cuz it's all i [S2: uhuh ] have to do and just like i know like how to use like Wilson Index [S2: mhm ] [S1: yeah ] and SocioFile and things like that.
+S2: yeah i feel all that stuff is so hard to use sometimes [S3: mhm ] if you do- i mean there's so much like there aren't just a couple avenues to get information.
+S3: yeah like even when you go and watch the librarians do it they'll like type in these random codes onto like classic MIRLYN and you're like what are they doing?
+S1: yeah
+S2: exactly, you're like why can't i know that? [S3: yeah like why don't they tell you? ] like i don't have to come up here and talk to you if you taught me that. [S3: mhm ] yeah they do [S1: yeah ] they type in random codes, that are like only known to them.
+S1: well they use a whole different program. they use like a different program you're like okay and they're like oh well there's a bunch of stuff and you're like oh okay.
+S3: yeah
+S2: yeah it's just so that they can keep their jobs. cuz <SS: LAUGH>[S3: i know. ] if they think_ if they let the secrets out. <LAUGH>
+S3: what would they do besides like get paper for the printers otherwise?
+S2: yeah. oh and something else about my project so i'm reading this book for class Detroit Divided, and it has tons of stuff about, um local labor markets so,
+S3: perfect.
+S2: perfect. <S3: LAUGH>
+S1: your life is just coming together. where'd you get that Coke?
+S2: i know.
+S3: can i see that? yeah can i see that?
+S2: you want coat? [S3: just the cap. ] some Coke? oh yeah.
+S3: it's why is it_ why do we have purple caps now?
+S2: where did i get this? i don't know Angell Hall i think.
+S1: oh i want some pop.
+S3: look under cap,
+S2: it's something about the Red Wings.
+S1: you guys i_ i have to go_ i have to go leave. i have to go to the bathroom.
+S3: okay
+S2: okay
+S1: is it okay for me to leave?
+S2: well
+S3: i think that's a [S2: should sh- ] normal common thing to happen (xx)
+S2: should she talk about her thing while you're gone? do you
+S3: i think we're supposed to make it as natural as possible.
+S2: i_ no but i mean like do you mind if sh- did you mind?
+S1: i don't care cuz [S3: okay ] di- think you told me some stuff already [S3: yeah, sure ] today earlier when we ran into each other.
+S3: um, okay so i'm a little stressed out about it now because i only have like a couple weeks to work on it and i haven't contacted C-K like i should've like contacted her, like two or three weeks ago and been like hey i'm at a point_ cuz i'm not like i haven't really done work on it the last couple weeks, [S2: mhm ] and so now it's like weeks have gone by and i still haven't con- you know, i don't know.
+S2: so now you it's like you're going there and you h- don't have enough work to show for the amount of time is that what you mean?
+S3: well i have the same amount of work i did about two weeks ago and it was just like if i had gone then it wouldn't have been so bad cuz you know i'd just done all this stuff. but now it's like an extra two weeks for me to [S2: yeah ] do, you know so, i needed to talk to her but like basically um when i interviewed, Kelly's boss Carol, um like the most like the biggest thing that you know stood out was that there's like a new way of doing things amongst like, younger um, college educated like, Chinese-owned businesses versus like older ones and, like i guess i kinda wanna find out like, you know what the if there's like a if the variables are like education or young you know, [S2: mhm ] how old they are and she kept on talking about the old way of doing things and the new way.
+S2: i mean what what has wh- does anything factor into, to it that they're first generation versus like second generation? or is that really not seem to be like a factor?
+S3: well, um i'm not really sure like she of course is like you know, fourth fifth [S2: yeah ] generation but her husband's first generation like he lived in China.
+S2: and he's kinda the one that, i mean do you think she is more influence in like the new w- wave part of their business?
+S3: i think so, and i don't know whether it's more because she's more established here or whether cuz she has an economics degree from U-of M.
+S2: yeah, or maybe just that she's female. [S3: yeah that's true. ] cuz the like things that, the, they that seem to be different from new wave, seem to be, [S3: mhm ] like more femininish.
+S3: right that's a good actually that's a really good point i hadn't really thought of it. <LAUGH> um <LAUGH>
+S2: taking notes? <LAUGH>
+S3: yeah, um so i guess what i had_ am planning on doing is you know coming up with a set of questions like i can't, i like i can- i feel a little_ like it's such a social anxiety thing to like go and like ask people to like talk to you or like take their picture or, [S2: hard yeah ] it's very difficult and so
+S2: what if you had like a_ i don't know if this is helpful at all [S3: mhm ] but when they did the the questions for this they had like a, you know thing they had with all the questions already written down so it wasn't like an informal chat or something?
+S3: mhm i mean i could give them the questions and have them think about it um, like i don't want to do it in survey formats cuz i haven't got surveys [S2: mhm ] but um
+S2: yeah it doesn't really, alleviate any of the social anxiety does it?
+S3: yeah like i'm hoping that, i on- like i'll, you know interview her again maybe and then, um the owner of um, Sweetwaters cuz it's like her c- like, Ben's cousin, [S2: mhm ] so i think she'll i'll just be like Carol said i could talk to you. and then i mean she's supposed to be on the side of like the new young female, [S2: mhm ] and um, i'm a little bit nervous about going and asking to talk to someone who like works who owns Dinersty. or a place like that cuz like i don't even know if they speak English and like [S2: mhm ] i know i'm supposed to be able to speak Chinese but, [S2: mhm ] like i'm not sure about that um, also so i i mean i need to get like certain information from the owners and i need certain information from the employees. [S2: mhm ] and so, like i mean i'm not gonna be like so you treat your workers terribly. so i don't know.
+S2: yeah, well didn't Carol say some stuff about being able to hook you up with someone from Dinersty? or what did she say about that?
+S3: well she um the guy Brian who Kelly knows,
+S2: yeah yeah
+S3: yeah he worked there [S2: oh yeah ] and he knows some of the other people who work there. so
+S2: so you could meet them like off hours somewhere or something.
+S3: yeah i can meet the workers from there fine i think. i'm a little bit i mean it's the owners [S2: yeah ] i'm more nervous about. like i mean they're really, when they get really busy and like, [S2: yeah ] i don't know. we'll see.
+S2: mhm. i can see why that would be nerve-racking.
+S3: right. so i'm trying to finish up like i only have like a chapter left in, um this buis- this book and then like there's one chapter in this one that's about my topic and_ like i've read five books, and [S2: that's a lot. ] yeah like i really spent a-
+S2: and they were_ they're all pretty u- they were all pretty useful?
+S3: yeah they were pretty good um, [S2: that's great. ] yeah. so like um four of them, [S2: that's like a class. ] yeah, i think so. four of them are by Light so, [S2: that's funny. ] he's, really into that stuff too. so it's kind of easy to find them because they all are by the same person [S2: mhm ] and like they all talk about each other and stuff so
+S2: maybe we should say Kelly enters no, <LAUGH> i'm just kidding.
+S1: i'm back from the bathroom. <SS: LAUGH> um, is
+S2: stage left. <LAUGH>
+S1: is this is this uh, you made this list of questions?
+S3: i made those a long time ago. [S1: oh okay ] as kind of like things i though about when i read. [S1: oh okay ] so [S2: mhm ] and then this is like the notes from when i talked to Carol. [S1: uhuh ] it's
+S2: so how many interviews total would you wanna have?
+S3: i think i'd_ like ideally i'd wanna have, like, four to six businesses, [S2: mhm ] and then their employees. but that's like a lot.
+S2: what about Lucky Kitchen? are you trying to do_ i mean cuz, those are all restaurants right? [S3: mhm ] are there ones nonrestaurants that you know of?
+S1: Sweetwaters is a cafe
+S3: well, i mean yeah like th- i they're both, [S2: they're all kind of ] yeah
+S1: you wanna do nonrestaurants?
+S3: no i wanna do mostly [S2: mostly restaurants ] restaur- or like, Asian baker- you know?
+S1: Asian bakeries <LAUGH>
+S3: yeah <LAUGH>
+S2: i think that's good because even if you can- even if some of the information's like, restauranteering specific at least i mean, you've, g- gained some insight into that specific thing. [S3: mhm ] it's better to narrow it down probably.
+S3: i mean she said that i wouldn't have to do a large amount that, i you know like interviewing, a small number [S2: C-K or ] would be fine. yeah so
+S1: you_ yeah it would be like a confounding factor if you had other businesses probably so
+S3: yeah like i'd like to spend um, a good portion of the paper talking about, like why i should interview them and like what makes them similar. because i mean it is_ you wanna make sure that there's like enough to be like oh you're not just picking random businesses.
+S2: i think this paper sounds really interesting. [S3: yeah ] i think it sounds good.
+S3: i just feel like i'm i mean, i
+S2: is it the time that's, anxiety?
+S3: yeah it's the time like we have to write a twenty page paper for Frank's class.
+S1: twenty-one
+S2: sounds like, the incomplete would be really, good for you. <SS: LAUGH> well no just [S3: yeah ] i mean in terms of anxiety. [S3: yeah and when we ] (i think you can) get it done but
+S1: and i i um emailed Frank and i asked him if you had to be enrolled in at the same time if you're gonna take an incomplete. and he says you don't have to be enrolled so, [S2: oh ] [S3: oh okay ] that's like excellent.
+S2: yeah [S3: yeah i'm sure they ] that's nice. you're gonna do it then?
+S1: yeah
+S3: i'm sure they um a lot of people end up doing that for R-C.
+S2: i mean he was almost like welcoming of it. he was like oh yeah [S3: mkay ] everyone does it. <S3: LAUGH>[S1: yeah ] like he wasn't like [S3: yeah ] oh okay well a lotta people do it. he was like that's great.
+S3: well i think they must realize that like all (of a sudden) people don't have the time and like they want them to do better papers.
+S2: well he was funny about it cuz <S3: LAUGH> he he was i don't know he said something to make me feel like, uh, you know people just take on so much and the projects are so intense [S1: yeah <LAUGH>] and they do so much good work <SS: LAUGH> and sometimes they just need more time and i'm like yeah except i basically haven't started. <SS: LAUGH> but i didn't say that.
+S1: like i jus- i don't want to_ i mean it yeah it would be cool to get so engrossed in a paper but like i just wanna get this over with <LAUGH>[S2: mhm ] like i don't, [S3: yeah ] i wanna graduate.
+S2: i mean i can see like people wanting to do this for like a doctoral thesis [S3: mhm ] or some- or [S1: yeah ] i mean not this but like i can see someone wanting to spend months and months and being totally engrossed in it, [S1: yeah ] but, not for something like this.
+S3: yeah
+S1: yeah just thirty pages, [S2: pssh ] or twenty-five in your case. <SS: LAUGH> are you done talking or are you gonna talk more?
+S3: um i don't know. l- like talk about what you did yesterday.
+S1: oh okay well i wanted to talk about today actually. [S3: mkay sure ] [S2: okay ] <SS: LAUGH> cuz i met with Mabelle. i already s- ta- talked to Emily
+S2: oh, we've all made a lot of progress this past week.
+S1: i know. <LAUGH> you know (it)
+S3: i haven't. i'm in the negative.
+S2: i guess it's c-_ no you have. <S3: LAUGH>
+S1: well you made i- made the decision to s- maybe you weren't gonna have C-K as your advisor anymore.
+S3: hey
+S4: hello
+S1: hi
+S3: hi.
+<SS: LAUGH>
+S1: don't be alarmed.
+S3: this is oh, this is Jeremy this is Kelly and Erica.
+S1: it's a talk show.
+S4: i'm alarmed i'm sorry.
+S2: hi Jeremy.
+S4: hi (i'm) Jeremy what are
+S1: you're from East Quad aren't you?
+S4: you guys doing with big microphones?
+S3: we're getting taped.
+S2: we're vain <LAUGH>
+S4: oh baby.
+S1: we just like to listen to ourselves.
+S4: you guys just wreaking havoc?
+S2: yeah
+S1: yeah
+S3: no they're gonna use our um what we say in a
+S2: voices to teach non-native English [S3: yeah ] speakers.
+S4: oh that's exciting. hope you guys have good grammar.
+S2: (yeah the) most perfect <S3: LAUGH> voices. <SS: LAUGH>
+S1: yeah <SS: LAUGH>
+S4: yup, (don't use that.) <S2: LAUGH>
+S1: yup, thanks for that bit of advice.
+S2: well you've read f- five books.
+S1: i [S3: yeah ] know Jesus Emily. [S2: yeah ] <S3: LAUGH> um <LAUGH>
+S2: i think you're okay. <LAUGH>
+S1: i have yeah i- it was al- it was you know pretty humiliating to talk to <S3: LAUGH> Mabelle. [S2: was it? oh ] well because i haven't done anything you know she's_ i've read half of one book that she assigned to me like in September or maybe it was even before_ or not September but i don't know.
+S2: was she disappointed?
+S1: um well i don't you know it's hard to tell but, she's pretty like, straight like,
+S2: like a wall
+S3: yeah that's C-K right there
+S1: yeah she's, cool calm and collected but_ so she was she's the whole thing with her she doesn't understand what she has to do. and like she's like all c- she's kind of like, w- what k-
+S2: don't they encounter this sometimes?
+S1: she's never done this before she's s- for the R-C she's done it for the Linguistics Department where they have like their own specific class for it and like, [SS: mhm ] a committee that does it and like she, is like what committee do i report to? who's the main advisor? and i'm just like i i don't know. <S3: LAUGH> and like she i think she kind of thought i was like, an idiot because i didn't know but i think they're i just think they keep it open like they_ i don't think there is, any
+S2: it's just like a report
+S3: well i think the R-C should like maybe, make a little paragraph to give to these people that we are [S1: yeah ] [S2: mhm ] encouraged to find. because like
+S2: or why not make it into a class? like it since it seems to be so_ i mean cuz aren't all the people that are social science majors doing one?
+S1: mhm
+S3: mhm yeah.
+S2: like that's a substantial amount of people.
+S1: yeah
+S3: mhm
+S2: they should do it like they do in the L-S-A.
+S1: yeah kinda guide you through it.
+S2: and then the I-C people people can do it with you guy_ you know?
+S1: yeah
+S3: well even if the class was just like it didn't have to be like a four credit ordeal maybe like a one or two and where you would go and like, i don't know just like once a week and meet and like i mean just like what we do kind of [S2: mhm ] but like with a teacher and
+S1: have to have results.
+S3: yeah
+S2: yeah. and if yeah if it was more well-known to other people, [S3: mhm ] i didn't really tell_ i don't really know who's i guess Frank's my advisor go ahead, please, <SS: LAUGH> i don't mean to interrupt. <SS: LAUGH>
+S3: but he doesn't even know that he's your other advisor <LAUGH>
+S1: i yeah i
+S2: he even wrote it down in my file and he's like yeah i just wanna make sure this was, true or whatever. i'm like you ask me every time you even wrote it down. <S3: LAUGH> it's pretty true.
+S1: yeah maybe you should email him on a weekly basis, reminding him.
+S2: sad but true. i hate him. yeah i told you he's making me take another c- class.
+S3: i was concerned about that.
+S1: are you did you talk to Warren about it?
+S2: i know you were concerned about that. [S3: i know, i you i thought he might have screwed it up. ] i mean so therefore therefore the fault, therefore the fault lies on me. and, like definitely like fifty-fifty you know because i should be aware of what, credits
+S3: but he shouldn't have told you that you were fine.
+S2: yeah i know he should have, i sh-
+S3: like i'm still afraid that there's gonna be something wrong with mine and i, don't know.
+S2: i know. like i told him like this is what i'm planning to take what do i need t- and you know like i didn't i wasn't like oh things will be fine you know like, [S1: yeah ] and he told me everything was okay. so i am going in to Warren on Monday and i'm gonna try to get_ i didn't think i was gonna try to get out of it i thought i was just gonna be like can you help me find a creative expression for three credits? cuz i can't, [S1: yeah ] [S3: mhm ] find one.
+S3: well you might be able to do like an independent one this summer.
+S1: oh yeah you could do independent one.
+S2: see i don't wanna take any credits, you know cuz i have four-oh-two to take, and the G-R-E to study for and work and research
+S1: well then try to get out of it. try to get out of it.
+S2: and a job. i know that's my first, first goal is to get out of it.
+S3: mhm
+S1: what about doing independent with your voice teacher?
+S2: i don't even know if she's gonna be around. i wouldn't want to do that i don't think. if i was, gonna do it i would, i would make him, let me do only a two credit one and i would take like the English writing, creative writing or something.
+S3: mhm
+S1: ew i would wanna take something that doesn't involve writing papers.
+S2: but i have so many extra credits [S3: you shoulda ] it's not like i've been like taking twelve [S3: yeah ] credits a semester and like and getting a general studies degree. like i have two degrees, i've been working every semester like eighteen credits, done two classes in the summer, i should be cut some slack from this stupid three credits.
+S3: maybe um also maybe if you you know you, if you can't get out of it like maybe you can make your writing your paper the thing cuz it's like a a you're writing something you know.
+S2: mhm
+S1: you could write a poem about it. <S3: LAUGH> a book of poetry about it [S2: yeah ] maybe
+S3: you could find old papers you have
+S2: i could take this tape recording. <SS: LAUGH>
+S1: this is a spoken word.
+S2: it's kind of the hip hop dance thing <SS: LAUGH> you know like girls studying. <SS: LAUGH>
+S1: that's funny. um so can i continue? or
+S2: sorry
+S3: yeah sorry. so it was
+S1: can i have the center of attention back onto me? <SS: LAUGH> um, so what was i talking about? um
+S2: Mabelle was really humiliating.
+S1: yeah m- Mabelle kinda made me feel dumb. but i think it's just because she like is working with other people in the Linguistics Department that are doing their thes- their theses, or <LAUGH> thesi and um, they have it more together than i do. so_ but anyway she has this, hu- beautiful plan for me to do, which involves me um going to the school that i'm at and observing their classes, um and [S2: hmm ] figuring and finding out what they do to acco- like talking to teachers and the principal, try to figure out what they do to accommodate bilingual students if anything at all, and then um try to like_ and figure out what their constraints are like their money constraints time energy [S2: mm mhm ] constraints and figure out like a plan for them [S2: mm ] to the how best to accommodate their bilingual students.
+S2: that's a really good idea.
+S1: so i'll be helping the community at the same time. <S3: LAUGH>
+S3: you're helping people
+S1: giving back.
+S2: that's a really good idea.
+S3: yeah
+S1: yeah so it it involves a l- like, yeah she's like okay now you have to i have to read this other book about like practical methods and then i have to make a list and then i have to talk with meet with her again then i have to talk um to the principal so that i can, like get an in at the school so that they'll let me, talk to the [S2: mhm ] other teachers and in- observe their classes.
+S3: see you're really lucky cuz i feel like C-K is like a s- a wall and you're like, i haven't done this and she doesn't give you any like she's not giving me any help. [S1: yeah ] [S2: mhm ] like i would love if, C-K
+S1: well maybe you should meet with her again [S3: yeah ] she will do this. cuz the first time i met with Mabelle she didn't give me this.
+S3: yeah she doesn't
+S2: if she gets panicky maybe she'll do it for you. <SS: LAUGH>
+S3: i know, i kn- if she realizes i can't take care of myself. <SS: LAUGH>
+S1: it is it's embarrassing.
+S2: that sounds like a really great project too.
+S3: yeah i think that sounds good.
+S1: yeah i think it'll be very interesting and very_ it'll be practical which will be nice.
+S2: mhm
+S3: Frank'll love that.
+S1: yeah <LAUGH>
+S2: yeah he will.
+S1: i like practical. so i have to get this other book (that's the catch)
+S2: and maybe it'll open a career path up for you. <S3: LAUGH>
+S1: who knows, what <S3: LAUGH>
+S2: you could be like the, bilingual consulting firm. <S1: LAUGH> go around and offer consulting advice to school districts. <LAUGH>
+S1: i could. that's a good idea i don't know if i really want to do that though. um, what was i gonna say? and i have to do this all like in two months and one of the months i'm also writing a like thirty pages, [S2: for Frank? ] well twenty for Frank and ten for C-K.
+S2: and you have to do it before the kids get out let out of school and no one's at the school anymore. [S1: yeah ] but that's not till June, so you'll be done.
+S1: but i wanna finish this in May. i wanna finish.
+S2: yeah
+S3: by your birthday it's done.
+S1: yeah, [S2: done ] twenty-second of April.
+S3: two months to your birthday.
+S2: you can do it. <S3: LAUGH>
+S1: so i can tell you i can talk about what i did with the kids yesterday. [SS: okay ] um nothing really. <LAUGH> i just
+S2: what time is it?
+S3: six-thirty.
+S2: oh we we're doing good.
+S1: we're going strong.
+S3: yeah we're doing good. <LAUGH>
+S1: um, <S3: LAUGH> the kids, um i just i'm doing this thing where i like, for half of the time i'm there for like about twenty minutes half an hour i work with one kid c- learning how to count cuz there's the kids that're,
+S3: oh he's that one, (yeah)
+S1: well it's a different girl now it's a different person [S3: oh ] now, she's having a hard time counting but she's actually much better than, the other kid. and then the oth- the rest of the time i do this um, re- these reading activities like getting them to learn the alphabet and sounds of the letters and reading books and stuff. so that's really fun cuz i do it with this group of kids and like i get to pick out the group and um this time around i picked out, Maria and she's my fav- my favorite student in the class so, <SS: LAUGH>
+S2: oh, that's so awful.
+S1: i uh she's really, she's really cool. um, if you met her you would think she's really cool too. <SS: LAUGH> maybe i'll invite her to come over some time. <SS: LAUGH> she's six. um, <LAUGH> so
+S2: hey my friends and i are hanging out tonight. we're going to Dominick's you wanna come?
+S1: she's real- she would_ she'd be down for it. <S2: LAUGH> um, so but then this is the second time_ i already told Emily this where the teacher asks me to take the students to gym class. the, um did i tell you this already? the there's probably like twenty kids in the class like twenty rambunctious, Spanish-speaking six-year-olds and i'm like, caminan <S2: LAUGH> like i don't i can't even like say the forms right or like anything, <S3: LAUGH> um, so,
+S3: i bet they laugh a lot.
+S1: <LAUGH> they're probably like what is she saying? <S2: LAUGH> so i have to take them and like they have to line up but they're all pushing each other and like, they're totally disord- and like i'm, trying to lead this line all the other teachers are like what is going on? this person has no control of the kids at all. it's really embarrassing. [S2: oh ] <S3: LAUGH> and then oh and on top of it this poor little kid Jonathan wet his pants.
+S2: oh that sucks.
+S1: yeah and he like, i don't know it just caused a problem.
+S2: so it's just a regular public school in Detroit right?
+S1: yeah
+S2: where is it in Detroit?
+S1: it's um, you know Fort, street? it's in southwestern Detroit.
+S2: uhuh i- that's on my project that's in my project. <S1: LAUGH> Fort and what? like what's the
+S1: well i-
+S3: you guys should work together. <SS: LAUGH>
+S1: it's a it's on a street i- do you know like Lafayette and Florida are parallel to each other [S2: uhuh ] you know Lafayette? it's in between those two by the cross street of Waterman.
+S2: okay yeah that's i think that's exactly my area i think i have a map.
+S1: oh it's all it's all Mexican, pretty much that [S2: yeah ] area is.
+S2: hmm that's interesting.
+S3: (mm)
+S1: you have a map?
+S2: small world it is.
+S1: i drove around the area w- it's neat cuz it's like Mexican st- like everything_ oh, Spanish Hispanic stuff all over the place.
+S2: let's see. okay so here's Fort... oh no it's right outside of my area. cuz my, Fort is there and that's Lafayette and my area is like all of this in here.
+S1: oh okay wh- where's Water-
+S2: so to the water.
+S1: where's Waterman?
+S2: i think Waterman's in my a- area but it, not [S1: cuz i ] Waterman and Lafayette.
+S1: i'm Fort_ between Fort and, where's Laf- where'd Lafayette go?
+S2: here, here is, Lafayette. and Waterman <PAUSE:05> Waterman's right here. so you're right there. [S1: yeah ] i know uh this map really well cuz i have to like go through it i we have like big uh photocopies of it and like i have to go through it all the time it's really annoying.
+S1: and your area's on the other side of Fort street?
+S2: yeah it's like, from here to here up to Fort. [S1: uhuh ] that's it's a really bad neighborhood. yeah i think_ is it Mexican Mexican town is like [S1: yeah ] here right? [S1: how ] this area is really not Mexican Fort i- street is but that's really it.
+S1: how is that considered southwestern Detroit is there is it southwestern? oh okay
+S2: yeah because um [S3: (it seems like it'd be southeastern) ] this is Dearborn over here. oh right here. and Detroit_ [S3: oh like not within the city of Detroit. ] this is the Ambassador Bridge right here and Detroit's up there.
+S3: okay
+S1: oh i see yeah.
+S3: i get it.
+S2: yep. so should we do a plan of what we want to get done for this next week?
+S3: i think i need to be on a plan.
+S2: or do you just do you want to talk about more stuff?
+S1: um i don't have anything more to say.
+S2: kay i think i have our itinerary, here. <S3: LAUGH>
+S1: let's see if we got our stuff accomplished from six months ago. <SS: LAUGH>
+S3: oh God
+S2: where is it?
+S1: got a expandable file.
+S2: yeah you like that?
+S1: you girls and your expandable, files.
+S2: i don't_ does anyone have a new piece of paper? <S3: LAUGH> where are our goals? [S1: i don't think th- ] they're out the window. <PAUSE:05> hmm
+S3: so who's coming to sewing circle tonight? Sarah?
+S2: i don't know Sarah and her recruits. <SS: LAUGH>
+S1: oh yeah i am doing the study on the sewing circle Erica.
+S2: oh you are?
+S1: i'm gonna yeah i have to give you a consent form.
+S2: really?
+S1: yeah but i don't have it with me right now.
+S2: oh that's funny. [S1: yeah ] consent forms are so funny. <S3: LAUGH> what's the use. <S1: LAUGH> okay oh
+S1: they like ask all these specific questions on the um, that I-R-B form i had to fill out, and they're like what are you gonna do with the data when you are done with it? and i was like well it'll probably go into a folder and it'll probably eventually make it to my parents' basement and then maybe it'll be thrown away when my mom decide_ <LAUGH> i didn't put that. like i typed it but then i was like i'm not gonna put that and i deleted it. <SS: LAUGH> but
+S2: okay so Kelly's goals were... you taught th- your kid but you were gonna make the rest of the flashcards and you were gonna email Mabelle an email for more words.
+S1: right, didn't do that.
+S2: whatever. <S1: LAUGH> you were gonna finish your book and start your other book.
+S3: i did that.
+S2: and i was_ i don't know what i was gonna do.
+S1: circle more,
+S2: it's done
+S1: do m- put more circles on forms. <SS: LAUGH>
+S2: what did i do that was (circling)
+S1: you just got all these forms out and you were just doo doo doo doo doo, circle something [S2: yeah ] and then like, <SS: LAUGH> look over the forms. <SS: LAUGH>
+S2: that was serious business. i'm gonna get my thesis published and when you g- <SS: LAUGH>
+S1: what what were you doing though with those forms if you had no point to your thesis paper? <LAUGH>
+S2: i think you're talking about
+S3: i think she just came to hang out with us. <SS: LAUGH>
+S2: i think you're talking about the interview the th- the
+S1: yeah the interviews. <LAUGH>
+S3: yeah yeah
+S2: yeah i was trying to figure out what i should do for my thesis. cuz this is the information i have you know.
+S1: oh okay
+S2: but i don't remember circling things. <S3: LAUGH> yeah there's nothing i circled. [S1: ]
+S1: oh well you know
+S2: i wrote so- s- down here some,
+S3: you went like this
+S2: possible questions. <S3: LAUGH> i don't know what you're talking about. okay so
+S3: so are you excited about that Cosi opening up?
+S2: oh oh
+S3: Julie's so excited about it
+S2: you know, i'm not. [S1: why? ] it's worse than Starbucks i think.
+S1: well why does Juzi- Julie like it if it's so bad.
+S2: it's a chai- it's a big chain it's just like Starbucks. it looks exactly like that same kind of like plush [S1: yeah ] urban yuppie da da da. and uh, it's like they sell like really expensive like nine ten dollar sandwiches there and like there's like the chef making the sandwiches they looked really good. the first time i saw it was when i was in Chicago last weekend, [SS: oh ] and i went in there to get a sandwich and they were like so expensive so i was like i just left. [S1: uhuh ] and it just looked really upsetting cuz like the area i was in was like this nice like cool like, normal people area with like lots of people of different colors and then you go in and it's like this really icky, [S3: hmm ] yuppie white people in there.
+S1: is it a place where you can study? or
+S2: well may- i'm sure that's what they're intending to do for it here i mean basically it's set up a lot like Starbucks but not as study-oriented.
+S3: will they serve alcohol at night? <LAUGH>
+S1: at night
+S2: yeah i know you said that that was weird cuz it's, yeah i m- i mean maybe it's gonna be_ i bet they have like two or three different s- you know those type of like chains like that have like two or three different setups based on what they wanna do or whatever.
+S1: yeah
+S3: yeah that's true. how was Chicago last weekend with Avi?
+S2: it was, th- one of the worst three days of my life <S1: LAUGH> being with Avi but it w- i had a good time other than that.
+S3: i don't know_ you keep doing this to yourself with him.
+S2: i was like i'm gonna write down a list of people to remind myself that i don't enjoy hanging out with them and like why, because i forget. <S1: LAUGH> i don't like hanging out with him. it was terrible terrible terrible.
+S3: did you get to meet all his like relatives and friends and stuff?
+S2: no i didn't meet anyone. like i was supposed to meet his grandma and i was supposed to go to lunch with his mom until he let it slip that she was really pissed that i was there. and i'm like that makes me want to go. like why say that and then encourage me to go visit her? [S3: mhm ] and then, the place we were staying at was his uncle's place but his uncle was gone. so i didn't meet any of his family. and he met my aunt and uncle and i was really upset be- about that cuz he was really obnoxious so icky there so icky. and then, he was he wanted to go to lunch with me and my cousins but i was like oh well i think they're gonna wanna get going before you get back so, i didn't have to go [S3: mhm ] (over) with him. but i got this shirt
+S1: i like that i was gonna say it
+S3: i like it too.
+S2: and i got two other shirts_ i like it too thanks. <S1: LAUGH> um, i had a good time shopping except he left me out there for nine hours. [S1: oh ] <S3: LAUGH> and then he was like [S3: it was cold ] could you walk several blocks down maybe in this direction i'm not sure if that's where i am right now to_ <S1: LAUGH> like everywhere he went he was late. he w- um, left his car lights on twice, [S1: oh ] in three days.
+S3: what's wrong with him? <SS: LAUGH>
+S2: i mean he's just so obnoxious such a jerk. i hate him.
+S3: um, i found this hat today on a tree.
+S2: it's really nice.
+S3: yeah
+S2: that's a woman's hat isn't it?
+S3: i think so.
+S2: it's nice.
+S1: it could be a man's hat.
+S2: it could be but yeah it's nice.
+S1: did you know that Emily's not going to the R-C senior dinner?
+S2: i didn't see your name on there.
+S3: i told you last Tuesday.
+S2: i know. why is that?
+S1: you're a deviant.
+S3: i told you because i forgot
+S3: what's up with this deviant behavior?
+S3: i forgot.
+S2: you can probably still go.
+S3: i know but i like i'm writing my paper that night.
+S1: (xx) she doesn't want to go. she doesn't want to go.
+S3: i'm sorry you'll have a great time together.
+S2: yeah i remember you did tell me and i was like if we all we're all gonna bond and not care about you. <SS: LAUGH>
+S3: yeah
+S1: you me and Katy?
+S2: we're gonna solidify our relationships for after school. <SS: LAUGH>
+S3: yeah that's (xx)
+S1: we're gonna make we're gonna make connections Emily <S3: LAUGH> with people and jobs, jobs, money
+S1: lifelong. lifelong. <LAUGH> networking.
+S3: i know and i- and if you did i would feel really bad about it <SS: LAUGH> it's a risk i'm taking.
+S1: we've got business c- we should get business cards made.
+S2: your picture's gonna be up. [S1: why? ] because all of our pictures from orientation are up.
+S3: oh well
+S1: oh man. you mean that group picture?
+S2: i don't know if you're on there i don't don't remember seeing you. i'm not on there either. i'm
+S3: she's in Dan- she's in Danny's group.
+S1: yeah i was in Danny's group.
+S2: yeah i don't, that's weird i didn't know that. he wasn't on there either.
+S1: well when they had those_ yes you do, well they must have left out our picture or something.
+S2: they left out mine too. well she had like just this pack of like all these old orientation pictures. [SS: oh ] but she had 'em separated into years, but there were lots that were missing from our year so we looked through the rest and there're weren't other ones Darcy and mine well we went together
+S3: i could see people stealing cuz aren't they just like hanging up someone like grabbing 'em or something.
+S1: yeah
+S2: yeah and i feel like they really didn't intend for them to have any purpose after being up so they weren't really like super [S3: right ] careful about, where to put them. [S1: yeah ] cuz a lot are missing.
+S3: mhm
+S1: what are we gonna do at the dinner? just eat, give out awards
+S2: um, well if you go at six-thirty then the open bar'll be there which is nice. and you're gonna put_ you're gonna look at the pictures, and then um also put down where you're gonna be on the map.
+S1: the like six pictures
+S3: well put me down on the map.
+S1: Shanghai?
+S2: well i know_ i think they're just gonna rip the stuff off [S3: oh ] after. but i i can put you on the map. <S3: LAUGH> that'd be cool. i'll put you on the map. <SS: LAUGH> um, and then, that's for like a half hour and there's gonna be this guy who i guess is graduating with us but he's like forty years old, h- he's plays the piano and i then i think two violins, [S1: mm ] [S3: that'll be nice. ] and they're gonna be playing through the c- like, [S1: dinner ] drink part and the dinner. [S1: uhuh ] and then at the end of the dinner <S2 BURPS> excuse me. Tom Warnhoch gets up and talks about um, i don't know if he well the head the robin those Robbie awards or whatever, are f- are based on a scholarship that was set aside by the first president of the R-C head of the R-C, [S1: uhuh ] and he's gonna be there with his wife so i think he like introduces them, and introduces [S3: who gets the scholarships? we don't know? ] anyone else that was there. well didn't you someone say Katy was getting one?
+S1: what a- what are you ta- i have no idea what you're talking about.
+S2: the Robbie aw- i told you about this cuz you're like oh i don't wanna go cuz i'm not gonna get one.
+S1: you didn't tell me about those you said they were for the the arts.
+S2: yeah, they're called the Robbie awards [S1: oh ] and it's like each department but then i also thought it wasn't each department in the R-C it was like, just the art departments but i could be wrong. i don't know.
+S3: so Katy's getting one? so she's going
+S1: oh God why does she get all the breaks?
+S2: why is she getting one? i can't
+S3: why is she going? i thought she wasn't going.
+S2: maybe she's not. i don't remember if her name was on there or not.
+S1: well did you put her at our table?
+S2: maybe she's not_ didn't you tell me she was getting one? maybe Darcy did.
+S3: must've been Darcy.
+S2: i don't know why she's getting one. i would imagine all those teachers turn around and hate her.
+S3: well i know that what's her name does.
+S2: who?
+S3: like what's her name? um, she's the one she had for like Greek.
+S2: oh Cindy Shire
+S3: yeah Cindy Shire doesn't like her.
+S2: well she'd be getting it from
+S3: well she's g- she's getting it from her advisor who loves her.
+S2: Ken Reskowski?
+S3: yeah
+S2: he loves her?
+S3: yeah
+S1: Tim? isn't his_ Mike
+S2: but, i feel like all the_ Kin, Ken [S1: Ken yeah ] Reskowski. i feel like all probably all the students that he has like they're so close and blah blah blah, but like that she would be the favorite?
+S3: yeah like why would she get it over Tori or, [S2: yeah ] like Mariah or something like that?
+S1: yeah
+S2: yeah i'm surprised that she's the favorite. i don't know if it's true i i thought i heard it from you but [S1: well ] i guess i heard it from Darcy.
+S1: i think, i think people when they initially meet Katy really like her i mean we all did.
+S2: but they've known her for a while [S1: yeah but they live ] and do you think she's talented enough to get that? or like, like you want it to be someone who like has a lot of talent and is like maybe very ambiti- you know like what [S1: yeah ] are the qualities you look for in someone to r_ it's only like a hundred or two hundred dollar award but like, she doesn't excel in her field you know what i mean? like she hasn't done writing outside of school she hasn't had like a job related to it or, [S3: yeah ] you know gone to help kids write poetry.
+S1: that's true
+S2: she's a weird candidate for something like that.
+S1: i guess she was complaining to me about how i think Ken saw her um final book of poems did you see it? and he said it was like, sh- it looked like she hadn't spent enough time on it or something.
+S2: i she said that, to us yeah.
+S1: oh both of u- yeah and i like i mean she does like she, the thing's probably not due for like three weeks and she's did it in like two nights or something like that
+S3: well i mean all it is is twenty of her poems that she's written over the past four years.
+S2: yeah
+S1: she was stressing about what format to put it in and like
+S3: well like i mean sh- yeah i would s- i would be like okay this is your senior project like
+S1: yeah
+S2: was she supposed to do that just pumulate accumulate poems that she had already done?
+S3: i thought that they were supposed to do more than that i mean [S2: you'd think so. ] yeah they're supposed to do like i think it was supposed to be like, i think ideally they wanted you to write poems on a certain theme and put 'em into a book like what everyone else does like you know Walt Whitman's Leaves of Grass or something [S2: mhm ] like that you know like, there's like some sort of overriding, and like maybe you would be like oh well i wrote this and this would really fit in well but like i feel like [S2: mhm ] she just, i don't know whether she writes poetry anymore.
+S2: yeah i di- i thought she was more of just a fiction writer or, creative writing. [S3: yeah ] not poetry.
+S1: oh i always thought she was just poetry.
+S2: well what was that book she's been writing for a while, [S1: oh yeah i forgot about the book. ] on her own or whatever.
+S3: yeah. she doesn't i mean
+S1: what happened to that book is she still writing it? she finish it?
+S2: i don't know
+S3: well it was like sixty pages when she finished it. <LAUGH>
+S1: um, (oh) i forgot what i was just gonna say
+S3: i personally don't even i don't like her poetry. <S1: LAUGH> i'm gonna say it.
+S2: i yeah i haven't read many things of hers that i like but maybe that's tainted b- i, [S3: well even when ] tainted by not liking her but even when i did like her [S3: even when her i did like her i didn't really it ] i didn't, yeah i felt it was just like whiny white girl [S1: yeah ] suburban white girl [S3: well and i thought ] like it's very atypical poetry.
+S3: well i thought also that it was like um, like she made all these like she has a good vocabulary and like lots of these random words put together but they didn't really always form like an image to me or something like that i'm like i'm like oh you have a good vocabulary but like what are you saying? like i don't get it.
+S2: mhm
+S1: like there was too many random words [S3: yeah ] [S2: yeah ] (filling it) was like too many images all together.
+S2: i feel like her poetry really exemplifies the way she is where she_ i- or in terms of like like like where she really wants to impress you and
+S3: yeah
+S1: she wrote in h- the preface to her book that she's like i want to make it very clear that none of these poems are autobiographical or bi- and then like, how could she ever do anything that's not centered around herself? [S3: yeah ] [S2: they are, all ] like, her entire_ yeah, everything in the world is center [S3: mhm ] on centered around her. i think it was really funny <LAUGH> like first year, she was (on the bottom of the bottom as an art student)
+S3: like obviously she must have written so many things in there that would be construed as negative towards someone and like now [S1: yeah ] she wants to like, [S1: maybe ] it's probably like why i hate my housemates or like something like that. <S1: LAUGH>
+S2: no you know she wasn't she would like to let us know that.
+S1: i wanted to ask you if you'd be willing to go in on a scheme with me <S3: LAUGH> to um cuz her and me are warring [S2: to evict her? ] right now, um yeah no because uh she won't let me keep any of my shampoo or conditioner along the edge of the bathtub
+S2: why won't she she keeps putting it back up there, she puts my stuff [S1: yeah ] up there too.
+S1: let's let's can we can
+S2: is it cuz she bathes every night and puts it up there? or is she
+S3: i think it's cuz she's clumsy and she doesn't like the idea of like knocking over stuff. cuz when i lived at Walnut Street, it was a similar situation where but she would never actually move it cuz she was you know too scared of us or whatever you know she wasn't as like, forward about things but she'd be like oh guys i have an idea for the bathroom to make it neater like why don't we all get our own little, like caddies and put our stuff in it and then she like did it for her as an example and none of us did it and then like
+S2: well she's tolerated it for the whole year and then when she cleaned the bathroom [S1: yeah ] like boom everything's like crushed up there or whatever.
+S3: well i'm i'm sure it irritated her when she cleaned the bathroom. <LAUGH>
+S2: mhm
+S1: so i think that we should just line up all of our things around the edge <S3: LAUGH> together at one time. <LAUGH>[S2: okay ] just to annoy her. or do you think that's [S2: well i ] going to her level?
+S2: i mean when sh- no i don't care. [S1: okay ] i'll do it. [S1: okay ] i mean i don't want_ i- some of my stuff i'll just leave up_ you think i should put it all (xx)
+S1: and i think maybe we should put her stuff there t-
+S2: like deliberately. [S1: yeah ] <SS: LAUGH> you do it. you can put_ you have, my permission to put all my stuff on
+S1: well i don't know what your stuff is and what's Darcy's and what's Ka-
+S2: i think Darcy only has stuff in her little caddy thing. [S1: oh okay ] my stuff is all,
+S3: the all animal friendly stuff. <S1: LAUGH>
+S2: i have like three things on the, [S1: rack ] rack. [S1: okay ] and then, one thing, on the window sill.
+S1: okay i think those, um caddies are kind of not very hygienic because you don't_ like they get all grimy in the bottom [SS: mhm ] and like i just don't really like to use 'em.
+S2: i mean i, would [S3: well does anyone have a ] put my stuff up there but she keeps crowding it. i mean it's, not so much that i care that it's up there but that every time i put it somewhere else it gets moved everyday.
+S1: yeah every my stuff gets moved too all the time.
+S2: i thought it was because_ cuz sometimes when she takes a bath she takes [S1: right ] everything off from around there and like puts it on the ground. [S1: mhm ] you know. i thought that's why it's been happening but you think everyday she's like deliberately [S1: well ] like i am gonna move this.
+S1: just i guess i mean it happened like when she took baths or just a few times before but it's happened two days in a row.
+S2: yeah it has happened since she, [S1: cleaned the bathroom. ] cleaned the bathroom. her greatest gift to us.
+S1: yeah, what a great housemate she is. <S2: LAUGH>
+S3: i'm sure she um, is telling Bill and saying like i'm the only who even cleans around the house. (xx)
+S2: that yeah that freaks me out that um
+S3: she yeah well she does like those things once in a while just so she can say that you know.
+S2: it's so bizarre. it's so, bizarre. she l- she interprets things so, <LAUGH>[S3: yeah ] differently than reality. <SS: LAUGH>
+S3: um, and i know you're gonna yell at me but i read her mood gauge or whatever <S2: LAUGH> and like first of all one day when she cleaned the house she was like i cleaned my stupid apartment without a break blah blah blah, blah blah blah. <S2: LAUGH> and then um, the one that she f- or you know she hates her job or whatever and she's like, everyone waits to the last minute to do their things then they come bitching at me like it's my fault. it's not my fault just start working on your stuff earlier. but like when you go to the computer lab like it's (stressful right now) and like you just want the computers to work and the printers to work and like i'm sure that people are not actually like, [S1: (xx) ] um, like bitching to her like i'm sure [S2: yeah ] they're like there's something wrong with the computer. and like i'm sorry that like every job has like its pros and cons [S2: she hates her Angell Hall job? ] and one of yours is that_ she always complains about people being rude to her.
+S1: i bet she's so rude to everybody else.
+S2: yeah [S3: i'm sure ] sometimes she's like i l- i thought she used to be like i love that job.
+S3: she's on and off with it. [S2: mhm ] cuz like she's knows it's like a really good job to have [S2: mhm ] cuz it is really easy but she also like hates when people talk to her <SS: LAUGH> at work. like that's her job like your f- job is to help people. [S2: yeah ] i'm sorry that that's
+S1: she's not cut out for customer service.
+S2: Katy Katy Katy Katy. yeah sh- no she's not and it's funny cuz that's the only job she's ever had. [S1: mhm ] <LAUGH> so should we do goals?
+S3: mkay yeah.
+<PAUSE:05>
+S2: kay what are your goals?
+S1: by Tuesday right [S2: by Tuesday ] of next week, i will have gotten ahold of that book that Mabelle recommended to me and have... pretty much read it all. God that's never gonna happen.
+S3: did you finish your other book?
+S1: no, no way. <LAUGH> i'm a slow reader.
+S2: you need to learn how to um, speed read.
+S3: (xx)
+S1: nope i haven't ever been able to do it my whole life.
+S2: is that good?
+S1: yeah.
+S3: um my goal is to get in contact with C-K and hopefully meet with her, and to finish my reading cuz there's not much left.
+<PAUSE:13>
+S2: i'm gonna circle more stuff on the interview, no. <SS: LAUGH> um, i'm gonna finish up the reading cuz there's not that much left at all.
+S1: have you_ you've been reading books?
+S2: um <PAUSE:04> i haven't r- i mean i haven't read a single_ there aren't any books on the topic. [S1: right ] there are some books that are o- on local labor markets, but, i think that almost everything i've read i'm gonna be able to use and like there's some stuff in here, i don't know maybe i'll e- there's Caleb <LAUGH>
+S1: i gotta see him.
+S2: i can't tell if that's (xx) him. yeah that's him.
+S1: oh i recognize him he's got a he's got a drawing pad, or whatever.
+S2: oh he i'm sure he's,
+S1: an artist?
+S2: so artistic.
+S3: where is he? who is he?
+S2: he's this jerk from my class that's a real asshole.
+S1: <LAUGH> he's picking he's posting something on the board right?
+S3: oh okay
+S2: yeah i'm sure it's like slam or uh poetry slam.
+S1: no it's the film it's the film farm (xx) <LAUGH> what isn't he involved [S2: i know ] in? film, poetry,
+S2: he's incredible.
+S1: drawing.
+S2: so i'm gonna finish the reading i'm gonna read the rough draft that she gave me, and i'm going to um, create or i'm gonna try_ i_ see i'm gonna have a lot of trouble like from the rough draft deciding what i think like i should produce or whatever, but i'm gonna try to conceptualize what i should produce and then, email it to her so that she can like, critique it or whatever [S3: mhm ] but i'm gonna have trouble with that. <S3: LAUGH> that's the, brain part. <SS: LAUGH>
+S3: so um, do we get_ don't we get free pizza or something? <S2: LAUGH>
+S1: yeah i know, do_ when's the free pizza?
+S2: i don't know. i mean i bet she just gives you like a, [S3: coupons ] a coupon.
+S1: a coupon do you think so? [S2: mhm ] i was hoping she was gonna give us like, [S3: money ] money.
+S2: well we can go get the pizza now. or afterwards.
+S3: i'm hungry.
+S2: yeah i'm hungry too.
+S1: i'd like to go get the pizza too.
+S2: maybe we should get it after this if she gives a coupon.
+S3: you just want her to give us like twenty dollars. <LAUGH>
+S1: i don't want a p- i don't really want pizza though. [S3: oh ] but that's okay
+S2: well m- we'll see.
+S3: it'd be fun for the three of us to go after
+S1: it's it's free it's free.
+S3: (yeah it's kinda)
+S2: so cuz i- and email Dewer.
+S3: um i hope they think we're funnyish. <LAUGH>
+S2: i think [S1: comedians <LAUGH>] they're gonna think we're really snotty.
+<SS: LAUGH>
+S1: yeah we're, we're really s-
+S2: and we were i think we were pretty tame, [S3: yeah ] too. <SS: LAUGH>[S1: oh dear ] well, this is what American life's like.
+S1: <LAUGH> yeah
+S3: so we had a really good speaker today in our class.
+S2: for what class.
+S3: for Frank's class, [S2: hmm ] we actually read like an article she made and then she came and talked about it.
+S2: who was it?
+S3: Liz Anderson.
+S2: who_ weren't you talking about, her yesterday?
+S1: i think i did i said that i had to read this article because [S2: she was, to speak. ] she was gonna be in class.
+S3: yeah she was really good i liked it a lot.
+S2: what it was the article about?
+S3: um equality it's what all the article's about like, she was talking about like her idea of what equality should mean versus like a what a lot of people we've read have said, [S2: uhuh ] and s- and um i thought she made some really good points and like in class, she spoke loudly and concretely which is really good cuz i was afraid [S2: mhm ] like if people were like well and like going around the bushes like, when people would ask questions she'd be like well, that person's racist then and that would be the end of it. like she wouldn't be like well i don't want to try to be nice about it and like, come up with some
+S1: what did she say that about? she was like people that don't [S3: well Nick_ yeah ] the doctors one the black doctors.
+S2: wha-
+S3: Nick_ yeah and this guy well Nick Feuer from a radio station, he um,
+S1: your boyfriend
+S2: oh yeah
+S3: yeah <LAUGH> he was like well what're we gonna do about when people are still like i don't wanna see a black doctor cuz i don't think they'll be as qualified, like what w- what're we sh- what should we do about that? and she was like well that person's racist so, and then she like he w- i don't know people in our class
+S1: he like he came to class like i swear
+S3: with his Palm Pilot <LAUGH>
+S1: he had run, like he had read up on all these different like really specific studies that had been done [S3: mhm ] and like knew about like
+S2: for today's class or just class in
+S1: yeah [S3: yeah ] like the um, the what the system of government in um California he was talking about and like, [S3: proposal (yeah) ] proposal like he was just talking about this really specific stuff that was so not like gonna it was not gonna provoke any ki- type of conversation cuz no one knew anything else about it [S3: yeah ] except for him.
+S3: that's what Peter does too.
+S2: yeah
+S1: and Peter was talking about his sweatshops that's all he talks about.
+S3: i know. he um, h-
+S2: i guess it's nice to know that he's not um really well-versed in other many things.
+S3: he's not very smart.
+S1: he doesn't_ yeah he didn't lis- wasn't listening to the conversation
+S3: P-R-F not smart. <SS: LAUGH>
+S2: wait a minute he works for E-S-I. <SS: LAUGH>
+S3: um
+S1: we like him he has things on tape.
+S3: i know. <LAUGH>
+S2: let's make a list of the three ugliest boys we knew. <SS: LAUGH>
+S1: i wonder if, we saw that li- if it would be funny to look at that list now.
+S3: we threw it out though didn't we cuz it was
+S2: i'm sure we did if we didn't we were really stupid. <LAUGH>
+S3: yeah, we didn't i remember we didn't want Darcy to see it cuz she'd think it was really mean.
+S2: she'd be like guys. <SS: LAUGH> hmm. [S3: yeah ] so do you feel like um since you're class with Frank you have like a um better handle on your political philosophy?
+S1: your my my [S3: mm ] own? no way. [S1: i feel ] he has broadened it so much that i cannot even
+S3: see i feel like i mean i like i actually like the class a lot
+S1: oh yeah i i l- i like it.
+S3: like um, because like i feel like i know about almost all like, egalit- like equality issues reg- like since John Rawls and like, [S2: mhm ] like i can talk_ i feel_ but see i really liked three-oh-one but i feel more comfortable talking about, like all the people we've had this semester versus then. cuz everything like last semester was so like important and big and we never read enough of it but like [S1: yeah ] we've read the books you know like
+S1: yeah
+S2: hmm
+S1: there was such yeah s- intimidating just to be talking about like Marx or like Nietzsche or something.
+S3: yeah, like i don't feel comfortable talking about what Hegel's philosophy is all about but i can say what i think that like, Dworkin or Cohen say.
+S1: yeah, cuz they're not [S2: mhm ] really, yeah i think that he is like_ we've looked at so many different dimensions of possible equality that i don't even i can't re- pick a personal favorite [S3: yeah ] like i can't
+S2: i h-
+S3: i think i'm biased towards Liz Anderson maybe it's cuz she came to our class but
+S2: i have such difficulty in any of my classes taking away like, a a fundamental idea or like, <S3: LAUGH> like a, [S1: oh yeah ] main thought. i can't do it i, [S1: well doesn't it upset you if ] i don't retain anything first of all, even specific information and i can't develop i don't feel like i'm any better at like understanding my interpretation of the world any better than i was in like, five years ago.
+S3: hmm
+S1: i think that college like, i mean it's hard to remember all the things that you learned or whatever um i think it's more of a like a confidence booster, like you have a college degree. [S2: mhm ] as opposed to not having one. um but also if you could also reduce your classes to like a one liner wouldn't you feel kinda like, i don't know i always feel kinda bad when i reduce things to a one liners
+S2: well no but i can't even i can't e- like if um you wanted to talk to me about a topic that i feel like i've had a lot of classes in like equality or just like liberal thought in [S3: mhm ] general or something like that, like, i w- don't think i'd be very good at the conversation.
+S1: i doubt that.
+S3: see like i mean, like maybe i don't know um i mean i think that you know a lot more about ac- like Detroit than i do and like things going on there and like, i don't know.
+S2: i know specific yeah like i know specific things but like philosophical or political wise i can't.
+S3: but have you taken mo- like i think you've taken more specific classes.
+S2: well like the class with Frank Erikson the inequality class the class i'm taking now of the, um political economy of black America that's totally supposed to be like that like, [S3: yeah ] you know your philosophy about like racism and inequality in America and stuff [S3: mhm ] like that. and a couple other classes i've taken maybe not specifically about that but that, definitely i should be, i don't know i think i should be forming more, ideas here in this head.
+S1: maybe in the years that you are not learning like when you're not going to school anymore you'll start thinking about these things.
+S2: well that's what i've always said is that like i'm gonna like read a lot on my own and like try to [S1: mhm ] like really <S3: LAUGH> develop my own s- and it's never gonna happen. just kinda go to job and
+S1: i think once you're s- part of the, real world you'll_ this might b- it might be become more like rea- like real to you these issues.
+S2: mhm. i mean i feel like my job is gonna be, it's gonna be really important for me to understand like my like, world goals or whate- you [S3: mhm ] [S1: yeah ] know like what i think like the United States should be have as its important goals in order for me to like make or support policies or whatever [S1: yeah ] like on city levels and i don't feel like i'm ca- i mean hopefully i'll be capable of doing that in ten years but
+S3: yeah, i feel like you should read the Liz Anderson article. <SS: LAUGH> i thought it was really good.
+S2: i mean that's the other thing is that like, i read something i read something conservative and i'm like that's completely right i completely understand that and i read something (that) liberal and i'm like that's complete- i mean i, [S3: mhm ] [S1: agree. mhm ] have no ability to have [S3: yeah ] some sort like basis for my own decision making.
+S1: i always agree with everything but i feel like that it's not like, you know like this as opposed to some other author like they're opposites like it's just like they're adding on to bigger and [S2: mhm ] bigger and bigger, making it more complex and sophisticated.
+S2: well with Frank's class i mean he would have us_ we'd stop and then we would have to like critique it in like a five- to ten-page paper, and i was like i can't critique it. i think it's all right.
+S3: mhm
+S1: that's what um, my friend Chris, Croftey he said the same thing to me about um his classes is like he doesn't ever think to like disagree with the author, he thinks about comparing the authors but never criticizing
+S2: i mean i think that's what makes a smart person, is being able to like_ i mean cuz obviously even if you don't disagree with it there are like flaws or like elements of like, you know this isn't entirely like, i don't know there're ways to criticize u- someone's approach or someone's ideas even if you think the base ideas are right and, i can't do that.
+S3: i mean i feel like um, but like the opposite if you do have too strong of an opinion one way then you'll always be able to critique other ones you know like it's kinda like you have to, k- like find a balance. [S2: yeah ] i mean i feel like um everything that we've read for this class like i think there's been, like i'm not really sat- like this is probably the thing that i've liked the most so far and like the other things like i've been dissatisfied with some parts satisfied with other parts but like i feel like Zach would automatically disregard all of them just because it wasn't exactly what he thinks and i think that's kind of b- that's a bad thing i think [S2: mhm ] you know so
+S1: yeah like i told him i wanted him to read some of our stuff from the class cuz i was like i think it'll like, maybe like change your mind a little bit about Marxism but, he didn't seem to respond (xx)
+S3: well see i don't think the things we've read have really talked too much about it.
+S1: well Cohen did
+S3: but like his was just mostly like i grew up in this like you know militant like communist upbringing and like [S1: yeah ] now i mean like
+S1: i think that all of these a- authors are in agreement that Marxism is, implausible.
+S3: yeah, see i don't i don't know like i didn't think the Cohen one was like very much at all, cuz he didn't even talked about like, Hegel and dialectic and stuff, but
+S2: i saw the girl but i think she left. <LAUGH> what time is it?
+S1: it's seven.
+S3: see that wasn't hard at all.
+S1: no
+S2: nope, we're good chit-chatters. we'll do it for two more hours.
+S1: we have to do it for [S2: she ] two more hours?
+S2: she's looking over here but, she saw me look at her. oh well. [S1: wait we a- ] maybe she'll come back later.
+S1: we don't have to meet again do we?
+S2: i mean when we do sewing circle. [S1: oh <LAUGH>] which reminds me i have to go get my knitting and earrings
+S1: i don't think i'm gonna go. i have to get interview clothes. um
+S2: where are you going? Meijer? this late?
+S1: no like the mall, the mall's open till nine.
+S2: oh, [S1: um ] for your April fifth interview?
+<:16 RECORDING RELATED CONVERSATION>
+S2: so you're gonna go to the mall now?
+S1: i, well no
+S2: well when is the interview?
+S1: i need to do something productive with my day the fifth.
+S2: what_ that's next Thursday?
+S1: yeah.
+{END OF TRANSCRIPT}
+Please contact the English Language Institute with questions or comments.

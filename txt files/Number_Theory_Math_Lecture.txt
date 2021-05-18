@@ -1,0 +1,219 @@
+<PERSON ID="S1" LANG="NNS" ROLE="JF, Instructor" SEX="M" RESTRICT="NONE" AGE="3">
+<FIRSTLANG> HUN </FIRSTLANG>
+</PERSON>
+<PERSON ID="S2" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S3" LANG="NS" ROLE="SU, Student (Kurt)" SEX="M" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S4" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S5" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S6" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S7" LANG="NS" ROLE="JU, Student (Phil)" SEX="M" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S8" LANG="NS" ROLE="SU, Student (Richie)" SEX="M" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S9" LANG="NS" ROLE="UN, Student (Buddy)" SEX="M" RESTRICT="NONE" AGE="0"/>
+<PERSON ID="S10" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="SU-2" LANG="NS" ROLE="UN, Student" SEX="M" RESTRICT="NONE" AGE="0"/>
+<PERSON ID="SU-3" LANG="NS" ROLE="UN, Student" SEX="M" RESTRICT="NONE" AGE="0"/>
+<PERSON ID="SU-4" LANG="NS" ROLE="UN, Student" SEX="M" RESTRICT="NONE" AGE="0"/>
+<PERSON ID="SU-8" LANG="NS" ROLE="UN, Student" SEX="M" RESTRICT="NONE" AGE="0"/>
+<PERSON ID="SU-m" LANG="NS" ROLE="UN, Student" SEX="M" RESTRICT="NONE" AGE="0"/>
+<PERSON ID="SU-f" LANG="NS" ROLE="UN, Student" SEX="F" RESTRICT="NONE" AGE="0"/>
+<PERSON ID="SS" LANG="NS" ROLE="UN, Unknown" SEX="U" RESTRICT="NONE" AGE="0"/>
+
+
+
+
+S1: mod three forty-four. and then two-to-the-one-seventy is congruent to one mod three forty-one, just (xx)
+S2: that it
+S1: two-to-the-three-forty is congruent to one mod three forty-one. so how can you use this to, to prove that three forty-one is composite but how can you use it to, to actually factor the number three forty-one? any volun- any volunteers? okay. anyone get this problem? <SS: LAUGH> Kurt?
+S3: i can tell you uh how how y- how we know it's composite.
+S1: so how do you know it's composite?
+S3: well there's a theorem that says um, that, M is, uh given M prime,
+S1: yeah
+S3: X-squared is congruent to uh... one. <S1: WRITING ON BOARD>
+S1: X-squared is congruent to one
+S3: mod, M, uh, if and only if X is cong- X equals, or X is congruent to plus or minus one... mod M.
+<S1: PAUSE WHILE WRITING>
+S1: yes so, if M is a prime number, then... thirty-two squared cannot be congruent to one mod M. and, now wh- what was the proof of this? and and this was one of the homework problems. of course you get that M divides X-squared minus one, which is X minus one times X plus one... so if M is prime then M, must divide either X minus one or X plus one.
+S4: (then two to th-) two-to-the-one-seventieth is not, congruent to one mod thir- three forty-one...?
+S5: it is.
+S4: oh it is?
+S1: it is congruent to one mod thr-
+S4: it is?
+S1: yeah. but t- what's two-to-the-one-seventy? it's two-to-the-eighty-five-to-the-square.
+S4: right. so
+S1: so so here, what we get is that thirty-two squared, is congruent to one, mod three forty-one... but thirty-three is not congruent to one or negative one mod three forty-one. three forty-one cannot be prime.
+S4: okay cuz i oops, cuz, alright cuz it, couldn't you use that same, theorem um, since we were given that two-to-the-three-fortieth is congruent to one mod three forty-one? (xx)
+S1: since two-to-the- three-forty's congruent to one mod three forty-one uh, that's not, that in itself, doesn't show that three forty-one is composite.
+S4: no i okay i i'm sorry i just i used, the same theorem that you used to disprove it, t- um, from what i thought was to prove it that it was a S-P-S-P... i don't know whatever i
+S1: well what do you t- it is not an S-P-S-P because, [S4: b- ] because it fails the test. but, [S4: i d- i just was (xx) ] but what d- that's the that's method that's the that's exactly what the method (you)
+S4: but i used the same method though, [S1: okay ] but a step up with two-to-the-three-forty as [S1: oh but, oh okay ] (the square that i used,) and then i squared that, and i got one-to-the-three, so i mean that's what
+<PAUSE:05>
+SU-3: oops.
+S1: i... <BEGIN BACKGROUND STUDENT CONVERSATION> i'm not sure if i understand what you say so you're saying y- you went from, two-to-the-one-seventy to two-to-the-three-forty?
+S4: yeah cuz
+S1: yeah but, yeah. so then, then the test is undecisive, but there's then this other pair, then you go from, two-to-the-eighty-five to two-to-the-one- seventy, and that's when the test is decisive, that's <MUMBLING BECOMES INTELLIGIBLE>[S6: oh X, not X-squared ] when the test is decisive, it, it, it comes up with something whose square is one, but the thing itself is not congruent to plus or minus one. now how can you how can you use this, to factor three forty-one? anyone? anyone got that? Phil?
+S7: you know that the, the theorem that uh, the G-C-D between X minus one and M, <S1: WRITING ON BOARD> will be, uh greater than one but less than M, and that would be a factor, of M.
+S1: that that was, [S7: yeah ] that was uh one of the homework problems. but you can just, so you can just quote it, or if you want to work it out here, this says that three forty-one, <WRITING ON BOARD> divides, thirty-two squared minus one... and this is easy to factor, what's the factorization of thirty-two squared minus one?
+SU-m: thirty-two plus one and thirty-two minus one?
+S1: yeah, it's thirty-two plus one... and thirty-two, minus one. so we get thirty-three times thirty-one, and three forty-one divides that... so what are the, possible factors of three forty-one?
+<SS: UNINTELLIGIBLE ANSWERS>
+S1: what was it (xx)
+S8: three eleven and thirty-one
+S1: yeah. and, what's the actual factorization?
+SU-8: (two) eleven
+S1: eleven and thirty-one, it's not divisible by three <PAUSE WHILE WRITING> so three forty-one is, uh, eleven times thirty-one. you can cancel out the three because three plus four plus one is eight it's not divisible by three.
+<PAUSE:09>
+SU-8: why do you have the three there?
+S1: hm?
+SU-8: (xx) oh, [S1: well it, it ] oh okay never mind [S1: it (does show) ] the factorization of (xx)
+S1: yeah what you get here is not, so, you can put, you can you can conclude that the G-C-D of thirty-one and M is less than M and greater than one, and the G-C-D of thirty-three and M, is less than one and, greater than M if you wanna use if you wanna use that homework problem so if you don't wanna, if you don't actually wanna, make this computation you can just quote the homework problem, that's another way of getting the factors... uh first you get that the G- the G-C-D of thirty-one, and three forty-one... and then you get the G-C-D of thirty-three and three forty-one. now, what we're gonna do today is, is what we started last time, um, and that's uh, the multiplicative structure, <SS: UNINTELLIGIBLE SPEECH><SS: LAUGH> multiplicative structure of, of uh, the... the numbers modulo M, so, wha- thi- what we can do then is, pick a number A which is relatively prime to M... <WRITING ON BOARD> and, we can ask the following question, what's the smallest positive number, such that... A raised to that, that power, is gonna be congruent to one modulo M. <PAUSE WHILE WRITING> there's there are certain numbers, uh with this property for example phi of M, uh... is one of them by Euler's theorem, um, so this A is just called <PAUSE WHILE WRITING> the order <PAUSE WHILE WRITING> of A, modulo M... so what we're going to start with is an example, when the modulus is eleven <PAUSE WHILE WRITING> and i'm going to give you, tables of of all the possible powers that you can have... i'd like you to fill out these tables <PAUSE WHILE DISTRIBUTING TABLES> so le- let's do the first one together, um <PAUSE:06> do you have the [SU-m: we need another one. ] you, need one more?
+SU-m: one more
+S6: thanks
+S1: so let's start with the first one, if uh, the powers of two mod eleven, um, what's the, what's the first, what's the first I such that two-to-the-I, is congruent to one modulo eleven? well you have to go all the way up to ten, we know by Euler's theorem that ten will work, um well actually, that's, you know Fermat's theorem. <PAUSE WHILE WRITING> A-to-the-ten, is gonna be congruent to one modulo eleven, for any number A, which is not divisible by eleven. that's Fermat's theorem, so... ten will always work but sometimes, the order is not ten, but something less but for two, the order is ten, uh, what's the order of three?
+S8: uh,
+S1: five.
+S8: five?
+S1: okay. um, what's the order of four?
+<SS: UNINTELLIGIBLE ANSWERS>
+S1: it's still five. what's the order of five?
+<SS: UNINTELLIGIBLE ANSWERS>
+S1: five. what's the order of six?
+<SS: UNINTELLIGIBLE ANSWERS>
+S1: ten. uh, what's the order of seven?
+SU-m: ten
+SU-f: ten
+S1: ten. the order of eight?
+<SS: UNINTELLIGIBLE ANSWERS>
+S1: it's ten. the order of nine?
+SU-m: five?
+SU-m: four
+S1: it's five. and what's the order of ten?
+<SS: UNINTELLIGIBLE ANSWERS>
+S1: how can you tell that without, ever looking at this table, that the order of ten is two? mod eleven. hm?
+<SU-m: UNINTELLIGIBLE SPEECH>
+S1: uh, the idea is that ten is congruent to negative one, of course negative one, to-the-square, is one, so... the order of ten, must be, two... so what are the possible orders? the, i didn't list, the number one, what's the order of the number one?
+SU-m: one
+SU-m: one
+SS: one
+<SU-m: UNINTELLIGIBLE SPEECH AND LAUGH>
+S1: that's the only thing that's the only number, whose order is one, because the only number raised to the first power, that will give you one, is the number one. what are, if M is a prime number, what are the numbers of order two?
+SU-m: oh
+SU-3: M minus one?
+S1: M minus one. M minus one is M minus one is always a number of order two, uh, is there any other number, of order two mod a- mod a prime?
+<PAUSE:06>
+SU-m: one, one will be won't it?
+S1: one has order one
+SU-m: oh (xx)
+SU-3: M is prime, right?
+S1: if M is prime, there (isn't) why?
+SU-3: because,
+S1: because of because of (that.) if the order, of of of the number is, two, then that number satisfies the equation X-squared is congruent to one, modulo M. if M is a prime, we have only two solutions, plus one, which has order one, and minus one, which has order, two... okay so if we, if we start to fill out this, list, the possible orders are, one, and there is only one, number of order one. then there's two, is a possible order, and the multiplicity's still one, what are the other possible orders, that show up?
+SU-m: five
+SU-m: five
+S1: five and ten. how many, numbers, are there with order five?
+SU-m: four
+S1: okay. how many numbers... of order ten?
+SU-m: four
+<SS: UNINTELLIGIBLE SPEECH>
+S1: alright so let's let's start to look for some factors. so what are the possible orders? one two, five and ten. uh, what does this suggest?
+S8: (that) all numbers relatively prime to one
+S1: what was that?
+SU-m: all numbers relatively prime to one, well, that's a- one's prime so,
+<SS: LAUGH>
+S8: factors of [S1: Todd? ] N mi- w-
+S1: factors of?
+S8: N minus one?
+S1: factors of N minus one.
+SU-m: factors of order
+S1: factors of?
+SU-m: of phi of M
+<PAUSE:05>
+S1: why phi of M?
+SU-m: i don't know i- you know just thinking more (xx) (more generally) factors of phi of M
+S1: well w-
+S2: (xx) divides the (xx)
+S1: okay so i- if this data will will will, not be enough to come up with, with with with the right answer, for sure but we can j- we can we just try to make some conjectures and one conjecture was that, the order... the possible orders that appear, all divide M minus one. <PAUSE WHILE WRITING> M minus_ so, it was ten for us... now... of course ten is is special, cuz any number to the power ten is congruent to one, modulo eleven, so... let's let's assume M-M is prime. <PAUSE WHILE WRITING> now this (one,) this conjecture makes some sense, so every number raised to the power M-minus-one, is congruent to one modulo M, so we might think that, the order, will actually divide this number. but what if M is not prime? how, do you think this should be modified... this conjecture? <PAUSE:04> so, M-minus-one was special, ten was special, because A-to-the-ten is congruent to one, for any number A, that's relatively prime to eleven.
+SU-2: yeah... (right)
+S1: i- i- if you don't start with a prime number, [SU-m: shouldn't you just? ] how should we do you modify this theorem, Buddy?
+S9: well if M isn't prime then can't you have some numbers for which no order exists, like uh two and four, uh (i mean like there, or, )
+S1: oh w- the order, always exists because i'm making the assumption that A is relatively prime to M. other other, (course,) i i'd be in trouble, Luke?
+SU-m: couldn't we just change M minus one to phi of M?
+S1: uh, Richie?
+S8: (xx) let N be the factors of M...
+S1: oh [S8: instead of M minus one ] so, so y- you you, so M you you replace M minus one by, the factors of M?
+S8: like, [S1: (oh s-) ] yeah like it'd be, anything divides um, the factors of M, minus one yeah
+S1: okay so, the product of phi minus one, as phi divides, M this, these are these are all possible, uh, conjectures, now, let's just... <ERASING BOARD> do some of them, some, computations, um... <WRITING ON BOARD> so very trivial one where M is two, what are the relatively prime numbers to two
+S3: one
+S1: one
+<SS: LAUGH>
+S1: what's the order of one?
+SS: one
+S1: one, and it divides two minus one, so...
+SU-m: (xx)
+S1: it divides phi of two as well, which is one, so, actually this is a more general, conjecture... <WRITING ON BOARD> because it includes the, the case when M is a prime, phi of, a prime number is just the prime number minus one. now, when M is three, again, just, it's a trivial case, because, what are, the, relatively prime numbers to three?
+SU-m: two one
+S1: one and two. one has order, one, and two has?
+SU-m: two
+S1: order two, because, two is congruent to negative one... <WRITING ON BOARD> now when M is four, the numbers relatively prime to four are?
+SU-m: one and three
+S1: one and three <PAUSE WHILE WRITING> uh, and they have orders?
+SU-m: one and two
+S1: one and two, so <PAUSE WHILE WRITING> so this will not work, this one will will not work, because, the only prime that divides M is two, and this product will be, just one. two minus one is one. so this (one) will will not work, how about the phi of M formula?
+S3: phi of M is two
+S1: phi of four is two... <WRITING ON BOARD> so that that, still works. um... actually phi of M, is very cl- close, uh, to being this product, if if y- you recall what the formula for phi of M is, so this is not, that far, from, from the truth, but... but you have to modify this this product formula, because, the actual truth is that it always divides, it always divides phi of M. and you can, you can just check it with, let's say M equals eight, um, the numbers, that we have to check are one three five and seven, what are the orders? <PAUSE:05> well one has order one, what's the order of three?
+SU-m: um two
+SU-m: two
+S1: two. what's the order of five?
+SU-m: two
+SU-m: three
+S1: it's still two. and what's the order of seven?
+SU-m: just two
+SU-m: two (xx)
+S1: just two because it's negative one. so here, all the orders <WRITING ON BOARD> one two two and two, still divide phi of eight, which was four, but... now it_ here's_ there's a, there's a change here, because four, does not appear, as an order. so even though, the orders will divide four, but we, but four itself is not, an order. now let me make let me make a, a definition about uh, this phenomenon... A will be called a primitive element <PAUSE WHILE WRITING> if, its order is phi of M. <PAUSE WHILE WRITING> of course it only makes sense, if you, if you fix the modulus, cuz, A could be a primitive element, with respect to one modulus and, not a primitive element, with respect to another one. so A is a primitive element mod M if the order of A, <WRITING ON BOARD> is, phi of M... so mod eleven, we have plenty of primitive elements. we have two, and... six, seven, eight, they are all primitive elements. <PAUSE WHILE WRITING> now, what i claim is, that just from the f- just from the first table, the powers of two mod eleven, we can tell <PAUSE WHILE WRITING> what numbers... are, are primitive roots. what other, what numbers other than two. <PAUSE WHILE WRITING> so two itself is a primitive element. what was the order of four...?
+SU-3: five.
+S1: so it's not a primitive element. what was the order of eight?
+SU-3: ten
+S1: so it's, a primitive element. what's the order of five?
+SU-3: five
+S1: it's not a primitive element. the order of, ten?
+SU-m: ten
+S1: it's not a primitive element. the order of nine?
+SU-3: five.
+S1: the order of seven?
+SU-3: ten.
+S1: the order of, uh... three?
+SU-3: five.
+SU-m: five.
+S1: and the order of six?
+SU-3: ten.
+SU-m: ten...
+S1: so, two, eight, seven, and six, are the primitive elements. um, i, i_ my claim is, that, you could figure this one out from the indices. so two, is two raised to the first power, eight is two raised to the third power, seven is two raised to the seventh power, and six, is two raised to the ninth power. so from the indices, um, what are those indices that that enter here?
+SU-m: they're the numbers that are relatively prime, (to ten.)
+S1: yes, so, one, three, seven, and nine, these are the numbers <PAUSE WHILE WRITING> that are relatively prime, to ten. <PAUSE:16> and and those are the only, those are the only, uh, possible choices, because if you pick an index, which is not, relatively prime to ten, like, let's say four <PAUSE WHILE WRITING> then it cannot be, that its order is still ten. why? because two <PAUSE WHILE WRITING> cuz two, to-the-four, to-the-fifth, is the same as two-to-the-twentieth, and of course it's the same as two-to-the-tenth, to-the-squared, so it's congruent to one, mod, eleven. so this number, raised (order) to the fifth power, is congruent to one mod eleven. <PAUSE:16><ERASING BOARD> okay can you tell from this table, what are those numbers, uh that are congruent to a square, modulo eleven? <PAUSE:06> four? is four congruent to a square mod eleven...?
+SU-m: yes?
+S1: yes, it's congruent to two squared.
+<SS: LAUGH>
+SU-m: five.
+SU-m: six.
+SU-m: five
+S1: five. why should five be congruent to a square?
+S3: cuz four is even.
+S1: yeah. so this is two-to-the-fourth power, which is two squared, squared, so this is a square, same goes for six, eight, uh, so, what corresponds to them is nine and three. so six is an even power, eight is an even power... uh, nine is a square, and three is a square, and of course one is a square. now what about the, the odd exponents, of can two be a square? <PAUSE:05> why not? <PAUSE:04> why cannot two be a square, modulo eleven?
+S10: cuz it's... (beyond two) if_ <SS: UNINTELLIGIBLE SPEECH> it's gonna be (odd.)
+S8: if A was the square root of two, then its order would be, twice that of two?
+S10: yeah if it_ what would be the order of, of, let's say two is the square of something, A. what would, the order of A be?
+S8: twenty.
+S10: twenty. can the order of A, can any number can any number have, an order which is twenty, mod eleven? no the order must be less than or equal to ten, by Fermat's theorem. so two cannot be, two cannot be a square. now how can you tell from two not being a square, that you can cross out all the odd exponents...? so how can you know that, eight cannot be a square then? <PAUSE:11> well, what is... <WRITING ON BOARD> eight is two, cubed, which is two, to-the-two, times two, this is a square <GESTURING TO BOARD> if eight was a square, mod eleven, then two, would turn out to be a square mod eleven. and, the same goes with two-to-the-fifth, so if we start with ten, which is two-to-the-fifth, which is two, to-the-fourth times two. if ten was a square, then because two-to-the-fourth is a square, two, would turn out to be a square. we know that two is not a square. so what i'm using is that <PAUSE:08> that if if if i have an equation, A-squared is congruent to two B-squared, modulo eleven, then, i can take, the multiplicative inverse of of this number B... oops, multiplicative inverse of B... and then, i would end up, with an equation which says that two is a square. it's it's impossible. <PAUSE WHILE LOOKING AT NOTES> so let me let me just uh, tell you two more definitions.
+S6: i have a question about the, [S1: yes . ] primitive element definition
+S1: yes.
+S6: um, if we're saying if the order of A is phi of M, so then on your example mod eleven, [S1: yeah ] why are we looking at, phi of ten, instead of phi of el- the number of elemen- if... the order of A, we're looking at, phi of ten instead of phi of eleven doesn't make sense, to me? do you see what i'm saying?
+S1: uh, <SU-m: UNINTELLIGIBLE SPEECH> not quite. the so the order, we're looking for, uh numbers, whose order is ten... so we can we can just go through this list, and figure out
+S6: i understood all that, it's the definition that doesn't make sense... i mean i understand that, two-to-the-fourth, in, the order of two is four, mod eleven, wait. [S1: well the order of two ] (w- w-) wait, now i'm getting confused.
+S1: okay, the order, of something, is the smallest positive power, [S6: right so that it's congruent to one. ] that you need, to show that you get one.
+S6: right.
+S1: and, so the primitive elements <PAUSE WHILE WRITING> mod eleven are, go through this list, and they turn, they turn out to be two, and, eight, and seven,
+SU-m: six.
+S1: and six. but if you well, i didn't use i didn't use, i didn't use the, the tables, but you could use the tables i mean you listed all the orders, you can just check that these are the primitive elements. and what i claimed is, that... <WRITING ON BOARD> the indices, to get these numbers, when you when you when you look in the first table are, one, three, uh, seven, and nine, and these are numbers that are relat- relatively prime to ten.
+S6: right.
+S1: but the, the, those are the indices. so the point is it's kind of li- like a logarithm, and we're gonna get back to this uh subject next time, this is called a discrete logarithm. so, instead of working with the actual numbers, i can go, uh, and work, with the indices. it's just like, the indices tell me, what number i have to use, what, i have to raise two-to-the-third power, to get eight. i have to raise two, to-the, ninth power to get six. it's kind of like a logarithm... and, well i'm gonna explain it, next time, but, but when you work with the indices, with the indices, you have to, (b-) what impor- what's important is, how do you, relate to the number ten which was phi of eleven. [S6: right. ] when you work with the actual numbers, what's important is, uh, what they are modulo eleven. and when you work with the indexes what's important, is, what they are modulo ten (xx) we will get back to this, uh, next time. <PAUSE:06> (and,) the two definitions i promised i, i will tell you next time, (xx) run out of time. uh,
+{END OF TRANSCRIPT}
+Please contact the English Language Institute with questions or comments.

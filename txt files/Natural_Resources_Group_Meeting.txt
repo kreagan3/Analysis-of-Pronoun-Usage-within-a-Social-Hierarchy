@@ -1,0 +1,575 @@
+<PERSON ID="S1" LANG="NS" ROLE="JG, Geoff, Student" SEX="M" RESTRICT="NONE" AGE="2"/>
+<PERSON ID="S2" LANG="NNS" ROLE="JG, Julio, Student" SEX="M" RESTRICT="NONE" AGE="2">
+<FIRSTLANG> SPA </FIRSTLANG>
+</PERSON>
+<PERSON ID="S3" LANG="NS" ROLE="JG, Martin, Student" SEX="M" RESTRICT="NONE" AGE="2"/>
+<PERSON ID="S4" LANG="NNS" ROLE="JG, Hiro, Student" SEX="M" RESTRICT="NONE" AGE="3">
+<FIRSTLANG> JAP </FIRSTLANG>
+</PERSON>
+<PERSON ID="S5" LANG="NS" ROLE="JF, Unknown" SEX="F" RESTRICT="NONE" AGE="3"/>
+<PERSON ID="SU-m" LANG="NS" ROLE="JG, Student" SEX="M" RESTRICT="NONE" AGE="2"/>
+<PERSON ID="SS" LANG="NS" ROLE="JG, Students" SEX="M" RESTRICT="NONE" AGE="2"/>
+
+
+
+
+S1: well, is everyone happy with if i_ you can look at what i've already started, to write up for the problem statement, [SU-m: mhm ] it's on, the copy that Hiro has.
+S2: we can always add, and [S1: yeah ] (xx) so yeah i think
+S3: (xx)
+S1: it's right there
+S2: i think one person, in, in this case you, you, [SU-m: (xx) ] you you, have a good idea [S1: okay ] of what the, [S1: yeah ] situation is, what we want (it to sound like)
+S3: and it's only a draft (so you know) if, [S1: sure ] somebody really [S2: and ] disagrees with (me)
+S1: i just don't_ yeah i just don't wanna, make
+S2: and the more we the more we say about it the better
+S1: mhm... [S3: (i think) (xx) ] i mean please, whatever i write, you know please comment on anything that you don't agree with i think should be be [SU-m: (xx) ] in there... cuz i'll be putting words in_ i don't wanna, put words into people's mouths that they don't agree with... um
+SU-m: um, okay
+S1: um, we hafta work on our goal, too and maybe we should do that as a group because Glenda had, the good point that it seems to presume, um, presumes that restoration, is... is a definite outcome. <PAUSE:05> and i tried, working on it last night and i was getting nowhere.
+S2: it's just the first sentence she doesn't like.
+S1: yeah, i- but i mean, a- she_ it's not that she doesn't a- it's not that she doesn't like what we're saying it's just how we're saying it... we've got to, sort of um... put a spin on it that is more open-ended. [S3: okay ] um... and it's kinda hard or i was having trouble without losing the integrity of what we were saying or sounding, you know
+S2: mhm, yeah but (isn't it...) G- Glenda really has a problem with it?
+S1: i was um let's see, what i so what i tried to do was to work from our from the problem sorta the problem statement, into a goal. and, we have a sentence in the problem statement now that says, that identifies MEANDRS' goal, as to improve the diversity and quality of fisheries and wildlife habitat as well as the aesthetic and recreational quality of the river, while minimizing the impacts to the riparian land noter- owners and agricultural interests. and then we say in our, our objective is sort of to provide, oh, material_ you know provide stuff, to MEANDRS, [SU-m: mhm ] and, that MEANDRS doesn't have the resources to undertake it. [SU-m: mhm ] and so i was trying to sort of combine those three things, into our goal, that we are sorta serving as, um, you know that we're gonna, you know provide this information, um, you know, to assist MEANDRS, you know in their sort of in their goal to improve, this that and, the other thing. um i don't know h- what you guys think about that, that approach.
+S2: (i mean) i think it doesn't, it doesn't a- address that, that, Glenda's concerns. [S1: yeah ] i think, [SU-m: mhm ] i think what she wants uh i- is to, to more specifically say something like, in g- in nice words, that, we will be be presenting them with, a package of information, and that they could do... with it, as they please. basically. [S1: mhm ] and they can in- they can_ yeah basically i- tha- that, so, that way we're objective we're, unbiased we're, detached from the, [S1: yeah ] [S3: yeah, that's good ] whole thing we don't, say con- uh restoration is good restoration is bad [S3: right ] nothing
+S1: mhm, i can't find something
+S3: what are you looking for?
+S1: something that i wrote.
+<PAUSE:18>
+S2: why don't we just, why don't we just define, as our goal
+S3: well, i think one way to m- maybe make it easier is, in the, problem statement we defined, MEANDRS' objectives, and i and i think that's good. and i don't think we need to really rehash those in our goal. [S1: okay ] um, so you know maybe we can just say, given MEANDRS' goals, as stated in the, or as described in the problem, or in section, one-point-one or whatever (of) the problem statement, um... you know our, the purpose of this project is to, um <PAUSE:05> to to explore, the option of restoring MEANDRS, [S3: mhm ] or restore, the watershed, um... something like that.
+S2: i- i- if we just eliminate, the part of the goal, of the [S1: mhm ] MEANDRS, from here, you know...? the part of of of [S1: mhm ] what they do, you know? i think we, we we we, have (removed) (xx.)
+S1: okay. so you would just
+S2: removed (the) b- the bad, part.
+S1: so you would just say m-
+S2: instead of, you know to assist them. [S1: yep ] [S3: mhm ] let's not assist them let's just, give them the thing.
+S1: okay [S2: (you know) ] so just, provide <PAUSE:05> well
+<PAUSE:07>
+S2: that doesn't, look good
+S1: see that was the problem i was having. when i would just try to take it out, then you would sort of lose the <PAUSE:19> how [S3: (xx) ] 'bout if we just took a whole different slant and said, something like the goal of this project is to evaluate, the ex- you know is to evaluate the existing conditions, of the watershed, predict, possible change i- predict changes, that reha- rehab- changes from rehabilitation, or, predict changes that, that ma- that could occur, from rehabilitation, and th- and the, a- pros and cons, of those changes, on, the economy, ecology, and social, structure. [SU-m: yeah ] and then to provide this information, [S2: to the MEANDRS ] u- to the MEANDRS in the form of a, feasibility, evaluation or feasibility assessment.
+<PAUSE:04>
+S2: sounds good. i like it.
+S1: does that sound, [S3: mhm ] better?
+SU-m: yeah
+S2: (yeah) just, just no way around, trying to work this out
+S1: let me just
+S2: rephrase this
+S1: let's just write it up here or something so we can, take (note of it) so
+<PAUSE:11>
+S3: what is it? to evaluate existing conditions or, [S1: yeah ] (we) can change it
+S2: or assess
+S3: or, yeah, i think assess. <PAUSE:04> or identify
+S1: you want identify?
+S3: i don't know... assess kinda sounds like you're gonna, judge it
+S1: yep <PAUSE WHILE WRITING ON BOARD>
+S3: (from future) rehabilitation effort? [S1: um ] maybe?
+S1: n- well then that's getting into the presumption, (you know) if you say [S2: that rehabilitation's (not important) ] future rehabilitation, yeah, that's why i did_ just ended it there, [S3: okay ] i thought that was more [S3: yeah ] open-ended <PAUSE WHILE WRITING ON BOARD> (anybody can...) any wordings that people_ i mean [S3: um ] i p- i put in parentheses these words [S3: yeah ] i wasn't sure i just, those are the things that came in my head i don't know if (xx) thought
+S3: i came across um, i know we had problems with pros and cons before [S1: yeah ] what about practical possibilities and limitations?
+S1: okay
+S3: i don't know, it was just another
+<PAUSE:05>
+S1: practical opportunities?
+S3: possibilities.
+S1: two Ss?
+S3: uh yes
+S1: (okay) <PAUSE WHILE WRITING ON BOARD>
+S3: so_ or maybe you know even just possibilities and limitations or, something i don't know.
+<PAUSE:07>
+S1: um <PAUSE:44> what do you guys think? does that, does that, get away from the presumptiveness of...
+S2: yeah we're not biased now. <PAUSE:05> i just think to go on and on and on
+S1: yeah <PAUSE WHILE WRITING ON BOARD>
+S2: what is a feasibility study?
+S1: it's... i mean i i think you can- i don't think there's any set, definition of a feasibility study but essentially you're just identifying, the limitations and, constraints, of a of a proposed, um, a you know proposed project, to determine whether or not, it_ you know and then, depending on what your_ you consider your your ultimate constraint, is it financial? is it, public acceptance? i think it's, y- you know based on your constraints, can can this project be done?
+<PAUSE:21>
+S3: i was thinking we could even maybe just cut the middle sentence out. [S1: okay ] because, that's kinda all within predict potential changes. [S2: mhm ] maybe we could just predict potential changes, to <PAUSE:04> the ecology economy and c- communities, um they m- that may result from rehabilitation.
+S1: or you know we could, we could essentially leave, leave this out. [S3: yeah cuz we're ] for the objec- and leave that as part of our objectives.
+S3: yeah, i think, [S1: and then, ] i think that's good. just broaden
+S1: what if we put in here to predict, potential changes, you know, limitations, and possibilities?
+S3: i, i think, like if we're gonna do the whole like start narrow and and, and expand as we go out if we just leave it as, potential changes, um... because i think the limitations and possibilities [S1: or constraints ] are enough to like, or constraints, um, um i think that's sort of if we leave in the, the last sentence in the form of a [S1: okay ] feasibility assessment, [S1: th- that's ] (that) kind of i- implies
+S1: that's including, this?
+S3: yeah. i mean that's just my take on it.
+S1: okay
+S2: yeah that's what i
+S1: that's valid.
+S2: what i think, i- is that feasibility encompasses, most of what is there you know
+S1: mkay
+<PAUSE:08>
+S3: cuz i mean, the first sentence
+S1: so we say the goal is t-
+S3: (the) goal
+S1: what?
+S3: i mean the first sentence is basically our goal is to like, [S1: yes ] predict potential changes. [S1: right ] and then give it to a_ give 'em a report and, educational material.
+<PAUSE:12>
+S2: identify, i don't like the word identify there. [S1: okay, okay ] ident- cuz i see like, i- i- identify as like... like pinpoint a couple, pinpoint a few, aspects of the thing. do you see what i'm saying?
+S4: (xx)
+S2: uh... oh usually my English is, not, <LAUGH> so good because i <S4: LAUGH> i think the perfect word that i, pictured there was assessment. [S1: okay ] and, but then, Martin says that assessment implies, a judgment, component
+S1: the problem is is that, when you get into syntax, it becomes, whoever's reading it is gonna interpret [S3: yeah ] things. it's just exactly you and Martin, interpret assessment differently, um and an- int- in- and um, interpret identify differently. so, it's gonna be hard when you get into those words like that, it's sorta hard, to make sure that you know that, that that word is gonna mean the same thing to everyone, who reads it. um... consider? that sounds a little fluffy.
+S3: (is to) describe, or, research?
+S2: yeah i think describe is better. (write that down.)
+S1: research, describe
+<PAUSE:04>
+S2: but describe also also implies, mm, basically that all the information is all the things that, are laid out right, and we could come up and, describe them. what about determine? no
+S1: determine's very, rigid. [S3: yeah ] we may not determine it you know, but we may come up with a lot of
+S3: hm examine.
+S1: examine?
+S3: that's kind of like <PAUSE:09> i kinda like examine though.
+S1: it is a little bit better i would agree. <PAUSE:06> okay. you like examine? what does it mean wha- what does it mean to you, examine?
+S2: more like explore
+S1: how 'bout explore?
+<PAUSE:08>
+S2: what about analyze?
+<SS: LAUGH>
+S1: that's very
+S3: yeah that's
+S2: uh
+<PAUSE:04>
+S1: explore's kinda neat. explore to me is more of a journey, it's kinda like, you're, uh, you don't know what you're gonna find, you don't know, you know and there's like sort of no defined end point to exploring it's just... examine when i think of examine i think of, someone looking under a microscope. [S3: okay ] [S2: okay ] alright? so almost that's sorta like the thir- or a doctor examines [S3: right ] you. um, describe i think of sort of, being more literary, that is, the verbiage that you use is is is descriptive, um is is conveying your senses into, into language.
+S3: yeah, i don't like the last two. [S1: wha- describe and research? ] wha- describe and research? yeah i'm, (kinda) like... um
+<PAUSE:09>
+S1: you know we can also we can digest this for a little while [S3: right ] put a word in there, for now, [S3: yeah ] and then if we think of something better, [S3: yeah ] or change our mind
+S3: let's just put explore in there
+S2: yeah
+S3: you guys have a preference, right now?
+S2: yeah [S3: (xx) ] (xx) explore (xx.) yeah, i think explore is (xx)
+S3: okay
+S2: (xx)
+S1: Hiro, do you have this_ you like explore?
+S4: i th- i think, al- all the w- all the words, are uh (xx) (for me.) but uh, um, i u- i, i understand the difference of meaning, so, but uh, so... the choice of words, choice of words, um, i- pretty exchangeable, [S1: mm ] so
+S1: yeah, um [S4: so ] of these two do you have a preference?
+S4: uh, um... yeah, of course i have uh, my favorite word, but uh, um, i don't know, my choices are (appro-) more appropriate (xx)
+S2: what is your choice?
+S4: okay. <SS: LAUGH> (xx) so, uh, i prefer, uh uh, explore.
+S1: okay. [S3: yeah okay. ] okay
+<PAUSE:05>
+S4: so, uh, becau- not why. um the current and historical conditions, are not so clear, i think. so, um, we must, we must, search, uh what i- what, what are the current and historical conditions, so explore is more appropriate.
+S1: okay, yeah
+S3: okay
+S2: historical conditions? or characteristics
+S1: well condi- i- that's, i left that open, that that would be a word that we, characteristics?
+S2: i don't know. <LAUGH> i don't like this.
+S3: this charac- or status, state? <PAUSE:07> i think characteristics is good cuz we're looking at the whole system. um... yeah. um
+S1: how 'bout oh the other thing i had written down, um <PAUSE WHILE WRITING ON BOARD>
+S3: yeah, that's good
+<PAUSE:06>
+S1: yeah. (xx) to use (a) watershed approach to
+S3: do you hafta go?
+S2: yeah. (um) yeah. (xx)
+S1: okay so you'll work on the literature review stuff, [S2: yeah ] and then fill in the objectives for the economics?
+S2: yeah, all my stuff and (then)
+S1: do you need Glenda's comments?
+S2: yeah
+S1: cuz i think those are more_ most um applicable [S3: oh yeah ] t- to you and these ones we couldn't copy. i have some stuff written on here. um
+S2: i wanna s-
+S1: what? d- do you guys wanna, meet, meet the three of us at all over the weekend or just wait until Monday?
+S2: um i want i want to meet. [S1: okay ] i want to meet but i want to meet when we have something
+S1: okay, Sunday afternoon?
+S2: Sunday
+S1: Sunday evening?
+S2: yeah Sunday, ab- Sunday at about five?
+S1: what, what's your schedule on Sunday?
+S4: um, Sunday, um
+S2: you have seven meetings?
+S4: yeah i, <SS: LAUGH> no
+S1: like last week
+S4: uh i i w- i will have a r- a meeting, uh at eleven A-M. [S2: okay ] so only this
+S1: is five o'clock good?
+S4: okay no problem
+S2: cuz i have a meeting at eight P-M, (xx) [S1: okay ] so, i want to have, like, three hours is good, for me to work on this, [S1: okay ] and then go straight to the other thing, [S1: okay ] [S4: uhuh ] without having to, you know, [S1: mhm ] i'm thinking, selfishly
+S4: so Sun- Sunday, five P-M?
+S1: yeah [S2: yeah ] [S4: um ] out- outside, O-A-P?
+S4: okay
+<PAUSE:06>
+S4: five P-M
+S2: then, yeah. um <PAUSE:06> i haven't seen Pat's comments
+S3: want a copy of 'em? there.
+S2: (i s that Glenda's stuff?)
+S3: um, actually, [S1: (xx) those are Glenda's (co-) ] it's Glenda's cover letter, kinda thing, but these are, Pat's comments.
+S2: oh yeah, please.
+S3: do you want to just give him this one?
+S1: sure
+S3: okay, yeah his are um, kinda this handwriting, and Geoff's are, in there too.
+S1: mine's, his are the more blocky, [S3: yeah ] mine's more curly.
+S2: yeah, (xx,) (these are the ones, in capitals)
+S1: yeah... mine are the ones that have a lot of scribbles through them and stuff.
+S3: yeah
+S2: so i'll see you guys on Sunday
+S4: see you
+S1: okay
+S2: did you do well, last night?
+S1: uh, who else won? i only know that Minnesota won and that um,
+S2: a- all the favorites won
+S1: okay, then i did, [S2: one two ] Utah didn't matter cuz i didn't have_ i had Wake instead of Utah, but then
+S2: one versus two one versus two. three of the four games went to overtime.
+S1: yeah. [S2: (xx) ] and i watched the end of the Minnesota
+S2: Kentucky was the only
+S1: they, yeah i fell asleep lis- Kentucky's just boring they were, they were like, winning too, easily.
+S2: Kentucky was the only one (that,) U-C-L-A was losing by sixteen, at one point. they came back
+S1: but they came back. so i_ that wasn't g- i picked i had, o- on one of mine i had um, i had Iowa State, (xx) one i had U-C-L-A
+S2: they came back, and (xx,) it was, like to the last second
+S1: did you watch that game?
+S2: yeah
+S1: what time did it get over?
+S2: like at nine. it was so, weird. they were up by, they were up by, by, two, right?
+S1: U-C-L-A?
+S2: U-C-L-A. yeah with, like, four seconds left, (xx) and then, um, they fouled somebody th- Iowa State (just like) fouled somebody, so they went, they went (xx) missed one
+<BREAK IN RECORDING>
+S2: two U-C-L-A guys, got the rebound, and they were fighting for the ball, [S1: two, yeah ] (two, same.) and, so the guy who had the ball_ it was a very questionable call, like was called for a walk <S1: LAUGH> so, the ball was given back
+S1: to Iowa?
+S2: to Iowa State with four seconds down one. so they inbound from, from the
+<BREAK IN RECORDING>
+S3: um, okay, i think so we'll talk ab- we can talk about it. okay? [S4: okay ] i don't think we've decided yet but i think that's that's a good place to start.
+S4: yeah um, physical tasks, are missing.
+S3: mhm um, well let's, let's work on getting the the methods, [S4: mhm ] the objectives and the methods down, [S4: mhm ] and then we can worry about the tasks [S4: okay, okay, okay ] later, okay? i think we're gonna go, you know as the whole idea progresses [S4: uhuh uhuh ] um
+<PAUSE:31>
+S4: <LOOKING AT NOTES> Gl- Glenda gave us, (great) information
+S3: mhm. this is actually this was Pat.
+S4: uhuh... green, green writing is?
+S3: is Geoff.
+S4: Geoff, okay
+S3: i had an idea, for this, <POINTS TO BOARD> um, the goal is to use a watershed approach, to explore the current and historical characteristics, of the Dowagiac river system and to predict pi- potential changes.
+<S1: WRITING ON BOARD>
+S1: um <TRIPS OVER CORD>
+<AUDIO DISTURBANCE>
+S5: that (cord's) kind of a hazard.
+<S1: LAUGH>
+S3: does it come out? [S1: yeah ] oh, it's still working. oh i think that's probably (xx)
+S1: (xx) it's just the... (xx) okay
+S3: no, no, Hiro, [S1: i think that's ] i think that's okay
+S4: i i can
+S1: there's one behind you there. [S5: oh ] uh, yeah Hiro?
+S5: Hiro? [S4: hm? okay ] let's plug it in over here and then Geoff won't have to trip over it.
+<SS: LAUGH>
+S5: this_ now Martin can trip over it.
+<AUDIO DISTURBANCE>
+S1: (xx) Martin
+S3: um... to predict, potential changes that may result from rehabilitation...
+S1: or that could, result
+S3: that, yeah, that could. yeah that's that's good cuz then it's m- (a lot)
+<PAUSE:19>
+S1: to or and?
+<PAUSE:12>
+S3: i think and
+S1: (xx) (entities) <PAUSE:15> okay, and then, go, directly into this [S3: yeah ] (whole) information will be, provided to MEANDRS in the form of a feasibility assessment, [S3: that's what i was thinking ] (and) educational materials.
+S3: yeah. does that sound good?
+S1: mhm
+S3: Hiro, do you like that?
+S4: yeah
+S3: okay <PAUSE:06> okay
+S1: is that written down somewhere that i
+S3: yeah
+S1: (could put) it in
+<PAUSE:06>
+S3: i can put th- i'll put that in... actually
+S1: should <PAUSE:33> how 'bout, the goal is to, explore the current and historical characteristics, of the Dowagiac system using a watershed approach?
+<PAUSE:08>
+S3: i like it
+S1: (yeah) i like it like that better.
+S3: yeah i like the beginning, [S1: yeah ] you wanna say watershed approach or watershed-based?
+S1: what put watershed-based, approach?
+S3: approach? yeah, i don't know
+S1: i've heard it like so many different ways,
+S3: i think it's fine (the way it is)
+S1: i don't think it really, i think [S3: yeah ] it's just adding a word in [S3: yeah ] there i don't think we really need.
+S3: yeah
+S1: i mean i've heard it used, watershed-based watershed approach, [S3: okay ] um, i've heard a couple other different, [S3: (xx) ] different ways.
+S3: do you wanna get together y- just like you and i, on, Monday morning and, sorta, like we did last week and just sort of put everything together?
+S1: yeah we could do that um, [S3: (or) ] you have class Monday morning right?
+S4: yeah.
+S3: yeah, i think you are th- you and i are the only ones that [S1: okay ] can meet Monday. (xx)
+S1: yeah that sounds good.
+S3: okay
+S1: pull it together, and then any extra time we have we can, [S3: yeah ] maybe play around with
+S3: okay
+S4: Geoff?
+S1: yes?
+S4: um, before pre- predict [S1: yeah ] to, and to is is necessary or not...?
+S1: no i don't think it is necessary, because we're not, to would mean, um, well
+S3: i was, having problems
+S1: i- i- it could i mean yeah, c-
+S3: i was trying to get rid of some of the tos
+S1: yeah, [S3: (i think) ] but how you read it might (impact) it
+S3: if you, shorten out, some of the phrases, the goal is to identify and predict, potential changes
+S1: yeah, [SU-m: mhm ] that's sorta the way i was looking at it. [S3: yeah ] so it's like two these are two, this is not, necessarily contingent on this. [S4: uhuh okay. ] this is like step one, [S4: uhuh (xx) and, pr- predict ] and step two. yeah. [S4: okay. ] which is why the- w- with [S4: (xx) ] the comma there, you would sorta read it as [S4: okay i see ] two separate,
+S3: Hiro, it's one of the finer points, of grammar
+S4: uhuh uhuh, okay
+SS: <LAUGH>
+S3: it's, it's difficult
+S1: it's very stylistic, also. [S4: okay ] and i, at least that's (what i i-) [S3: yeah ] i mean i don't really know why
+S4: and uh, um, the goal is, to use a watershed approach. i think, uh the goal is, uh, using a watershed approach, uh to explore, the... no? uh
+S3: uh it
+S1: i think that would be it is by, [S4: by ] the goal is by,
+S4: by using a watershed approach
+S1: by using a watershed approach, explore
+S4: yeah, to explore
+S1: the goal is by, or through (xx)
+S4: i i don't think, the goal is, to use a watershed approach.
+S1: okay
+S3: right
+S1: well that's one rea- that's_ you could put it here and then, say, a goal, the goal is to explore the current and [S4: uhuh ] historical characteristics of the Dowagiac river system. [S4: oh ] um, and predict potential changes that could result, from the ef- [S4: uhuh ] no, see, [S4: yeah ] the problem is is that if you put either here or here, [S4: uhuh ] then you sorta lose that it goes to both, because of the way we have it separated. um, i know what you're saying though
+S4: mhm
+<PAUSE:12>
+S1: i think with you have this to here, and this to here, i think that, makes it okay. [S4: okay ] that the goal the goal isn't, the watershed approach, [S4: uhuh, yeah ] the goal is to use a watershed approach to, do these other things
+S4: mhm okay, i see
+S1: do you understand? [S4: yeah ] does that make [S4: yeah, yeah, yeah ] sense to your question? <PAUSE:04> but we can take a, further look at that as we move along.
+S3: mhm
+S3: okay... yeah i've_ actually, i need to, get some stuff so i've got about half an hour left, [S1: okay ] that i can stay. [S1: okay ] um, should we work on the objectives? or... <PAUSE:05> or just sorta figure out who's gonna work, on what? or i guess we kinda already did, that. <PAUSE:46> okay
+S1: what was that Martin?
+S3: um, do we wanna, go over the objectives? um, or figure out who's gonna work on, which part, or we kinda work on our own parts i guess but... um <PAUSE:13> cuz Pat's gotta come and (use, the, this disk) [S1: huh? oh, well ] (does this include,) a repairing component it should but if we look at the watershed approach it sh-
+S1: and we also say the Dowagiac river [S3: system. yeah, okay. ] system. i think that, we, see i started to work on that here, [S3: yeah ] and i think maybe we can bring that into our objectives.
+S3: okay
+<PAUSE:08>
+S1: because, you know we took out um <WRITING> see we took out, restoring MEANDRS, [S3: okay ] which is what he was, [S3: yeah ] commenting to.
+S3: okay
+<PAUSE:08>
+S1: i think we can b- we can bring this into our problem statement and our objectives and (like,) and just make it clear up front and also wa- we wanted to also bring in water, water, quality, cuz Glenda po- pi- [S3: mhm ] mentioned that.
+S1: water, i think, can i put it there? (oh yeah)
+S3: (on the) water quality yeah, okay, so, i guess our objectives are still to... determine how, rehabilitation <PAUSE:07> will change the physical, attributes, of the river
+S1: okay you wanna w- ca- let's work off [S3: yeah ] that copy.
+S3: yeah. there's a... [S1: yeah ] um, actually i've got a different color
+S4: okay (xx)
+S1: i'm using green. we should all (like) pick a color.
+<S4: LAUGH>
+S3: that, sorta stands out
+S4: oh okay
+S1: um, you can use blue.
+S3: um, so, with this goal in mind... do we wanna add in a an objective to, explore to explore, the current and historical characteristics, and then... um, and have that as a goal, or an objective, and then, to lead on from that, [S1: okay ] um, [S1: okay ] i don't know. <PAUSE WHILE WRITING> explore current <PAUSE:12> um... and then this would be to.
+S1: mhm, (xx) okay
+S3: um,
+S1: determine how
+S3: determine how, restoration
+S1: (you wanna fix that) restor- rehabilitation
+S3: yeah. <PAUSE WHILE WRITING> will change the physical attributes of the river
+S1: now, i- Pat was concerned that objective two and j- objective three, [S3: three ] need to be more clearly defined.
+S3: mhm, right or the, why don't we, since they are_ they_ i mean there's a fine point between, sort of identifying things, and judging them. [S1: yeah ] do we just wanna combine them?
+S1: we could either combine 'em or i just simply put in, you know we could say instead of identify quanta- you know i- quantifying, it's kinda hard, it kinda depends how, you define, [S3: mhm ] or um <PAUSE:04> i mean o- i- one sort of um, y- you know Pat knew what we were talking about, [S3: right ] which is that one is sort of more, you know, what are the effects? and the other one's more okay now that we know, what they are, what does it mean?
+S3: in the big picture, (or,)
+S1: you know, that's [S3: yeah ] that's that's sort of like, this is sort of more of a, trade-off or cost benefit, [S3: mhm ] you know, all these, [S3: yeah ] words that we threw in there. and this is more, okay, you know, this is, thi- i- and i think the reason why we wanted to keep 'em separate was, that, you know we wanna know first just, say what they are without any judgment on them, [S3: right, okay ] and then to [S3: yeah ] provide some, some, sense of judgment, [S3: right ] here.
+S3: okay. to, maybe, um <PAUSE:11> um,
+S1: establish? no um
+S3: (it's,) like assign or, dec- decide whether they're, basically we're gonna, decide whether they're...
+S1: uh, e- evaluate? [S3: evaluate ] the strengths and weaknesses, or evaluate the practical resp- possibilities and... pros and cons. identify or, evaluate. i mean i_ evaluate, i think, doesn't d- say whether or not you're gonna quantitative- uh quantitatively or, qualitatively, [S3: right ] determine, it just says that you're gonna, make some sort of an assessment on it,
+S3: i uh, i uh think that's what we wanna say. [S1: yeah, so ] so evaluate?
+S1: let's try evaluate there. and, let's just leave it really, really simple (it) [S3: yeah ] you know evaluate the, [S3: okay ] the trade-offs, or the costs and benefits. and then this one will be... [SU-m: (xx) ] go back to this one, for a second
+S3: this is, [S1: (xx) ] identify. this says identifying.
+S1: okay, identify, we can change that again, to change it to explore, or um, [S3: identify ] examine... exam- examine possible effects
+<PAUSE:09>
+S3: okay... examine possible, effects of restoration... cuz that's, examine's like, [S1: okay, not examine ] you're looking, you're sort of judging them, [S1: okay ] i think.
+S1: okay, well okay take
+S3: take it out. [S1: okay ] um...
+S1: this is the same it's the same thing we were just doing.
+S3: right
+S1: i don't think explore quite works there though.
+S3: no. mm, maybe list? <PAUSE:06> uh
+<PAUSE:05>
+S1: (xx)
+S3: mhm
+<PAUSE:25>
+S4: um, isn't, evaluate appropriate?
+S3: um, examine?
+S1: we're, we're sort of um, trying to dis- trying to distinguish, [S4: mhm ] between this, [S4: mhm ] objective, and this, objective, [S4: mhm ] so we used evaluate [S4: okay ] here as being more of a, more of a systematic look at it, [S4: uhuh ] where this is more of just, okay what, what's out there based on, our research, and our, knowledge of the watershed? [S4: okay ] can you_ put that in there? or just, write it, like research?
+S3: i'm sorry what was that?
+S1: like ba- just, so i remember those words based on our research and, knowledge (xx...) and
+<PAUSE:07>
+S3: (xx) of the system, (xx?)
+S1: yeah, just, leave it there in case we wanna stick something like that in there.
+S3: okay. um... can you predict, possible effects of restoration?
+S1: that's more, see that's more the next, [S3: right ] that's more the next one. that's more predicting.
+S3: this is, or, this is predicting?
+S1: this is more, predicting.
+S3: yeah, so i was thinking here predict possible effects.
+S1: okay.
+S3: i don't know i just took it from down there.
+S1: yeah, okay, no that's sounds good predict... is that what we used up there?
+S3: yeah...
+S1: predict, p- or potential, possible?
+S3: predict possible effects of restoration on the social, socioeconomic
+S1: well, okay predict possible, let's just put it in there predict possible changes that could, result from rehabilitation, that's where we'll put, that's where we'll put, [S4: okay ] our, box there. see this box? this is this is what it is... [S3: okay yeah ] okay, predict here [S3: yeah ] okay? that's objective three. [S3: yeah ] and then objective four is here. [S3: okay, yeah ] you see what i'm saying?
+<PAUSE:11>
+S3: okay <PAUSE:05> okay. that sounds good. and then, for this one then for objective four is to evaluate (xx) practical possibilities
+<PAUSE:05>
+S1: hm? no no no, this is, this is, this is pros and cons.
+S3: yeah, but so is this one this is_ i just changed the (page.) [S1: (xx) ] this is, this is evaluate pros and cons
+S1: right. isn't practical possibilities [S3: possibilities ] this one?
+S3: uh i was thinking of using that as a, a synonym for pros and cons. possibilities and limitations.
+S1: oh okay.
+S3: but... now what were you saying?
+S1: that's fine. no i see what you're saying. okay.
+S3: okay. maybe maybe not practical, but possibilities and limitations instead of pro and con
+S1: sh- b- yeah just just throw it in there with our other words, [S3: yeah ] we'll, (xx)
+<PAUSE:06>
+S3: i like limitations but i don't like possibilities <PAUSE:04> okay so that's evaluate pros and cons... of the changes identified in objective... three. okay. um, and objective_ in five... is to identify, changes impacts to agriculture, resulting from the rehabilitation of [S1: yeah. ] the river. maybe we_ [S1: we should ] should we just do including agriculture, (xx) up here?
+S1: well, i sort of a- i i sort of agree more with Pat on that than Glenda that um... i think we want to sort of identify um, agriculture, [S3: mhm ] on its own right because of the fact that it is [S3: right. ] (xx) is, so critical i think it's sort of politically, um, [S3: correct ] a good move, [S3: yeah ] to make. that we're not just looking at_ that agriculture's not just part of the ecology equation but [S3: mhm ] it's its own, it's sort of its own factor.
+S3: right.
+S3: it's sort of_ it's got a cross over between ecology and social, and economics yeah
+S1: yeah and it just crosses sort of almost everything. [S3: yeah ] and so you could either look at the_ Glenda's idea was she was looking at it, okay agriculture, economics are gonna affect agriculture. [S3: right. ] and what we wanna look at is just the whole potential for agriculture. [S3: mhm ] not just, you know how is this gonna, um how is rehabilitation gonna affect agriculture? but just sort of, what are the poten- what is the agricultural potential, in general? [S3: mhm, yeah ] and think if we explain if_ i think if we explained this if we don't just leave it as a sentence [S3: right ] and they were saying to sort of fill these in you know? [S3: yeah. ] but if we fill it in and say you know we can we could we could put a qualifying statement there that this has been identified as it's own... you know as a separate objective because of the importance... you know what i mean? [S3: mhm ] because of the [S3: yeah ] importance to MEANDRS, the MEANDRS group and the watershed as the whole to consider the agricultural potential in the region and, and the relationship to rehabilitation. [S3: mhm ] something like that
+S3: yeah. that sounds good... so
+S1: i think Glenda just saw it sort of floating out there, [S3: yeah ] and didn't really know [S3: especial- ] why it was on its own.
+S3: especially since there wasn't anything underneath it.
+S1: right. <PAUSE:10> is this_ i guess its sort of a vision based on the fact that neither of them had a lotta lotta comments that this is more of the style that they would_ they tend to be they tended to be receptive to as being sort of a filled in paragraph, um [S3: i i ] objective form.
+S3: i think so as opposed to bullets. [S1: yeah. ] um, yeah cuz they_ and they were saying something about bullets before maybe if we can just_ some of these
+S1: bullets_ they kind of said task circle which [S3: bullets ] they didn't_ and [S3: yeah ] objectives should be more of a paragraph.
+S3: right... okay.
+S1: oh i i guess we should a- maybe we should fill in Hiro a little bit on, [SU-m: mhm ] what we talked about yesterday before you came. [S4: uhuh... ] one of their, one of their concerns that you [S4: uhuh ] might have seen, in reading was differentiating between the objectives, [S4: uhuh ] the methods and the tasks. and that the way it reads now they sort of, it's not clear the distinction even though we have them sort of in different sections they all sound the same. [S4: mhm ] our objectives sound the same as our methods
+S4: yeah yeah, as Glenda mentioned. [S1: right. ] yeah.
+S1: so, the way that they_ we sort of all of us, decided that the methods are more conceptual, [S4: mhm ] i mean the ob- sorry the objectives are more conceptual, [S4: okay. ] sort of like in a paragraph, [S4: uhuh ] explaining you know why you wanna do this, and um, the methods are more sort of the applied process. we we to ab- to achieve this objective we will do X Y and Z. [S4: okay. ] and then the tasks they said sort of we'll sort of leave that loose for now, they're more like it will take us, this amount of time, and these sorts of things, in order to to, fulfill this method [S4: mhm ] so method, method one might be to collect historical [S4: okay okay ] information. okay so that might be a method. [S4: mhm ] then the task will be go to the town halls, [S4: okay, i see ] get maps, uh you know research history of the town
+S4: more s- more specific activities
+S3: yeah
+S1: yeah. right. [S3: yeah ] so you get more_ you go from being general to more specific.
+S4: okay, (xx) good
+S3: and, that's the the scope of the whole, the whole thing is um, is you go through, [S4: uhuh ] the, actually from the project approach, goals is, sort of general, like [S4: okay more conceptual ] th- this is pretty general, yes. and then, as you go down each level, [S4: mhm ] expand, get [S4: mhm ] more specific. until you get down to your tasks, [S4: uhuh ] which is, exactly what you're [S4: mhm ] gonna do where you're [S4: okay, okay ] gonna_ who you're gonna talk to, what information you're gonna gather, that sort of thing.
+S4: okay.
+S1: and what we were gonna_ we're gonna focus on, objectives, predominantly objectives, and then methods, and we'll worry about tasks, [S4: mhm ] a little bit later [S3: mhm ] on.
+S4: okay, okay, i see.
+S3: and then time line and budget, after we've done the tasks...
+S4: okay thanks.
+S3: yeah. sorry i forgot to
+S1: yeah
+S4: no uh'uh. yeah um, i i am uh i can_ i could imagine uh from Glenda's comment.
+S1: okay.
+S4: mhm.
+S3: okay. <PAUSE:05> um <PAUSE:08> did we talk about yesterday, um... let me backtrack here. i can see a problem, coming up between, um, Pat's style of writing, and he he wanted the um, [SU-m: yeah- ] show the to- the, the findings of the first, in the beginning of the paragraph, where Glenda maybe used a more, um a norm- a normal, type of writing whereas sort of he put_ i don't know. but i don't know if she would agree with that or not did [S1: i ] we talk about that?
+S1: we didn't get into that and [S3: okay ] i think, that_ i think they're gonna haf- that's something that they're gonna hafta decide amongst our- themselves, [S3: right. ] and then as far as what what they want it to look like, [S3: mhm ] um... i i i understand where Pat's coming from, but then at the same time you think about what this is being used for it's not gonna be used by, a- in a journal or [S3: right ] to a state agency it's it's going to a bunch of just citizens. [S3: right ] um, so, i think we're gonna have to talk about that, [S3: okay. yeah ] a little bit (xx) the writing style, um Pat wanted_ Pat was suggesting a a much more scientific, [S4: mhm ] writing format, [S4: okay ] and uh, we just don't know, whether that fits in with k- with what Glenda how she envisions it, the writing style, so (we do) have to talk about that. [S3: mhm. ] [S4: okay... ] um
+S4: and uh, Glenda m- m- mentioned, our li- our literature re- review, [SU-m: mhm ] um, she said um, she said um, our our literature review, it's not so interesting, [S3: mhm ] she she mentioned.
+S3: right. <SS: LAUGH> Ju- Julio [S4: uhuh ] is gonna take care of that. [S4: uhuh ] um <LAUGH> we liked, her comments here, where she, um where is it?
+S1: about halfway down i think
+S3: yeah about halfway down this this, this part that she wrote, [S1: in quotes ] [S4: okay ] in quotes, we we liked that. um, and Julio was gonna try to write up part of the literature review [S4: uhuh ] in that that format. [S4: okay. ] and then if, if you can come, just come up with a list of areas that we want to research, um,
+S1: not so much specific articles, [S4: mhm, ] but but
+S3: but topics, [S1: yeah. ] um, like um, river flow, um, um, transport of s- or sediments, [S4: mhm ] um,
+S1: the effects of agricultural runoff, [S3: yeah ] [S4: okay, okay, ] on water quality
+S3: um, [S4: so ] broa- [S4: mhm ] broad, broad topics. [S4: mhm ] so if you could come up with a list of broad topics [S4: mhm ] that we can, look into. [S4: okay. ] that_ for this. [S4: okay. ] that would be good. [S4: mm ] and we can help out too.
+S4: so she told us uh to choose uh our interest topic? [S3: i'm sorry a what topic? ] ou- ou- ou- our, our um, our, our... oh okay sh- she told us, uh to choose some topic uh, which, w- we we have interest in.
+S3: okay. um, she, i think what she said was, we just had, a list, [S4: mhm ] of different, [S4: mhm ] sources, and this doesn't tell you much. [S4: okay i (see.) ] um, and you know you start reading and you get to the second one and you don't want to read anymore [S4: mhm ] because it [S1: she wants ] doesn't tell you anything.
+S1: she wants to know where we're going with the literature, [S4: okay. ] not what literature we [S4: mhm, mhm ] have. so she's not so concerned with, a bibliography, as she is as what what topics are relevant to our study, [S3: mhm ] [S4: mhm so ] and that we will be researching those, (xx.)
+S4: so she she wanted, she wants she wants to know, uh based on such literatures, um, what we want to know. [S3: mhm ] that stuff
+S3: yes.
+S4: okay.
+<PAUSE:05>
+S1: it's like what information we intend to get out of [S4: okay, okay. ] the literature review...
+S4: i see. (easy.)
+<SS: LAUGH>
+S3: um, okay so that was objective six was was pretty good prepare materials and programs that will, infor- inform communities about and involve them in the rehabilitation process. develop approaches for informing sharing community education. okay. that sounds good. the research questions and hypotheses, [S1: mm ] did,
+S1: (you have to go?)
+S3: uh couple_ i could_ like, ten minutes. [S1: okay... ] um,
+S1: why don't we um... what was your ins- it's kinda hard_ i still think like in a sense maybe just Pat doesn't know yet, how he feels about it, but that, you don't really have to have, a a scientific hypothesis, [S3: right ] and and to test it... he was saying on one hand that that's the way things are done, but that on the other hand, it doesn't always fit. [S3: mhm ] you following? what i'm_ [S4: yeah ] okay. um, but he didn't really give us an answer to how to, to do it. [S3: and then ] i tend to think that because we're doing a feasibility study and we're not saying that we're gonna come up with any divini- definitive answer, that we don't necessarily have to test anything, [S3: mhm right. ] in hy- doing it in a scientific hypothesis testing approach, and we should just frame it as research [S3: questions ] questions, and just take out the hypothesis, [S4: yes. ] and, i think sorta just leave leave it the way it is, [S4: okay. ] and if um, you know someone has a question about that, then we can work on it later.
+S3: you know maybe would restoring MEANDRS to the Dowagiac system be a feasible method for rehabilitating? ins- as opposed to will restoring?
+S1: yeah. okay... yeah ye- yes.
+S3: and then that's not as, definite that it's gonna happen. <PAUSE:05> restoring
+S1: or reha- we gotta get rehabilitation [S3: yeah, right, yeah ] get MEANDRS out of there and change to
+S3: <WRITING> would... rehabilitation
+S1: would rehabilitation... to achieving, MEANDRS' goals.
+S3: of the Dowagiac, [S1: river system, ] of the Dowagiac river system
+S1: be a feasible, [S3: method ] endeavor or feasible... approach
+S3: approach... (xx,) for...
+S1: for MEANDRS. cuz we're we're just, you know we're trying to answer_ their question is, is... is rehabilitation, the way to go?
+S3: yeah... for MEANDRS, to, [S1: pursue. ] take or pursue... pursue,
+S1: their goal... their goal of um, enhancing, protecting and enhancing,
+S3: to reach their goal?
+S1: i don't think that necessarily to reach it just to [S3: to pursue, ] pursue it. reaching is...
+S3: goal of,
+S1: and then go back to our problem statement.
+S3: rehabilitating and preserving the integrity of the watershed?
+S1: how about improving or how about um, enhancing, protecting, improving,
+S3: of <PAUSE:10> and improving, [S1: yeah... ] the (improvements)
+S1: (xx) and then let's go to the E and the A the ecological and agricultural... [S3: (xx) ] needs of the <LAUGH>
+S3: economic, agricultural, um
+S1: isn't it needs isn't that the end?
+S3: needs... of the [S1: Dowagiac river system. ] Dowagiac river system.
+<SS: LAUGH>
+S1: (xx.) alright let's...
+S3: um, changes resulting from, rehabilitation... <PAUSE:05> where the potential cost benefits (xx) within the watershed (xx) are (xx) if,
+S1: Glenda had a comment on that one. [S3: yeah ] where's her_ oh Julio took it. i think he took it.
+S3: i think he took it but i've got a copy. (xx)
+S1: no i think it was just a specific comment [S3: oh ] that she'd written in the margins, [S3: oh. okay. ] about that i, commented on it, i think on the copy that Julio has. [S3: okay. ] she was just saying something along the lines that um, this is assum- that this assumes that, that this statement assumes that, MEANDRS would be restored or whatever. [S3: mm ] and i think i ph- i think i rephrased it.
+S3: okay...
+S1: and then i think this one's okay
+S3: okay
+<PAUSE:15>
+S1: okay, um, methods <PAUSE:05> so i think... i think these are tasks. [S4: yeah. ] [S1: yes. ] so this i- this is a method though... [SU-m: yeah ] um <PAUSE:05> i think we can_ we're not doing options right? we're_ what did we come up with?
+S1: for what?
+S3: restoration options scenarios type
+S1: oh um... [S4: um ] yeah i i think i just wrote in options as a [S3: okay, okay ] option. <LAUGH> we came up with um...
+S4: now, um, Glenda indicate indicates you don't discuss possible alternatives, [SU-m: mhm ] so
+S1: we talked about that.
+S3: yeah [S4: uhuh ] that was what we were talking about last night. [S4: okay, so ] yeah
+S1: what what we decided Hiro, um... Pa- Pat seemed to think it was really important to look at it as a system, [S4: mhm ] and to almost look at the most, um the most extreme thing which would be the the entire, you know restoration along the entire, river, and to comment on what those changes will be, rather than narrow it down to one, one meander, [S4: mhm ] on say that park that we visited, because what might happen is that for example we look at just that park, [S4: mhm ] then there's a lotta issues that we might not be considering. [S4: okay ] cuz it's on public land, [S4: mhm ] it's not you_ there's not a lot of farm land [S4: okay ] nearby so it may be really easy to do it there, [S4: mhm ] it may be very hard to do it anywhere else. [S4: okay ] so he seemed to think it was more important to look at it from a broader perspective. [S4: mhm ] and, we also then talked about that, because it's a feasibility study we don't really need to have to suggesh suggest alternatives, [S4: yeah, ] and that [S4: yeah ] this is one way to_ by looking at the broad [S4: mhm, mhm ] picture, it's one way to sort of cover all the alternatives, [S4: mhm, ] in the sense that anything less than that would be a plausible alternative that may have less impact. and what we'll do is in the end of our study in our conclusions, [S4: mhm ] we'll sort of make recommendations, that, there may be other approaches that you could take, that would be less, have less of an impact. [S4: okay. ] and that would sorta be our discussion [S4: mhm, mhm, okay. ] of alternatives. just in a very sorta general, um, sense. [S4: okay... ] and and Glenda so- sh- m- [S4: mhm ] that covered it don't you think that's sort of what
+S3: yeah, i think so
+S1: okay
+S3: does that make sense? okay... um... so i think with these, we need to, save all of this, and we can use that in a in the task [S4: (yep) ] section. but, for the methods i think we need to also sort of do this in paragraph form.
+SU-m: yeah
+S1: well yeah um
+S3: i- uh but i don't know, i mean what can_ more can you say about collect baseline information, than
+S1: say what it is say what the baseline information is.
+S3: like baseline information on river flow, and, um,
+S1: it it's sort of it's sorta the same stuff but without um <PAUSE:10>[S3: (xx) ] i guess it would be like okay review, um, review, information sources such as aerial photog- ai- aerial photographs, um [S3: okay, information, okay ] historical records, um you know and just and just, you know suggest, what material is out there that you'll be looking at, where the task would be, okay look at a aerial phota- photograph and identify, try and identify a historic channel, or something like that.
+S3: right. okay. yeah, maybe what baseline information would be um, review of historical documents, um, collect flow information, um,
+S1: review maps,
+S3: review maps, um, talk to people look at photographs, [S1: yep. ] just very general.
+S1: yeah. again sort of, what we um, how we attend how we intend to uh, to, to meet our objectives... [S4: okay ] would be, [S3: mhm ] so, one of the ways that we're gonna meet our objective for the physical, would be to get some background information, or baseline information. [S3: mhm ] but then say what that baseline information is, but not necessarily, how exactly, you know, we are we're gonna get that information. [SU-m: (xx) ] and the task would be more... <KNOCKING ON DESK> so that's one thing that that's one thing that we'll each work on, [S4: mhm ] is the area_ the stuff that we wrote up in methods. [S4: mhm, ] so you did the physical, [S4: mhm ] is to sort of sort this out, [S4: mhm... ] sort these things out, [S4: okay ] [S3: is this ] into sort of um, you know how we're gonna answer our objectives and our research questions. [S4: um ] versus what,
+S4: a question. how
+S1: uh ho- how we will, how will we_ how will we, um answer our research questions? <PAUSE:05>[S3: if we have an extra ] and objectives.
+S3: we have an extra, objective in here too. [S1: (xx?) ] because we we did, we created a new one, the, was it the gather [S1: oh ] baseline information? [S4: okay ] so, so this is, so we should move this up... an- and i sort of envision that as being baseline information on all of the different areas.
+S1: okay yeah, you wanna explain?
+S3: um, we, created a new objective [S4: mhm ] <PAUSE:05> um... objective one, um, explore current and historical river system, [S4: mhm ] so
+<PAUSE:10>
+S4: <WRITING> current? [S3: um ] (did you say) current?
+S3: yes current and historical, characteristics <PAUSE:05> um of the river system. [S4: okay... ] um, i, see that, having, information, on, um... the physical, a little bit of all four of the areas, information, on all four of the areas so like the physical, and this would be, that would be gathering your information, um, and then, and then the second one was, this one, um... determine how, rehabilitation will change, the physical system so, the one was, get background information on it, and then two would be then, predict, the changes that would ha- occur, in the future. <PAUSE:05> um... so, <PAUSE:10> (xx...) one, and this is... two, (xx)
+<PAUSE:10>
+S1: the_ i i was just going through what we talked about yesterday. [S3: mhm ] i guess i do want a little bit more of a paragraph form for the methods. [S3: okay. ] um, i- they said sort of, that we need to un- under methods we need to fill in the blank, a little bit fill in, you know connect all these things together, [S3: okay. ] and explain how it_ how we're gonna get from here to there. sort of a sort of a view, [S3: okay ] of the methods. you know it's how we're gonna get from, um, you know whatever our objective is, how we are gonna how we're gonna get from, our question that we're, we wanna answer, to the to the answer or how we're gonna get from, the objective we wanna reach. <PAUSE:05> (and it's like)
+S3: okay. so, what we're gonna do
+<PAUSE:05>
+S1: okay and ano- Hiro, and the other way that it was phrased was, a conceptual discussion of the approach, that you'll take.
+S4: mhm okay... [S3: okay... ] conceptual discussion... [S1: yeah. ] of approach. [S1: yeah. ] <PAUSE WHILE WRITING> okay.
+S3: okay, that helps... um... okay actually i'm gonna hafta go, [S1: okay ] pretty soon. um, okay, so, if we'll just work on the, objectives and methods. is that
+S1: uhuh.
+S3: okay. lemme just write down... objectives (that we need) let me just (xx) (fix up) <PAUSE:05> um <PAUSE:30> um, mkay so these might even be shorter. i don't know. [S1: (well) ] cuz this this one doesn't even say much so... okay. so, i can sort of expand... um <PAUSE:15> and... okay, then the methods. okay. then i can work on the methods... okay so i'll, do you want me to do anything else? um other than like the just the objectives and methods? then i can find out what you guys have, done
+S1: i think that's okay cuz, [S3: okay ] we'll have, Hiro work on his stuff, [S3: okay ] and, yeah i think that's the best thing. [S3: okay. ] i think we're almost done
+S3: okay. um, do you wanna meet at like eight thirty on Monday? [S1: yeah. ] is that okay? okay.
+S1: or i- what's the_ when do you usually get in? and i'll just
+S3: it, depends eight thirty's, [SU-m: okay ] easy enough to get in
+S1: i didn't know whether you were there actually earlier
+S3: um, i mean sh- i can be, probably not then.
+S1: okay. that's okay. [S3: okay... and ] that's for Monday morning. [S4: Monday morning ] but you can't make it Monday morning.
+S4: okay.
+S3: okay.
+SU-m: (cool)
+S3: (can i) meet you at NUBS again?
+S3: okay.
+SU-m: okay...
+S4: and uh, um, for Monday, uh, when w- will we meet uh for (later) class? four o'clock?
+S3: four thirty. oh.
+S1: four thirty is class.
+S3: we have class on Monday at four thirty.
+S4: oh it's a master's (xx) [S1: yes. ] [S3: yes. ] (xx) (the book?)
+S1: they're gonna talk about presentations
+S4: uhuh okay. okay...
+S5: do you guys know yet when you'll be presenting?
+S3: um i sent email
+S1: the thirty-first i think.
+S3: yeah on the thirty-first. [S5: (xx) ] between four thirty and six thirty i guess.
+S1: mhm... but that hasn't been confirmed yet. if that's when we, i'm just thinking more people probably want to go later than early. i don't think we'll have a problem
+S3: yeah... okay...
+S4: um, Geoff um mor- um sorry. Ma- Martin?
+S3: yes.
+S4: may i keep this?
+S1: yeah i need to make a copy of that. [S4: okay okay ] so i can go, [S4: okay ] do that right now.
+S4: okay.
+<PAUSE:10>
+S3: okay... okay well thanks a lot for, working on this, this weekend too. [S4: mhm ] <PAUSE:05> i heard there's like two feet of snow up in the U-P or up, [S1: think it's (Clio?) ] north yeah.
+S1: wanna take my snowshoes?
+S3: <LAUGH> no. i've got so many warm clothes.
+S1: got your waders?
+S3: yep those too.
+SU-m: okay.
+S3: (excuse me) (xx) (your way,) okay i'll see you later
+S1: see you later Martin
+S4: see you
+S3: have a good weekend.
+S1: yeah you too.
+S3: bye <LEAVES>
+<PAUSE:10>
+S1: so do you want to come over with me while i make a copy of that and then i'll give it to you or do you want me to leave it in your mail folder?
+S4: oh okay okay
+S1: which is easier?
+S4: oh, thanks.
+S1: which is would you wanna_ me to leave it in your mail folder or do you wanna just come with me?
+S4: um yeah i wi- i will go with you.
+S1: okay.
+{END OF TRANSCRIPT}
+Please contact the English Language Institute with questions or comments.

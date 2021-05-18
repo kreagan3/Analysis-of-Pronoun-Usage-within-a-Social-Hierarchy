@@ -1,0 +1,977 @@
+<PERSON ID="S1" LANG="NS" ROLE="SG, Discussion Leader" SEX="M" RESTRICT="NONE" AGE="2"/>
+<PERSON ID="S2" LANG="NS" ROLE="SG, Student" SEX="M" RESTRICT="NONE" AGE="2"/>
+<PERSON ID="S3" LANG="NS" ROLE="SG, Student" SEX="M" RESTRICT="NONE" AGE="2"/>
+<PERSON ID="S4" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S5" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="SU-f" LANG="NS" ROLE="UN, Unknown" SEX="F" RESTRICT="NONE" AGE="0"/>
+<PERSON ID="SS" LANG="NS" ROLE="UN, Student" SEX="U" RESTRICT="NONE" AGE="0"/>
+<PERSON ID="SU-m" LANG="NS" ROLE="UN, Student" SEX="M" RESTRICT="NONE" AGE="0"/>
+
+
+
+
+S1: and then ask how she reacts. so, you know this, well, <PAUSE:04> i mean how about you want to try politics <SS: LAUGH> (what do) you think that it's just [S2: yeah i'll try. ] okay.
+S2: so, politics would be how, um, a society should act, in existence. <SS: LAUGH>[S1: yeah, i mean ] okay the the, mhm, i don't know.
+S1: now art is really, well, art is really, i w- i wouldn't have guessed art, i would not have an answer for art unless i heard, you know this from somebody else.
+S3: which is what? [S1: so ] well what's your what's your politics answer too?
+S1: well that one was, man's, man's relationship to existence in terms of, action which relates man's values with other men's values. so that was like man with man, [S3: mm ] so i guess. and then art, it was man's relationship -ship to existence in terms of concretizations, which relates man's philosophy to reality. in the sense that in art you're concretizing your philosophy, or basically your subconscious philosophy. <PAUSE:05> you don't agree with that one?
+S3: well why... why would why would couldn't it just be an explicit, like can't it concretize an explicit philosophy under certain, i mean you think [S1: (what are you thinking of) ] A- A- Atlas Shrugged, is, very implicit. [S1: yeah you know ] a hundred pages of speech, probably is more explicit than, <SS: LAUGH>[S1: yeah but then why did she, ] subconscious.
+S1: i'm just wondering why we, go through uh, <PAUSE:05> uh, what's that one, it's your implicit... it's your implicit metaphysics? your view of life uh, sense of life? [S3: yeah ] you know how she's really big on sense of life being, that art is your portrayal of your sense of life? and your sense of life is an implicit, philosophy that... so i don't know yeah i guess you're right.
+S3: yeah but i mean for some people it's obviously, it's derived, [S1: it's explicit? ] i- it it becomes explicit (right.) ev- it's like everybody has a sense of life but not everybody has, [S1: yeah ] an explicit philosophy. [S1: yeah ] so, (okay) i just so yeah y- it's the, when you said subconscious i just,
+S1: it doesn't have to be, <SS: LAUGH> no that's true.
+S4: (cringing)
+<PAUSE:08>
+S1: okay. uh do you want to try number, two?
+S5: alright i got the easy one actually. um, an axiom, it's just the, the very fundamental of the fundamental. it's the very starting point, of everything about philosophy. so you begin with them, <LAUGH> it's a starting point. i mean i- everything is based on it so, if you're gonna, talk about, epistemology, you can't talk about it unless you know, what your base, for that is or for ethics. i mean, [S1: mm ] you have to start from the ground up, <LAUGH> or you can't build it.
+S1: yeah, i had two uh, two parts, to my idea of this one. one was, i think that, yeah i think this is also related to what you're saying. is that you need to validate, u- or if you want to validate, your principles, you wanna make sure that, the principles the fundamental principles are correct. [S5: mm that's right yeah ] so, so for validation purposes, and for, the purpose of, when t- when do you know to use that principle. i don't think it's, he he makes a point in here that, it's not ob- i think it's, he thinks it's unclear, that you would, put it this way if you just knew a principle an isolated principle, it's unclear when to use it, you know. and this this is obscure to me. <S3: LAUGH> so i made an example, okay? so i w- [S3: okay ] [S4: what's your example? ] i was, i was just, i was just thinking of integration, okay calculus stuff <S3: LAUGH> that, okay this is just a rule, okay i know that if you integrate, two-X, okay it's going to be like X-squared, plus, a constant or something whatever okay well anyway. um, that's just a rule. okay that i could learn, i l- basically i can memorize that okay. but if i didn't know, like what integration, is based o- what it's about, which is something you need to um, you know, if i didn't know what it's about i wouldn't know when to use that rule. for instance i wouldn't know to use that rule, when i wanted to find an area under a curve. so i was just trying to think of things.
+S4: well i guess
+S3: what do they have, go ahead
+S1: i don't know, i don't know i i this is... yeah.
+S4: no no no no no i think that's a good interpretation and i, not to play the devil's advocate but i [S1: right ] i mean i guess it could be contended that that one could, go through life like their entire lives just by, [S1: catch phrases? ] just without knowing the rules but just by knowing okay in this situation i have to do this i don't know why but i have to do this. do you know what i'm saying like if i were to just say, okay i know that, if i had memorized like okay two-X the integration of two-X is X-squared, [S1: yeah ] and (xx) i don't know why i don't know what that means but... i mean sure, (xx)
+S3: of course for, (xx) the (pro-) epistemology thing.
+S1: yeah i m- but i think you really would need to know that, it is for, you know finding the area, under things other- otherwise, we're finding the area of objects you wouldn't know, y- i mean how could you even, [S4: okay let's let's ] you know how you would know every (xx)
+S4: let's use a different example and i don't mean to get off topic but let's say [S1: right ] i work at like a widget factory right, [S1: right ] and i know that i would get my money if i, you know, screw the bolt on every time i see a, a widget. do i need to know, what the the further purpose of a widget is? like i guess that's a really bad example [S1: no you don't, yeah you don't ] but i'm just saying that's a that's a really complex example but let's say i like i'm a really like simplistic like layman, who knows that when they go to work, and put the bolt in the widget.
+S1: yeah you wouldn't have to know in that case. but i mean i, i don't know if that's the case that i would arg- i'm [S4: yeah, yeah ] arguing you know that every, that um... you know
+S3: what you're basically saying is that we could make like an artificial intelligence by make- just making a huge look-up table and hav- if if this then that if this than that and it's just, i mean, [S4: Rob the computer scientist ] <SS: LAUGH> well you know that you know that it wouldn't work.
+S4: Rob well you know it's possible you know it's possible but the only question is whether or not it can it can imitate i mean it can imitate, human cognition but the question is whether or not it is human cognition.
+S3: well it can't even imi- i mean, in practical terms like in reality, you know w- we've tried this method [S4: it would be really impractical, i know. ] and it just, it doesn't get very far.
+S4: that's true i
+S3: i i b- we probably could- we couldn't even make a widget maker. [S4: a widget (maker) ] i mean because the you know the we have robots that can make widgets. but then obviously, the same robots can make widgets can't, go home and sleep with his wife or you know whatever, <SS: LAUGH> you know.
+S4: scandalous
+S3: so if all that guy did was do widgets all day long it sure, but
+S4: so we can at least agree that, that principles make things a hell of lot more efficient and, and, cuz i mean i guess
+S1: yeah but right yeah, they- i know yo- we- i mean Peikoff argues a very stronger point [S4: mhm ] which he says, you have to know. [S4: mhm ] you know um, you have to have, some sense of, what the, what the more fundamental, principle is to this rule. [S4: mhm ] (xx) which is, i did i did find it, difficult, to come up with an example so, [S4: mm ] yeah.
+S3: yeah i have a question about that also. like on page four he says um, she begins deliberately at the beginning at what she can prove is the beginning, and the root of all the rest. so i mean this is related to this axiom this question, it s- he's saying now here that she can prove this at the beginning, [S1: yeah she can. ] and i i'd like to know what that proof is.
+S1: the proof is the inescapability of it, that is what proves what is an axiom.
+S3: i thought that's what, i thought sh- they were making the distinction between validation and proof, [S1: yes ] and, [S1: that's, okay ] okay so why is this a proof and not a validation?
+S1: this is the difference, is, a proof, you can prove that, the axiom, or you can prove that, the statement, i a conscious will no yeah i don't want to put it that way. well anyway, you can prove that the axioms are an axiom by showing their inescapability. but, you cannot prove the truth of the axiom. the truth of the axiom i- can only be validated, that's the difference.
+S3: then, (alright,) i d- i mean
+S1: i know it's a subtle, it's, [S3: yeah i'm, okay ] it's an interesting
+<PAUSE:10>
+S4: so what are the axioms?
+<PAUSE:04>
+S1: okay i'll do this one. okay so existence exists, and then, now the second, uh this this next axiom, has been stated several different ways like and, to me i think, this way is the best way i don't know, the other ways are (xx) okay you exist possessing the ability to be aware of existence.
+S3: you think that's the best way to state
+<S4: LAUGH>
+S1: yeah i mean, because okay now this is, this is well he says here okay, you exist possessing, consciousness. [S3: okay ] now, that's um, but, i've also heard that, i think even Ayn Rand said, you know the second axiom can just be said conscious- consciousness is consciousness. which is, that one's not inf- i- to me that's not informative in any way.
+<S4: LAUGH>
+S3: consciousness is con- is conscious, i think it it's it's consciousness is conscience.
+S1: is conscience.
+S4: the whole idea of c- i mean in my personal opinion the whole idea of consciousness isn't informative in any way because the philosophers can do nothing when defining consciousness but saying oh well you know it's that thing that you, feel you know that thing i don't know i can't quantify it or qualify it it's just, that thing. so i don't, i don't think you should rely on, the word consciousness to give you any information.
+S1: well that's why i rephrased it the way [S4: yeah i liked yeah i liked that better ] she describes it ability to be aware, of existence. [S4: mhm ] i mean which is very basic. i mean it's
+S3: but if consciousness captures that phrase then why not just use the word consciousness?
+S4: cuz that has so many other qual- connotations.
+S1: people, yeah
+S3: so does selfishness but...
+<S2: LAUGH>
+S1: okay and so, the next one was uh, to be, i just said to be a certain something. [S3: okay ] now, y- you know i mean, that is a little bit_ um, i think, i think it would be appropriate to add, that what, Leonard Peikoff means is to be is to be something, particular and very specific. now, i guess you can say that's redundant but, to me that is a big point, that the, it's more focused that, he's saying that, something is something particular only has one set, of, characteristics. (you) cannot have, it does it does not have other sets.
+S2: okay (xx)
+S3: yeah
+S1: i think that adds, something (i don't know.) and then uh,
+S3: so the physicists are wrong about the wave particle duality right?
+S1: well i know see that's why i would you know it argues against that but where
+S3: well not necessarily not necessarily
+S1: yeah
+S2: yeah their interpretation of the data, is, wrong.
+S3: how s- what,
+S2: what they what they're seeing is a fact but what they, what they're in- they're interpreting it as a, a case where it's a contradiction of the law of identification now that, conclusion is, wrong.
+S3: yeah
+S1: (xx)
+S5: uh could somebody pl- ex- explain (that) to me? <LAUGH>
+S1: of the wave?
+S5: yeah i don't, know what it is. <LAUGH>
+S1: um, you could explain it better than i could.
+S3: sometimes, sometimes like fundamental particles have, seem to have wave-like properties and sometimes they seem to have, particle-like properties [S5: yeah ] depending on the circumstances. [S5: yeah ] so, some people, think it's, you know that it's both a wave and it's bo- and and a particle so that's kind of a contradiction but,
+S5: oh, oh yeah okay yeah okay, the wave particle duality of nature.
+S3: exactly.
+S1: yeah.
+S5: <LAUGH> it's a wave and it's a particle, when you want it to be.
+S4: so that that was the significance of that statement how could you
+S1: well actually i get into more on that, later. because, uh the thing is, what really, what really bugs me, or was bugging me_ okay, out of the three axioms the first two i cannot, i cannot imagine a way, that they can be wrong, okay? <SS: LAUGH> i i i don't know my intuitive a- like i know i say intuitive but, my feeling i don't have any repulsion against those two. <SS: LAUGH> but when i come to identity [S3: you lose ] okay, that one to me seems much more, it's it has much more bite to it it's saying much more.
+S3: more substance?
+S1: yeah, more substance to the identity, axiom. and so, later on in one of these questions i get into, one issue, i think, i think i've resolved but i still have feelings of doubt. and i don't know why but i still have them. [S4: wha- ] so
+S5: i just, i was just thinking of it personally but, i don't know i just think term, mathematically i don't know why. <LAUGH> i just think of you know, A, if you have like something, called A and then it's, this set, of like characteristics. [S1: yeah ] it has to be that particular set. i mean you don't you might not know what it is, but it has to have a particular set of them. and then, if you said it was that but, it's also something else, i mean you'd be saying like it's not itself i mean you could use like substitution say, and you would say A is not equal to A, which is absurd.
+S4: well, i think is this, do you think that i would be right in incorporating the water versus H-two-O argument in here, that you're familiar with.
+S3: incorporating it?
+S4: maybe i don't want to misinterpret the argument, fine let me try and just stop me if i (xx)
+S3: i i'd th- i'd interpret (call it up again on,) the twin worlds you're going to get into twin worlds and stuff?
+S4: no, <LAUGH> okay there's a zombie, and he looks like you no. no like okay, this is something. water is H-two-O right this is something that you know, [S5: mhm ] right? is it possible, it's it's argued that it's possible, for water to be something other than H-two-O and still be water in your opinion. so, let's say let me describe this further. you have certain ways of defining things and your way of defining water is, the thing that, that satisfies, this, these criteria right and you start listing criteria it's the stuff that flows down the river it's the stuff that's, comes out of my water tap it's the stuff that, is in my dog's bowl it's the stuff that i_ and that's that's the criteria set for water. anything, that, is in that is water. right and then you have, and the notion of H-two-O, for which you have a different, it's cr- set of criteria they're called specifiers. and that might be, just, you know it's har- hydrogen two oxygen one, and so it could be contended that there could be something else in the world or in a possible world [S3: in worlds <LAUGH>] damnit yeah i'm doing it aren't i. that can satisfy those specifiers without it being H-two-O that
+S3: X-Y-Z, that's what they call it.
+S4: yeah
+S1: yeah but tha- why would tha- that would definitely, i don't think that would be argued against the identity. that would just say that, you ha- would have to, it's just like finding uh, intelligent life somewhere else, that, you know rational animal then we would have to just say that, humans are_ you would have to be more specific about, [S3: like a complex, ] what distinguishes humans from those.
+S4: yeah that's a really good point.
+S2: i agree with what he said though i think, th- the identity axiom's pretty trivial i don't see why you think it's substantitive. like what what is it about that axiom that you think is, is non trivial?
+S1: okay this, okay this is it, okay was, for instance if somebody describes God as, [S2: okay. ] now this is, where i don not have do not have a problem with the identity. axiom, at all i don't have any feelings at all, negative about it. uh is when they say okay God is not this God is not that God is not that you really cannot be quan- God's not, anything in any terms i can explain to you. <SS: LAUGH> to me that seems clear that when you somebody says, he can only give me nots negatives, that he's gonna have no characteristics. therefore he cannot, exist. okay, to me that seems clear.
+S3: well God has characteristics who says, i mean you know omnipotent, (xx)
+S1: yeah okay i just i know but the, i prefaced it somebody, somebody told me that. now, i think that some people r- yeah say omnipotent that he can, [S3: perfect ] that he's good yeah i mean, [S4: well ] there is a characteristic, but, to me
+S4: could it be contended that like not i i would say that not being something is also a characteristic but you you don't agree with that? [S1: right ] i don't want to get into this cuz i know you have somewhere else to go with this but,
+S1: yeah well okay.
+S3: yeah yeah so wh- yeah where are you going with that?
+S1: but if somebody just said that, you know if they never gave a positive, characteristic i mean they only gave ne- what it wa- was not, it would not exist. okay i think that's, if it, if it has no characteristics, i can see that it does not exist.
+S3: relate this to the identity axiom for us i
+S1: okay the identity axiom is, to be, is to be, is to basically to be is to, be, is to have, a sum of attributes and characteristics. that's what identity, is.
+S3: okay
+S4: so you're saying everything that doesn't have, a set of attributes, and characteristics does not therefore exist?
+S1: that's the as- yeah that's the assumption behind that, axiom yeah, now
+S2: but in that case you said you were okay with it.
+S1: i was okay with that. [S2: so where's the case where you, ] now this is the one i'm not okay right. is when, when somebody says, you know what, this thing, this thing, is... is uh they give positive, they give in fact two positive, identities to the thing. for instance like the wave, and [S4: mhm ] the matter one. but then they s- you know so they are giving positive, identities. they're always saying yes this has these attributes. but it has two sets of attributes. now, okay just recently you know i thought, well then, one if you're saying that, it only has this sets of attributes, and then you saying at the same time it only has this sets of attributes they cancel out each other so they essentially have no attributes. i underst-
+S3: why do they cancel, [S1: so they, ] cancel out?
+S1: because okay for instance, if i say that, this table is red, and, black at the same time, that's essentially saying that it's red and non red, at the same time. so then i can see how it cancels out so, i don't know i mean that's where i'm at now i guess,
+S4: okay okay, [S1: see ] so this comes back to the axiom because you're like, i'm i'm assigning it a c- a characteristic A, i'm also assigning it a characteristic, not A. my [S1: right ] intuitive notion of that is that it therefore has neither properties. but this axiom is saying that it still exists, like because it has two properties?
+S1: no no it's saying it doesn't exist. [S4: oh okay. ] but i was just, i was having a problem thinking like you know if somebody did say that, like the wave thing and the, one, i can't see (both) i can, i felt like i could call that something. you know i could call that something. that something could exist, without being a particular one thing. [S4: oh ] you see that's why i was having trouble. i was i was thinking it could be a particular two things. but then, recently i've just been thinking that i think if you say that something's a particular two things at the same time, both they canc- they essentially cancel each other out. in term of characteristics where you don't, you're back to, having no characteristics.
+S3: so this problem only applies to like, particle waves <SU-m: LAUGH> and like maybe mind body and that's it, right?
+S4: well, but if if it if we can find one exception, then it's
+S3: right i'm just, a- but those are the only two, that that applies to.
+S4: i'd be interested in, i hav- cuz i'm the one who hasn't read, the actual chapter yet. so i'm, i'm i'd be interested to h- hear the exact wording like what, does she does she say or does Peikoff say, uh particular and specific thing that is it to say to is to be something.
+S1: no in the beginning he says
+S2: he says it's to be something.
+S1: yeah in the beginning he says to be something. but then you'll see like uh, in the causality chapter, when he refers to identity, he does say you know to b- to be is, essentially to be something, specific
+S4: does he incorporate a different an an additional argument with that or no?
+S1: well, actually later on, now this is a- related to infinity. now, he says, infinity, cannot exist, because, of the identity principle. okay? and this is basically on this. it's gonna come back to, it always comes back to if it's something is uh, breaking the identity principle it comes back to saying, the key is that it does not have any characteristics. so how does infinity have no, characteristics? how does Peikoff say it? what he says is, that infinity says what that's really saying is that, you're always, large... something i- something that is infinitely large mean- does not mean that it's just very large. what it means is, it's w- it is uh, it's <LAUGH> basically na- not a specific largeness. there's no, there is no specific largeness to it. so essentially, it has, no, you know [S2: identity ] no identity, cuz there is no specific value. so (that's)
+S4: but it's still large.
+S1: no because he says that there is no, there is no, you know, thing.
+S5: can it how can_ can it be infinite, i mean, it's not a number it's just, a constant. <LAUGH> i mean,
+S4: okay in semantics you would analyze the phrase, [S5: mhm ] infinitely large car, whatever [S1: right ] you would say that large has a t- a closer relationship with the word car than, infinitely has a closer relationship with the word car. [S5: oh okay ] does that make sense so that's why i'm saying like, if you're if you're s- th- i- if it's enough to call so- if you call something large, [S1: right ] it doesn't matter, h- if you say [S1: what's before it ] yeah. then it still has the property large, regardless. (xx) [S2: well if the, ] but yeah, but that doesn't necessarily
+S2: is contradictory if the other property is contradictory then,
+S4: small large yeah you're right that's a logical yeah.
+S2: well it's the same thing for anything (xx)
+S4: exactly it's, small or large.
+S1: here let me just uh, let me just do, say that... so i was that's where i started having a problem when he tried to deny infinity, you see. because infinity
+S3: i thought that was a perfectly good, <S4: LAUGH> denial of infinity.
+S1: it is, [S5: yeah ] but i had the feelings of doubt that's all i'm saying and now i i mean i do understand though that, it has no, essentially you know when you don't have a specific value it has no value, [S3: right ] that's all.
+S3: and also like what he s- Steve said earl- Steve right?
+S2: yeah
+S3: what he said earlier about a wave particle duality you can it's, you can just say well i- in one context if you just take context into it then one context [S1: mhm ] it looks like a particle and one context it looks, [S1: and that's fine, yeah. ] it has wave properties but, in all it has, you know all of these properties in specific context just like anything has, properties in a specific context and, i don't think that's a problem either. and, [S1: no ] so if that's the only, only one that's a problem
+S4: yeah but he doesn't say you know Peikoff doesn't say something is something if it's something once in a while or most of the time or (xx)
+S3: no i- it
+S2: no but the law of identity does state that it, it has to be, it can't be, A and non-A in the same, at the same time in the same respect, [S3: right ] and in the same context.
+S1: but i- right i- it the the thing about the law of identity is it does not exclude, change. i mean, change is perfectly fine but i mean which is [S4: mhm ] where you get into causality actually. cuz that's um, that's that's an entity, changing. so, so okay let's move on now.
+S2: hm
+S3: we're in the second part of number three i think.
+S1: right do you want to try this?
+S4: which, is it the what exactly is this?
+S1: now this one's int- this was a revelation to me.
+S3: what is?
+S1: strangely enough, this the next part. [S4: the the issue? ] yeah uh,
+S4: what exactly is consciousness that part? or the one before that?
+S1: no... three, oh does the (xx)
+S3: does the axiom existence
+S4: okay uh,
+S5: where are we now?
+<S4: PAUSE WHILE READING>
+S1: second question on three there
+S4: oh, i wouldn't i would, i would say that ideas and dreams and feelings exist because we assign them characteristics. is that the question?
+S1: yeah
+S3: but you lo- you said things that exist_ do things that exist exist? so you loaded the question, so there's, haven't you so that, yeah it has to be, yes (they are.)
+S1: yeah okay basically now
+S3: you're asking da- do things that exist exist i mean, <SS: LAUGH> right that's what the question says.
+S1: yeah
+S2: he's asking is he j- is he when he talks about existence does he just mean, physical existence or [S1: yes that's right ] does he mean spiritual existence or what.
+S4: can someone run down the axiom of existence for me real quick? why don't we, [S2: is there a split? ] [S1: if- ] what is the axiom of existence? can you (xx)
+S1: it's j- that one's just existence exists. so it's ju- all it's saying is that, is that uh, everything, that exists exists. that's all it's <SS: LAUGH> it's saying that, you know dr- your dreams that you're aware of, exist. that, um, you know, uh <S1 TAPS TABLE> this table exists, the idea that my name is Eric exists. so it's m- jus- it is definitely more than just physical world and that's all i wanted for that question, so.
+S4: and, now i originally answered that cuz i got confused i thought you were
+S1: and this is why i don't think it has much bite in it at all, okay? [S2: axioms have to be trivial that's just like (xx) ] [S4: Eric's just like this isn't doing anything <LAUGH>] a- i don't know, yeah. who the hell who the hell is gonna, does anybody argue with that? [S2: yeah ] i mean that that, [S4: Kant does. ] that uh, even
+S2: yeah there's philosophers that do so that's why they state it.
+S4: Buddhists do
+S1: but, no but put it this way this does not exclude, so far we're saying that you could say that, i'm witnessing all illusions, and they would still be okay with this axiom.
+S2: yeah
+S1: you see what i mean? [S4: mhm ] so
+S5: it'd be, an illusion, (it'd be) something.
+S4: there are, there are people i, i i don't know like how they back it up but there are people that especially there's a certain kind of a, a Buddhist that doesn't believe that anything exists. i don't know i don't know
+S1: i don't know how you could argue that i (do this in) (xx)
+S3: well it's acknowledged that you can't, you can't prove that they, [S4: he's in the Philosophy Department ] they're true they actually you can't prove that they're true so, if anybody wants to have a, a whole nother system... you know you can't, [S1: no but here's the thing ] they can't disprove,
+S2: but the beauty of the axioms is is they have to use them to, <LAUGH> even, talk [S1: yeah but, yeah ] about that other world.
+S1: and the thing about okay since we're on this topic, about, proof, and why you cannot pro- th- okay, there's an issue that you cannot prove the axioms. well the way to look at it is this is better than proof. okay is that it's, self-evident is what proof is based on. so i don't know it's an example (xx) because sometimes people say like, you know you can't prove it as if it's a deficiency, it's actually, in this scenario it's, [S3: yeah that's a good thing ] it's to its benefit <POUNDS TABLE> it's even a better thing. <POUNDS TABLE> so, that it is it is the perceptually available it's the, thing that you could directly observe, you know. [S2: yeah ] for instance, this is uh an instance of it, is that if i saw O-J kill Nicole, right? then, that would be self-evident. but now if you're in a court of law and you're trying to. you have to go through proof, that he, did it that can be much more messier you can screw up, and uh, you know you don't, it's very there is uh room for error. (you know)
+S4: but i, [S1: you know? ] i don't maybe, maybe i don- misunderstand you but, se- the whole thing about self-evidence, couldn't i argue that what you think you know isn't really what you know like you're just like on crack (you know)
+S2: yeah i mean
+S4: like it's can they just
+S1: no yeah, if you read too much into it for instance i have an example, okay down here <SS: LAUGH> that okay, that the earth resolves revolves around the sun, is not self-evident. but what is self-evident, is that, whatever we perceive as the sun, moves in relation to what we know as the earth. [S4: mhm ] you know that's directly, observable where, you wouldn't know that
+S4: yeah but, okay this is my point let's say that, i, a fluke at birth and, L-S-D pumps through my veins instead of blood right and so like [S1: yeah ] i'm the, perpetually in this mind altered state right? but i don't know that, because this is all (xx) so i'm i'm going around saying that you know, you're a big white bunny rabbit that, likes to lick my, head <S3: LAUGH> and you know there are, you know and, and i
+S1: yeah no that's self-evident, that's self-evident.
+S4: oh okay.
+S1: yeah (xx)
+S3: yeah so what you want to say is that that your percepts, [S1: your form of awareness does not, yeah ] are self, evident but the, the facts that they correspond to, are not. so that when y- so when you use the O-J example, i mean there's been like studies on witness reports and, like people, say claim they'll see something and then they'll claim that what they saw lo- isn't, they'll claim things they saw things that they didn't and you know i mean [S1: mhm ] so it's not really, it's self-evident to them at that particular time. [S4: uh huh ] but i mean you know what if it wasn't O-J what if it was like some other big black person and you he it looked like O-J and you thought it was, so
+S1: then they're claiming self-evident that is not, do you see what i mean?
+S3: right but that's what you just claimed was self-evident. <LAUGH>
+S4: no no no i
+S1: no if if i, [S4: oh i i feel you i feel you ] yeah i mean if i just saw a black man uh not facing me, killing Nicole i could not say that that's O-J, killing Nicole. all i could say was that, it's somebody that looked like, O-J.
+S4: well that's the only thing that's self-evident you can say whatever the hell you want.
+S1: right yeah but that's the only thing i can say that's self-evident.
+S3: right okay good
+S1: okay w- that's, (xx)
+S4: i'm sorry i'm just, bringing us on all these different, twisting roads.
+S1: okay well let's [S3: well let's ] this one's uh your you can take the next one.
+S3: oh the next part of uh, yadda yadda, what exactly is consciousness? you want me to take that one.
+<SS: LAUGH>
+S1: i know this is horrible don't blow the (xx) don't go too much into it
+S2: philosophic answers not the
+S3: don't give you the right answer give you the Ayn Rand answer? is that
+S1: yeah just according to what Leonard Peikoff is saying unless you,
+S3: yeah, right <S4: LAUGH> so, um, consciousness is the faculty, that, the faculty of perception the faculty that perceives, that which exists.
+S1: well, not sp- okay in here he uses perception. okay but then he quantifi- he qualifies it with, m- that he really means awareness. which is funny, okay, but anyway
+S3: fine
+S1: that's all okay, because there are forms that they don- p- there are animals supposedly that don't perceive, but are aware, and they have consciousness.
+S3: animals?
+S1: i suppose that's what i that's why i'm thinking.
+S4: do you mean like amoeba? [S3: uh ] well they still perceive something (right)?
+S1: but they're not having perceptions.
+S3: animals without a nervous system, don't perceive anything.
+S5: yeah they don't, like, they don't notice that things are separate.
+S4: how do you know? do you know [S1: right a, ] what it's like to be a, a spineless animal? <LAUGH>
+S3: i know what it's like to be a bat yes. <S1: LAUGH> it's not like anything.
+S1: okay
+S3: not a bat but you know, i know what it's like to be an amoeba.
+S4: i read Dennett, today and i drew a picture of him as Superman, <LAUGH> defender <S3: LAUGH> of truth and, sorry. so, sh- so Peikoff uses the word awareness as opposed to perception?
+S1: faculty basically of awareness yeah, so
+S4: can you have awareness [S3: yeah it's more like a ] without perception and can you have perception without awareness?
+S1: well i think, the argument is that there are, there are beings that, can become aware without
+S3: young young children, they
+S1: yeah sensation they just have it on sensation level [S4: mhm ] so.
+S3: alright what are some of the processes that make up our consciousness? <PAUSE:08> sensation and perception?
+S1: yeah now get to the more controversial ones. cuz these are [S3: get to what? ] the ones i wanna
+S3: um cognition? memory um, [S1: yeah i think that would ] processes planning? um
+S1: no thinking i could s- definitely see is in that, uh for humans uh,
+S4: you mean like dreams?
+S1: now how about feeling? now i actually i think [S3: faculty? ] i have a theory on that one now but
+S3: yeah what's the definition of faculty? or no we're not we don't have faculties yet, processes. you're calling feeling a process?
+S4: what do you mean by you mean, fe- emotion or do you mean just like, sensation when you say feeling?
+S1: yeah i guess i'm thinking emotion.
+S4: okay, so you're wondering if if emotion is a, ne- necessitates consciousness?
+S1: is it a means, of consciousness. <S4: LAUGH> is it a means of our awareness, of existence?
+S3: what do y- a means?
+S2: emotions?
+S4: is it a way in which we would we express our awareness (xx)?
+S1: no i- is it, is it, a thing that we use, to become aware of existence, to gain knowledge of existence.
+S3: to gain knowledge of of existence?
+S2: emotions, is that what you're asking [S1: yeah ] are emotions?
+S1: now i mean i thought about this, all day and i think i've come up with an answer.
+S4: i, it seems to me that w-
+S1: now see thinking it's clear you know that's a way we become, you know we, we come to conclusions to know, you know existence. but how about for you? well first you have to say what's an emotion?
+S4: wait i'm i'm still not it's confused to me because, does, so, obviously Ayn says that it's possible to to... <S4: SIGH> some people argue that we have virtually no access to our conscious experience. so that i i don't know, [S1: i'm just saying that ] like i don't know that i'm uh experiencing.
+S2: i have no access to my conscious experience.
+<S3: LAUGH>
+S1: no well all i wanted, yeah all i'm saying is, [S2: isn't that kinda contradictory? ] okay let's c- i know consciousness has a ba- like a lot of baggage since, you, you're exposed to different meaning of consciousness [S4: mhm ] so i mean let's throw out the word consciousness [S2: yeah yeah that's true ] and let's just use, like what are the processes that make awareness of existence possible...? you see? [S4: mhm ] and so, you know sensations percepts, perception, thinking and i think feeling is a product, of awareness. i think you feel after you see a perception. supposi- according to Ayn Rand now this is i really am not a psychologist but i- or, you know but according to her you get an emotion, after you become aware of an object and you relate it subconsciously, to a value judgment. you see,
+S3: yeah (that's not) necessarily have to be an external object though it could be an, internal symbol.
+S1: you're right, it could be a memory. but at, see so i don't think it's involved, in your ability to be aware, i think it's a product of your awareness. uh... i think you feel once you've become aware of (them.)
+S4: well, the way you described it you said, you said, Ayn says that you assign a truth value to something once you perceive it? (or once) [S1: or once ] once you, exper- [S3: truth of experience? ] did you just say not say (xx)?
+S3: he didn't say anything about truth values.
+S1: i said um, uh emotion supposedly has a, there's an implicit that you have a subconsciously held value judgment [S4: value judgment i'm sorry? ] about some object. could be a mem- within, an object you're thinking about, or reminiscing about or actually seeing.
+S4: and is this, this value judgment is what you're referring to as emotion?
+S1: no.
+S4: no, okay.
+S1: okay you have an object let's say this book. [S4: mhm ] you know this, OPAR. i see the book, now supposedly according to, the theory uh Ayn Rand's theory is that, very quickly, you can have emotion ver- we have emotions very quickly [S4: mhm ] without knowing what the process is going on. [S4: mhm ] but she st- dissects it and she thinks that, you see the book, your subconscious you have a subconsciou- i have a subconscious, value judgment about, objectivism in this book i have like for instance i think this book is of some value. so i get a positive, feeling. and th- that's how she explains emotion.
+S4: okay
+S1: so
+S2: and if you saw it burning you would, be sad, (well) <SS: LAUGH>
+S3: you know and when i read the parts about uh volition i have a different emotion. <SS: LAUGH>
+S1: there you go, yeah. <S4: LAUGH>
+S2: cuz you have a different, value judgment, consciousness (xx)
+S4: so that's your theory?
+S1: that's not, real- oh well my theory about the feeling i- in regards to consciousness is i think it's a product of consciousness.
+S4: i think that's a good theory.
+S1: and i don't know i'm gonna see if if we go on when we get into emotions if that holds out. um
+S3: okay a well, if if we're gonna see if that holds out or not then i need to know what do you mean by, a product of, consciousness?
+S4: do you mean a result of?
+S3: what are the tr- truth conditions for this,
+S1: yes it's a result, [S4: so it cannot ] okay i could say it in other i w- for- forget the word consciousness, okay. <SS: LAUGH> it is a result [S4: we're so sorry. ] of, it's a result of, yeah for us, for humans it's a result of, perception, basically a result of, perception including the metaphysic- <LAUGH> your your value system too.
+S3: so wha- that would be wrong how? like what wou- how could that be wrong?
+S4: if i said that you could experience emotions without a cognitive experience that (might be)
+S2: well it jus-
+S3: you mean like random fluctuations in, [S1: how could that be wrong? ] in the, [S4: well that would be against your theory right? ] oh i'm trying to as opposed to what? (i'm sorry that's what i'm)
+S1: oh this is it as opposed to right as opposed to, now there's times, now i may just make things less clear all of a sudden because there's times that, i'll get an emotion, i'll think, for instance easily when i'm in k- like reading this and i go across, the identity axiom, i get an emotion a s- this quasi-sick kind of and you know, <S3: LAUGH> it's not that bad but you get this emotion, <S4: LAUGH> that you don't really understand something. do you know what i mean? [S4: uh huh ] and to me i take that as a feeling i was thinking you know what, i think that's a s- i use it as a signal sometimes. as uh, and i think i could, think of it as, something helping me become aware, that i'm not, it's giving me some knowledge informa- it's giving me information, my feeling, you see? so so in that sense
+S3: you haven't answered my question have you, or have you?
+S1: no yeah i'm i'm saying that in that sense, i could think it's a tool of cognition. it's a tool it's a way of gaining knowledge, about reality, but uh, apparently not. [S3: no cuz if you use ] it's it's a product that i'm aware of, so i don't know see, now i'm all confused myself so
+S4: well
+S1: can you see why
+S2: so emotions or experiences is doubt.
+S1: right just doubt, yeah
+S2: so how does that get, how does,
+S3: it gives him [S2: how do y- ] the knowledge that he's, he probably doesn't understand what he's reading.
+S1: i guess, right and i so in that sense i think it could be lumped under a term, faculty of awareness.
+S3: well she well she says that it it's just i mean it's uh it's just a light it's a first approximation to, to, you know his innate_ you have to you you, it is, it is an evaluation but then you have to like check it and make sure. whereas [S1: that's right ] cognition is like, i mean that's how you check it and make sure.
+S1: that's that's exactly why you cannot, maybe when they s- she says it's not a tool of cognition, baby maybe a more precise way to say that is, you cannot use it as an excl- only exclusively, that. but i think it could be termed a, an aid, a help, i don't know.
+S4: well uh, in a bigger picture, knowing Ayn's feelings towards emotion, i don't know, i i find it, i don't know if she would approve of, of us saying that, <LAUGH> (xx) <S1: LAUGH> sound like (xx) okay i don't know if she would approve of us saying that emotions, contribute to cognition which is basically what you're saying?
+S1: yeah that is what i'm yeah.
+S4: so if, if if Ayn's goal is a cognition that's purely rational sans emotion
+S3: i think you can make a distinction between cognition and like, [S4: mm rationalization ] kno- maybe knowledge, because it does give you, i mean it does definitely suggests something but, i mean it's not like, [S1: it's not the on- ] you didn't use the emotion to to ca- to solve a problem or calculate something [S1: right, it's the ] it's just, it's the case of
+S2: your doubt's not going to tell you why, what you're doubting.
+S4: mm
+S1: yeah
+S2: it's not going to tell you that.
+S3: yeah, you have to do, use th- do cognition on your emotion, in order to
+S4: okay bu-
+S1: yeah but i think it's a starter i don't know. i think of it as a, i do think it helps. i don't know i mean [S3: yeah but it's the, ] without, without cognitive emotions let's call it cog- or not cognitive emotions, maybe i could
+S3: it's the cognition that you do [S1: but ] on the emotion cuz when you say, that maybe suggests that yadda yadda, so it's not the the doubt, itself that's the co- has anything to do with cognitions the cognition you do on the doubt, is, giving you knowledge right?
+S4: yeah i think that's just what i was gonna about to say let me see if i can rephrase it for you, could
+S1: are you are you
+S5: i think maybe, it's like
+S1: i mean feelings help me all the time i'm telling you, i mean that's, they help me, all the time.
+S4: <LAUGH> no but my point is that okay the feeling is doubt right and th- the knowledge is, you don't understand the text, correct? that's that's what you're saying right? [S1: or that's the hypothesis right yeah. ] and so you're saying that, the fact that you receive a feeling of doubt, indicates, and tells you that oh i must be confused about this text, correct?
+S1: yeah
+S4: now, can it be also said that, you would not feel that doubt unless you knew somewhere deep inside that you weren't understanding that text?
+S1: um, what's that again?
+S4: okay so you're saying
+S3: subconscious knowledge?
+S1: no
+S4: no i'm just saying that, you're saying that, [S4: oh ] emotion springs from i mean you're saying that the knowledge springs from the emotion right and i'm saying that maybe it's possible that you could also say that... that um,
+S3: emotion springs from subconscious knowledge?
+S5: well i, i don't think [S1: you know that's right ] i think [S1: that's right ] it's just you're subconsciously aware that you don't understand it. but it's, [S1: yeah ] but you've already been aware of it, before you had the emotion you didn't, [S3: yeah otherwise you wouldn't have the emotion ] you didn't, the emotion didn't precede the awareness.
+S1: yeah but sub- we're almost saying that subconscious, knowledge is is is conscious knowledge and it's not, i mean consciousness subconsciousness is not part of, consciousness.
+S4: so maybe we wanna agree on on the process, of the following. i read a text, my deep down body instinct tells me that i have no idea what the hell is going on, it creates a d- doubt in me, but i and i don't have access to that that deep down body knowl- or, [S1: right ] so and that deep down body knowledge, unbeknownst to me and on o- out of my control creates an emotion. which, then my consciousness and my my aware self has access to and then [S1: yeah ] can interpret them... [S1: yeah. ] (does that) sound better?
+S1: yeah i think, let's just leave it at that and uh,
+<SS: LAUGH>
+S3: let's talk about our feelings some more though.
+<SS: LAUGH>
+S1: because that's a very, it's a, controversial point
+S4: what do you feel now do you feel better? do you feel less doubt?
+<PAUSE:04>
+S1: okay good do you want to take this one Steve, faculties what are faculties.
+S2: what are the other types of faculties is that what you're talking about?
+S1: or, what are just other types, give examples of_ because i was headed_ i had a trouble with the word faculty.
+S2: like your reasoning capac- your re- reasoning faculty.
+S1: how about something simpler?
+S2: and the faculty of consciousness?
+S1: how about like, a a simpler
+S2: of consciousness?
+S1: no of, a faculty that's, not
+S3: smell touch
+S1: yeah
+S2: hear... see
+S3: would you, include motor stuff too?
+S1: what's that?
+S3: motor, things also? like if he's just saying sensory things but, would like
+S1: kicking, you know i i have a [S3: is that a faculty? ] faculty, for kicking.
+S3: is it?
+S1: it's a i have an ability to kick yeah.
+S3: so faculty is [S2: then there's a lot of 'em ] synonymous with an, an ability?
+S1: what's that?
+S3: so faculty is synonymous with ability?
+S1: i think ability power, i figure i when i looked it up it was like, there was power, ability capacity
+S3: so facult-
+S4: hm well if it's ability then i'll always have i'll always have the potential to do it but if it's power then i... then i can have the potential to do it but still not be right? still not have the power to do it (xx)
+S1: what's that again?
+S4: let's say like i need your permission to leave (this room.) and you're not giving me, right the permission to leave, but i still have, i still have the ability to (leave the room) and, i don't have the power.
+S1: ah
+S4: so, i think we'd better define it as ability, (i i don't know.)
+S3: so there's well if there's an infinite a- amount of faculties then? really you could kick you know, but i mean i don't know if i'd, does it make sense i have a faculty to do this i thought like faculties were more, maybe, grouping abilities, into a faculty.
+S1: i don't know i mean i, i just, like this is uh this is really, my own, take, you know i mean so
+S3: well i thought all th- ar- aren't all these questions from, <S4: LAUGH> the study guide?
+S1: no
+<SS: LAUGH>
+S4: these are just Erik's personal questions.
+S3: oh <LAUGH>
+S1: no but i thought they were good ones.
+S3: i i think that's a good idea <S4: LAUGH> actually though because i i mean when i said we have to buy the st- study guide it seems like why we just make, make our own questions like, wasn't that i remember you saying once that you thought, ha- having to write the questions helps you, like you liked having to write questions, right? [S1: sure uh ] but then i read the email where it said you must we are us- you must buy this book
+<S1: LAUGH>
+S1: i know because i don't want to keep posting the questions and it's time consuming.
+S3: well we should rotate for people that write the questions, right? [S1: yeah ] i mean if we're gonna be
+S4: my my questions wouldn't be near this good i just have this have to tell you. we'd be compromising on my week.
+S2: these are pretty good questions in here though, i mean i like a lot of them.
+S1: yeah this th- i don't, i don't see anything wrong with doing those questions but, but anyway let's let's not worry about the,
+S3: oh how much can that cost like fifty cents?
+<S1: LAUGH>
+S2: five bucks i think.
+<S1: LAUGH>
+S4: yeah capitalism
+S1: yeah <LAUGH>
+S3: it's going to cost more to ship that to me than it the book is worth you know?
+S1: yeah
+S2: buy something else while you're there.
+S1: yeah that's right... <SS: LAUGH> okay [SU-m: (xx) ] that's getting um, now this next question, why would claiming that something has two or more identities, actually mean it does not exist we already went, through that. and i actually came up with a more pithy way to say this. why would claiming that something that has two or more identities actually have no identity? i thought that was
+S3: what's pithy mean?
+S1: i don't know, it just (sounded good.)
+S4: <LAUGH> clever
+S1: (alright,)
+S4: (xx) you're clever
+S1: okay
+S4: you guys i got a really bad verbal score on my G-R-E so this is what i'm going to do if anyone asks me about it i'm just gonna like say that like my personal philosophy is not to believe in any static or standard definitions of anything so i refuse to even try.
+S3: <LAUGH> that's pithy.
+S4: that's right, it's probably (xx)
+S2: okay, well we trying to, go to the next one?
+S5: you want me to answer this or are we done with that one?
+S3: number four
+S2: yeah number four
+S1: now this one i thought was really cool. it took me like two days <S3: LAUGH> i figured out, to find the difference between these terms is, tough, i thought. well anyway
+S3: so you go with (it anyway.)
+<SS: LAUGH>
+S5: me? oh, thank you.
+S1: yeah yeah or you can try it.
+S3: you do each of these terms and you (xx)
+S5: thank you i just kind of looked over these i didn't, try to answer some of them oh, aren't the first three like, the same?
+<SS: LAUGH>
+S1: that's what i tried to say they're not. no but, this is really neat where you get into the subtlety of it, each of these you get a different, it focuses on the axioms in a differ- you learn something, it's saying something about the axioms (a little bit differently.)
+S3: primary's first.
+S1: yeah, you're right.
+S3: fundamental is, the thing that can account for, most of the others.
+S1: yeah
+S3: irreducible means it can't be reduced, can't be broken down.
+S1: yeah, more on that though i mean like i can't break down, um, maybe a uh physicist would say you can't break down some subatomic particle. [S3: yeah ] now that's not what you're saying what are you saying by, can't be breaken down in the sense of what?
+S4: it can't be logically simplified further?
+S3: conceptually it's
+S1: i think that's close yeah, [S3: self ] i said uh, you cannot, i thought, now i don't think this is a definition but i think it is when you know something is irreducible, is when you cannot... when i think of it you cannot explain it to some- you can't, cannot explain it to somebody, without, using it implicitly. for instance, a table
+S2: (sounds like) inescapable.
+S5: that's inescapable.
+S3: yeah that's not irreducible.
+S4: and it's and fundamental i mean really.
+S1: well, i- uh inescap-
+S2: i think, irreducible means [S3: yeah in- that's inescapable ] you can't, [S1: no, i- ] i think irreducible [S1: yeah ] means you can't explain it.
+S4: what did you say inescapable was then?
+S1: no okay inescapab- right, inescapable, was always p- presupposed.
+S3: which is what you just said for,
+S1: okay, right i i said that there.
+S3: so let's go back to irreducibles can't be broken down.
+S4: can't be further simplified right?
+S3: right yeah
+S1: yeah well let's see (xx) some of this crap. [SU-m: (xx) ] <LAUGH> uh, okay you can go.
+S3: alright self-evident is, self-evident what's that is that something how do you expl- <S4: LAUGH> how do you put that into different terms? <S1: LAUGH>
+S2: the evidence for something is, contained within itself.
+S1: good
+S4: <LAUGH><SU-m: LAUGH> um
+S3: and then went to (work on his paper.)
+S1: okay so, yeah the self-evident was uh <PAUSE:05> well, okay let me go to irreducible. okay so primary, now this isn't i- this may not, be right but this is what i was thinking about okay. primary focuses on... um, when i looked it up, it was either first in regard to timing, or it was first in regard to rank, or importance.
+S3: first and foremost yeah.
+S1: okay? now, that makes sense with the axioms because, first in regards to timing, her argument is that as a child develops, he gra- uh, in- this is the implicit knowledge, he grasps these axioms implicitly, first.
+S3: if you're tal- talking about time in terms of axioms though why not say that, it's the axioms, that's where you have to the starting point. [S1: or you can do, ] wouldn't that be a better one?
+S1: you can do that. um, and then also if if you take the primary to mean uh, first in importance, i would think, that just makes sense since, in terms of validating, you know, and that it would be the most important to validate this one first before all the others. and then uh fundamental i thought that stresses, okay fundamental, inescapable, and irreducible, i thought all focus on epistemology, okay in the sense of knowledge okay. now, fundamental i thought was, it's saying that a lot of th- okay the definition of fundamental was, that upon which everything else in a given context depends. so, when i think of that i think i think o- of a of just a a tree okay in my mind. in that, there is like all these other, logical dependencies, to these other principles coming from this base. now, inescapable, to me says that all knowledge, depends on it. so this to me lowers, basically it's saying it's that it is the root of all branches of everything it is at the root. you know because uh fundamental is saying that, it's the root within a certain context. now inescapability is saying it is the root, in all contexts, of knowledge. i don't know i thought that. [S3: okay ] and then
+S4: (maybe) do you mind if i interrupt?
+S1: sure
+S4: another illustration just, briefly fundamental is um, the Protestant church often uses the example of the cornerstone i don't know if any of you have ever heard of a cornerstone. like, back in Jesus' days or whenever uh they, they built stones and there was one primary stone that like took most of the brunt, apparently i don't know how that works geometrically but, and they referred to it as the cornerstone. so Christ is always the cornerstone of the Protestant religion. i just thought that might (xx) anyway i'm sorry continue.
+S1: and then uh, and then when i thought about irreducible was that, there is no, basically my tree thing will fall dow- okay my tree analogy would totally fall down here because i'm saying that, there's nothing that comes before it there's no knowledge that, it depends on. so, i was in a sense it'd be like a tree without roots. but, i <LAUGH> don't know, (instead of)
+S4: or without ground.
+S1: what, [S4: is that what you mean? ] without, yeah (exactly.) and uh self-evidence stresses validation of the axioms (so the,) and that's all.
+S4: so why do you think it's so um important to make these teeny tiny tiny little distinctions?
+S1: uh, yeah i don't know maybe not.
+S4: i'm not saying it's not but obviously Ayn thought it was right and so, (xx)
+S1: yeah i know he uh, um... i know self-evident that's definitely important. but, why use, irreducible, and fundamental, and primary? i'm not sure.
+S3: are we saying why use precise language is that your, conflict <LAUGH>
+S4: no i just you you were like oh it's really cool once you get in and figure out what all these mean they're really abstract and obscure and
+S1: well,
+S4: no and i agree that she she should be as precise as possible [S1: well ] and i'm sure that the reason why she was as precise as possible is sh- cuz she took so much time,
+S1: no okay, i forgot
+S3: is this she or is this Leonard?
+S4: i'm sorry i don't, i don't (xx)
+S1: no this is right okay this these are important okay self-evident was needed for validating, the, axioms, [S4: mhm ] okay? um, primary you're just focusing on this is important that's all you're saying this is the first thing we should look at. i think that's important to say. and then uh, fundamental is the reason why it's important, okay? now, inescapable is what proof, it proves, it's an axiom. okay it's at the base of all knowledge. and then irreducible, is important in the, it is important in a context of, what is an axiomatic concept. [S4: mhm. ] which we didn't get to that's where sh- they bring up irreducible. because um, an axiomatic concept, is, what's the difference <PAUSE:06> why is an axiomatic concept important though that's my next question i don't know.
+S3: that's not your next question that's number seven.
+S1: no i know but no that's just what i'm thinking about <SS: LAUGH> you about importance you know?
+S4: always (thinking.)
+S1: i don't know (anyway)
+S4: if, w- w- so are we we're distinguishing obviously judging from number seven the difference between an axiomatic concept and an axiom.
+S1: right
+S4: i have no idea.
+S3: well one thing is that axioms are, propositions and axiomatic concepts are just concepts, so that's one distinction.
+S4: so an axiomated, an axiomatic concept, may not, m- may not have, an an axi- axiom as a referent?
+S3: axiom (xx)
+S4: uh so ev- if, if all my axiom_ like if i'm, my only axiom is like, whatever exists exists then i can't_ then can an axiomatic concept be like, God is omnipotent?
+S3: no so the ki- concepts aren't propositions, so [S4: okay ] they, the concept would be e- existence, [S4: oh okay ] the axiomatic concept.
+S4: alright i'm sorry that's, very clear.
+S1: okay do you wa- wanna
+S3: we're like halfway through number four and, halfway through number seven. <LAUGH>
+S4: i'm sorry.
+S1: yeah let's go to uh, um, well try uh... s-
+S3: we we can maybe skip to giving (an) example outside philosophy or c- can we
+S1: here was, i i thought though there was one example that really clarified something for me uh was, something self-evident, of course, does not necessarily have to be inescapable. okay? let's see, uh for instance, it's self-evident that i have a thumb okay, to me right now. okay, or that i am aware of a thumb in (xx) uh that i, um, but, it's it is escapable in terms of my knowledge. for instance, my knowledge of um, how to drive a car does not depend on me knowing if i have a thumb or not. well actually, <SS: LAUGH> it may if i wanna drive a stick shift or something, or
+S4: ear just say ear.
+S3: we know what you mean.
+S1: yeah ear yeah there you go
+S4: <LAUGH> (hair)
+S1: (xx) yeah so, i don't know.
+S4: yeah that's really interesting.
+S3: a quark is, irreducible (that's,) an example outside philosophy, at least quarks are theorized to be irreducible, by some and (not by me) but
+S2: something, a quark's made up of something isn't it?
+S3: well there's there's, things that have two third- no quarks are the ones that have two thirds charge right? it's either, plus two thirds or, minus two thirds and then yeah and there's six left there's, there's six things that make up okay, forget it maybe leptons are irreducible.
+S2: gluons or whatever it is.
+S4: <LAUGH> Rob
+S3: gluons there we go.
+S2: gluons
+S3: yeah i think you're right of course.
+S4: he's on the i think it would be really really hard to come up with the following (xx) [S1: yeah mm ] especially with primary and fundamental.
+S1: yeah
+S3: fundamental for chess like the moves are fundamental cuz you cannot, you can't play if you don't know what the the moves are the rules
+S1: yeah, that's true.
+S4: hm
+S3: primary
+S1: it's, i think it's difficult, to come i think that, this is i could not think of an example where something was primary and not fundamental or yeah right.
+S4: that's what i was saying yeah yeah yeah.
+S3: primary is, cognitive science because it's, first and foremost of impor- portance, but it's not fundamental, maybe.
+S4: will
+S1: or maybe sensations could be, primary, to, u- to our, ability to be aware, [S3: yeah ] of existence. but it's not primary to our or it's not fundamental [S4: oh yeah, i was just when you were talking about the fun- ] to our knowledge. you know because perceptions, are what's fundamental to what we,
+S4: uh when you were [S1: um ] talking about the thumb i was thinking about what's that d- are you in psychology or is it strictly cog sci? cuz there's a psychological disorder it's called <SNAPS FINGERS>
+S3: describe it.
+S4: it's like a g- a ghost, uh
+S3: phantom
+S2: phantom, phantom [S4: yeah ] limb something like that?
+S4: but there's a big technical word for it that, where people like, not phantom limb i'm not talking about that. anyway people, because they have a lesion or or whatever reason they wake up and and they don't think that their leg is their own [S3: neglect ] and they try to like throw it out, out of the bed and, so they don't get (xx) like we were reading a story of one person who thought that someone had amputated their leg as a joke and just put it in bed with them. <S3: LAUGH> so
+S1: so it's like the opposite of the phantom leg.
+S4: yeah
+S3: yeah, it's i think it's called neglect.
+S4: it's the (anti-phantom) anyway my point is though it's, uh, it's those sensations (xx) fundamental (xx)
+S1: uh i don't know. <SS: LAUGH>
+S4: perception maybe maybe perceptions, uh anyway, that's a damn hard question (xx)
+S1: okay, um, who are, who are we up to now? you- your turn?
+S2: me?
+S1: no i didn't (xx) <LAUGH>
+S4: i'll go.
+S2: <LAUGH> i don't even know where you're at.
+S4: i'll go.
+S1: okay you go, how is each axiom (xx)
+S4: well, how i-
+S2: all of these things.
+<SS: LAUGH>
+S3: jeesh
+S2: all of what things?
+S5: (kind of ) like how the mental urges was uh, inescapable
+S2: oh how is, the axiom, primary and, fundamental and
+S4: by definition it is all of these things.
+<S5: LAUGH>
+S1: oh yeah
+S2: that is the definition.
+<PAUSE:04>
+S4: yeah i don't know, are are you just do you, are you just intending for us to just sit and marvel for a second about how wonderful it is that the axioms can be all of these things? or are we gonna try to come up with [S1: no ] try to come up with like, (xx)
+S1: yeah well i was just thinking that, like for instance, self-evident [S4: mhm ] it's that, it's self-evident, for me okay that i, am aware of something, in that, the only evidence that i am aware of something, is that i am aware of something, you see? so it's only based on, the evidence for my aware i- um, i- to be more specific, you know the um, th- my claim that i am aware of this, uh this book, um, is based only on my, you know it's it's based on my awareness of the book. so you cannot, so in a sense i cannot, i cannot use any other evidence, that is um
+SU-f: <ENTERS ROOM> sorry wrong room
+S1: uh i was even trying to think, if it's self-evident, you cannot even try to find, you can't esc- it's almost like you can't find evidence that, does not, you know if i tried to, if i tried to find other evidence to prove, that's why it can't be proved basically is because if i tried to find, evidence that did not
+S5: it'd have to be like something you didn't perceive it's just, helps
+S1: right it'd have to be non-awareness, i'd have to be, proving it by non-awareness.
+S1: so it can't even (define) that in that sense it really, is self-evident. [S4: mhm ] it can only be self-evident
+<PAUSE:06>
+S4: yeah i think it's a big difference to say that it can be self-evidence than it is to say that it can only be
+S1: yeah that's the, [S4: that's ] because i know that i've talked to like Eric Lormand before, now he says that, he has a problem with, when they say you can't prove these, things or it's li- he was saying to me he was like, well, i don't think he was saying that you prove these but he was saying that well you could give arguments that would, you know
+S3: but they're necessarily circular because the arguments all presu- [S2: yeah ] depend on the axioms so, [S1: yeah ] i s- if you're gonna say the circular, validation is a proof then, proof con- the concept of proof kind goes out.
+S4: maybe he, he didn't mean, is this recently that you spoke with Eric Lormand?
+S1: in the summer.
+S4: di- perhaps then that like, a a way for philosophers to define like, awareness or con- conscious experiences to say it's it's just like this and they give you examples. so maybe you meant like analogous proof or something?
+S1: well, [S4: that's that's really sketchy ] i don't know if i wanna get into this yeah i mean it's, he had a way i mean he had, some, how do- would i say it technique, that he would uh... i think it was based on, whatever <PAUSE:04> you wanna choose, a path, of thinking that will_ i don't know if we gotta get into this.
+S4: okay
+S1: yeah <LAUGH>
+S3: let's not.
+S1: yeah, okay. but it was interesting. (xx) <PAUSE:05> um,
+S3: how about inescapable though maybe like so what, [S1: yeah ] why is um, A is (the idea of ) inescapable? i mean i know but, does everybody know? do we all know?
+S1: yeah like for instance how about when the, physics the physicists say, [S3: you know ] that, no this uh, this thing can be a wave and a particle. now how are they, how are they using identity?
+S3: because in order for them to say it's a wave they have to say it's something, and, that's, that it's a wave, so that's using the identity, and the same thing in order for them to say, it's a particle they have to... they have to say it is something, that it is a particle, and it has the sets the properties that the particle set. the same thing for waves so they have to use, in order to make that statement they have to use the identity, axiom. [S1: mm, yeah. ] <PAUSE:06> and they also have to use the consciousness axiom cuz they have to say, whatever they say is implicitly exp- like proceeded by i think that or whatever so, con- con- n- that k- that's necessarity and then existence is kind of, they have to use that axiom too.
+<PAUSE:18>
+S1: okay do you, you want to move on to the next one?
+S4: sure, uh, is the fact that the axiom's self-evident, in any way weaker than the inductive or deductive proof? oh i this is we we talked about this before like um, you can prove something, but that's not as cool as, <SU-m: LAUGH> as it being self-evident. [S1: yeah ] because uh, self-evidence doesn't require proof... uh i can't articulate it any better than that. (xx)
+S1: well i think it's the, the basis of, proof even, and that's why, it's better.
+S4: (exactly okay)
+S5: yeah i mean when you prove things like, i observe that, it's, consciousness, existence and identity all together i mean.
+S1: (i know)
+<S5: LAUGH>
+S4: yeah so self-evident (xx)
+S1: so then that's the s- the second one he said what's a relationship, it's, the basis, perceptual data's basis, for, proof. Justin do you wanna take the next one since i think (xx)?
+S5: what is the relationship of deduction and induction unto itself
+S3: no number five
+S1: yeah it's [S5: oh, oh ] that's already done.
+S5: what practical guidance does each axiom give us? is that an example where the
+S3: this is one of your questions isn't it Erik?
+S1: yeah <S3: LAUGH> and this one it really helped me. i really thought it was cool but, i don't know.
+S5: the same example
+S4: well should we start off with one of your, examples then?
+S1: okay existence, it reminds you that, whatever you're, talking about exists. now here's an example is that, uh i may have a skin mark, that looks like, what m- i is my limited knowledge of what might be like skin cancer. but, you know i i think that it's, authentic p- uh you might be even at first be tempted to p- just try not to think about it. because, you know psychologically there's, you know that if you go through chem- that if y- if it ends up being that, (you know) you have to go through chemotherapy all this, so i think there's, at least for me, if i ever notice anything healthwise that might be questionable, i'm always kind of like, it takes an effort, to own up. you know and say you know what, this might be something serious i'd better just get it checked out. so, in that sense you have to, see that you have to say to your- in a sense this axiom could remind you that, you know, this exists that's all simple as that. i don't know. [S4: hm ] that's one example so if you wanna just do you wanna try consciousness?
+S5: oh jeez.
+S1: this one i had trouble with.
+<SS: LAUGH>
+S5: oh
+<PAUSE:05>
+S1: see first you have to ask yourself what's consciousness.
+S5: it's awareness
+<S3: LAUGH><PAUSE:07>
+S1: and then when would it be helpful uh for you, to know, that you have the ability to be aware, can you think of any examples (xx)?
+S5: when you face danger, when you need to solve a problem?
+S3: when you face the question, should i take a certain drug or not, to alter the awareness, (i don't know.)
+S1: um, (xx) [S5: that would (xx) existence ] when you solve a problem what do you mean, why would you, why would you no- why would you need this reminder that you can have an ability, to know, reality?
+S2: well, i (think...) i don't need a reminder <LAUGH>
+S1: does it_ can you give a convincing, what's that?
+S2: i don't need a reminder <LAUGH>
+S1: um, here's here's one that i thought of, i thought, um... this actually slightly happened to me was, okay let's say you're promoted in your job or something at work, [S4: mhm ] and you run across, well actually this didn't happen at all but it i mean, <SS: LAUGH> this i- you run across some evidence that let's say that a pill that your company makes, you know um, i- can possibly be lethal, in the long run or something. um, you know i think there would be a s- some temptation, i would feel some temptation, to think, you know what? perhaps, you know you really can't be sure, or you can't, uh, you cannot come to be certain of something. you know for instance, that this pill is lethal, maybe maybe knowledge is, you know can always be questioned so, i could look at this and say you know what this is evidence but you know who could be sure. and then i could say well then i could just, hold my promotion you know this job a- this great job i supposedly just got. you know i think there would be that temptation. you know, where, then you'd have to remind yourself that, you know what? we can you know we do have the ability to know things to be aware of reality. and so you should follow up on that i don't know.
+S2: i see what you're saying.
+S5: yeah
+S4: yeah
+S3: yeah i don't know if that's a direct
+S1: it's not a very, that one wasn't, it was my least, it wasn't my best.
+S4: this is for the the axiom, that
+S2: i don't, i think the problem is with the ques- the wording is like, what practical guidance to each of the axioms give us?
+S1: knowing the axioms.
+S2: i would say that the, g- axioms themselves don't give us any guidance, whatsoever.
+S1: i think they do though i mean, like i i think they do
+S2: an axiom just is i mean it's like existence just is it doesn't, tell you to do anything, [S4: well ] you know.
+S1: no but knowing (xx)
+S4: Erik was arguing earlier what the integration or the integral thing, that um, that axioms are important because they do give you that certain guidance that you wouldn't always have, is that right? did you agree with that?
+S2: i, i don't i don't think they really give you any guidance, maybe i'm having a [S1: yeah ] problem with the way you're, [S1: here's the thing okay. ] you're probably using guidance in another, respect.
+S1: yeah here's here's what okay, when i thought of it i thought, the axioms are good for two things the way i looked at it. was one, they're the basis for other principles, that, seem more directly useful. [S2: mhm ] for instance like primacy of, primacy of existence. to me that seems, a little more, it's easier to come up with examples. you know where that could be used you know, existence, has primacy over conscious- well anyway. [S2: mhm ] but then there was another one i thought even directly, just that principle existence exists could have, you know, knowing that could help you in your life that's all i wanna say that's what i mean. and that's where i stopped like with this cancer one, where, you know it would be good to say, you know i- this just to a- i mean i, i think it would be rare i don't think anyone would put it in terms of, you know existence exists you know i have to look at my mark on my arm. <SU-m: LAUGH> but i think they would have to say you know what, they would have to recognize to themself this is a problem, let's deal with it and i think in that term, it is a form of saying existence exists.
+S3: it's closer to the identity one though
+S2: yeah but that's higher up on the, pyramid, on your knowledge, you know.
+S3: i think it's
+S4: maybe instead of it, it being a guidance [S2: opportunity of knowledge ] to help you choose something maybe it's a guidance to help you recognize why you have to choose something.
+<PAUSE:04>
+S2: i wouldn't i wouldn't say that the axiom itself, guides you i would say that maybe the, knowledge, [S2: derived ] ax- yeah derived from those, axioms.
+S1: well that's what, (xx) that's more obvious, [S3: yeah ] this, okay you can make the argument i me- i'm just throwing out, ideas here examples and if you, may not, i mean you could argue that they're not, convincing, as being a (xx)
+S3: isn't the skin mark a better example of identity though because you, you (took the second view)?
+S5: i think you can argue the skin one of, consciousness though because
+S1: i think you could argue it's all three.
+S5: yeah cuz it's j-
+S1: because in every, they are an axi- they are involved [S2: because they're intertwined. ] in one fact yeah the fact that you, a perceiver, is aware of reality. it's it's all in one instance. examples of the axioms aren't always the same, instance so. but uh, the last one now this one i thought was a good example, i thought. [S2: mhm ] okay identity. and now, okay, um let's say that, a person has pride in the fact, that they have sex, with only partners they love, okay? i think this a common, thing people may have, pride in. and it happens that on one night, you know, they get, <S3: LAUGH> blasted or something, and they just you know, have a, total, you know, one night stand and they, and they don't find the person, uh, [S3: don't love the person. ] yeah they don't find the person appealing they don't_ afterwards. <SS: LAUGH> but uh th- and they don't even like being around 'em, or something, much, okay. [S3: mhm ] but um, i think there would be a temptation, for somebody who had that pride, beforehand, for them to say you know what, uh, maybe what i'm feel- i do for this person, is love. and then that way they could save their pride in a sense. but in fact, it's not, and they they kn- actually know that. so i think that was a neat example. wh- where that would be an example where you would need to remind yourself that, something p- t- it's something, to be is to be something particular. and that love is something particular... it has particular attribu- characteristics.
+<PAUSE:11>
+S3: did you just do number six when before?
+S1: uh, no this one's, (i think i don't know.)
+<PAUSE:06>
+S1: uh, you haven't really read the chapter.
+S4: yeah sorry.
+S1: uh, you wanna try this one Steve?
+S2: state in one sentence the essence of the section, existence consciousness and identity as the basic, axioms. <PAUSE WHILE READING> state in one sentence the essence <PAUSE WHILE READING> um (xx)
+S1: well what are some words that pop out, to you?
+S2: um, existence exists, and, um... [S1: it's all in there ] consciousness is the faculty which perceives that which exists, and uh, A is A the law of identity.
+S1: and then what were some other things that we talked about.
+S3: so what are they the basic axioms is what you're asking
+S1: why are they the basic axioms? yeah
+S2: because they're irreducible primaries. [S1: yeah ] to be conscious is to be conscious of something, and that something has to exist, and it exists po- tha- i- possessing identity. [S1: right ] i guess that would be a sentence, <SS: LAUGH> a very long one.
+S1: yeah, that's, i think yeah you, um, now this one i didn't, i uh i got this from, class i mean you this you can make a sentence somewhat, i think there's some range on this you know, i didn't make (the sentence) but anyway, the way uh he wrapped it up was uh the foundation of knowledge, is the self-evident and inescapable fact, that there is something of which i am aware.
+S4: can you repeat (that?)
+S2: there is [S1: so ] something that that, that which i am aware. [S1: right so what he did was ] and then you emphasize different parts of that sentence.
+S1: uh yeah, he wrapped up all the axioms into one fact. which is that the fact that, there is something of which i am aware. um, but anyway, he also put in that the foundation of knowledge, part, and the fact that it's self-evident, and the fact that it's inescapable.
+S3: so this study guide has all these answers too?
+S1: no this was in my that, UPAR class i took.
+S3: oh
+S4: tha- was that Lormand's class?
+S1: no this is um, through the A-R-I.
+S4: oh
+S1: so,
+S3: seven we, kind of, touched on.
+S1: yeah, (xx)
+S2: is there something more specific that you wanted?
+S1: no, that's good.
+S2: alright, eight.
+<PAUSE:04>
+S1: i think we oh no this one is different [S2: implicit ] (xx) she uses this word implicit, a lot or he does. and, you know what does this mean implicit knowledge.
+S5: i have to use the bathroom. <LAUGH>
+SU-m: get (xx) going on this.
+S5: (xx)
+S3: implicit knowledge, unconscious knowledge.
+<SS: LAUGH>
+S2: can we have unconscious knowledge? [S3: hm ] see i once actually emailed that question what's the difference between implicit and impli- explicit, to the A-R-I. i can't remember the answer they gave me it was so long ago. [S1: well i ] i had once thought about this for like a long long time.
+S1: yeah
+S3: you could definitely have impl- you can have unconscious, um, memory i mean. that's what priming, priming studies were based on, basis of priming studies. so, i don't know if you'd call it, [S4: yeah i was gonna say psychology uses explicit and implicit. ] knowledge necessarily but it's, represented in your brain, a very similar way to knowledge.
+S4: (yeah that's right)
+S1: well with the, i i'm pretty sure what she meant, it was, or he meant, he means is that, and i could, there's a section here but, um, is that implicit, that <PAUSE:08> okay, what i okay what doesn't mean that knowledge of the axioms is implicit, in any act of cognition. to me that means all acts in which you gain knowledge... can be used as data, okay, for you, to come to the conclusion, of axioms. so, what it means is that, you have knowledge of particulars basically, of particular times that you were aware of something <PAUSE:04> and, in the in in and it's impli- in i- um, those particulars imply, if you looked at them, they imply, the axioms. so that's all. i think it's just, it's just saying that you have the data available, implicit knowledge is such that you have the specific concretes on which you can, explicitly, form the concept existence, form the concept consciousness, or identity. so it's almost as if, implicit knowledge is like units, that's all. [S2: okay um ] a unit, of which you form a concept.
+<PAUSE:04>
+S3: i don't know i'm not i'm not sure that, saying this implicit thing adds anything to, the other stuff the fundamental (xx)
+S1: no do- i it's just something she keeps using. [S3: inescapable ] yeah in here and it, you wanna know what does the, okay you could take im- put it this way. you could take implicit knowledge, to mean, like as if we have some kind of, um, some way of gaining knowledge without thinking. i don't know. i- i- that's the only thing i thought. [S3: i think what that means is sh- ] yeah, that's totally not what she means [S3: yeah ] it means that you you you do have to think to get these particular instances you know like, that you have the data, the memory of this stuff, there ready for you to actually, make the connection.
+S3: here's what i think it means. knowledge of the axioms are implicit in an act of cognition i think it means, that, in any act of cognition you necessarily, it depends on these axioms [S1: mhm ] so if the axioms were, any of these axioms were false, then you couldn't have any good cognition so that's what it means by, them (meaning) implicit in the act of cognition.
+S4: yeah i feel as though they're saying okay i just didn't randomly pick these like these are what actually, these are what your cognition actually depends on, (xx)
+S1: yeah you know, i think you're right about, this, what actually what i wrote here but, actually she does talk about implicit, knowledge or something later on and that's maybe where, this is what, my answer does not connect with, this question though i think your answer's better.
+S5: i th- mean (it sorta) means that... like it's like when you're doing it it's like, you're also assuming these but you're not, [S1: you haven't named it? or ] (no) <PAUSE:05> it's like you say, [S4: (xx) ] your sentence implied this you didn't actually say it explicitly. you didn't actually say it but it's like, [S3: yeah ] you can deduce from it that er, [S1: yeah ] deduce or whatever you would say.
+S2: (nine)
+S3: number nine.
+<PAUSE:06>
+S1: (this one)? <LAUGH>
+S2: there are the three axioms implicitly known in a certain order?
+S1: right
+S3: existence exists is first and consciousness is last and, wait sorry.
+S5: i thought consciousness was second.
+S3: yeah consciousness is last, but i ne- i didn't see where she said tha- he said anything about um, i assume that means identity's in the middle but, i didn't see where he explicitly said the identity parts the second. right?
+S2: (it's not explicitly) [S1: yeah he did, ] known it's sort of a
+S1: no i know okay this is going on implicitly on what i was, my version of what i was saying implicitly meant. which was saying that, okay forget implicit for a second, just say it (through development.) <S4: LAUGH>
+S2: or the kid first has to know that there's an existence
+S3: right yeah
+S2: and then then they're conscious of that and then they,
+S3: well no inden-
+S2: the consciousness is last i think
+S1: right last, because, they come to know what consciousness is, only once they know causality supposedly. so, [S2: yeah i don't (xx) ] they go through causal sequences of closing your eyes, and seeing that there's an external world and there's an internal world.
+S3: so how do you reconcile this with like, i mean doesn't she say that uh the existence and the identity are just two different ways of saying, two different perspectives on one thing? so that how could you have, how could you have to have one before the other if that's the case? like how could a child implicitly have, know the existence axiom, before [S1: that's a ] he knows if they're the same thing.
+S1: no but that's why i'm tryin- that's maybe why i made th- tried to make more implicit than that was that, okay, if a child, could re- reflect on what he's been, perceiving, [S4: mhm ] or actually sense it, okay because [S2: (sense data) ] in the beginning he's just, supposedly he's just s- uh has, sensations. so therefore, a being who can only have sensations, is a being who could only, come to the conclu- uh come to, the, um, the axiom, existence exists. so that's the sense in which [S2: implicitly ] yeah but if they
+S2: cuz they couldn't come to the, explicit knowledge of, existence [S1: right ] exists cuz they're s- only sensory beings.
+S1: right, yeah <PAUSE:09> yeah it's not, [S2: i don't know ] clear to me.
+S3: yeah i don't know if, i mean what is it meant to be_ i just don't understand (xx) <LAUGH> i i don't know why you'd say, they could be implicitly aware that existence exists, but not at the same time. okay so they have to have a- they have to happy have see objects before they can, know A is A, right?
+S1: yeah i the identity, axiom, [S3: depends on ] it distinguishes, this from that. where, [S3: yeah ] where the, you know the existence (xx)
+S3: couldn't yo u couldn't you exti- distinguish a a red, sensation from a a yellow sensation or something now? [S1: i don't know ] or do you can you only distinguish, percepts?
+S1: well this is where okay, in here, according to OPAR now i'm not, i'm not the pro on what er, i don't know if they're the pro on what, sensation is what what they use a sensation as, is something that is uh fleeting, you have no memory of, it's uh not distinct from uh, um, you know you can't, hold, get a- in a sense.
+S3: you have no memory of your sensation?
+S1: that's what, according to the way they do it they say, it's just a fleeting buzzing you know that, it's i- there it's gone it's a it's a immediate. where not like us where supposedly we can process it and we can hold, the whole object.
+S3: oh so it [S1: yeah ] depends on, somebody's ability to imagine what it's like not to, have percepts right?
+<S2: LAUGH>
+S1: i guess yeah.
+S3: okay <PAUSE:09> so yes is the answer for number nine, <SS: LAUGH>[S1: yep ] according to, according to this book yes.
+<PAUSE:07>
+S1: you wanna try the, next one? actually don't, you don't have this book (right?) i don't know if you might be able to answer this without
+S5: without what?
+S1: um, another book that, i have.
+S5: oh
+S3: it should s-- they say what an entity is in here.
+S1: they do? okay
+S3: yeah
+S5: an entity... well it's just something, <LAUGH> that exists, [S1: yeah ] uh (xx) was gonna say like (xx) it's uh
+S1: well it they actually have a more pre- [S5: precise ] they need they have they kinda stick their neck out on this one, or maybe not but, they say it's a uh, solid thing with a perceivable shape, such as a rock, person or table. that's uh that's the definition (xx)
+S5: that isn't, a solid though.
+S1: yeah i know
+S5: what do you mean by solid?
+S1: so
+S2: but that doesn't take into consideration mental entities.
+S1: right and what he says in here is that, primarily he's talking about, um, no
+S3: this is also things that can be [S1: yeah mental ] either derived or, built built from these other things that are solid. but but he a- they also want to include like you know subatomic particles which aren't, can't be said to be solid, or s- you know.
+S1: but they're_ we're not_ we can't perceive, subatomic.
+S3: right but they're still an entity.
+S1: yeah but only in the sense that it's been derived through knowledge.
+S3: right of, other entities?
+S1: of of big things... i think that's what, things (xx)
+S2: relatively big things.
+S1: yeah
+S3: i like his da- his definition better then entities are just, things.
+S2: is a thing yeah.
+S3: is that what he said? yeah.
+S4: you know
+S1: but it's things we're aware of. that's the difference it's not, things that, we cannot perceive it's perceivable things. [S5: oh okay. ] that's all, perceivable.
+S5: so like, in philos-
+S4: and that's meant to include like, emotions and dreams [S3: <LAUGH> ghosts ] and such?
+S5: so like
+S1: um, [S4: i i thought you, (it's a really small point) ] right mental. but, but yet causality this chapter does, talk it's supposed to incl- include, mental ent- you know mental entities too so, so i don't know how to reconcile that. it is supposed to do mental entities and physical entities cuz that's [S4: wow. ] that's what it says.
+S5: wait wait wait, what's mental entity then?
+S1: well okay a mental <SU-m: LAUGH> entity is definitely not a solid perceivable thing okay. <SU-m: LAUGH> it what that is you know is just something, i don't even know how to explain it i mean it's just
+S5: i mean what's, what's the example from that which may not be an entity.
+S1: well we said like subatomic particle in the strict sense but not in the (sense that) (xx)
+S5: okay
+S3: it would though she would say, Rand would say it is. [S1: okay ] she would say everything i i don't think they stick their neck out at all i think it's just, entities are, whatever. [S1: okay ] [S4: but, well, so ] like General Motors is an entity, right? it says so in here. it's a thing.
+S4: maybe i thought when we were do- i, did they, [S5: (xx) in here ] did someone say they define entity solely as solid? [S1: well, i mean ] and then there's also, [S1: that's where ] that's a physical entity and then, [SU-m: (xx) ] they also, acknowledge mental entities is that, what the thing is?
+S1: okay, but let's let's simplify. this, what um, okay what's important here, is the that we are just talking about, individual things they can be subatomic they can be mental, [S4: okay ] okay.
+S3: they can be groups of other entities.
+S1: yeah they can be groups, that's what's important. [S4: okay ] uh this thing about exactly what is an entity, <LAUGH> in a very strict sense that, i know that there's this definition floating around in objectivism, that's probably not very essential [S4: mhm ] so.
+S4: okay
+S2: i know somebody i think in the appendix to, introduction to I-O-E, i think somebody asks (like the) question, you know i (xx) she goes in, [S1: mhm ] a lot of detail but i [S1: yeah ] wonder. [S1: yeah. and she talks about mental entities. ] [S3: yeah yeah like emotions ] does she? yeah i don't remember
+S3: and like
+S1: okay you can go (xx) this time
+S5: alright, this is the law of causality... law of identity applied to action. <SS: LAUGH> uh, what is action taken to mean? do they mean just like action as just another attribute, of the, of, an entity? so, [S1: yeah ] by, A is A can only, act (according,) to its, identity and, uh, it's not so clear what, [S1: yeah that's ] yeah act- how it reacts as part of its characteristics.
+S1: that's the yeah that's the law of causality.
+S3: every action has a cause doesn't it? (that's the,) simplest
+S1: no that's
+S2: yeah that's right
+S1: that's not, strictly it that's like the cause and effect, description or something. or maybe,
+S3: that's not the law of causality?
+S1: the law of causality well, maybe it's the same thing. but i know when they s- when he says it in here, it's essentially it's the entity stacked in accordance with their identity so maybe that (is the) same thing.
+S3: well, it's different things at least different perspectives on the same thing.
+S1: yeah um, but, okay action's an interesting, thing the way they use it. okay? is that, it's what an entity does, that's the all they're saying an action is. now, that, that's uh, it's not only motion. okay? a mental, for instance mental processes, yeah they may involve motion. but i don't know. i, i'm trying to think of something that changes that doesn't involve motion. <S3: LAUGH> that anyway change, an entity changing... you know [S2: no ] it's, does anything can anything change without,
+S2: it changes color.
+S4: yeah i was just gonna say that
+S1: okay, there you go that's, but then there's an action underlying that though.
+S4: yeah if it was changing its odor it needed to be molding or something (like and that's changing)
+S1: so i don't know. maybe motion, encompasses it all.
+S4: the is it chemical is a chemical, thing if you're able to change it's not gonna (have an impact.)
+S3: shine a different light on it and it will change its color, without moving. (xx)
+S1: let's say that macrosc- okay put it this way action is not just macroscopic, motion, on a macroscopic level. and, it also can just be like a color change it can be... so whatever that's worth i'm not sure what the, relevance is but, but that's, what it is. hey Rob why don't you take this one.
+S3: how if it, how if at all is the statement the same entity under the same (oh my god) the same circumstances will perform the same action on to- consistent with volition. <S1: LAUGH> well, objectivists would say, s- s- s- same entity under the same circumstance will perform the same action... well do you want the right answer or the objectivism, answer?
+S1: no this one i think, [S3: they're both right? ] objectivists would agree with you, i don't see how okay yeah just go on.
+S3: well a so i would say, h- a human brain in a certain state, um, is gonna, is gonna give rise to an- another, state. you know for example, ultimately motor, you know something motor. and it's, you put that brain in the same state and it's gonna do the same exact, thing resulting in the same, motor, neuron activity and resulting in the same movement. again so, how's it consistent with volition? [S1: well ] well it's, that's tough <LAUGH>
+S1: no i know i don't think that's the right, i think that's the wrong person to do is one. <LAUGH> well okay. objectivism put it in objectivist terms
+S3: i'll tell you no i'll tell you the right answer. so the reason it's consistent with volition is because, volition does not, imply primacy of consciousness what volition is in real terms is, it's, soft determinism which is, we, we can make we make choices, that's true, but the choices don't contradict, reality. so, that's how it's consistent with volition we make choices but, um, the choices we make can't, can't create this, a new timeline of (xx)
+S1: well no, okay put it this way.
+S2: the same entity can make different circumstances.
+S1: no here's the thing is, uh, i mean this is just this is not consistent, with, uh volition as objectivists, see volition.
+S3: right so when a pr- right so objectivists say volition is is a a, a choice, could have been otherwise. [S1: yeah ] so
+S1: even in the same circumstances, [S3: right ] that's what objectivism (says.) [S3: right, so ] so this is not consistent with, what objectivists think, volition, okay?
+S3: that's right so why does it say, how is it consistent with volition it isn't.
+S1: it is not [S2: how are they all, ] yeah that's all i'm trying to say.
+S3: oh m- it's a trick question.
+S1: not really it's just it was a straight question, <LAUGH> i mean
+S3: okay how if at all okay sorry, [S1: yeah ] how if at all. okay,
+S1: and it's, it's just not and this shows you that when you're reading, OPAR, you know, stay, it's not always, you know you have to think of, you can't just take every- you know maybe uh, [S3: it's not the word of God ] i think it's uh, i mean this doesn't he sh- maybe should have qualified this i think.
+S5: so it's not consistent. <LAUGH>
+S1: yeah if you [S5: yeah ] take this very literally and in and in the sense that, if he's saying that all, you know ev- the sa- if he if he really means this that's not, right. [SU-m: yeah ] and this even i (remember) even Harry Binswanger said this so, i mean they even, i mean it's not
+S3: so the way they try to get around it is they say, entities act according to their nature, the nature of a consciousness is to b- human consciousness is to be volitional, so therefore
+S1: mhm, he has to make a choice you could say that. a man under the same circumstances would have to make a choice but, that's not really what this is saying this is saying that we have to perform, or do more than just make a choice you'd have to act on a certain (xx)
+S4: well,
+S3: so we all agree that it's not consistent right?
+S1: yeah
+S4: i, so, w- what does objectivism say about volition it says that every every every individual has, uh volition? is that, what
+S3: humans have volition
+S4: so,
+S1: the ability to do otherwise, in the whole situation.
+S4: so i think, i mean, i i, i would disagree. i don't know if i'm disagreeing but let's see. i would say that um <PAUSE:06> we've never (xx) i think maybe circumstances i'm interpreting circumstances differently like, <PAUSE:05> i- i- if okay. let's say, i have a choice of whether to do A or B and A has certain ramifications and B has certain_ A has positive ramifications and B has negative ramifications right, now and i can choose either A or B. but i'm going to chose A because it has only positive ramifications and my other choice has only negative ramifications right? so that's volition. that's my choosing to, to choose A, or my ability to choose A. now, in order for someone to be under the exact same circumstances, they would, as a rational human being also choose A. does that mean that (xx)
+S1: yeah but rational
+S2: but you can chose to be irrational.
+S4: i-
+S1: yeah i mean you don't have to (xx)
+S3: well the exact same circumstance would be to have your brain, in the exact same [S4: exactly ] state that it's in. [S4: exactly ] so therefore y- they would make the same, choice.
+S4: exactly that's, yeah that's what i meant. so, we're saying i- the same circumstances
+S1: no they, i mean objectivists would say that's not_ volition is even when you have, i mean all things everything being the same, [S2: same circumstances ] you can choose differently that's what i'm trying to say.
+S3: right right that's because, right so objectivism makes this distinction between, the metaphysical and the man-made, [S4: no i think ] th- they basically take man, they wanna be scientific and say man is part of nature and all this but then, it just, their volition view.
+S4: i think the discrepancy is that you said, man has the ability to chose an irrational position. this statement is not denying it says will perform the same action. it doesn't say can perform a different action.
+S3: the question is whether choice, ch- real choice is possible at all. choice being something that could've been otherwise, and objectivists
+S4: no but did you hear what i like, did did you get what i just said about the, the ability like, okay.
+S3: no not i'm not really un- understanding where you're going. <LAUGH>
+S4: um, like i think this is a really important thing that's why i'm being, sticking with it. un- okay under the same circum- circumstances like, volition is what what did you just say about volition you said
+S3: according to objectivism a volitional choice a free choice, [S4: uhuh ] is a choice that could have been otherwise. it could
+S4: yeah, [S3: right ] and that's not saying that it can- that it's impossible that it's otherwise it's saying that it won't be otherwise. so if i'm under the same circumstances
+S3: sa- no clarify what we just what, clarify what you just said.
+S1: yeah that's what, that's what yeah.
+S4: you don't know what i'm saying? alright, i'm in circumstance one right? [S3: mhm ] positive negative A B right. okay i
+S3: forget positive negative just like do st- chocolate strawberry so it just, [S4: okay ] it makes it simpler.
+S4: okay yeah, now i- and uh- [S1: now objectivism would hold that ] chocolate is lethal to me and i,
+S3: no you, i'm saying take a_ why do you n- why do you why is that necessary for your example to have one, bad and one good?
+S4: cuz i- cuz those are circumstances that are important to my point.
+S1: oh she's saying in certain circumstances, you're you're trying to say in certain circumstances, the person will will choose always one, [S4: yeah ] way.
+S4: yeah, yeah, [S3: isn't that a circumstance though? ] even though they can choose, the negative one they will always choose, now do you see what i'm saying?
+S1: will perform, okay i you know i interpret okay so you're just saying that, [S2: but free will says that they don't have to do that ] will
+S4: yeah but it's
+S2: they don't have to choose, the the positive one.
+S1: yeah
+S4: yeah and this isn't disagreeing with that in my opinion.
+S1: okay i mean, it's not a big, yeah i mean,
+S2: most people will chose the positive one but they, don't have to.
+S4: yeah but i think it is a big, it is a big issue.
+S5: i don't understand why this is important
+S1: i think this is taking a stronger stance [S5: i think this means ] than what you think, i think this is saying that a person (xx) must
+S4: this is i i haven't read the context [S1: yeah right ] keeping that in mind like i this is the only thing i'm [S1: yeah i know <LAUGH>] going off so you're you could be [S1: yeah ] absolutely right but i think that, if if it's not the case that i'm reading too far into it then i think that's a bigger distinction than (xx) i obviously have no idea what i'm talking about.
+S1: it's she's saying that you can still have free will, [S3: uhuh ] but, but you'll just always choose, <SS: LAUGH> the same thing because, it just is so irrational to choose something that's gonna, hu- you know put your hand in a chainsaw or something (xx) the thing is is
+S4: if you have... if, no no no
+S3: okay i just think it's, the more fu- i think the more fundamental thing is whether choices, free choices exist or not, independent of
+S4: oh and this i- but (then) my point is that this is in no way saying that they don't exist independent, of, circumstances. this is not saying the word, cannot chose a different action.
+S1: right that's what
+S3: oh that you, the question?
+S4: yeah the no the s- the the quotation in it, you're reading it in my opinion to say, [S1: right ] uh the same entity cannot choose [S1: right ] a different action they always have to choose the same action and i'm s- i'm reading it as to say, they will statistically always choose
+S2: but you're already implying that there's choice. he's saying that there's not choice.
+S3: just that's ca- statistically always there's a contradiction.
+S4: no but, no i'm saying [S1: yeah ] [S3: (it's okay) ] it's consistent with objectivism [S1: yeah ] because objectivism says that there is volition right? and i'm still sa- i'm saying that this state- this quotation does not deny volition, it [S2: okay ] just says that giving volition
+S2: i see what you're saying.
+S1: yeah, and i think that you're right i think you're right for sure.
+S3: well but you said before that it did- it it wasn't consistent, <S1: LAUGH> right?
+S4: yeah and i i was disagreeing with that.
+S1: but she, she pointed out, no okay. now, here's the thing now
+S3: i know but now he put his his okay. yeah tell me why you put
+S4: cuz apparently i'm disagreeing with like every scholar in objectivism so don't listen to me but like i think that
+S1: who cares i mean it doesn't matter i mean they could be all be wrong. you know what i mean. so
+S3: forty thousand objectivists could be wrong? <SS: LAUGH>
+S1: i mean so anyway the thing is, she j- okay let's, let me just, change this thing, to, right you're just saying cannot, cannot perform a [S4: a different yeah ] different action. yeah if you put w- if you changed will to cannot and same to different, then it would be inconsistent fo- without a doubt. but you know what in the context
+S2: (if you) change the words <LAUGH>[S1: yeah ] then it's not the same
+S1: in the context though i do think that he needs, that i think that, he's trying to just make the point that like a balloon, that's has sand in it, is gonna, always fall, if they're on earth, with the same temperature all that stuff. [S2: yeah ] that's that's really what he's getting at. i mean, it's obvious from the context that's what he means.
+S4: so he's excluding mankind, in this example?
+S1: i think so i think he really just meant that he's talking about, other entities.
+S4: okay, that also makes sense.
+S3: well if he's excluding mankind then of course it's consistent with volition cuz, volition only applies to mankind here.
+S1: no no that's what i mean yeah right.
+S4: and i think he i think he would have been more careful i mean the guy's not an idiot like you'd have to be a big idiot to say entity, with the intentions of referring to everyone but mankind (and so.)
+S1: well i don't know it's wha- that's what i'm arguing here
+S3: that's <LAUGH>
+S4: like that's really fucking careless (in my opinion) like
+<SS: LAUGH>
+S1: well anyway let's let's move on let's move on. this, it's just to show you know, [S4: yeah no no i know i'm glad we had that little discussion ] that sometimes, sometimes you gotta really read, sometimes a f- don't just take it you know.
+S3: yeah next week we're gonna talk about this a lot because like this, the en- end of this chapter gets really, into this, whole thing. when she makes a distinction between, everything, and man.
+S1: but this isn't a pr- also though th- i don't think this is like detrimental t- lethal to objectivism this little, i mean this inconsistency. if you
+S3: it's lethal to, the objectivist view. on, it's, [S5: yeah s- <LAUGH>] i mean yeah inconsistency is lethal to an integrated, [S1: yeah ] philosophy i mean it means that, [S1: no i mean, ] i just don't, i mean if you it doesn't mean that objectivist views on politics are wrong or
+S1: okay, put it this way okay objectivism, uh, totally adds this whole th- uh yeah th- as this is presenting it? yes but okay object- l- okay let's not say objectivism say, um, <LAUGH> the the adapted true objectivism that, just has, the words that, you know excluding man in parenthesis here. then, that would you know it doesn't seem to me a central thing here
+S3: oh right but i'm sa- i'm saying it's not just it's not just the the [S1: yeah ] the what a little slip it's the, fundamental issues that underlie it that are, wrong
+S1: oh what volition is and stuff? [S3: right ] well yeah but that's the way that that is lethal for sure. [S3: yeah ] without a doubt. but i mean this little (goof-up) i don't think is, that's fine.
+S3: yeah (xx) you know miss.
+S1: okay,
+S3: alright
+S5: but isn't man a, man's an entity so
+S1: yeah oh and put it this way right. does, does the fact that man has volition, does that, go against the law of causality? now, see the thing is, the law of causality is that entities act in accordance with their identity, you see. and uh, and humans choose, according because they have, volition. that's part of their identity. [S5: ah ] so it doesn't go against the l- the law of causality as they present it but it does go against, volition goes against this one, saying that's in here. which is not the law of causality, you see. but it is, it's just, another part i think he's talking about cause and effect. so
+S5: yeah but i mean <PAUSE:04> (it's) the same entity in the same circumstance doesn't, perform the same action all the time. it may have two, contradictory identities. [S1: well ] cuz i mean it's they would be part of_ the reaction is like a part of its identity and you're saying a part of its nature. so i'm saying
+S3: man has no, identity is that what you're saying?
+S5: well i mean <LAUGH>
+S5: if it's part of
+S3: yeah i mean, [S1: because ] that's the logical, that's the logical conclusion from that.
+S1: no, no, no
+S5: because then if it's like, [S1: because then it ] you're saying it can't be, itself and something else. so <PAUSE:05> i mean we have to say that, you know, you know all your attributes would just be you'd have to say, either this, or this under these same circumstances. but, [S1: yeah ] that'd be kind of, isn't that contradictory (though?)
+S3: yeah
+S1: you think it is. so the person could act, a person could act, yeah either or i- to have two different actions under the same, scenario and you're thinking that could go against the law, [S3: yeah ] of identity.
+S3: at least with like wave and particles it's, it only acts this way in a certain circumstance and this way in a different circumstance but this is saying, under the same exact circumstance, humans can act one way, or another. and that's, it seems very parallel to the argument against
+S1: yeah it does... <SS: LAUGH> okay i guess we won't need to read the rest of this. <SS: LAUGH> just i'm joking, i'm just, (xx) alright.
+S5: let's call Leonard and take him out (xx)
+S3: what did he mean by this?
+S1: so what do you think? yeah, so
+S3: i think the, it's not, this the volition is not fundamental to the philosophy. i th- and we talked about last with John that there's, i- there's a metaphysical issue and a and a epistemological, issue and if we just consider volition in its epistemological sense, and not give into the metaphysics of it, then, [S1: no, but let's just talk about it ] cuz the argument, the argument that they, the argument
+S2: well volition is essential to the, philosophy cuz, how would you even have ethics without volition? [S5: yeah ] you're throwing that whole category out.
+S3: because it there's it's a mistake to it's a mistake to think that if a choice, is, if a choice is not, could have been otherwise choice it's just a choice, but it it had to be what it was, then, you just it's a mistake to think that like, we shouldn't put like s- for example people in jail because of determin- determinism is true, right? i mean that's silly.
+S2: why?
+S4: yeah (a lot of my,) important.
+S1: yeah
+S2: if they do what they have to do then wh- why, how how would you justify putting them in jail?
+S3: well there's other reasons, for putting people in jail [S4: because ] right? i mean, o- one thing is that it's a, deterrent. another thing is that it's, keeps 'em out of society and that
+S2: a deterrent what do you mean how do you [S1: i mean it, it doesn't ] anything. a deterrent can be
+S3: be- because of the laws of like conditioning and you know stuff like that. because it's not it doesn't mean that he's gonna do whatever he's going to do no matter what. it means, he's going to do what he's going to do, in certain circumstances so, punishing him is a circumstance that contributes to what he's gonna do.
+S1: here Rob let that go from, volition. let's let's look at the, oh.
+S2: yeah but aren't the circumstances
+S3: cuz we have (xx)
+S2: aren't the circumstances themselves determined?
+S3: yes.
+S1: i wanna look at, the identity
+S2: well then how can you change the circumstances?
+S3: what do you mean change?
+S2: the circumstances are going to be what they are it doesn't determine that
+S3: so it doesn't mean that they're gonna change right?
+S4: (right i mean)
+S5: i mean isn't, i mean maybe you can just say either or, and you haven't contradicted it. but,
+S1: that's why i'm trying to i'm trying to see, let's do let's go away from that [S5: yeah ] but wha- okay [S5: that works ] to identity, my claim was earlier what i said was identity was, that, if you have, two identities, you're not gonna have any identity right? so in the c- does this happen here where you have, basically two options, of characteristics, namely, two different actions, of a person. does that mean that therefore he has no characteristics?
+<PAUSE:06>
+S3: is it i think it's pa- i think it's, the same as saying, like if you start your argument with, in logic P and not P, then you can prove, just using the laws of logic if if you start with a contradiction, you can prove anything you want. so it, if you start with
+S2: yeah but you can't run into the (xx) axiom, (uttering a) contradiction.
+S4: yeah but if you start with something that's a counterexample to the, i think, i think what lies in here is that you're saying P and not P right? and so you're saying well, then it's not P or then you're saying well that's a contradiction but, okay. i think that uh, just because, the characteristics cancel themselves out or contradict themselves it doesn't mean that there's no characteristics but because, the fact that there are characteristics is a necessity for there being a contradiction. <PAUSE:04> is that not true? if there was one less, if there was one less um, what's the word, one less, if there was one less characteristic, then it wouldn't be a contradiction. [S3: so you're saying ] and so, if, [S3: what you said earlier about ] okay let's say, this is a mathematical argument you'll like this i know you will. <S1: LAUGH> okay, let's say, so what is X such that, X <PAUSE:04> has no characteristics but X minus one has a characteristic. so you take away any of those characteristics one of the two characteristics and no one will no one will deny that that feature does not have, a characteristic, or does have a characteristic excuse me.
+S3: so you're saying Erik was wrong earlier when he said, anything with, [S4: yeah i didn't think (xx) ] two or more identities must have no identity.
+S4: it, certainly not must have. it's
+S3: right?
+<SS: LAUGH>
+S5: i think something like two or more
+S3: that's what she's saying you're wrong right?
+S1: well, yeah but som- let's
+S4: yeah i don't agree with that, you just (xx)
+S2: you can have more than one identity.
+S1: no you can't that's the whole that's the whole point.
+S3: i know
+S4: he didn't say identity he said i i'm talking characteristics.
+S2: so that, saying, that if something has two or more identities then it's like it's saying it doesn't exist that doesn't, no i'm saying [S4: i didn't say identities, i said char- uhuh ] that's what Erik said earlier.
+S1: yeah that's what i s- that's what i'm saying.
+S2: well that, just by s- just saying, if something has two or more identities, well something can't have two or more identities.
+S3: so it doesn't exist.
+S2: but she's saying
+S4: but that's not, it's not a logically impossible thing. it's a logically possible
+S2: for something to have two or more, identities?
+S4: yeah it's not self-contradictory, it's just a
+S1: okay yeah i'll, i'll say (that.)
+S3: it is though the way we're applying identity
+S2: yeah.
+S1: how was your mathematical thing?
+S2: not to have two or more characteristics i i some- a something can have two or more characteristics but
+S1: yeah i'm not saying that
+S2: it can't have two or more identities
+S4: okay that's, we were talk we were talking characteristics and it
+S3: well i th- i thought you were say- [S1: no i'm not ] i thought you were assuming, that the conflict of characteristics were, contradictory. like you can't have
+S4: yeah i am.
+S1: oh you are?
+S4: yeah, let's say that the characteristics are contradictory right?
+S1: well then okay how do you do it then?
+S4: so, i have P and not P, and P is a characteristic right? so you have to find in order to d- or in order to say that there's, some- something with two, contradictory characteristics does not exist, you would have to agree with the following. there exists an X_ i've never taken a logic class isn't this great? there exists an X, such that, uh, there is something, there exists an X, with two characteri- i did it really well before.
+S3: yeah, [S1: (xx) ] there exists something, and if you take one of its characteristics away, then it no longer exists.
+S4: there exists, there exists something that has, [S3: characteristics ] that has no characteristics
+S3: that it's, no there exists something that has two characteristics, but if you take either characteristic away, [S1: yeah ] then it doesn't exist anymore. so it has one both one character and zero characteristics [S4: uhuh ] if you take one away. [S4: yeah ] so that's contradictory too.
+S4: yeah, [S1: what was it again? ] okay so there exists an X let me
+S2: but the problem
+S4: let me try it again.
+S3: but the two characteristics are P and not P.
+S4: let me try it again.
+S1: don't do Ps and stuff gimme, gimme just
+S4: okay, okay i can do it with a bunny ready, you want a bunny?
+S2: if if a, but that's the (xx) you said.
+S4: alright, [S1: go ahead. ] so i'm giving, my fist i'm giving my fist two properties. one that it's a fist and one that it's not a fist right? [S5: that doesn't, ] so, two characteristics, make it have zero characteristics right? [S1: yeah ] but if i take away one of those, <LAUGH> sorry one of those, one of those characteristics then it, it does have a characteristic.
+S1: that's true yeah, so
+S4: so that's logically impossible.
+S1: why is that impossible?
+S4: that it that it ha- it gains something by taking away that exact same thing?
+S1: gains something by taking away
+S4: it gains a characteristic, [S1: (xx) no ] when you take away a characteristic.
+S1: no why a- what's wrong, with that?
+S5: but if you have two contradictory characteristics
+S1: you're talking about a lo- you know, that's fine.
+S2: i think the problem is is that you're coming into the argument, stating a contradiction. and like you said earlier that's logically you can't do that. it's illi- it's illogical to
+S5: you can't t- what you
+S2: you can't even start something that cancel each other.
+S4: but you guys you guys the argument is about a contradiction it's not like i'm using a contradiction to prove an argument about a non-contradiction.
+S5: but i mean you're saying, you're saying that, s- start with, start with something, that doesn't [S2: but you're stating, you're starting with, a contradiction ] exist, because it's contradictory in, in and of itself, [S4: mhm ] and then take something away from it you can't take some- away somethi- something, that doesn't even [S2: from nothing ] exist.
+S1: yeah that's true.
+S2: you can't even say anything about, nothing.
+S5: cuz you're saying like, i mean it's not anything.
+S4: but but you can't just assume, you can't, that's your assumption right that's y- that's your theory that if it has two contradictory characteristics then it's not, i- then it doesn't exist. [S1: yeah ] you can't, use your theory as at the starting point to disprove my theory. then it's just like saying, well nuh-uh <S3: LAUGH> and uh-huh and nuh-huh it's the same thing. alright we didn't, no, <SS: LAUGH> i don't think, i i'm not doing a very good job
+S5: what is it, wh- how can you have something that has, i- it's one characteristic and then the exact, contradictory contradiction characteristic. how does that something exist?
+S2: if there's nothing and something.
+S4: okay i think that i think that i think i i can mediate by differentiating between logic impossibility, and like actual possibility. Rob would you be able to help me out on this or no?
+S3: no i mean
+S4: sweet lord God okay.
+S3: i mean i
+{END OF TRANSCRIPT}
+Please contact the English Language Institute with questions or comments.

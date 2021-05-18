@@ -1,0 +1,509 @@
+<PERSON ID="S1" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S2" LANG="NS" ROLE="JF, Instructor" SEX="F" RESTRICT="NONE" AGE="3"/>
+<PERSON ID="S3" LANG="NS" ROLE="JG, Graduate Student Instructor" SEX="M" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S4" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S5" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S6" LANG="NS" ROLE="UN, Unknown" SEX="M" RESTRICT="NONE" AGE="0"/>
+<PERSON ID="S7" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S8" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1">
+<FIRSTLANG> GUJ </FIRSTLANG>
+</PERSON>
+<PERSON ID="S9" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S10" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="SS" LANG="NS" ROLE="SU, Student" SEX="U" RESTRICT="NONE" AGE="0"/>
+<PERSON ID="SU-f" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="0"/>
+<PERSON ID="SU-m" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="0"/>
+
+
+
+
+S1: my, and then once i solve for X-two that's my demand, function for X-two or
+S2: that's your specific, choice given this income and price, if you wanted it to be a demand function then you wouldn't have plugged in the number twenty-four here you would have an N there, [S1: mhm ] and you wouldn't have plugged in [S1: so is it ] the numbers one and two, so if instead of plugging in a one, for this and a two for that, and then twenty-four for that, [S1: mhm ] if you c- carried around, P-one P-two M P-one P-two.
+S1: is it better to do it that way? (xx)
+S2: in general? [S1: mhm ] um, probably. because unless you're asked for the specific bundle, you're gonna hafta rework your math, and stick in a new set of numbers.
+S1: okay so this gives me the specific <PAUSE:05> demand for that for X-two right?
+S2: right. so that gives you, that specific point. if you're asked anything but what is the specific point, you're better off working it general. [S1: okay ] because then
+S1: maybe that's where i'm screwing up (i don't know.)
+S2: okay so if you don't plug in the numbers, [S1: mhm ] you'll have_ this'll be a, set of one and it'll be a P-one and [S1: right ] a set of two that'll be a [S1: it's gonna be a P-two ] a P-two, and then you gotta put the, notation back in the budget (xx) <PAUSE:08> but if you cross multiply here you can still make a simple substitution.
+<PAUSE:12>
+S1: they're just gonna equal each other so that's gonna be like, P-two X-two plus, P-two X-two, equals M.
+S2: exactly now solve that for, X-two and you'll have a demand function.
+<PAUSE:10>
+S1: okay now i know where_ i think maybe that's where i was screwing up i was st- trying to put the numbers in and i wasn't getting the demand like
+S2: exactly. [S1: okay ] and now if you scratch it out (right?) (cuz you) divided by, [S1: right ] and now if you put in the number, twenty-four and two you'll get exactly what you were getting [S1: thi ] right down here.
+S1: see and i knew it was a dumb mistake but it's like you know when you look at it for so long it [S2: mhm ] just looks like a mumble jumble it looks the same okay so
+S2: this will give you a number but not a function.
+S1: okay... (xx) function.
+S2: but it's because you stuck in, [S1: the numbers ] the numbers.
+S1: okay so, you know what then i think i'm fine because that's where my big problem was so i'm gonna, i might be back tomorrow but, [S2: <LAUGH> okay ] i think that's where it is like i woulda stuck there, bec-
+S2: you wanna work through another one, just in case?
+S1: <LAUGH> no because i, i knew it was something dumb and that's probably what it was. i really i ju- really think that's where it was cuz i feel like an idiot right now. <LAUGH>
+S2: no so if the question says this is the hardest part of this <S1: LAUGH> if the question says what's the, choice. stick in the numbers right away you're just computing a set of numbers. [S1: okay ] but if the question says, you have this price now you have this price, what happens? what's the difference? [S1: mhm ] then don't stick in the numbers because you're gonna hafta do it, twice see what i mean? [S1: yeah ] so you're better off getting a general equation and plugging in two different sets of numbers. (xx)
+S1: because then you can always go back to the other one.
+S2: and this is the Cobb-Douglas demand that i keep talking about. it's [S1: okay ] (xx) times some of the exponents times income over (price.)
+S1: so this, for this Cobb-Dub- for this Cobb-Douglas this is always gonna be like this? is that wh-
+<PAUSE:05>
+S2: and then w- wh- what i did in lecture is i, took it one step further and i said if this is X-one to some power C, i didn't do it in lecture i did in section X-one to some power C, and X-two to some power D, [S1: mhm ] then you could work through the algebra again but you'd get something different you'd get, C over C plus D times M over P-two. [S1: so ] but that's worth knowing.
+S1: X-one, X-two (xx) so it's gonna be, C plus D over
+S2: for d- demand for X-one, is equal to C over C plus D, times [S1: then X ] times hold on M.
+S1: oh times times M yeah
+S2: over P-one.
+S1: over P-one. and then X-two is gonna, D over D plus s- no. yeah.
+S2: yeah D over C plus D
+S1: yeah D over, C plus D times N P-two.
+S2: right [S1: okay ] and then if you look here, [S1: mhm ] here C is one and D is one so [S1: so ] there's your one-half.
+S1: okay, that makes sense.
+S2: but don't use N if it's not Cobb-Douglas.
+S1: right. actually maybe can we go through one that's not Cobb-Doug- [S2: mhm ] Cobb-Douglas? um okay
+S2: number two wasn't Cobb Douglas.
+<RECORDING-RELATED QUESTION>
+S1: oh okay. like for the Ambrose ones
+S2: mhm... so this is actual- i- it's asking just what you wh- what we've been doing together demand function [S1: okay ] but it's a different, utility function.
+S1: so that's
+<PAUSE:27>
+S2: so first thing you do draw a picture... and you don't know the prices so just make some, downward sloping budget line. [S1: mkay. this is what i want ] and the only thing is on_ we have to be a little careful cuz we know that, this is quasi-linear so the indifference curves actually, curve but hit the axes. <PAUSE:12> so if you wanna_ here let's a... this is one thing that it sounds like i'm being picky [S1: mhm ] but you really have to be careful about this cuz this is subtle things that are gonna matter later. [S1: okay ] so you wanna get more, like that.
+S1: more curved for the quasi-linear
+S2: yeah cuz the quasi-linear's shifted straight up so you wanna be sure that you, you're looking kind of like that.
+S1: mkay. so <PAUSE:14> so it's just gonna be, adds two
+<PAUSE:16>
+S2: okay and then you can just solve for X cuz there's only one variable in there so you can just solve for that X-one, and you're done.
+S1: how h- wai- how do you, just come up with that so fast like, [S2: well ] there's a line [S2: two is a number, (xx) ] cuz all these X-ones are already in here and i'm trying to_ right cuz these are our constants.
+S2: exactly and there's no X-two in there. [S1: okay ] whereas if you look back at your Cobb-Douglas, your both equations had two variables and your tangents equation (xx)
+S1: oh okay, so i can divide this by P, one, and then square it, [S2: exactly. ] and that equals, X-one now. [S2: right ] and that's my demand for this function for [S2: mhm and then ] X-one and that's not as specific.
+S2: if you had prices, you can put 'em in, [S1: then you just, plug 'em in ] but notice it doesn't even depend on income.
+S1: okay, so how would i, get X-two from that though?
+S2: you'd need your budget line. <PAUSE:04> so you can see P-one X-one is equal to two P-two, and you can [S1: oh that okay ] substitute that into (xx) which is what this problem asks you to, do.
+S1: okay. sounds good. alright i
+S2: so they're all a little bit different.
+S1: right [S2: (xx) ] it's just a matter of lo- looking at it and playing around with it to get the X-one.
+S2: but the big thing this one it says, you always want the same amount of X-one it doesn't depend on income so you get, that income offer curve that we've been talking about, [S1: mhm ] but if income falls you're on the boundaries so there's all these little subtle things built into the picture that you want to be sure, um that you understand so when you get the math you know what you're looking at. [S1: okay, alright ] that's the other thing that you get this and you say oh i know that because that's quasi-linear so it has to be a constant and there we go.
+S1: okay. thank you very much for your time. i appreciate it.
+S2: mhm. so i will see you tomorrow in class?
+S1: tomorrow in class and, bright and early
+<PAUSE:06>
+S2: and w- work with some more of those i mean the big thing, [S1: yeah i'm going to tonight. (xx) ] before you go to the math look at the picture because the math can be really simple, [S1: mhm ] or it can be more complicated depending on, what the picture tells us
+S1: okay, yeah i will i'll i'm gonna go through a lot of 'em again, so thank you.
+S2: mhm. <PAUSE:08> hi were you waiting to see me for office hours?
+S3: um, yeah i'm a G-S-I.
+S2: okay. [S3: i just just to make sure ] no you're who are you?
+S3: Andrew
+S2: Andrew you're, sitting in our meetings that's why you [S3: yeah ] look familiar.
+<S3: LAUGH><RECORDING-RELATED CONVERSATION>
+S3: um, Friday, [S2: yeah ] i'm not going to be able to be at lecture, (xx)
+S2: so we'll survive. yes.
+S3: and um, also this sounds even worse today this morning i wasn't here for lecture, and i just wanted to, (xx)
+S2: uh'oh you missed my best lecture of the term.
+S3: was it really the best? <S3: LAUGH> my alarm didn't go off.
+S2: let me show you what we did real fast. uh'oh, see i i can't see people i leave Emma, responsible for that.
+S3: yeah she caught me.
+S2: she caught you?
+S3: well i i had to talk to somebody ask uh Shari about something so
+S2: okay, so you need to_ the thing is, let me_ why don't you come over here where you can see the computer Andrew, and help me recognize all my G-S-Is and i'll be in real good shape there's too many in there you know that? [S3: yeah ] people start to blend by the end of the semester i'm doing <S3: LAUGH> really well though. [S3: that's alright. ] um <PAUSE:04> okay so that you don't need to know about what we did, is run through a bunch of examples at the beginning this was uh the great plains states in nineteen ninety-seven and their um in response to demand for labor their wages were going up faster than, other parts of the country and the explanation was that labor force participation rates were already really high and there just weren't more people to work, so what does that mean? here are some perfectly elastic but relatively, inelastic supply compared to the rest of the country and you'd expect their wages to go up more. [S3: mhm. ] okay so that was that example. this one was um President Clinton was trying to i- increase the price of beef, and here it is if you want a targeted price increase how much does demand, need to go up by? it depends on supply elasticity and you can see, supply is relatively even more elastic in this the larger demand shift is needed so that, and then i s- was stressing again that the, increase in demand is the, distance moving right, somehow they wanna go from here to here and say, that's the increase in, demand.
+S3: oh okay i see what you're saying.
+S2: then we went carefully over incidence, um reminding us what the tax is and, we have elastic inelastic and by the time we got done i had put, all this stuff up [S3: (xx) to see ] so they could, re- remember what, um, consumer expenditure is what supplier, revenue is what the tax is.
+S3: yeah (xx)
+S2: compare E to E-prime, hi how are you be with you in just a minute. [S4: hi Professor Gaston okay great. ] compare E to E-double-prime, um compare E-prime to E-double-prime for any of the things we'd ask about, whether it's expenditure or, (spiralling) tax, and then we did the same thing only, this was the one extreme case we did, uh what if we had perfectly inelastic, demand? and i told them they should look at the other three, [S3: mhm ] extreme cases. then we did the same thing for supply, and reminding them that the same straight upward shift for the tax doesn't look the same, here, um and again we could compare E to E-prime E to E-double-prime or E-prime to E-double-prime but the one, interesting thing we noticed here is that, whether the big green rectangular big purple rectangle's bigger is gonna depend on price elasticity of demand not on any characteristics of these, supply curves. and i told them they should practice redrawing these because it shouldn't look like, muddles of lines they should see things in here. [S3: yeah, (xx) <LAUGH>] um... but if but if you i mean if you look at what i did with it it's going piece by piece [S3: right ] so, it's not as bad. okay. then we went back and reviewed, what we had done before with um, uh that we'd seen, the idea of relative elasticities so this was our, relatively elastic inelastic, uh talking now about, the cigarettes and what we did before was compare the green to the pink and green to the green but now we're comparing the pink to the green so, um, this was, what i wanted to get to. the last fifteen minutes was a, big generalization of, what we're doing for the rest of the term. and i gave some examples and explained what we're doing but, broadly defined well-being as total benefit minus total cost. um then you know what is it for the consumer? what is it for the firm? but, what we do is, examine the current situation consider a change and look at the impact, and define marginal benefit and marginal cost, so for a consumer this would be marginal utility for a firm it would be marginal revenue for government programs it would be marginal benefit. um, and notice that the change in well-being is just the change in benefit minus the change in cost, and, then they seemed to be following. then we get to our conclusions, um, [S3: i know a lot about optimization. ] yeah. <S3: LAUGH> but they they seemed to be understanding it and i went through you know why would I-B-M have the, Russian, uh chessmaster duel with the I-B-M machine that costs them five million dollars. why because they got a hundred million dollars in free publicity. [S3: yeah ] benefits bigger than costs do it. so and we had already done the F-D-A analysis so this was this and the one thing that's a little hokey, is, when they're equal but what i always say is if they're not equal it means we're out of line and, you can improve, [S3: right ] and this when they're equal if you've had calculus it's a first order condition if you've haven't it's a, (sandwich theorem.) but the slopes work, so we're going towards that. <PAUSE:04> so this isn't in the book but what i decided after teaching for a couple years this class for a couple of years is that we needed a nice general, framework at the beginning, [S3: yeah ] because this works for, i mean for anything we talk about if you interpret the benefits and costs, [S3: yeah ] correctly, given the situation, uh this works. <PAUSE:07>[S3: uhuh ] so what we're gonna see pretty soon is looking at the ratio of the marginal utilities and comparing it to the ratio of the prices of the goods for consumers.
+S3: yeah, okay... alright that makes sense.
+S2: and that's that's it for today so, we're gonna pick up on, on consumer choice and what we'll get to is this, um conclusion, but we won't explain it very well so we won't have indifference curves, [S3: okay ] to explain it.
+S3: so it's more intuitive than, [S2: exactly. ] rigorous?
+S2: exactly more intuitive. and a lot of the time we'll be just be doing what's in the (xx)
+S3: yeah. [S2: very ] which is not hard to understand.
+S2: right. the class was good they were mostly there and they seemed to be, following so
+S3: yeah they seem, they seem to be pretty good, all the quizzes that i have (have been,) fine, so far so
+S2: good. good good. so yeah. they actually, uh, we'll we'll have to watch for the exams and see what happens after the first exam but up until now, i've been amazed even Fridays we get pretty good attendance and today we had people on the floor again we had seats this is the odd thing <S3: LAUGH> is there's seats in the auditorium but there's people who come in, and sit in the back instead of going to the seats.
+S3: i think people are shy about, like walking in, you know while you're lecturing [S2: mhm ] and looking for a seat and, there's always ones in like the middle but [S2: right ] no one wants to climb over [S2: right ] everybody and, if they you know
+S2: so here's the incentive to come on time right?
+S3: yeah yeah they_ i come early. (xx)
+S2: but what on uh Friday if you want to, see what i go, over, um you could even come in, you know, earlier than Friday or after Friday whichever, [S3: yeah ] works for you, [S3: yeah ] we'll just run through the, slides
+S3: yeah maybe um, Wednesday. sometime.
+S2: okay email me so i w- we can be sure i'm not in class. [S3: okay, thanks ] but i i have class until two and then i'm pretty free after that
+S3: okay, i sh- hm.
+S2: w- well think about it [S3: yeah yeah ] and talk to me today how's that? [S3: okay, yes ] i'll see you, later today. [S3: yeah ] at the meeting.
+S4: hi Miss Gaston, [S2: hi ] i'm in your uh section for class my name's Simon
+S2: hi Simon
+S4: um i have a question about um, my econ major i'm gonna, study abroad at uh, University of New South Wales [S2: okay ] and i kinda wanna know which uh courses are acceptable.
+S2: you're in four-oh-one right now? [S4: yes. ] and i assume you've had then one-oh-one one-oh-two [S4: mhm ] math one-fifteen, [S4: mhm ] are you in another econ course right now?
+S4: three-twenty
+S2: and you're a junior?
+S4: yeah.
+S2: so you're right on track. [S4: okay. ] okay, so the the big_ this is just a semester program (xx)
+S4: yeah uh winter semester uh
+S2: this is through Beaver?
+S4: it's through U-of-M, here
+S2: through U-of-M? [S4: yeah ] okay.
+S4: yeah so like um, i mean there's, i guess this is four-oh-two macro-economics
+S2: macro-economics two. why do they have a tw- um the person will have (xx)
+S4: like if i take it there would that cover my four-oh-two requirements?
+S2: yes that's [S4: it would ] fine. is this your book?
+S4: yeah it is yeah.
+S2: hold on i just lost your, stuff, what i was going to do, is write in it. <PAUSE:04> okay.
+S4: um and like, would
+S4: basic_ let me tell you our basic criteria first you need to take four-oh-one here, [S4: mhm mhm ] which you're doing, um you need to take half your econ major here, [S4: okay that's not a problem. ] um, so were you just planning two econ courses there? [S4: yeah ] yeah so.
+S4: well actually only one [S2: only one? ] and uh
+S4: yeah yeah. um
+S2: really no problem. and then, you need to take one of the courses that has a four-oh-one or four-oh-two prerequisite physically if you're in Ann Arbor [S4: okay ] so that's, so one term abroad is absolutely no problem. [S4: okay ] if you, wanna take four-oh-two that'll do it, [S4: okay ] what we look at is prerequisites so any of these courses, that say, they're taught in the econ department, [S4: mhm ] they say econ like two-one-oh-three, [S4: okay ] and it has a prerequisite of econ one-one-oh-one which is, [S4: i guess one-oh-one ] one-oh-one one-oh-two fine we'll count it. [S4: okay ] so that's what we look for it has to have an econ prerequisite, [S4: okay ] it has to be taught in the econ department, fine. [S4: okay alright that's ] so this looks good this looks good that looks good that looks good, where you have to_ any and all these look good, where you have to be careful, is some of the, other universities have what they call economic history, departments, [S4: okay ] and it'll say no previous econ required, [S4: oh okay ] so it could be, economic history yet, without any kind of prerequisite and those [S4: okay okay ] we won't count. [S4: okay ] so any_ i- it looks like you'll have a ton of, choices here any of those have at least, a one-oh-one or one-oh-two [S4: okay ] prerequisite so this whole page would be fine.
+S4: okay great. yeah that's the only question i had because i, i have to figure it out by the end of this week whether or not i'm gonna go through with it or not.
+S2: and then if you only take one econ course there you'd need five coming back your [S4: mhm ] senior year.
+S4: that's fine like uh, i mean i was planning on taking uh four-oh-two i guess, my senior year, but uh i might just get it ov- done with like there i mean (xx)
+S2: oh but you know what i would, probably do, is look at something you can't take here, [S4: mhm ] i mean you can take four-oh-two here unless_ i i always think it's interesting abroad to take something about, where you're going, [S4: yeah yeah ] so if there's something about Australia or about Southeast, Asia, um, that might be interesting to sort of.
+S4: yeah well i mean i was also planning on taking more like, financial courses there cuz like, i'm i'm not in the B-school here so, if it's possible i might just take those courses there [S2: yeah ] like Asian markets or something like that.
+S2: okay, but then and then you could just take a standard econ this one, has Australia um, world trade trade and services, trade theory, that is certainly a perfectly fine, [S4: okay ] econ course but it's focusing on trade in Australia and the global market so that might be, i mean that's certainly something, focusing on Australia that you [S4: yeah ] won't see here so that might be kind of fun, [S4: um (xx) ] except that it might be kind of fun but it has a, one-one-oh-four, as a (xx) <PAUSE:04> looks okay one-one-oh-two or one-one-oh-four which isn't here so it's [S4: yeah ] just an intro prerequisite you're still okay.
+S4: um, one more question, since this is through uh U-of-M do you know if th- the grades transfer also or?
+S2: ask, (xx) someone at O-I-P. [S4: someone at O-I- O-I-P okay ] um some ti- some programs yes some no and [S4: yeah ] i don't keep track.
+S4: yeah, okay i guess i'll, find out on that but that's basically it. but, thank you, um (xx) [S2: uhuh no no fou-oh-one questions? ] not really i'm just gonna go study for the quiz right now. [S2: good idea ] um what are the um, what is the quiz gonna cover over like chapter six through
+S2: it can be anything chapter five six eight or nine, which is what we've covered the last two weeks. [S4: okay. ] or i mean basically the material's so, um
+S4: it's very similar like it's just, progressing
+S2: yeah exactly so you, probably have to know things from two and three and four [S4: okay ] to do things in [S4: yeah ] five and six and, [S4: yeah okay alright ] eight and nine.
+S4: thank you. i'll see you in class.
+S2: uhuh see you in class Simon. <PAUSE:14><TALKING ON PHONE NEXT 7:05 OF UTTERANCE> hi Steve. would you_ can you talk about homework? okay so, um, question number one is the Browning and Zupan that should be fine for tomorrow (right?) <PAUSE:05> their the assignment for chapter twenty-nine is on the web... yes. so if you go to the course website, it will, say_ let me go back and see what the link says. the link says, uh assigned problems on course website. under problems. <PAUSE:19> or f- yeah that's why it didn't work. fall zero-zero. <PAUSE:13><LAUGH> having a good day? why am i bugging you? how co- <LAUGH><PAUSE:05> oh. <PAUSE:05> yes... chapter twenty-nine. yep <PAUSE:19> so number one for tomorrow? no. um i think we can do, the we can do the M-R-S and and looking at Nancy and Sally, were_ you're gonna do contract curves right? so what we can't do is compute the competitive equilibrium price ratio correct? so we can plot a contract curve but we can't, actually solve for the equilibrium? <PAUSE:05> so could we do through D? <PAUSE:17> correct. i s- i think we can do through D. <PAUSE:39> right. right yeah we can do more than that on two i thought through D though. so we can do one we can do two A through D, and we can do three, A and <PAUSE:06> no it just says, how is_ um <PAUSE:04> yeah it's just A though maybe we should put that off cuz it's hardly any of the problem. so Nancy and, Linus, uh we were asked again the M-R-Ss again the contract curve, compute the common om- M-R-Ss, so we could do, A through C on four, and then, did we want to assign some of the workbook as well? we've got one two five and six, in the workbook... please <PAUSE:44> so what you got down there? <PAUSE:09> right but we can go through B without getting to it? <PAUSE:07> one A and B and then two we can do the whole thing. <PAUSE:06> five we can't do anything the way it's written <PAUSE:11> uh six is just talking, so six we can have <PAUSE:10> so one, two on the, assignment A through D four A through C, workbook one A and B two and six and then say, the rest um, highly recommended means assigned, and the rest for <S2: LAUGH> Thursday. what's your afternoon like? after class. <PAUSE:05> i just need probably ten fifteen minutes. <PAUSE:07> okay. okay cuz there's just a couple things i wanted to_ i read through your comments, and there's just a couple things i wanted to talk to you. okay? yes we'll write it up and anyone not in class_ a- actually it should be okay because, it's Tuesday so they'll be in class and then we can put up again just, leaf back to it and put it up again, before the quiz so they should all see it. <PAUSE:05> okay? see you at one, bye.
+<PAUSE:19>
+S5: Nan?
+S2: hi.
+S5: hi it's your office hours right now right?
+S2: yeah nobody's here [S5: okay ] come on in. i'll be right with you. [S5: okay ] um, how are you doing Silvi?
+S5: pardon me?
+S2: how are you doing?
+S5: uh i'm okay, how 'bout you?
+S2: oh keeping busy. um, lemme just brush this up and we'll be fine. <PAUSE:21> there were some students here, earlier.
+S5: oh were there? they
+S2: there weren't many though. they haven't figured this, out this term.
+S5: so when you um
+S6: excuse me do you have, a um, directory for the campus? i'm looking for a guy named Joe Krachek in the high C highly interactive, computer technology group, so far i've been to every building (xx)
+S2: i don't think you're in the right building. (xx)
+S6: no i don't think i am either, but she said across the way i was over in the Education Building
+S2: the scho- the Business School?
+S6: no wh- i've been there, i've been to the Social Work
+S2: have you been to the Business School there?
+S6: yeah i started there.
+S2: oh. <SS: LAUGH> i don't know.
+S6: let me see, (xx)
+<PAUSE:08>
+S2: (i don't think it's in here) and that's all i know.
+S6: no. well he used to be back over there on the first floor. and he moved <PAUSE:05> see if i can get (xx) <PAUSE:17> it says, huh. are are these, home, like (modem)
+S2: yeah this is, this is last fall. [S6: this fall? ] so where? [S6: no? ] no it's a year old. [S6: oh. ] where is it?
+S6: they've got twelve twenty-one A S-E-B.
+S2: so that's School of Education.
+S6: bu- yeah they're not there now. i know that, cuz his hi- his room number's fourteen, fifteen.
+S2: uh, i have no idea what happened. would somebody in the School of Education know cuz they were in that building?
+S6: they sent me over here. <LAUGH>
+S2: wrong building.
+S6: <LAUGH> i mean they sent me across the way, shit.
+S2: do you think he might have the same phone number?
+S6: i don't know. can we try it?
+S2: yeah. what is it?
+S6: uh, zero one two, seven four one nine.
+S2: can you reach it?
+S6: yeah sure... nope he doesn't. uh, let's see if they've got, how about like, units like th- the group?
+S2: that's all i have. you might check with the department office upstairs [S6: where's that? ] in two-thirty-eight and see if anyone up there [S6: okay thank you. <LAUGH>] knows anything.
+S6: what is this building?
+S2: this is Lorch Hall. [S6: yeah ] this is the economics department.
+S6: economics department. thank you.
+S2: <LAUGH> okay
+S5: <LAUGH> alright i have lots of really, i m- i can do homework assignments mostly [S2: okay ] (in the book,) but it's to like grasp the concepts, i don't know, like when there's not numbers in 'em you know like the, say income offer curve, if you don't have exact numbers, it's just, giving me a little bit of trouble but, [S2: so you wanna work through one of 'em? sure. ] (the reason why i'm) asking (xx) questions well, let me just start with this one, like what if you have perfect substitutes and P-one equals P-two? what would the income offer curve look like?
+S2: oh tough question. tough question. okay so we've got perfect substitutes, [S5: i mean i know what it looks like ] and, [S5: P-one equals ] they're one for one perfect substitutes?
+S5: right so it's on the budget line.
+S2: and so there's indifference curves... and there's, my shifting budget lines...
+S5: so it's just like a bunch of, lines?
+S2: yeah. it's the whole thing. [S5: it's the whole thing <LAUGH> alright. ] it's the whole space there is no, line.
+S5: okay yeah, <LAUGH> alright that makes sense. alright and, main, kind of preferences i'm having trouble with are quasi-linear. [S2: okay ] well let me_ okay (xx) <PAUSE:04> (xx) okay. how do you know when this i- this point is where it goes there?
+S2: well you know, when you have quasi-linear preferences that the, tangency equation will let you solve directly for your optimal amount of X-one
+S5: unless, it goes negative and then it's (xx)
+S2: yeah. so that's exactly when that is. [S5: okay ] so, [S5: this is hard ] right here is your optimal amount of X-one, [S5: okay ] and the income corresponding to that, if if i mean if that's sixteen and they each cost a dollar, it's P-one X-one or just, sixteen
+S5: so why is there no income offer curve?
+S2: i- because it's a typo.
+S5: okay, that's what was totally confusing me.
+S2: let's try doing that.
+S5: okay thanks. <LAUGH> and um
+S2: see you're in better shape than you thought right?
+S5: no, <LAUGH> i don't know.
+S2: cuz th- this section corresponds to
+S5: (xx) and th- what is that M over P-one or something like that? [S2: mhm ] okay. and, okay let's go to um <PAUSE:10> okay what about, what if the prices X-two is greater, or P-o- P-two is less than P-one?
+S2: then you're up here
+S5: well what about for this income offer curve?
+S2: then it would just be, only X-two. [S5: okay ] (xx) so it would be that, there should really be a, dot here.
+S5: dot there okay. and then <PAUSE:04> and so i don't really, get that. why don't you demand, more of X-two? and
+S2: because it's not getting cheaper. so if you can buy ten units of X-two,
+S5: oh this is with the price of X-one change.
+S2: exactly.
+S5: okay. <LAUGH> alright. and, uh, what if, this is back to this kind of thing again, [S2: okay ] what if you have P-one equals P-two... to start out with, and you have perfect substitutes um, what if it changes to P-o- i know like the, if it changes from P-one is less than P-two to P-one is greater than [S2: mhm ] P-two i know the sw- they switch boundaries or whatever, [S2: right ] this is one of those income, effect and substitution kind of questions um, what if you start out with, one of these, solutions and then, you go from, (xx)
+S2: hard question. [S5: one is greater then (xx) ] where where are we going to start out consuming both goods on one of these? and then the price changes?
+S5: i guess yeah but yeah (xx)
+S2: (there's an) income and substitution effect. hard question.
+S5: alright (xx) but what about_ so if it's if it's at one of these boundary, ones then it's just, then it stays on this side then it's just the, income effect [S2: mhm ] right? okay.
+S2: mhm i had um, a question on an exam, many_ several years ago, and, you couldn't answer it, in the case of um, perfect substitutes with a budget line having the same slope, exactly the same slope as, the indifference curves. and i had a student during the exam ask me about that. [S5: oh yeah ] and he uh, boy he aced that class not only that he went to Stanford he transferred. <SS: LAUGH> that's a good qu- question but what what happens if you have um, an initial situation, and let's see if the consumers_ here so this is the original choice. [S5: okay ] and then, this is blue is budget... so good one gets, cheaper, and the consumer moves, out here. right? [S5: right ] so then you say what part of_ that's our C what part of the change in demand is due to the income and what part's due to the substitution effect? so you take the, new slope, through the, original, choice right? [S5: right... okay ] and where's the best choice?
+S5: well, <LAUGH> oh right here.
+S2: right here so i put my, B there, A to B is, [S5: substitution ] B to C is, [S5: income effect okay ] there's both, [S5: huh? ] there's both there
+S5: okay yeah, that makes sense
+S2: if you're consuming both goods, initially. and that is a, exception if you stay on the same boundary, all income if you switch boundaries, (also a substitution) [S5: okay, that makes sense, okay and ] this would make a very hard question.
+S5: and the other one is what if you're on, a bump? okay it says in here that, the, quasi-linear preferences, [S2: mhm ] i don't know where it is in here but it says that, no matter what it's all, income_ or substitution_ there's no substitution effect right?
+S2: that's all, substitution effect (xx)
+S5: oh it is i don't remember, yeah that's probably what it says but what if you start out on one of those?
+S2: on the angle then there's an income effect, [S5: okay ] and no substitution effect, opposite.
+S5: okay. cuz it just_ the book made it sound like it was all <PHONE RINGS> (xx)
+S2: right so that has to be you have to qualify that, with the fact that you're in this part. [S5: right ] i mean th- uh there's some times in the book where you do have to qualify things. <PHONE CONVERSATION NEXT 3:38> hello this is Nan Gaston. yes. Russell was trying to get a hold of you, about the car. you what? are you at work? good idea. <PAUSE:14> hi. i i cannot tell you what number is on that, but i can tell you what the policy is, and they might have it by your social security number. um well wait a second... the policy... you still feeling bad? <PAUSE:05> it might be allergies. um <PAUSE:06> well it might be mono. ready? um your member number is one two, three four five, six seven eight nine one, and it should be pro-... four five six seven eight nine one, and then there sh- there's a last number that i believe is four. <PAUSE:04> no. it's the same as mine but mine's one dad's two yours is Russell's is three yours is four. and you want to call Briarwood family practice, it's nine nine eight <PAUSE:05><BACKGROUND CONVERSATION NEXT 1:00> green. <PAUSE:05> yeah... no it's covered. <PAUSE:07> well K-Mart should have you on file, with our credit c- bring it to K-Mart. well take it away from them and bring it to K-Mart because, i have, because we are on file there. Maple Village. either that our you have to get the, card which i have and you probably don't have. i would think so you can call them and ask. or ask if they can get the info from me. <PAUSE:05> that's it... what? it's called M-Care... and you need to go to the doctor. <PAUSE:04> where? yes... the, Briarwood should have your hospital number. okay? and you should go to the doctor if you're not feeling good. dad's home. yep, he broke his foot. yep, he stepped on a black walnut. <LAUGH> no with tennis shoes on. but uh, you need to get to the doctor and, uh get a hold of Russell. six weeks. yeah, <LAUGH> yep... i don't know. <PAUSE:05> i don't think so... talk to you later, bye.
+<BACKGROUND CONVERSATION>
+S7: what did you guys already talk about?
+S5: lots of different things, [S7: oh okay ] um what are you going to ask her about?
+S7: oh just the practice exam.
+S5: oh okay i was gonna do that in a minute so. <S5: LAUGH>
+S7: (xx) a lot of this stuff through the homework.
+S5: is it? [S7: yeah ] is it pretty easy?
+S7: no i wouldn't call it easy. <LAUGH><UNINTELLIGABLE SPEECH>
+S5: i don't know, for this one no that's later and i, it hasn't even come up yet. the other one (xx) probably have to.
+S7: (xx)
+S5: i know.
+<BACKGROUND CONVERSATION ENDS>
+S2: okay. (we're gonna start) hey i've got a crowd why don't you, grab a chair and join us. your name is?
+S7: Kimberly.
+S2: Kimberly and you're?
+S8: Janki
+S2: Janki. [S8: yeah. ] (xx) there's a chair over there. [S5: oh ] i've got one more over here that i can bring.
+S5: here i'll switch chairs.
+S7: oh okay.
+<PAUSE:08>
+S2: okay looking at workbook, things, (xx) [S5: you're going to go around ] rotate rotate that's what i can do go around_ did you get that what i was talking about on the slope?
+S5: yeah i did.
+S2: okay. you have (one of) the old exams?
+S7: okay i have a question yeah. from the first one, [S2: mhm ] number thirteen. cuz i thought it was just like the, mama bear problem
+S2: it is just like the mama bear problem uh um why don't you grab a chair somewhere, Matt and join us. [S7: and the ] this is the first day i've had people in office hours this is exciting.
+<SS: LAUGH>
+S7: we're scared.
+<SS: LAUGH>
+S2: i mean i mean more than, Matt's come [S9: alright ] before but more than i didn't mean people i said peop- instead of a person. [S9: yeah yeah yeah whatever whatever ] <SS: LAUGH> i've had a person before.
+S7: okay um, so i set up their, the different people's, preferences [S2: right ] and then, uh i came up with A because if, Charlie, Charlie wants milk chocolate to win. (xx)
+S2: this is a, a hard question.
+S7: oh is it? okay. i don't understand
+S2: okay. the key is that they're sophisticated voters. [S7: okay so ] so if Charlie wants milk chocolate to win and you said he would pick what? light dark and then milk
+S7: i said that he would, right.
+S2: so watch what happens if light goes against dark, [S7: okay ] and then, the winner goes against milk, and what we figure is Charlie likes milk best and that's gonna win. [S7: right. ] but light against dark light against dark light against dark the problem is, that, person A, Abbey likes milk least, [S7: mhm ] and Abbey's gonna realize, this and vote in a sophisticated way, so instead of voting for light on the first round he'll vote for dark. [S7: mhm ] so, dark against light, dark wins, um dark wins dark wins. [S7: okay ] then dark goes against milk, dark against milk dark against milk and dark wins, and Charlie's just gotten this last. [S7: okay. ] so, the, one w- with sophisticated voting the person who's going to get their worst outcome, [S7: mhm ] will vote, wrong on the first election.
+S7: okay who's going to get their worst [S2: yeah ] outcome okay.
+S2: so this isn't going to work but if you look at, i mean what i would do is run through the three here, <LAUGH> um or we could figure it out by going backwards [SU-f: mhm ] if we do milk against light, so milk against light milk against light, um you would think milk would win, and then milk against dark you would think that dark would win and then you say but Charlie gets his worst. [S7: okay ] so Charlie could [S7: so ] throw it and get his second so that's not a good answer. [S7: okay ] so milk against, dark, um milk dark milk dark, dark wins, dark wins dark against, light, dark light, so it looks like light wins, so person B gets his worst so he's gonna throw the election. let's try this one more time.
+S7: okay [S2: uh ] so this is with the sophisticated?
+S2: with sophisticated. [S7: okay ] so milk dark milk dark, but person B is gonna throw it, [S7: (xx) ] so milk is gonna win. [S7: okay an- ] so milk against light milk, [S7: will win ] will win, so the answer's C.
+S7: oh, that's really (deep.)
+S2: yes. [S7: wow ] that was about one of the harder questions on that [S7: okay ] exam, and the funny thing is that everyone just raced over it and said oh this is easy.
+S7: i know i was like this is like mama bear, i [S2: yeah ] know this one.
+S2: and it is but it's the sophisticated, [S7: okay, thank you. ] voting, which is why it's hard... (xx)
+S8: oh i had a question about the angle curves [S2: okay ] (xx) three G.
+S2: like what are we doing with them?
+S8: yeah... cuz i understand we did that Twinkie one before that right? [S2: correct ] for angle curves, but this is the one with, i don't have
+S2: angle curve on, this. [S8: yeah ] so, what do you see is_ the on- the only thing we can know because we don't really have numbers to go with this, [S8: uhuh ] is what's going on when income goes up
+S8: okay, and you don't have to j- go by numbers you just draw a sketch that you
+S2: right. [S8: okay ] exactly. [S8: okay ] so all we can see here is when income goes up, from, F to C the consumers wants, more [S8: less uh ] uh less sorry [S8: okay ] okay <LAUGH> it was going o- i'm looking upside down. [S8: alright <LAUGH>] i should look right side up. <S8: LAUGH> the consumer wants less meaning, backward bending, [S8: (xx) curve ] angle curve and that's all we can say here.
+S8: okay and you can do one for X and one for, Y angle curves separately [S2: exactly ] income versus
+S2: and then if you're looking, [S9: Y would give you positive ] if you're looking at Y exactly [S8: positive ] it goes up so it would be sloped positively [S8: okay ] exactly. if you're looking at X it goes, downward. but we can't know anything concrete here. Matt then we'll come back to Silvi. go around the circle.
+S9: okay (it was actually) (xx) but i was just curious like could you explain the when you have a backward, why when you get an inferior good do you get a backward bending, angle curve? i know
+S2: hold on (when you get an inferior) [S9: (xx) i it's part of the lecture i was reading over the lecture stuff and i (xx) ] good you, good, meaning a positively sloped demand or a backward bending supply which are you talking about?
+S9: backward bending supply.
+S2: okay. when you have a normal good you could get, a backward bending, supply. so what we need look at to begin with, is an endowment model or we can't, understand that. so here's the endowment, and let's say the consumer's original choice is here. so what's the consumer doing? [S9: they're gonna sell X-one but X-two ] selling X-one [S9: right ] so let's make the price of good one go up... okay, and what if the consumer goes to there. whoops that's not a very good color is it?
+S5: so could i just ask a quick question [S2: mhm ] while we're on this one? is it true that if the price of a good goes up and they're selling beforehand then no matter what sell afterwards?
+S2: correct. [S5: okay ] um because of, this stuff is, worse.
+S5: oh yeah that's right
+SU-f: okay
+S2: okay. so what if they go to there? <PAUSE:04> notice what i've shown, is initially the consumer was selling this much stuff, after the price increase the consumer sells, less. and i can draw indifference curves perfectly, consistent if i wanted to, for that story. so the question is how can we understand that this consumer's better off selling still, than selling less. and the answer is, we have to look at, a different color, income and substitution effect. so you have to draw a line through the original, choice at the, new, slope. and what we can clearly see is that cuts the indifference curve so better stuff is, here. so substitution effect goes in the anticipated direction, prices up sell, more... but because this consumer's richer, because you're selling something and it goes up selling even the same amount you'd be richer. um, it's a normal good the consumer wants to consume more as well. [S5: mm ] so income effect says i want more of good X, substitution effect says less, income effect says, more, income effect wins, [S9: (xx) ] backward bending, supply.
+S5: okay so which income effect is that? (like i totally) <SS: LAUGH>
+S2: it's the combined income effect.
+S5: okay so but one goes up and one goes down.
+S2: um, w- yeah we're only ever looking at the combined income effect. <LAUGH>
+S5: well w- how do you get the combined income? i mean
+S2: uh y- y- substitution effect says draw a line, through the original choice, [S5: okay ] as soon as you have this you've got the divider between the income and substitution effect. so income effect is
+S5: is always, okay so the difference between the two is always the rest of this.
+S2: yeah the rest of it. so pivot is substitution shift is income. [S5: okay, alright ] and here income is going, up because you're selling a good and it's price goes, up. and, here the income effect, wins in, size.
+S5: so what does that say about, that but this is a, a normal good then. [S2: correct ] so is that saying that one of the income effects is outweighing the other one. [S2: um ] too? or, can you say that?
+S2: wh- well what, first of all what you can say is to get a backward bending, supply curve it must be a normal good, [S5: okay ] because if it's an inferior good, increases in income would drive us, over here, selling still more, [S5: mkay ] so the only way you get this, opposite in direction, income and substitution effect is if, [S5: you want to consume more ] you have, a normal good. uh if you're selling, the good as price goes up, you can, choose to sell, less but still sell.
+S9: what about with perfect complements?
+S2: perfect complements. okay what would happen? one for one? [S9: yeah ] one for one L-shaped indifference curves, uh, consumer is, selling, so does that picture look good? [S9: yeah ] good gets more expensive, good one the selling good, move to here, that's my final choice, the income substitution effect we don't even have to look at it substitution effect is zero which effect wins? [SS: income? ] income. this is B, income wins, and as a result of the, increase in price, the consumer initially was selling that much, [S9: selling more ] now is selling, less.
+S5: so, those always have backward bending supply curves?
+S2: mhm
+S9: (xx) substitution effect.
+S2: if the substitution effect is zero you will get, backward bending supply yes.
+S5: okay.
+S9: with the income effect there's no, ba- excuse me with perfect substitutes there's no, income effect?
+S2: depends.
+S9: what's it depend on? <SS: LAUGH>
+S2: it depends on the price change. [S9: okay ] if you are, if you s- if if after the price change you're on the same boundary, then it's only, income effect. but if after the price change you switch boundaries, then it's only substitution effect.
+S9: but it's gonna be on one of the other (xx)
+S2: as long as you s- you're on a boundary yes. (so that sort of) answers the questions you have right? <LAUGH> okay that can do for Matt. okay Silvi. [S5: okay ] she gives me the hard theory questions.
+S5: (xx) that was about the last one i had um, w-... okay i guess i have one more question, we're not asking questions about Edgeworth boxes are we today?
+<SU-f: LAUGH>
+S2: you can if you want [S5: well i'll just ask later ] it's not in the quiz today though (you know that)
+S5: i know it's not but, okay. he said on, page twenty-nine in the course pack that, you go north and the indifference curve flattens out then X is inferior, then X-one is inferior
+S2: do you have your course pack with you?
+S5: yeah <LAUGH> i just can't see in this picture at all, what he means by flattens out...
+S2: (xx) thank you my coursepack walked away i have to get a new one. [SU-f: what page is it? ] so if you go north
+S5: yeah he says i- when you go north on the indifferen- okay, if <LAUGH> you go north on the indifference curve and it flattens out, then you know that X-one is inferior.
+S2: if you're go north and it flattens out so what he's saying is, if you_ here let's see if i can draw this. so i'm looking at going north first of all so that's going north. [S5: right ] right? and, let's suppose, just to make life easy the original choice was here. [S5: okay ] but suppose going up, that, the, indifference curve is, flatter, at that point.
+S5: oh so with the next intersection?
+S2: right so going up, s- s- so they don't cross, um going up,
+S5: okay i was thinking he meant on the indifference curve that's why i was, so confused.
+S2: no he means going s- this way. [S5: straight up okay ] so in other words when you look at higher income, [S5: and then ] a tangency would have to be more like, here.
+S5: if it was normal.
+S2: and then by definition it's not, normal because income goes up consumption of good one just went, [S5: oh okay ] down. [S5: alright ] but what he's saying is moving along [S5: directly ] directly north, meaning what would happen if income went up to, a tangency, the indifference curve's flatter when you get across the budget line in a way that, better is, [S5: oh okay i see ] backwards... [S5: alright ] okay.
+S7: i have a question on twenty-six.
+S2: okay get your course pack back, before i steal it. [S9: alright ] um, has the utility function Cobb-Douglas and has the endowment twenty forty so endowment is equal to twenty comma forty, and utility is equal to X-one X-two okay. question says, she could sell one to get more of the other, she's a net seller for any price above some P-star and is a net buyer for any price below some P-star and what is P-star...? so, what are we what are we trying to find?
+S7: the price where she's, neither a seller nor a buyer? [S2: exactly ] she just keeps her original endowment?
+S2: right. so if i look at, the endowment twenty forty so it would be a point like that, [S7: okay ] what would make her, want to just keep that. if she's Cobb-Douglas?
+S7: when the price is equal to... when P-one is equal to P-two?
+S2: or when
+S5: (xx) M-R-S equals P-one
+S2: yeah [S7: okay when the M-R-S equals ] (it has to be,) the slope of the indifference curve would have to equal, the slope of the budget line, [S7: okay ] at that [S7: point ] point. so fortunately we know the M-R-S, [S7: mhm ] cuz it's X-two over X-one so it's, two in magnitude, [S7: two okay ] so that tells us if the price ratio is two, [S7: mm ] then, she'd keep that. if the budget line had been flatter, she'd be, buying more [S7: mhm ] X. had the budget line been, steeper she'd be, selling X. [S7: okay. ] these are_ a lot of these questions it's really, about understanding_ i mean that one if i explain it to you it's a real simple question [S7: mhm ] it's about, understanding, [S7: what the question's asking ] how the graph fits to the question yeah.
+S7: okay.
+S8: um okay i was wondering about this point rationing. [S2: okay ] (xx) how um, (xx) fixed points that are, fixed point constraint, okay i don't know what this line is right here. this dashed line
+S2: that line is, an income offer, curve, um th- that really doesn't, exist because we're not changing, the point constraint, [S8: okay ] but it's saying suppose we, look at the tangency to this line, [S8: okay ] and then think about what would happen if income were to go up or down. that's what it would be.
+S8: oh okay. but it's actually, this line. there's no_ okay
+S2: right, but cuz we're never changing the amount of coupons that anyone has. [S8: okay ] so, we need this point when the coupon constraints binding that's the best point, but the other points along it aren't gonna tell us, anything.
+S8: okay. okay
+S9: you can skip around cuz (xx) <SS: LAUGH> she got my last one with her other question.
+S5: (xx) i completely don't get that but i don't have any other, <SU-f: LAUGH> questions.
+S2: <LAUGH> you completely don't get what?
+S5: that whole graph right there. okay
+S8: it's a hard graph i don't
+S2: okay what it's showing. is we've got two constraints. so i'll do one in black, and the other in red. okay? and then what we're doing is we're wondering what happens, when, the red constraint goes up and down.
+S5: okay.
+S8: so in terms of like food coupons how would these two constraints
+S5: one's (where the)
+S2: so everyone has different cash [S8: okay ] income, and the same amount of coupons. [S8: okay. okay. ] so if we look at, very, poor people, they'd be consuming, here. and i could draw the, what happens when income, goes up income offer curve for Cobb-Douglas and it would look like that. [S5: okay ] but the problem is, that these points are perfectly attainable, as your income goes up up up up up, [S5: till you reach that ] till you reach that. and [S5: mm ] then and then you can't, you don't have more coupons so you can't, go out along that line. [S5: right okay ] and we can understand when somebody has a ton, of income, like their budget line's all the way up here, that this is a best choice because they're now tangent to the coupon constraint. [S9: mm ] so the parts of the picture that are that are easy, are there to there, and here. [S5: okay ] the hard part, is that it goes here as income goes up. and the reason is that there, isn't a tangency any more. um if we blow up if i try and blow up, part of the picture, this is the hard one, okay so s- i wanna get somebody in here. so if i look at, let's say this point, on that slope looks different it's minus one-third, this slope is, minus, now that's really bad. <SU-f: LAUGH> okay. let's try this again. so i wanna have, that slope and i wanna have, this slope. now what would have happened here is there, what would have happened here is, there. so i'm getting right, in here, and the budget set is now on the red line, uh black line and everywhere underneath. and the question is, what do i know about, indifference curves? i know, if i drew something here with a slope of minus one, that i'd have, a tangency. so, clearly, clearly if i consider this point clearly better stuff is over, here. [S5: mhm ] and i know if i look at, this point, i'd have, a tangency, but it's clearly unattainable. so moving, along the coupon budget line we're getting better off moving this way, um this point is unattainable, and if i look at, this point, we'd have a cut, again, it would cut the uh, i drew these right, it would would cut underneath, that line, but in an unattainable, region, would also cut the red line but in, an unattainable, region so the best, choice is at, the kink of this budget set, [S5: mhm ] instead of at a tangency. and that's what's going on when income's going up up up up, best choices are kinks, because the budget set is kinked, [S5: okay ] and not a tangency.
+S5: okay
+S7: so, [S9: what is what ] so to solve, this point you would just set the two equations equal to each other?
+S2: exactly
+S7: oh okay okay.
+S2: solve this point, you'd have, the tangency equation plus the coupon, equation. to solve any of these points you'd have a tangency to the red line equation plus the, red line equation. but any of these points, are just the intersection of the two budget lines.
+S7: mhm, so you wouldn't do the slopes?
+S2: wouldn't do the slopes.
+S7: do the equations okay.
+S2: mhm
+S8: so these are all the kinks. (right?) [S2: correct. ] okay.
+S2: but as the budget set's getting bigger so the red line is moving out, the kink would, move, you know it woulda been here then it would be here then it would be here and then finally the kink doesn't, matter anymore because you have so much income that you're constrained, only by, the coupon constraint. [S8: okay ] <PAUSE:06> pretty picture? <SS: LAUGH><PAUSE:10> does that make sense Silvi?
+S5: yeah, <SS: LAUGH> it makes sense i just don't know what i'm doing
+S2: you just have to work the (xx)
+S7: okay i have a question, i don't have my workbook with me but it was one of the homework problems from the demand section, it was where (xx) no wai- wai- substitution effects. [S2: okay ] and they would ask you like, like there would be a point where you would stop buying X-one and all of it would go to X-two all the extra income would go to X-two [S2: (quasi-linear.) ] n- right i didn't understand that. like when it's only dependent on one variable, like that wasn't clear to me.
+S2: okay so supposing (you have) this old Ambrose utility function. [S7: okay mhm ] and, price will (xx) P-one equals one P-two equals, two. okay so if i think about the picture, first thing i think with Ambrose is, indifference curve budget line and the choice should look like that. right? so i should get a, unique best choice it should be an interior solution. [S7: mhm ] and, if i solve this, okay M-E-one,
+S7: oh it's, one over, okay (xx) will be, four over, radical-X?
+S2: yeah except it's one-half times four so it's two.
+S7: two oh you're right okay.
+S2: and then the M-E-two is, [S7: one ] one so that falls out, um, and what i do for the tangency equation is set this equal to the price ratio which is just one-half. [S7: okay ] and what i can see is the, a- a- algebra that normally has two variables in here has one, variable, [S7: mhm ] and it's says, multiplying the square root of X-one is, four or X-one is squared (xx) sixteen, [S7: mhm ] so i go oh X-one is always sixteen. [S7: okay ] and that's my answer.
+S7: okay so [S2: (so i can) ] after he buys sixteen, he won't buy anymore. [S2: correct ] okay.
+S2: the problem is when his income falls so low that he can't buy, sixteen.
+S7: so he doesn't buy any X-two.
+S2: then he buys only X-one. and it moves along here. [S7: okay ] so that's my income, offer curve, and this would be sixteen and we better label my axes X-one and X-two, i could convert that to an angle curve for either one of the goods, if i had the space, um, if i were doing X-one, says, he spends only, money on X-one till he has, [S7: sixteen ] sixteen units and [S7: it would just be, vertical ] that costs him, sixteen dollars [S7: mm okay. ] and then it would be, vertical. X-two, i shouldn't do these on the same graph but i'm going to cuz i'm out of space. um he spends no money on X-two until he, [S7: has sixteen ] and then every extra, dollar, (xx) [S7: all of it, just because, oh it would be ] when he has eighteen he can buy one so, we'd have a slope of two.
+S7: okay
+<PAUSE:07>
+S7: it's so easy when you explain it. <SS: LAUGH>
+S2: that's the problem with this course i mean <SS: LAUGH> you lear- you don't learn it_ that's what i mean about you have to do it [S7: mhm ] until it's really, second nature to you cuz you can't learn it watching, me you've got to [S7: mhm ] work through it and really, pick up a lot of the fine points... if you put me back in the course i (must've passed it.) <SS: LAUGH> other questions?
+S9: um, [S2: Matt ] can you go over_ i didn't understand the book's explanation of Hicks versus, Slutsky (xx)
+S2: okay. so what we're talking about is you're consuming something the price changes and, what um, (sorry can i,) and what, happens. um first of all the consumer, should be compensated, in some way for that price, change. how do we compensate them? the idea is we should compensate them to leave real income, constant. or purchasing power constant. so then there's a difference in definition. Slutsky says, give them cash to give them back, their original, choice. Hicks says give 'em cash to give them back their original, utility. so, if we were drawing, something, so this is good one good two, uh here's a budget line, want good one to get cheaper? [S9: yeah sure ] more expensive anything? okay. so suppose this is your original, choice, and this is your new choice clearly, better off, uh how do we compensate? Slutsky says, at the new prices you should be able to buy your original, bundle. so notice the Slutsky compensation puts you on a higher, indifference curve. Hicks says, at the so this is S for Slutsky. Slutsky. Hicks says, at the new prices give you back your original utility, so i'd be looking for a, point on the original indifference curve, tangent... at the new, slope. so Hicks would let you, still move towards consuming more good one, but, only, [S9: along the indifference curve ] along the original, indifference curve. so, this the um, here what we're doing is because the price fell we're actually taking money away we're not compensating you for a price increase at all we're taking money away because the price, went down, and you can see that Hicks is taking more money, away, leaving you, worse off than Slutsky would. if we talk about, a price, increase, it goes the other way, so, if here's the original choice, and here's the new, choice, um Slutsky would, give you, this much, um, cash and Hicks would recognize, would correctly recognize, but that can, give you many better, bundles, increasing your utility, and we don't wanna increase your t- utility we wanna leave it, the same, smaller, compensation. so Slutsky always lets you get, to, a higher, indifference curve because you're not pegged on the original indifference curve you're pegged on the original bundle, but you may not choose that same bundle, once the price ratio changes. <PAUSE:04> good?
+S9: (so it's the) yeah.
+S5: but what if the price goes down, or the price goes up for, good one then, Slutsky's, taking away more money?
+S2: so price_ this is what i did here so price went up for good one, [S5: okay ] which means give money, back, [S5: the the okay ] so Slutsky gives you, enough money to buy what you bought before, so the red is Slutsky again. which gives you higher, utility.
+S5: but what if the price went up for X-one though?
+S2: that's what i did here. [S5: oh that is up okay ] yeah cuz the budget set just, shrank.
+S5: oh okay i see, okay.
+SU-f: (it's) steeper.
+S2: yeah got steeper. it but Hicks would, only allow you, to get your original utility back so you'd be getting less cash. [S5: okay ] but here this was the one we did in class this was different cuz that_ we let price, fall and they both compensate differently but here they're taking away money so Hicks is actually taking away more, [S5: right ] money because of your good fortune with the price, getting cheaper. but in both cases, Slutsky's letting you be better, off than the Hicks, [S5: okay ] compensation or won't be worse off, for sure. [S5: alright. ] (you've) seen me draw a lot of pretty pictures (xx)
+S8: um
+<PAUSE:06>
+S2: what (xx) mm
+S9: oh yeah you were gonna tell us what's on the quiz today.
+<SS: LAUGH>
+S2: right right right it could be anything from chapter, <SS: LAUGH> five six, eight nine. how's that?
+S9: okay, thanks, you've cleared that up
+S7: are there gonna be any review sessions? [S2: for ] for the exam Monday?
+S2: exam. yes. i'm doing one Friday from, three fifteen to four forty-five.
+S7: oh no
+S5: the exam's Wednesday's right?
+S2: the exam is Tuesday.
+S5: Tuesday whatever she said Monday so
+S7: that is so terrible. [S2: (xx) ] no i have my accounting exam, at four. but we can probably come before, the accounting exam_ oh it starts at four thirty yours is, the review session is when?
+S2: three fifteen so you can come <LAUGH> to econ review and then the, which accounting?
+S7: yeah i'll be in my accounting mindset but, that's okay.
+S2: which accounting?
+S7: oh two-seventy-one.
+S2: that's the the the tough one.
+S5: that's the tough one really?
+S9: that first exam was awful last year.
+S7: oh please don't say that.
+S9: it was okay but, (xx)
+S2: well you know what though there's some people who like accounting. <LAUGH>
+S9: yeah it was okay but
+S7: i liked calculus so, that means i'm not gonna like accounting. that's what everyone says. <LAUGH>
+S2: oh no because you like econ
+S5: because you did like calculus?
+S7: what? they say yo- you either like calculus or you like accounting you can't like them both. <SU-f: LAUGH> either you like [S2: no ] have this, just don't get accounting.
+S2: i had an accounting class that i thought was a lot of fun and i liked math, but it wasn't here. [S7: oh ] <SS: LAUGH> so maybe that explains it. [S9: that would do it ] well i've heard, four-seventy-one is really a lot of fun.
+S7: accounting four-seventy-one?
+S8: (that's for) non-majors right?
+S2: accounting four-seventy_ it's for people who aren't going applying to the B-school. [S8: yeah ] [S7: oh okay. ] and
+S5: so wait two-seventy-one is meant for people that are
+S9: it's a it's a pre-req for the B-School.
+S5: i already took that last year.
+S2: two-seventy-one, is is the actually, the accounting case two-seventy-one is a much more, difficult course because then four-seventy-one four-seventy-one is, i'd like to learn some accounting but don't kill me cuz i'm not going to the B-School. <PAUSE:06><SS: LAUGH> but some people like accounting some people take two-seventy-one and just really enjoy it. <SU-f: LAUGH>
+S5: is there any way you could like go over Edward's boxes (xx)
+S2: Edward's boxes what about them?
+S5: i don't know i've just, [S9: (xx) ] i've tried doing the homework it's a lot more difficult. (xx)
+S2: well part of the problem is that we're not gonna assign the whole homework we're gonna assign the first part of a lot of the problems, [S9: oh ] because, the Edward's box itself is pretty straightforward but, there's a week's worth of material in this homework.
+S5: okay wait so, [S9: (xx) ] it's just this one through five those questions?
+S2: um, these questions o- one through, five plus the other four in the workbook. are for two days.
+S5: okay but what's due tomorrow? <SS: LAUGH>
+S2: what's due tomorrow. i'll announce it when i go in there. question one. in this, assignment. [S5: okay ] two A through D, four A through C, and then, in the workbook, one A and B two and six.
+S7: one A and B, two and six? [S2: yeah ] that's chapter twenty-nine right?
+S2: correct. yep...
+S7: (okay)
+S8: (actually) emailed me
+S2: oh okay, i we just decided what this was gonna be. i had to look at it. um but, the Edw- so what about the (Edward's?)
+S5: i don't know i don't even (xx) the question. the first problem i was already, like, getting lost on it (xx)
+S2: so the big thing about the Edward box is, hi come on in (xx) [S10: hi ] we've got two, [S7: (you want a chair?) ] you can share a chair.
+S7: okay i'll share.
+S2: we can take the box off that one if you want to, work around the mic.
+S10: (xx) share (a chair)
+S2: okay so we got this box. and what it's representing is the total amount of good one in the economy. going this way. and the total amount of good two in the economy going, up. and what we're gonna do with it is we're gonna say we have two people both with endowments. so we'll put them at some, point here. [S5: uhuh ] and the beauty of the box is that, one point now represents four things. so person, A we could say is here, and then this looks just like chapter nine. we've got an endowment we've got a budget line we've got preferences.
+S5: okay but so how do you represent different marginal rates of substitution?
+S2: so marginal rate of substitution would be the slope of the indifference curve through any point, so if it's three i could, make it three.
+S5: okay what if they both, what if there're two people that have different ones then?
+S2: okay. then the other person_ this is how i do this. turn your paper upside down. [S5: okay ] the other person, now, is, here, [S5: right ] with this much stuff and, that much stuff, has a budget line going through there, and we want the indifference curve to be flatter? [S5: sure ] flatter, i just did it. [S5: mm ] so indifference curves cross, person B is better off going, that way, person A was better off going, that way, [S5: (xx) trade ] so they're gonna, voluntarily go to some in between, point like that.
+S5: okay is there like some inequality that you could write out that would show how they would trade? i don't know it's so_ like the first question <LAUGH>
+S2: to know exactly where'd they go? you'd need to have utility functions. the first question is just a really vague, um, draw a picture where, what direction would they go?
+S5: oh and would it be true for (better) okay it does- it doesn't have you say it.
+S2: you can't answer numerically [S5: okay that's fine. ] where they'd end up. to answer numerically where they'd end up you'd need to have, prices, and and the tough part of this chapter, is given utility functions we're gonna be able to figure out prices, where what one wants to buy the other wants to sell exactly that so we're gonna actually get to the equilibrium. [S5: okay ] and that is the most challenging thing we're gonna do before the exam but we're doing it, Wednesday Thursday exam isn't until the following, [SS: Tuesday ] so you've got lots of time to work on it. <SS: LAUGH>
+S10: um, yeah i have qu- one question [S2: okay ] about the indifferent variant. [S7: what page? it's on this uh ] forty-two. okay here, it was just saying like okay s- mm... i was going to, my instinct was to go like that. but that's not point B. to find X-one was inferior.
+S2: to find if X-one was inferior [S10: mhm ] so you want to go from from, we don't have enough lines here to look at it [S10: no y- ] okay dashed line okay. so what you wanna do, new price, line through, [S10: mhm ] and then you wanna go from point B to point [S10: C okay ] C to see if it is, [S10: inferior right okay, so how ] inferior or normal. because that's the shift.
+S10: so, if it was a price decrease this was a price increase right? [S2: correct ] then um, i know from point B you draw up cuz the new line would be above it [S2: mhm ] so for this one is it do you go down, and like that?
+S2: so if you want to look at, what happens with income exactly, [S10: mhm ] you draw it from point B that way and that way, [S10: okay ] and C is, a smaller amount of X-one, and a smaller amount of X-two? [S10: mhm ] in response to a cut, [S10: (in X) mhm ] in income. so they're both normal cuz income goes down [S10: right okay. ] and the (xx) for both of them goes down.
+S10: okay. but then here it was saying something like, when good one, i, i thought that this was going with this graph but i guess not.
+S2: so that one the good got more expensive you consume less that's the normal,
+S10: normal good yeah [S2: good. ] like here (when it said) good [S2: so ] one's inferior i thought it would be this picture <S10: LAUGH>
+S2: so that uh that's not that picture. [S10: yeah ] i don't like that picture as a matter of fact that picture may not be there... i think that picture's not there. [S10: okay ] i think that's the problem. but we could look at what happens, [S10: okay ] we could get even more paper,
+<RECORDING-RELATED CONVERSATION NEXT :50>
+S2: okay so what happens? price goes, up. [S10: mhm ] and the or- original choice is, there. [S10: mhm ] and what_ oh that's a bad graph for that. let's_ the original choice is, there. [S10: okay <LAUGH>] and what i want is a graph that gives me the final choice, [S10: okay ] here. [S10: okay mhm ] because what i want is for the price to go up and the consumer to want, more. the only way i'm gonna do this... income substitution effect... substitution effect, i know is gonna move, this way. [S10: mkay ] to a point like, B. the only way i'm gonna get a given good, is if the good is, inferior so, notice what happens here income goes down the consumer [S10: right more ] wants, more, and on top of that it is so inferior, substitution effect, income effect, that the income effect wins. [S10: oh okay ] so this is, very similar to what we did about, forty-five minutes ago, only, <SU-f: LAUGH> this is how you get a demand curve that slopes, up which is very bizarre (that it) gets more, [SU-f: mhm ] expensive and in response to that you want, more of it. and it's basically it's gotta be something you don't want. [S10: mhm ] but you're buying it because it's, [SU-f: cheap. ] cheap. and you're you're poorer as, it gets more expensive. so, it's a i mean things that are, normally thought of as, given would be like kerosene for heating or, [S10: baloney ] baloney <SS: LAUGH> or things that, if you think about it what as they if you're eating baloney and then it gets cheaper you might actually eat less cuz you've got more money freed up to eat something you'd like better.
+S7: so that would be a given good. [S2: yes ] but if you bought, the price went down, and you bought, so wait i just don't understand the difference between, inferior and given.
+S2: a given good must be inferior.
+S7: okay, [S10: right ] but, [S10: it's just way more ] when is_ when is an inferior good not given?
+S2: if the, i- income effect ends up smaller in size than the substitution effect.
+S5: the opposite direction (xx)
+S2: yeah still the opposite direction, but point C would be increasing.
+S10: someone else told me this trick where you know if you draw, the line straight down over here, if, like this part of the graph it's like, between here and here it's normal between, through here it's inferior
+S2: so if you draw a line through A, and compare A to C, [S10: okay ] since C is, o- on the, right side, [S10: right okay ] this is a given, good. if C were on, the other side it would be, a, um ordinary good. [S10: normal ] ordinary cuz we're looking at given [S5: it could be (inferior or normal) ] or, ordinary. if [SU-f: oh okay okay ] we want to see if it's, normal or inferior, you have to draw a line through B, and compare B to C. [S10: okay okay ] so here income's falling you want more, if C's to the right we know when income falls that's inferior, if C had been to the left it would be, [S10: normal. okay ] normal. so normal must be ordinary, because if it's over here it's also over here compared to A. [S10: right okay ] but to get, over, here, to this side of A it must be that it's also that side of C. [S10: okay ] so that helps you see
+S10: so on this side you've got normal and ordinary. on this side
+S2: so normal must be ordinary, [S5: ordinary doesn't have to be normal ] o- ordinary, [S10: and normal, or normal ] [S5: and inferior ] no ordinary, ordinary yeah could be inferior exactly. so in here right in here, you have the case between these two lines, that Silvi was just talking about, [S5: mhm ] where it's um, ordinary but, inferior. [S10: oh ] so if it's anywhere in here, [S10: okay ] it's ordinary and inferior, [S10: mhm ] [S5: right ] all the way out here, [S10: (it's given) ] it's given and inferior
+S10: here it's just, just normal.
+S2: and here it's, normal and, [SS: ordinary ] ordinary.
+S5: that's a good drawing (xx)
+S10: (xx)
+S2: yeah <SS: LAUGH>
+S10: hm normal or, ordinary.
+S5: yeah
+S2: yeah
+S10: (yeah okay.)
+S2: cuz one is describing the income and the other is describing the, price... [SU-f: (xx) ] so the good thing about having the quiz, is it gets us starting to think about the exam. [S5: studying ] yeah.
+<RECORDING-RELATED QUESTION>
+S10: (just) really quick question is this a example of homothetic preferences?
+S2: yes.
+S10: but i thought, it could only be homothetic if it was g- a ray going [S2: right ] straight through the origin.
+S2: exactly. and what we have here is is a ray going straight through the origin but the problem is there's a second constraint.
+S5: mm
+S10: oh, okay okay okay
+S2: someone can pick up the stuff out of here too so i can get to class and hand out Scantrons.
+SU-f: okay
+S10: thank you
+S2: and hopefully there's more than one person that, <SS: LAUGH> (so- take this stuff out and get to class.)
+{END OF TRANSCRIPT}
+Please contact the English Language Institute with questions or comments.

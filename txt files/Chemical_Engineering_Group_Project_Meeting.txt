@@ -1,0 +1,1060 @@
+<PERSON ID="S1" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S2" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S3" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S4" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="SS" LANG="NS" ROLE="SU, Student" SEX="U" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="SU-m" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"/>
+
+
+
+
+<UNINTELLIGIBLE CONVERSATION>
+S1: we want one of those. <LAUGH>
+S2: what is it?
+S3: one of what?
+S1: i don't know but it's big.
+S2: <LAUGH> it's big
+S3: it's probably big and expensive.
+<PAUSE:07>
+S2: well how are we doing on cost? i remember_ we didn't have a price for, water purification [S3: right ] or, the fermenter right?
+S1: correct
+S3: do you have that Zip disk?
+S1: i do.
+S3: you do, ya wanna pop it in (at least we'll,) see how we're doing, with cost?
+<S1: GROANS>
+S4: (i think) we were up around a quarter million dollars weren't we?
+<S1: LAUGH>
+S2: yeah
+S4: okay
+S3: getting up there.
+S1: fifty thou. (shucks.)
+S3: i was just outside talking to like, who was out there, Ehon was out there and that other, [S3: how far along are they? ] Pratik, i think, [S1: Pratik ] [S2: Pratik ] is his name? [S2: yeah ] [S1: Pratik ] and, they were like oh, how are you doing? and i'm like oh we're getting there slowly but surely.
+S1: are they outside?
+S3: yeah (xx) outside
+S1: (i oughta say hello to them two)
+S3: wow
+S4: how far along are they?
+S3: must be nice, like they've, [S1: they ain't done nothing dude ] [S4: nothing? okay. ] really haven't done anything yet [S2: oh ho ho ] and we've been meeting for this like
+S4: there's a lot of people that haven't done anything [S3: yeah ] on this already so,
+S2: ouch, this is like a lot of research
+S3: so, yeah.
+S1: i've been telling them i'm like you guys need to (give 'em) some time
+S3: but if we do really bad on this like, compared to other people i'm gonna be upset, you know [S2: <LAUGH> i know ] cuz it's_ we spent time, working on this.
+S2: i know. are they working on it today?
+S3: no they're out there doing, Chem three-oh-two. [S1: mhm hm ] which i should be doing (because) it's due tomorrow and i have no clue what i'm [S2: is Chem three-oh-two hard? ] yes.
+S2: great i'm taking it next semester.
+S3: it, it's bad.
+S4: that's inorganic right?
+S2: yeah
+S3: yeah like it just, it's not hard,
+S4: who's, who's teaching it?
+S3: Yaghi
+S4: okay then i'll,
+S1: Yayee?
+<SS: LAUGH>
+S4: i had Ras- i had Ras-
+S2: you had Rasmussen?
+S4: he was, great [S2: oh ] he was_ i- well i, i mean it was easy but, i just liked him
+S3: yeah he came, he's, lectured in our, in our section a couple times, [S4: mkay ] he just babbles the whole time about nothing and, [S4: i- yeah i li- i i like him i thought he was, ] but does he write easy tests?
+S4: y- i thought so.
+S3: yeah...? oh Yaghi's tests are bad...
+S1: what do you want off this disk?
+S2: it's called, um,
+S3: it's an Excel <PAUSE:04> beer cost or something it's called? (xx)
+S2: oh it's in alphabetical order.
+S1: usually.
+S4: (there it is i saw it.)
+S2: oh brewery cost i just saw it.
+S3: okay
+S3: brewery costs.
+S2: right there
+S3: oh you scared me. <S2: LAUGH> (like) where is it? no... but you know like we're gonna hafta explain, where we got these numbers from. [S4: right ] so, that'll be probably, (part of the middle)
+S4: (somewhere) in the middle
+S2: yeah that's true that'll be some, okay so we need [S3: yeah we're at, that much ] uh materials, labor.
+S3: well, i don't know like these are just indexes like a certain percentage that you multiply that by.
+S2: okay
+S1: but we don't have it for ev- we don't have those indexes for everything.
+S3: no but we can probably take, you know like those average,
+S2: yeah, they [S3: ones ] were like in the coursepack like [S1: hm, hm ] [S3: yeah ] for a tank, and for, does di- oh did anyone bring the coursepack cuz i completely forgot.
+S1: i, did
+S4: yeah i got mine
+S2: you do? okay. i wonder how many_ there was only [S1: i was responsible ] like, there was only like six or seven items, so it wasn't very many
+S4: was it in the economics part?
+S2: um yeah
+S4: yeah?
+S1: no problem, i was responsible. that's right.
+S2: and it was like um, oh it's kinda tricky to find.
+S4: you wanna look for it?
+S1: hey what's this, what's that kettle man a hundred and eighteen? [S3: mhm ] (can't we) find something, better than that?
+S2: cheaper?
+S4: cheaper than what?
+S3: no that was um,
+S1: food tax. (one hundred and thirteen) that's in the that's from the book yeah.
+S3: that's from the book...
+S2: is that just to heat stuff up in?
+S3: yeah basically i mean i- remember it had to be really really big? because we had to add all the solids?
+S2: i don't know
+S4: yeah it wasn't too much bigger, maybe fifteen hundred, gallons or something.
+S2: oh, yeah that's true.
+S1: well what all did it include i mean like, d- do we need all those?
+S2: it has the agitator, it has all the, [S1: thermal ] electrical and, thermometer stuff.
+S3: here i'll look at the book. <PAUSE:06> see i was responsible (too and) brought my book, <S1: LAUGH> (seven thirty-one.)
+S1: hmm, ooh, we still need water purification.
+S3: Brita
+<S2: LAUGH>
+S1: but we can't even, i mean, [S3: <LAUGH> includes, ] we can't even find a pro price for Brita.
+S3: kettle jacket agitator thermometer well, drive and support man hole cover stuff in box, and clamps. install costs includes above installation costs, uh.
+S1: what are clamps?
+S3: i guess to clamp it down?
+S1: (do we need) cast iron jacketed_is...
+S3: yeah would we need a, cuz [S2: probably service (xx) ] cuz we did_ we used this line the stainless steel line. what was this stuff?
+S1: we just chose the stainless steel?
+S2: mhm.
+S1: agitator (xx)
+S2: wi- oh that makes it more expensive.
+S1: cuz we, we haven't looked into materials at all. i mean we've said stainless steel, [S2: stainless steel every time ] but, i don't know i just wonder (with him)
+S2: mm that makes the price go down, a little bit.
+S3: what about, [S1: what about, adding ] what's this crap? if we use, this is um, (wait) pounds per square inch that's like a force, that we can apply. we don't [S1: pressure ] yeah we don't need that much pressure inside the kettle do we?
+S1: i have no clue.
+S3: so that would bring our cost down to only about... well, a quarter, halfway between here and here.
+S1: well what did we choose at first? what pressure?
+S3: well we didn't even take pressure into consideration we we- we went up here, [S2: to, materials ] and took like an average one.
+S1: well let's figure out pressure. i, i've been thinking about pressure all week (especially,) thinking that, he's gonna be like, what about pressure? you guys are just talking about temperature.
+S2: but how are we gonna know?
+S3: but
+S4: i don't think that, it's a big deal cuz if you can, do like these little home breweries in a five gallon bucket and you know, [S2: yeah, that's true ] you don't, you're not worrying about pressure, too much with that, something like that.
+S3: has anything mentioned, [S1: that's true, that's true. ] pressure in any of our process things?
+S2: i don't think so.
+S1: i don't think so.
+S3: it's so- it's been, [S2: i don't remember anything about pressures. ] i think if we, like on the flow diagram draw the temperature, at every single stage what's the temperature inside find out the temperature in the fermenter, [S4: mhm ] temperature is, a big deal. i know it's a big deal (so.)
+S1: we also have different temperatures like when you're um, when you're doing the_ well that was for the fermenter, never mind... i don't_ but what about when you're mashing i think you, i think you go like to one temperature and then you raise it up to the next. has to do with the enzymes. i don't know let me get out my notebook.
+S3: i thought you wanted to keep it pretty high to kill the enzymes.
+S1: yeah, but when you do w- when you're worrying about, fermentation, you actually go, like you stay at one temperature for a while to activate, one enzyme and then, raise it up to activate another. and then you like_ i don't know leave it in between i think_ w- i don't know i'll have to wait (till)
+S2: is that, is that the same even for the cold contact method?
+S1: yeah see i don't even think, we'd hafta worry about it if we do it, that way you know...? cuz what do you hafta wo- why do you hafta worry about enzymes that, you're not even gonna ferment.
+S2: you're not even gonna make, alcohol.
+S3: what's fifty times ten-to-the-fourth? ten-to-the-fourth is,
+S4: fifty thousand.
+S3: okay fifty thousand why don't you, bump that kettle down
+S4: that 's fine fifty, fifty times ten-to-the-fourth, [S3: yeah ] yeah that's right yeah.
+S2: fifty thousand
+S3: no cuz five times [S4: it's five hundred thousand. ] ten-to-the-fourth it's five hundred thousand.
+S4: for for a what?
+S1: no fifty [S3: well i'm ] times- ten-to-the-fourth,
+S2: fifty times ten-to-the-fourth?
+S4: ten-to-the-fourth is ten thousand though yeah it's five hundred thousand.
+S1: it's five hundred thousand
+S3: right it's [S1: five hundred thousand ] five hundred thousand i'm looking at, this different, <S2: LAUGH>[S1: engineers in action ] [S4: what is, what is it? ] i'm looking at this different, graph for the kettle.
+S2: this is high did you guys, [S3: and i guess, ] did you say this one was, did you write down something different?
+S3: well, this one we put about, yeah it was about a hundred thousand dollars, and then we scaled it up cuz this was in nineteen ninety, so we scaled it up for ninety, t- for like, [S2: oh ] present,
+S2: but you did have it at a hundred thousand though?
+S3: at a hundred thousand, according to this but if i go according to this, [S2: oh we were like up here? ] no.
+S2: oh great.
+S4: can i see it?
+S2: is this too low?
+S3: ten-to-the-fifth is a hundred thousand right?
+S4: yeah
+S3: so, it would be half that, that would be fifty thousand.
+S1: fifty thousand sounds more reasonable.
+S3: yeah
+S2: yeah if i, i don't think
+S4: did i, did i give the wrong number, when i was looking at this?
+S3: cuz look at, look at this, no you, [S2: well i, i don't know ] you said it fine i'm, just look at this graph, [S4: okay ] and there's like four different lines for stainless steel, [S4: right ] with different pressures inside of 'em, use the lowest pressure one and then what, what do you get out?
+S2: what do you get?
+S1: Uncle Joe gave us fifty [S3: for dollars ] thousand bucks and we're gonna spend [S2: we're gonna <LAUGH>] five hundred on a, tank. <LAUGH>
+S4: how big do we want it? fifteen hundred gallons?
+S3: it's just fifteen hundred gallons.
+S4: okay. so that's a hundred thousand.
+S3: it's like halfway between, ten-to-the-fourth and [S4: yeah ] ten-to-the- fifth, right?
+S4: so, about, about fifty thousand?
+S3: fifty thousand? let's change that.
+S4: alright. (that'll) save us some money.
+S1: what what pressures, (xx)
+S2: well then you have to scale it up sti- oh you, oh i see what you're doing okay.
+S4: yeah. it's already, in there.
+S2: yup.
+S3: yay (xx) alright
+S4: (good for us)
+S1: word. <SS: LAUGH>[S2: (stop.) ] we're getting there we're getting there.
+S2: save. <LAUGH>
+S1: just another hundred and thirty thou to go. what else can we knock down?
+S4: (xx)
+<S2: LAUGH>
+S3: we really don't need a filter do we?
+S2: we don't need t- it doesn't need to be at fifty thousand anyway.
+S1: we're not gonna use filters. <LAUGH>
+S3: yeah we can spend that much [S2: we can spend, as much as we want. ] if we just, if we just show that we're gonna make a lot of money in the first year, then, [S2: d- now, do we f- ] then we can convince them to give us the money and,
+S2: do we show that in the final report? it doesn't really ask for that specific, number.
+S3: maybe if we put that in like, the conclusion just say something like, [S2: that's ] in conclusion we think this is profitable and, [S1: what ] Uncle Joe should give us the money because, we're gonna we're gonna make a million, first year.
+S1: well we don't we don't hafta do that for today do we? we don't hafta do that today?
+S3: i don't know
+S2: i don't think so
+S3: no?
+S1: no no no no no he just wants us to compute bare module costs, for the, [S3: okay ] [S2: and so it's (xx) ] you know we don't have to do, i don't even think we need to consider Uncle Joe right now.
+S3: okay
+S2: until the final report?
+S1: yeah
+S4: mhm
+S3: just this is what we came up with.
+S1: yeah
+S2: otherwise it would be like nothing to do for the final report <LAUGH>[S1: yeah ] besides combine everything we've done so far.
+S3: well the final report takes some, like, codes, (and) environmental impacts,
+S2: yeah, i forgot about that.
+S3: okay, conclusions and (xx)
+S1: environmental impact?
+S3: you haven't been writing down all these websites.
+S1: <LAUGH> i've got 'em scrawled on about twenty different [S3: i know ] pieces of paper they're in here.
+S3: references. hey do you have that, printout of um, that very last site we found, it's like twenty pages, and,
+S4: the one that had the custom (stuff)
+S3: yeah
+S1: yes i do.
+S4: customized
+S3: cuz maybe they som- say something about, water.
+<PAUSE:04>
+S1: right.
+S1: that would be the day that i left this notebook at home. <LAUGH>
+<S2: LAUGH>
+S3: alright. i have, (here's the) website.
+S1: ya know? you think you're doing so well.
+<PAUSE:05>
+S3: um,
+S1: nah i don't have it.
+S3: okay. try, W W W, oh i mean... no i can't remember if this was it.
+S1: <SOUND EFFECT> come on where are my sound effects?
+S3: brew, brew hyphen, the number four, hyphen sale. brew for sale dot com. (xx)
+S1: oh? yeah soundin- yes this is it.
+S3: yeah what type, all this stuff.
+<PAUSE:09>
+S3: so i'm [S1: let's see ] wondering if we've like forgotten anything... (yup) bottler.
+S1: what about the kegging machine do we ne- do we need a kegging machine?
+S3: weren't we just gonna sell bottles?
+S1: (xx)
+S2: can we kinda pick whatever we wanna do?
+S3: yeah.
+<PAUSE:05>
+S4: (see if you can find) the water.
+<PAUSE:04>
+S1: (xx)
+<PAUSE:06>
+S2: most common contain- containers are barrels as opposed to bottles
+S3: there's always this, oh no that was the U-V thing. (but i don't know)
+S1: heat exchanger to cool the boiling wort.
+S3: eww
+S2: hey
+S1: cuz we gotta, cuz we boil it and then we cool it down to go to the fermenter, yeah we haven't, we haven't bottled (xx)
+S2: we have to, we need conveyors, filling machines capping machines and labelers?
+S3: we g- we found the filling machine, and the conveyor and all that stuff that goes with it, [S2: oh ] for a price.
+S2: with the c- you know capping and labeling [S3: yeah ] all that good stuff [S2: yeah ] really? is that in our,
+S3: it's just it's a bottler, yeah that's [S2: thing? oh okay. ] in already. that was, [S2: oh that's cool ] bottling equipment dot H T M L. like it was [S2: oh really? ] really cool yeah. we got lucky.
+S1: a caustics a caustic storage tank for caustic by-products? where is what's a caustic by-product?
+S3: alright, so what have we forgotten so far we need the heat exchanger... after, after the fermenter?
+S1: um, no before the formen- fermenter, [S3: before fermenter ] you cool down the wort, and then that's when you do the cold contact, after that.
+S3: you mean in the fermenter, you do the cold contact.
+S1: yeah
+S3: yeah?
+S1: yeah.
+S3: what else have we forgotten? you were reading all that st- caustic storage tank, is that,
+S1: whatever that is, yeah.
+S3: yeah where are we gonna store all this filtered junk? all the solids that come out of our beer, is it just gonna run like down the sewer and,
+S1: <LAUGH> you would <SOUND EFFECT> dig a rubber tube into the dumpster out back.
+<SS: LAUGH>
+S4: yup
+<SS: LAUGH>
+S2: we could have a,
+S3: cuz i don't think [S2: a solid waste dumpster ] that'd be up to, F-D-A regulations <LAUGH>
+S1: we'll put it down the storm drain.
+<S3: LAUGH>
+S4: is the fermenter just, [S2: it could just be like a big, wood, ] the-is the fermenter just gonna be a big tank too?
+S2: bin.
+S1: no
+S4: no, what does i- does it have to be?
+S1: it's, i think it's like, s- yeah.
+S4: a conical tank thing?
+S1: co- [S3: there were some prices of fermenters (there. well i) ] well, here's the thing though. cuz you n- yeah you need it, you need it shaped that funny way because of uh, yeast going to the top or the bottom so you can like, it makes it easier to separate or something like that. <LAUGH> the cooking staff needs aprons hats hair nets etcetera
+S3: a roller (xx) to break the malted barley. we're just gonna buy it so it's all ready to go, right?
+S2: yeah [S1: i suppose ] i think so
+S3: filter we got, brew paddle we got, heat exchanger (xx) we got, we have the aging, carbonation.
+S1: oh we haven't even thought of that
+S3: how do we, how do we carbonate it.
+S2: we need t- we need, C-O-two tanks right?
+S4: i thought our, i thought the, bottler that we got it said it took care of_ it could do carbonation, and noncarbonated things.
+S3: it_ that just meant, [S1: do you have the web page with you? ] that it wouldn't [S2: yes ] [S1: yeah? ] that it wouldn't but i think that just meant that it wouldn't lose, the carbonation, if you, like it could keep it under that pressure, s- something.
+S4: uh huh it_ i thought [S3: this is it. ] you, like put it in there when you bottled it.
+S3: that would be cool.
+S1: mhm
+S2: cuz i thought you had to carbonate, like [S1: read it off to me ] in bulk.
+S3: W W W dot M E H, E E N, hyphen M F G, dot com, um slash bottling equipment, all one word, dot H T M L. that's our baby! <S2: LAUGH> hi.
+S1: looks kind of small.
+S3: uh' uh
+S4: let's see, doesn't it say carbonated, [S3: how many bottles do you think we can get out of the batch? ] and noncarbonated (fill) against (conic) pressure. (how to fill) (xx) conic pressure in C-O-two jetting, [S1: C-O-two jetting? ] (xx) for consistent fills and (xx) full. [S2: oh ] i think the bo- i think the bottler does it, (i'm pretty) pretty sure.
+<PAUSE:07>
+S2: i think that we should assume that the bottler does it <LAUGH>
+S3: just assume?
+S2: and tha- with that price.
+S1: um, i'm thinking, that too.
+<S2: LAUGH>
+S4: yeah i think that's when you seal it i think that's when you put the carbonation in i think.
+S3: that's when you (xx)
+S2: do we still need to buy like, C-O-two tanks for the bottler, to put,
+S3: i'd say we can rent those.
+S1: well that's not, that's not overhead.
+S4: well those are just, raw products like our, [S3: that's like raw materials. ] yeah.
+S1: yeah
+S2: oh, oh you're right you're right. i'm sorry.
+S4: alright so that's
+S1: get it right. next time.
+<S2: LAUGH>
+S4: so let's not worry about this part then.
+S3: alright. we got carbonation.
+S4: (alright) go back to that last website. do they give ideas for the price of the fermenters on that one?
+S3: oh yeah
+S1: mm whi- oh the, the other one.
+S4: the the, the other one we were on, yeah this one.
+S1: uh let's see.
+S4: uh maybe another good brewing process if that's (xx)
+S1: stainless steel barrels hold thirty-one gallons, didn't you tell us thirty-six?
+S2: um, yes.
+S3: hmm.
+S4: oh (xx)
+S1: ladles colanders spoons potholders, <LAUGH> spatulas, <LAUGH>
+S3: why would (xx)
+S1: <LAUGH> security system cash register, <LAUGH>[S3: oh yeah ] that'd be f-
+S2: dinnerware
+S3: dinnerware dishware glasses
+S1: wouldn't that be funny if we put that in our, analysis [S3: <LAUGH> total module costs ] would be, cash register, costs.
+S2: <LAUGH> oh my
+S4: (like) fermentation?
+S3: yeah.
+<PAUSE:04>
+S2: that's just the brewing process.
+S4: they don't, oh they don't have anything else about it? it's just,
+S2: i don't think so.
+S3: no that's it.
+S4: oh okay.
+S2: specialty holiday beers? <LAUGH> that'd be fun. make some green beer, [S3: yeah some Saint Patrick's Day ] green no- green nonalcoholic beer.
+S1: what's um
+S3: we should do that
+S2: wouldn't that be funny?
+S3: shouldn't we do that?
+S1: hm [S3: just for fun? ] we could make green beer for Saint Patrick's Day.
+S3: we should
+<S1: LAUGH>
+S1: huh [S3: i don't think there is ] we're gonna make green beer <LAUGH>
+S3: i don't think there is a green non alcoholic... we would be the, only ones. [S1: which one's what what's this ] i mean we would only sell it once a year but that's okay.
+<S2: LAUGH>
+S1: that's right. don't think we could live off of it.
+<PAUSE:07>
+S1: we're on ale.
+S3: we're on ale now? oh [S1: oh? ] well that's good to know then.
+S2: are we on the lagers, or the ales?
+S3: ales
+S1: ales
+S2: we are? okay. are we st- are we still planning on making porter?
+S1: yes
+S3: yeah
+S2: okay. <PAUSE:04> okay.
+S4: (xx) (machine)
+S3: that's i- like our, (xx)
+S4: oh that doesn't, those are just, (oh who cares.)
+S1: C-O-two.
+S2: three dollars?
+<PAUSE:10>
+S2: there was one in there
+S1: no i don't think so
+S3: back um,
+S4: um
+<PAUSE:14>
+S1: a little, day by day
+S3: this is (cool) but then they, then they said that... yeah.
+S1: twenty-eight fermentation tanks at, you brew a thousand liters of lager,
+S4: (yeah you brew it for a day) yeah. okay that's,
+S3: a thousand liters is how many?
+S4: that's assum- this one's assuming like you, do it, a batch every day so you put one in, every day, and probably takes twenty-eight days for their, stuff to (do)
+S3: yeah their fermentation they said was like a little over a week.
+S4: so, they're figuring ten to twelve thousand dollars each and how big of a batch are they talking about? a thousand liters?
+S1: i guess, in order to brew every day.
+S1: alright well can we just st-
+S1: wait no, you know what though? that's twenty-eight_ if they're brewing every day i bet that's twenty-eight fermentation tanks over like, seven different batches. [S3: right ] [S2: yeah ] you know what i mean?
+S3: right.
+S4: yeah but they're probably, like letting the, alc- alcohol actually form you know? i mean so they'd be_ their stuff would be longer. [S3: that would take a lot longer ] [S1: right ] there's probably (xx) twenty-eight there.
+S1: i'm just trying to figure out how big that is how big the
+S3: how big of a tank?
+S1: would, cost ten thousand bucks?
+S4: on Wednesday you brew a thousand liters of lager but you have no place to put the beer since you purchased the standard brewing system with four fermentation tanks.
+S2: enough to hold...
+S3: i wouldn't think about it too hard. we can find another site (xx) [S4: oh okay ] tell us. that would be really, hard to figure out.
+S1: ooh.
+<PAUSE:04>
+S3: do we need a cold water tank... like to put the purified water in?
+S1: like what? we don't really need to, store purified water well i guess yeah we do. i don't know
+S3: unless you're gonna like, turn it on and run it through the filter straight into the, mash tun.
+S1: i don't know how water filters work.
+S4: i think we could i
+S2: i think it, i think it totally depends on the kind you get.
+S4: yeah. i think we could run it straight into the, mash tun.
+S3: all i picture for a water filter and this might be way, oversimplifying things <S2: LAUGH> but is like, just a little thing on a pipe. [S4: yeah ] like you've got your pipe going from, your your tap water, to, the mash tun and you've got this, somehow thing, around the pipe that it goes through and, voila it's pure water. like,
+S4: i think i- i think it's safe enough to just do something like that for now.
+S3: yeah i don't picture like a [S4: you know ] big you know in and out in [S4: you know ] and out heat exchanger or, [S4: right. if between, ] reverse osmosis, or
+<S2: LAUGH>
+S4: if if between here and the final report we find something, you know, [S3: better ] that would, yeah sounds better, we go with that.
+S1: i second that motion.
+S4: alright.
+<S2: LAUGH>
+S3: well then [S1: hey check this out ] what about, this U-V thing, that we originally found, the really cheap one for only like four hundred dollars? what did
+S1: that was for an R-V.
+S4: that killed, that killed [S3: i know but what the U-V, ] like, microbes and stuff like that.
+S1: yeah it was like [S3: the- ] just a little, microbe_ it didn't even,
+S3: oh, it didn't take any, taste stuff out or anything? oh. okay. so we're just going for taste here.
+S1: hm, we just <ALTERED VOICE> we just took the water filter off my dad's R-V and threw it in there. <SS: LAUGH>[S2: that's cheap there you go. ] works just the same. <PAUSE:04> look at this the brewery shipped in one, forty foot by (one) [S3: what? ] twenty foot container. [S4: hm? ] <LAUGH> please keep upright.
+<SS: LAUGH><PAUSE:06>
+S3: we need to have (mugs.)
+<PAUSE:11>
+S1: (xx) to sit down and (enjoy a cold one.)
+<S3: LAUGH><PAUSE:09>
+S2: so, we still need fermenter information and, water purifier, information. [S3: and the heat exchanger ] the heat exchanger information.
+S1: we're not exchanging any heat though. we're cooling it down but we [S2: that's exchanging heat ] don't need the, but what do we need to heat up? well i guess we could do the... but we don't have two streams, you know?
+S2: true
+S3: yeah
+S1: i mean the- we don't have any stream to cross it with
+S3: you're not gonna have, contact and, [S1: we we do ] you're gonna hafta just like pump hot water through there or something but then, like how are you gonna heat up the water in the first place?
+S1: (kinda) energy
+S3: from where?
+S1: electricity
+S3: so why don't we buy,
+S1: cuz if you have, cuz we need to heat up the boiler, the mash tun, we could somehow, we could somehow
+S3: are we just assuming that the mash tun has like controls that we can, you know like, set a temperature on, just you know plug the thing in set the temperature and it's gonna remain at that temperature? we can_ let's assume that.
+S1: i've never operated a mash tun.
+S4: yeah let's assume that then.
+S3: let's assume that.
+S2: well, that's the [S1: how else? ] same thing for, do you remember the um, the cider mill? [S3: yeah ] they had these cooling tanks, i swear they were like refrigerated or something. [S3: that's (true) ] weren't they remember Tighe [S1: yeah ] it was like, it was like yeah this, it's kept at this, this amount of degrees in this tank. [S3: yeah ] how? you know they had no heat exchangers. it was like a cooling tank that was like
+S1: it used electricity, it was just like a refrigerator, [S2: yeah ] [S3: yeah ] it just used electricity.
+S4: wonderful
+S2: so it'd be a little bit more of an expensive cooling tank cuz it <LAUGH>[S3: a really big cooling tank ] that like refrigerates or, or, something.
+S3: yeah. [S1: it'd require a lot of (energy) ] i mean those are our choices we hafta cool it in a big tank, or we hafta, run it through a heat exchanger.
+S2: but, [S1: well we can't run it through the, ] the heat exchanger seems, yeah it, you'd need another stream.
+S1: cuz we don't have two streams. i mean, we hafta, we need to heat up, the the mash but, not at the same time that we'll be cooling down, uh, [S2: yeah cuz everything's like step by step ] the mash.
+S3: that's true
+S1: we heat up the mash and we cool it down.
+S3: can we heat it up and cool it down in the same thing? in the same mash tun?
+S1: um, i don't know. i don't see why not.
+S3: heat it up all the way but, act- no you have to filter it.
+S1: no cuz you, you cool it down, we need it to be cool for the fermenter.
+S3: yeah we have to filter it after (leaves the) after it, [S1: leaves the mash tun ] we add the stuff in yeah. and the mash tun
+S1: then it goes to a boiler where we add the hops. that's when we heat it up. we heat up the mash, [S2: in the boiler though ] then we filter it, then we heat it up in the boiler add the hops, [S3: boiler ] then we cool it down, send it to the fermenter... keep it cold.
+<PAUSE:05>
+S4: yeah so let's assume it's like the, like you said like the stuff at the cider mill, [S2: yeah, ] because, [S2: he never really explained it he just said it was like kept at this temperature. ] [S3: so you nee- we need to buy another cooling tank? ] it's for, just for... okay yeah just for i mean just for simplicity.
+S2: yeah
+S3: buy a cooling tank (xx)
+S4: so, (xx)
+S1: so, i'm sorry tell me what_ we're gonna buy a cooling tank?
+S2: yeah
+S3: yeah to put right before, the fermenter.
+S4: mhm
+S3: so don't we have stuff for refrigerated tanks, like in the book and in the coursepack?
+S1: oh i'm sure we do.
+S2: i think so yeah
+S3: just cooling tanks, we just need to know what temperature it needs to be kept at probably. <PAUSE:04> i'm just gonna start making a flow chart.
+S4: refrigeration...
+<PAUSE:23>
+S4: cost of industrial refrigeration
+<PAUSE:05>
+S1: i need a coffee.
+<PAUSE:08>
+S2: i could go for that.
+S3: for our material balance, i know we're totally, skipping (xx) do we, just wanna do like, pounds in equals pounds out, around every, process?
+S2: how we [S4: for ] gonna, oh you mean, for the solid stuff not the liquid stuff?
+S1: liquid stuff too
+S3: well the liquid too.
+S2: how do you change like a volume to, a weight?
+S3: density
+S1: density
+S2: right but, just like, the densi-
+S4: with the with the sol- wi- with the solids i just do pounds, you know? like the like the mash tun you know [S3: yeah ] we might put a thousand pounds in
+S3: well like we [S1: cuz we'll have we'll have w- w- water ] [S4: and then we're gonna, and then we're gonna pull a thousand pounds out. ] have pounds of, pounds of barley but we have gallons of water.
+S2: water b- i i know water but like um, [S3: like when we have, beer though. ] when you have like yeah beer and like the yeast slurry and stuff.
+S3: how are we gonna find the density of the... yeast (slurry)
+S1: we don't um, on the recipe it gives us specific gravity.
+S2: yeah
+S3: you're kidding.
+S1: yeah its density.
+S2: of the, [S3: no way ] [S4: of the, (final) beer ] [S1: the beer ] of the beer [S3: of the beer? ] what d- what do you do for the yeast?
+S3: oh our yeast slurry?
+S2: yeah
+S1: oh i don't know about that.
+S3: we'll specify it to be something we're gonna buy this really you know specific, [S1: <LAUGH> there you go ] yeast (slurry) [S4: yeah ] it's gonna have this specific gravity of this we'll assume it to be something, [S2: okay ] like cuz that's what we're gonna buy from, somebody else. <PAUSE:06> so we've got pounds of barley, and pounds of water, we're gonna convert it from gallons to pounds. um, it comes out of the mash tun and goes, [S2: then we're gonna hafta convert it at the end, too? ] it goes to a filter, after the mash tun?
+S4: yes...
+S3: (where we have) yeast
+S1: final gravity baby.
+S3: what's final gravity?
+S1: i don't know.
+S3: are you sure that's what that means?
+S1: yeah
+S2: oh. final gra- i've never heard of that before.
+S3: what's O-G? [S4: hm ] original gravity?
+<S2: LAUGH>
+S1: original gravity. no i'm serious.
+S2: really?
+S1: yeah.
+S2: oh probably because the,
+S1: that's how they, that's how they rate beers.
+S3: no isn't that it? specific gravity?
+S1: that's during the boil. specific gravity somewhere between original and final
+S3: it sits right in between.
+S1: i'm i'm serious.
+S3: <LAUGH> really?
+S1: that's how you, that's one of the ways you determine like how, thick your beer is how heavy (it'd be)
+S3: oh is that what all, wait O-G,
+S1: original gravity.
+<S3: LAUGH>
+S2: that's strange.
+S3: interesting. okay. what are these numbers?
+S1: color.
+S3: I-B-U units oh. [S2: (bitterness) units ] [S1: i'm not sure. ] I-B-U. [S2: bitterness units. ] hm. and initial bitterness units maybe?
+S2: probably. something. [S3: <LAUGH> just making it up ] we're just making it up.
+S1: international bitterness units.
+S3: <LAUGH> international.
+S2: <LAUGH> international. who knows? who knows?
+S3: ideal bitterness units.
+S2: ideal <S3: LAUGH> it's something bitterness units. it's bitterness units anyway.
+S3: (xx) we're gonna filter it to the, kettle.
+S1: this might be, quadruple X porter.
+S3: which then goes to the cooling tanks
+S2: that's quintuple or however... that's like...
+S1: i wonder, do you_ you don't still have that book, do you? we can like look up what, i- this gravity stuff is.
+S3: i doubt that i could find it.
+<PAUSE:06>
+S2: that was way too... that book was really really complicated. [S1: mm, really ] it was talking about like viscosities of beer and shear stress and, like, really complicated
+S1: shear stress?
+S2: yeah. <PAUSE:05> carbonation (xx)
+S1: (xx)
+S2: you, use it if you're using kegging and (or) bottle opener.
+S3: oh wow. <PAUSE:12> where does it go after the, fermenter? oh wait we need to add, [S2: hops? ] this is, the yeast slurry that we add in the kettle right? or no we add hops. i'm confused. <PAUSE:07> (trying to) revise our, i know we add hops here, but where do we add that, yeast slurry?
+S1: didn't he say it comes in right before the, in the fermenter?
+S3: in the fermenter?
+S1: excuse me. it comes into the fermenter. oh i gotta wake up.
+S3: it goes on to the fermenter and goes to,
+S1: the centrifugal filter.
+<PAUSE:07>
+S3: the aging tanks right?
+S4: mhm
+S3: aging tank, we only have one. and then, the bottler right? (xx) bottler?
+S1: yes.
+S3: alright here's my question. [S1: i (need um) ] if we need to do a mass balance on, the water the alcohol and other, is our only source of alcohol right here?
+S1: yes
+S2: yeah
+S3: mkay.
+S1: (xx)
+S3: so like we're gonna have, alcohol in, this, equals alcohol out here?
+S1: yup.
+S3: but i thought our, our yeast slurry was gonna have an alcohol level of like, two percent.
+S1: yeah well we_ the yeast slurry will have the alcohol content, [S2: of beer ] of the beer that it's sitting in.
+S2: which is [S3: right ] like, six five six percent?
+S1: yeah
+S3: oh that's right i- from the recipe.
+S2: yeah
+S1: it's like fourteen percent, yeast, eighty-six percent, beer. it's gonna be that, it's gonna be that
+S2: and the eighty-six percent beer is gonna have that [S1: it's gonna have the alcohol level yeah. ] five percent alcohol level. so do we add another stream some place to water it down or, are we, are we just adding, the right amount of this, to ours, to make it end up as, point-five percent alcohol?
+S1: it's actually gonna be, we worked we worked backwards,
+S2: that's right we worked backwards to figure out how much [S1: yeah ] of this, to add. [S1: yeah ] okay. that's good. [S1: yeah so we've got that all sorted out. ] so coming out of the bottler we're gonna have, our certain alcohol content, that we need.
+S1: yeah it'll be, it'll be point, five percent, of, (your) stuff.
+S3: so is this really the cold contact method?
+S1: it's actually the fake cold contact method. [S3: it's our method ] it's the impostor cold contact
+<S2: LAUGH>
+S3: from that patent like i don't think,
+S1: yeah it is it is.
+S3: okay. this just seems like cheating to me you know?
+S4: why?
+S3: like we bought someone else's beer and we're just watering ours down with theirs.
+S1: we're not watering it down we're just, distributing that alcohol. we're not adding it we're not watering it down. we're getting, you're getting the flavor, from, the yeast slurry, [S4: right ] of the yeast. you're getting the alcohol from the beer. [S3: mkay ] so it's like,
+S3: so we, [S1: you're just getting those tastes. ] we add the yeast for the flavor.
+S1: yeah...
+S3: okay.
+S1: (xx) scale grains extract exchieve a different_ achieve a different O-G. i need um, i need a glossary. do any of you guys have a web page like, glossary or beer terms?
+S3: no.
+S4: there's nothing under recipes?
+<PAUSE:17>
+S1: nope <PAUSE:06>
+S4: what's that? <PAUSE:05> (xx) tension, no.
+S2: what's the discussion?
+S1: it's a, bulletin board. <PAUSE:07> let's make hippi- hippity hoppity ale. <S4: LAUGH> um, yeah okay so we_ <POINTS TO BOOK> aha original gravity, [S3: oh ] thank you. [S3: <APPLAUDS> bravo ] thank you.
+<S2: LAUGH>
+S3: very good. i'm so glad you saw that.
+S1: what you you, doubted me. [S3: i did ] you doubted me.
+S3: original gravity what is that?
+S1: well it's over now okay? i'm goin home.
+S3: very good Tighe very good.
+S1: think i don't know what i'm talking about. i was like that all along i was like, okay. <SS: LAUGH> um,
+S3: wow so we have the density of our beer.
+S1: but it's not specific gravity i mean i i think it's the same thing.
+S4: yeah i think so to. it's like,
+S3: well we could use that final gravity.
+S1: cuz it's we_ cuz it'd be, but why do they, why do they give the recipe as, [S2: in original ] in original?
+S2: cuz, it's the recipe, and you are_ it's after you've_ they they're not brewing it yet. we're gonna buy it already brewed, right? wouldn't we wanna, [S1: huh? ] the final gravity?
+S1: we want final gravity why why would they [S2: i'm asking about original ] [S3: why would they give us the original? ] why would they list these by original? i mean, what is original, before you make
+S2: yeah before you, brew it maybe.
+S1: <LAUGH> the gravity of something before it's made?
+S3: which which one's higher?
+S2: well the gravity of, the
+S3: cuz you're gonna evaporate a bunch of water off so which one's higher? the final gravity should be right?
+S2: the higher, no.
+S1: higher should be after, the water is
+S3: right. but that's not the case [S2: the (xx) ] it's higher originally? yeah. let's use the original gravity. it seems like
+S2: they're so close i don't think it really matters.
+S3: yeah [S1: well but the ] and it seems like they would list that, as you know... oh. (xx)
+S1: they're kinda different. they're pretty close though
+S3: and then what does it say down here for, [S4: that one's lower ] S-G? <PAUSE:09> hm. oh we could use that one. just to be, in the middle.
+S2: in the middle
+S1: oh, we used the number in the middle. <SS: LAUGH> cuz it was in the middle.
+S3: just to be in the middle. what we decided.
+S1: it's pretty close to water though so i bet it is specific gravity.
+S3: yeah
+S1: (wonder) what's yeah what's the difference between these two?
+S3: if we use,
+S4: i don't i've i've got i have another page. <PAUSE:13> do do do
+S3: enter. <PAUSE:09> Tighe do you have all those numbers? from, when we calculated how much, how many gallons per batch, [S1: i do ] and how many pounds of this stuff (we're gonna have?)
+S1: i do.
+S3: can i see them please?
+S1: maybe. i'll think about it. (xx) brewing preparations (xx) i wish i had a, glossary around here or something. um, you're gonna have a difficult time following my notes here. let's see here. <S3: LAUGH> yes? [S3: okay ] yes? okay yes? <S2: LAUGH> of course. i have it. <LAUGH> um, <MUMBLES>
+S3: i'm, (you know,) keeping my mouth shut.
+<PAUSE:07>
+S1: okay. we have, per <PAUSE:12> per batch, we have, we're going to add, which is ten-forty liters. alright?
+S3: how did we figure out how big the batch was in the first place? we took the number of days in our cycle,
+S4: we said it was ten-forty, ten-forty gallons or,
+S1: ten-forty gallons thank you [S4: yeah ] thank you. okay that's where that's what wasn't making sense. per batch which is ten-forty gallons, we are adding, nineteen-point-six-eight liters of alcohol. just keep keep writing this down.
+S3: nineteen, point
+S1: point-six-eight liters of alcohol. [S3: okay ] for the, with that, that is contained within, three hundred and ninety-three, point-six liters of beer... [S3: mkay ] the volume of the, slurry,
+S3: that is eighty-six percent of the total right?
+S2: i think the beer is eighty-six percent.
+S3: right.
+S1: right the volume of the slurry, everything coming in, the beer plus the alcohol.
+S3: beer [S1: whoa ] pl- wait you mean beer plus the yeast
+S2: plus the yeast?
+S1: plus the yeast thank you. is, [S3: equals what ] four hundred and fifty-seven, point-six-seven liters.
+S3: right and we took eighty-six percent of that and got the three-ninety-three-point-six.
+S4: right
+S1: yes.
+S3: <WRITING> eighty-six percent is beer. okay. so that's how we figured out_ and, what percent of the beer is alcohol? five percent?
+S1: five percent yes.
+S3: <WRITING> five percent of beer... is alcohol. right?
+S1: yes that's right.
+S3: what are your um, what are your numbers for the pounds of, barley and stuff?
+<PAUSE:14>
+S1: quarter of a (mil) for five hundred and twenty gallons, eight eight hundred and fifty-one pounds forty-eight pounds seventy-one pounds [S3: five twenty pounds ] so half a vat.
+S3: that's right.
+S1: eight fifty-one forty-eight, and seventy-one.
+S3: fifty-one forty-eight and seventy-one. okay.
+S1: we have hops.
+S3: yeah how much hops,
+S1: this isn't_ this wasn't sc- eight ounces then right?
+S3: right this was for,
+S2: it never changed [S3: five-point-five gallons. ] when we scaled it.
+S1: it didn't change when we scaled it right?
+S2: no... does that make sense...?
+S1: no it doesn't no.
+S4: no you should hafta add more hops.
+S1: one ounce per, [S4: yeah ] thousand gallons. a tablespoon of salt?
+S2: <LAUGH> for flavor
+S1: a little baking powder <LAUGH>
+<PAUSE:04>
+S2: what does that mean with the, percent A-A?
+S1: i don't know. <PAUSE:09> i don't know.
+<PAUSE:04>
+S3: so for five-point-five gallons they added, (xx) point-three,
+S4: can you get my bag Laura? grab a calculator.
+S1: yeah. let's do the scale factor.
+S3: (xx) point-three, what?
+S1: just scale it.
+S3: just, linearly scale it up? you think?
+S2: do you think that we could sc- just, yeah. really?
+S4: yeah that's what i was thinking.
+S3: is that how this, happened?
+S1: i don't know.
+S2: they did it
+S3: why don't we figure that out. i'll do that...
+S2: kay.
+S1: well we could figure we could, we could, take this at different, we could scale for different um,
+S2: make a graph and then have a, little chart, a little (line) what'd i just say?
+S1: make little (cleft lines) make the graph and they do a little line of, regression (and a,) a line of best fit yeah.
+S3: they combine two (xx) <PAUSE:06> well i'll,
+S1: i think linear. cuz that's how you scale most recipes.
+S4: it's two-sixty-five, fifty-six-point-seven fifty-six-point-seven.
+S1: read that off again.
+S3: say what?
+S4: two hundred sixty-five ounces for the first one.
+S3: of hops?
+S1: for the, yeah. for the first one.
+S2: for for the first (xx)
+S4: yep. and the other two are, about fifty-seven.
+S3: ounces?
+S4: yep.
+S3: is that in a five hundred twenty gallon batch or a ten-forty?
+S4: that's for ten-forty.
+S3: really that's it?
+S1: oh that's for a ten-forty?
+S4: yeah... yeah.
+S3: cool.
+<PAUSE:17>
+S1: <HUMMING> well i wonder what this value is.
+S4: which one is that?
+S1: it's the volume of our yeast slurry coming in. we took this value times [S4: four-fifty-seven, ] one-point-two-two. this is the,
+S3: yeah this is linear. cool. sorry go ahead.
+<S2: LAUGH>
+S1: oh what's the
+S3: that's all they did to scale it up [S2: really ] it's just a, you know,
+S1: it's thirty-nine-thirty-six minus the volume of the slurry, gives you the initial, volume of, it gives you [S4: of ] the volume of the water [S4: water, we have to have, ] and then we use this, [S4: oh okay ] difference, times one-point-two-two to figure out, how much water we need to add. [S4: oh okay. ] see, it's all good.
+S3: there're sixteen ounces in a pound?
+S2: yeah
+S1: yes
+S3: cool. <WRITING> sixteen-point-five pounds
+S2: how ya doing...?
+S1: i'm very tired... i'm gonna hafta run over to Rendezvous and just, chug a cup of coffee real quick.
+S3: i think we'll probably need to take a, if we don't make a lot of progress take a dinner break. <LAUGH>
+S1: dinner? please it's only three o'clock.
+S3: i don't know, well i didn't eat lunch so, that was stupid on my part.
+S1: i ate a big brunch today. we went to the Gandy Dancer for breakfast. [S3: ooh ] very nice.
+S3: very nice.
+S4: i had a breakfast of pizza at about five thirty this morning so,
+S3: ohh
+S2: why so ear- oh. <LAUGH>
+S4: i was still up.
+S3: still up?
+S2: gotcha. <LAUGH>
+S1: gross.
+S2: my roommates do that all the time.
+S3: uck.
+S1: pizza at five thirty in the morning.
+S2: yeah they do. four, five thirty in the morning.
+S3: it sounds good at the time [S2: yeah ] but then you think about it,
+S1: as soon as you take your first bite you're like why did i just buy this.
+S4: well no we we scarfed it down in about three minutes.
+S4: did you really?
+S3: oh jeez. alright so our mass balance, <S2: LAUGH> is not gonna be that hard. it's just, you know, in equals out.
+S1: plus accumulation.
+<S2: LAUGH>
+S3: plus generation
+S1: generation
+S3: okay.
+S1: hey have any o- have you heard from General Mills?
+S3: sounds good. no. yeah, that's gonna suck right.
+S1: i wish they'd get on it, man.
+S3: well it usually takes, i don't know like, [S1: i'd say two to three weeks ] December is an average time, yeah. but General Mills said two to three weeks which was really surprising to me.
+S1: we be waiting around for them i got so many people knocking on my door now.
+S2: <LAUGH> Tighe
+S1: you know?
+S3: <LAUGH> opportunities. everywhere
+S1: i'm not gonna wait around for them.
+S3: oh you wanna hear something horrible Fay got an offer from Abbott again, [S1: really? ] cuz she was there, you know last summer, has to tell them by November thirtieth. <S1: GASPS> they gave her like, these next two weeks.
+S2: no way.
+S3: isn't that harsh?
+S1: she had a lot of interviews too didn't she?
+S3: yeah. that is so harsh and she's, she really wants General Mills or um, who else? oh no P and G was the other big one, [S1: yeah ] but she really (xx) for P and G. but like, i mean, with all those interviews you're not gonna hear back, before November thirtieth. most likely.
+S1: no uh'uh.
+S2: not till like January
+S3: and she has to tell them by, that's_ [S2: that's hard. ] oh. she's stressing. she's really stressing.
+S1: well is the only one she's, is the only one she wait waiting out for General Mills? holding out for?
+S3: well no she interviewed with a lot of em but, i have a feeling, if she doesn't get General Mills she'll go back to Abbott. just because she knows, it was a good job and she's comfortable with it you know it's the whole comfort level thing. but,
+S1: i hope General Mills, gets back to us.
+S3: yeah. [S1: what? ] cuz that would really suck if th- you know General Mills doesn't come around until December she already said yes, and then, you know if by some chance
+S1: i'd email General Mills.
+S3: yeah.
+S2: do you guys send thank you letters?
+S1: i did
+S2: for interviews? you did?
+S3: i try to. i send thank you emails generally. [S2: cuz i, emails? okay ] not letters.
+S4: i sent a letter.
+S3: really?
+S2: it's nice to send a letter but i never heard of
+S1: this is the only one i've ever sent though.
+S2: i've never had an address.
+S3: i didn't, i don't know. i haven't, and like, does it really make a difference or, is it just a courtesy thing?
+S1: i think it's probably just a courtesy thing
+S3: yeah, like do they, not get a thank you letter from you and then they're like oh, [S4: we're not gonna ] mhm. no offer for you.
+S1: i don't think they're gonna like shun you because you didn't, send them a letter. hopefully they'll look at more than that you know.
+S3: that'd be pretty shallow.
+S1: yeah it would. alright
+S3: i just don't really see the need.
+S1: alright so we still need, we still need, <SS: LAUGH>[S3: sorry ] water purification.
+S3: water purification and, [S1: we still need, coffee manufacturing. ] now we need the price of a cooling tank. did you find anything? [S4: i haven't, seen any at all. ] no? you haven't been looking
+S1: ach we need a cooling tank?
+S3: yeah we need a cooling tank. [S1: how about if we just, ] instead of the heat exchanger. [S1: put some ice cubes in there. ]
+<SS: LAUGH>
+S1: we got our, [S3: that could screw up our mass balance (xx) ] our weekly ice supply and, hey, wha- we'll just buy ice cubes and use that to like account for water loss, [S1: yeah ] and we'll cool it down at the same time. or we'll make our own ice.
+S3: we'll just like, i don't know, treat the kettle as a big giant, refrigerator. [S4: that's right. ] so why don't you add a line in there before fermenter, for the cooling tank. (xx)
+S4: why no right click. why no right click?
+S3: what...?
+S1: <MUMBLING WHILE READING>[S3: ooh ] okay so cooling tank...
+S2: how come that's the only one capitalized Tighe?
+S1: sorry.
+S2: <LAUGH> he starts all over.
+S4: (xx) it's in the one that's (xx)
+S3: yeah (without the) those indexes .
+S1: mm (i don't) mm alright i think we need to come up with something for, the water system.
+S3: <LAUGH> Tighe's obsessed with the water.
+S1: i got we gotta [S3: water water water ] get this water thing going. that's what the- that's what he critiqued us on. he was like <ALTERED VOICE> have (the) hot water (xx)
+S3: really?
+S1: yeah. in this hold on let's see about... gravity <PAUSE:07>
+S4: i don't know if this is something to talk about it cuz it's just for, our little home brewery.
+S3: i think Ann Arbor water is just fine. i don't think it's (gonna fail.)
+<PAUSE:33>
+S1: describe ranges for physical attributes like original and final gravity, okay.
+S3: look at that.
+S1: but it still doesn't say,
+S2: I-B-Us
+<PAUSE:08>
+S3: are we, going to assume... um that the, specific gravit- our yeast slurry, that we're gonna add, how are we gonna get the specific gravity of that?
+S2: right, of like, he was it's
+S1: we know a volume.
+S3: we know a volume but we need_ our whole mass balance is in pounds.
+S2: i thought we were going to assume one.
+S3: oh that's right. we were just gonna assume like a certain, [S2: yeah ] O-G.
+S1: i'd do, i'd do volume, can we do volume?
+S3: for the whole, a mass [S2: then we'd get what then. ] balance is a mass balance though.
+S1: not a volume balance is it?
+S3: yeah
+S2: right right. <LAUGH>
+S1: oops we did a volume balance
+<SS: LAUGH>
+S3: i don't think volume is conserved. from, in a fermenter (xx)
+S1: neither created nor destroyed.
+<SS: LAUGH><PAUSE:08>
+S3: so we c- okay we'll assume [S2: so i would assume a mass of, ] that O-G of, well we know liters, and we'll assume, O-G, equals one-point-zero, five.
+S1: well... zero-five-one, final zero-one-three.
+S2: and that's just of the beer. so wouldn't we_ with the yeast in it do you think it would be like more dense?
+S3: ohh
+S1: well i think you should just just assume, just assume the yeast without i mean, to be e- just the yeast i mean we've got like, twenty liters of just yeast, we're doing mass.
+S2: we're-
+S3: how much does twenty liters of yeast weigh?
+S2: yeah
+S1: yeah that's what we need to know.
+<PAUSE:04>
+S3: we were talking about this last time like a hundred pound sack, you know like if we came up with some kinda, you know. go to, Home Depot or whatever and get a, thing of grass seed.
+S1: let's go buy, let's go buy some of those little yeast packets. let's see how much it weighs and then multiply it.
+S2: but those are so light though aren't they?
+<S4: LAUGH>
+S3: yeah
+S1: it's okay. just need a we just need a, sensitive balance. <SS: LAUGH> and just multiply it.
+S2: how mu- do we know what the weight of our yeast needs to be?
+S1: use a, use a little least, yeast package,
+S2: do we know what our weight of our yeast needs to be?
+S1: we know what our, volume of it needs to be.
+S3: no we know what our volume is. [S2: ooh ] we don't know our weight.
+S2: and we don't know a density of yeast so, [S3: yeah ] it's not really gonna help us.
+S1: well, we'd mass the yeast, and then we calculate its volume.
+<S2: LAUGH>
+S3: should i just assume, an O-G of the entire yeast slurry? to be like one-point, two, ish?
+S1: well, but then you have, a whole lotta of beer, a whole lotta of yeast. [S3: there's really not that much, yeast in there. ] i mean i don't i don't kn- i think, but i think if you add, twenty liters of yeast to what do you have four hundred liters of, beer? i don't know twenty liters of yeast, that yeast is gonna be heavy compared to the beer. [S3: you think? ] the, think about drinking a liter of yeast and, drinking a liter of beer. <LAUGH> the yeast is gonna be (xx)
+S2: but is that how much we have or is that,
+S3: well, water, water and beer is pretty heavy. like if i think of carrying a five gallon bucket of beer, i would think that's gonna be heavier than a five gallon bucket of yeast.
+S4: yeah i would think the least would be or yeast'd be.
+S3: it would be [S4: it'd be lighter. ] lighter. [S1: mkay. ] don't ya think? [S1: so w- but they ha- ] but then again like a, a pound of shu- like a bag of sugar's pretty heavy so, i mean i don't know.
+S1: but what, what what value would you use, [S3: <LAUGH> i don't know i was gonna guess ] i mean, yeast is lighter than water but, we don't really know.
+<PAUSE:05>
+S3: hm
+<PAUSE:07>
+S4: um, you know what we need we need um, some sort of web page that gives us, [S3: all kinds of densities ] of food.
+S3: hey [S2: i bet we can find it. ] our book. you think we'd have the density of yeast? they've got the density of like, [S2: i doubt it ] apples.
+S2: and (that,) i'm like
+S4: (xx)
+S3: have you seen that?
+S1: in our three-forty-three book yeah in the back.
+S3: yeah in the blue book.
+S1: yeah you're right.
+S2: i doubt it'd have yeast though do you think?
+S3: you never know.
+S2: (should) we go find somebody outside? <LAUGH>
+S3: yeah i don't (have) my book.
+S1: where where were um, Ehon and Pratik?
+S3: they're, over by the windows right there.
+S2: i saw some, i won- they were working on three-oh-two though.
+S1: i'm just gonna go run and ask 'em.
+S3: who else was working on three-oh-two?
+S2: i saw some girls, [S1: it's worth a look ] over at those computers back there that, [S3: oh ] in our class i don't know what they're working on though.
+S3: see i'm hoping people kinda stick around to work on three-oh-two cuz i really need, [S2: for help? ] help. this homework's really hard.
+S2: do you know of anyone taking it next semester?
+S3: probably a bunch of people.
+S2: think so...?
+S3: our class_ i would say a little less than half, is taking it right now so probably the other half will take it, next semester.
+S3: are you in it right now, Dave?
+S4: no i, [S3: you took it ] took it some uh it was some time last year. [S3: last year? ] maybe f- i think first semester.
+S3: these homeworks, the G-S-Is write the homeworks and they're just like ridiculous, homeworks they're so hard. [S4: huh ] it would be cool if i could go to office hours you know like our homeworks are always so hard but then you go to office hours and you're like, hmm okay, but
+S2: bad timing?
+S3: yeah i can't, make it to office hours ever.
+S4: yeah we had a pr- ours we had a pretty small class, i bet there was only forty people in it or something [S3: really? ] like that is it, a lot bigger now? like the one you're in it?
+S3: (there are) about, seventy [S4: oh okay ] eighty, i would say.
+S4: hm. yeah i, i (don't know) Rasmussen must have been easy or something cuz, it wasn't too hard for, for us.
+S3: let's hope you get her. <S4: LAUGH> hopefully... alright.
+<PAUSE:06>
+S4: so i don't know what kind of filter we need.
+S2: filter?
+S4: yeah. i mean we just
+S2: oh water?
+S4: yeah, can we just, have something like that on th- like you said just something on the line going out?
+S3: <LAUGH> that's what i would love to do just say voila poof. um, (xx) i don't do any, searches in um... (they're real broad.) it's all auctions. <PAUSE:32> course not.
+<S4: LAUGH><PAUSE:06>
+S1: mm nope
+S3: (he's back)
+S2: no it's not in there? or no they don't have the book.
+S1: n- it's not in there.
+S2: oh.
+S4: (do you know what)
+S1: get outta my seat. punk. did we did we search?
+S3: i just searched, i was gonna look for m- water purifiers,
+S1: okay hold on let's see if we can find density of, see if we can find density of yeast. <SS: LAUGH> what? <READING WEBSITE> i'm an H-I-V positive (xx) i don't think that's the right yeast density.
+<S2: LAUGH>
+S3: say, say stop. (xx)
+S1: it's, (well here.)
+S2: (go ahead.) <LAUGH>
+S1: <READING WEBSITE> yeast spoilage (xx)
+S4: <READING WEBSITE> yeast (is it there?) yeast researchers.
+S3: yeast researchers
+S1: could be, (think.)
+S4: um
+<PAUSE:06>
+S3: i think it's, (probably helped on the)
+S4: <READING WEBSITE> biotech fermentation
+S1: <READING WEBSITE> (do i have) a yeast problem? <LAUGH> no, no we don't. <S3: LAUGH><PAUSE:10> hmm. [S3: oh ] what's going on?
+S2: use a different search engine. that's annoying.
+<PAUSE:06><S3: LAUGH>
+S1: oh (why) <SS: LAUGH><PAUSE WHILE TYPING> ts- oh we were on Lycos weren't we? <LAUGH> i thought we were at Alta Vista.
+S3: hm? we were at Alta Vista.
+S2: we were.
+S1: oh.
+<PAUSE:07>
+S4: yeast (xx)
+<PAUSE:11>
+S3: whoa whoa whoa. (that one) over there.
+<PAUSE:04>
+S1: good call.
+<PAUSE:06>
+S1: um,
+S4: that doesn't look like it's gonna have something
+S1: how about how about
+<PAUSE:20>
+S1: (although i see it) (xx)
+<PAUSE:04>
+S3: hm
+S1: (oh that) would be dry yeast too. i don't know.
+<PAUSE:05>
+S4: (brewing book) in the sky.
+S1: i don't know what to say.
+<PAUSE:08>
+S4: (i wonder about that) one on brewing that was on the page before.
+S1: this?
+S4: yeah.
+<PAUSE:09>
+S3: yeast
+S1: there's a lot of different, types of yeast. <PAUSE:08> huh i, i think this, is not the right way to go about doing this.
+S3: no way.
+S4: yeah.
+S3: look at this. <READING WEBSITE> i am a chemical engineer working on a project for the yeast drying plant at Coors. my project requires that i know the density of the dry brewer's yeast. (xx) how to measure density in two ways. (xx) wow.
+<PAUSE:08>
+S1: that's, dry yeast.
+S3: it hasn't absorbed any water.
+S2: well what about the one where she displaced it a known amount of water.
+S3: three hundred and forty-four
+S2: one-point-three-three grams per mil.
+S3: is that, pound (xx)
+S2: oh one point, [S3: per mil ] two two, per m- per milliliter
+S3: yeah.
+S2: okay.
+<S1: LAUGH>
+S4: that's the density that she gives for (th- our) yeast?
+S1: yeah. for the dry yeast. i say we use it. <LAUGH>
+S3: one-point-three-three grams per,
+S4: i'd use it yeah cuz you know how much yeast we have in there (and stuff)
+S1: well it's dry yeast does that make a difference?
+S3: that's pretty funny that she
+S2: well when she did_ when she packed it with dry yeast she got point-six grams per milliliter.
+S4: when she, w- what?
+S2: when when [S3: when she ] it was in the water she got one-point-three-three.
+S4: oh okay.
+S2: and i- ours is gonna be in [S3: in the in liquid. ] liquid, so.
+S4: oh alright, yeah.
+S1: cool
+S2: i would say it's gonna have a higher mass anyway. <PAUSE:08> but that's weird though.
+S3: yeah that's really_ this is just a,
+S2: wait what was the response to her?
+S3: i don't think anyone responded.
+S2: oh
+S1: what's that web page?
+S3: bio net, (i don't know) here i'll find her thing again. um, [S2: some big long thing? ] it's a-yeah it's a big, it's a um, [S1: that's cool ] bulletin board bio net, [S4: hm ] hypermail, yeast. people are asking questions about yeast.
+S1: cool. alright so we got our density of yeast.
+<SS: LAUGH>
+S3: alright let's work on water.
+<PAUSE:06>
+S1: then we just need, one f- (hey) we need a filter, so. fermenter. didn't i g- didn't i have a, price for a fermenter i think i did.
+<PAUSE:05>
+S3: i thought we saw, like some place where you could buy one and it was like thirty-five thousand dollars, and that was before we
+S1: thirty barrel tanks and fermenters seven thousand dollars each.
+S3: why,
+S2: yeah. [S4: okay ] i remember that.
+S3: that's so cheap. [S2: yeah we just wrote it down ] oh they were used. [S2: yeah. they were used. ] they were used, that's why. yup [S1: well ] do you, have the web page?
+S1: yup.
+S4: hm.
+S3: (xx)
+S2: Bavarian brew, brewery
+S3: type of yeast. <S2: LAUGH> for sale <PAUSE:09> whoa
+S1: <LAUGH> doh
+S3: duh-oh.
+S1: (if i could) type.
+S3: could you type?
+<PAUSE:08>
+S2: <LAUGH><PAUSE:04> sixty-nine hundred dollars each.
+S1: hm. but we're after November first so we can't use that.
+<S3: LAUGH>
+S2: we are after November first?
+S1: yeah. it's only available before November first.
+S2: we can't buy 'em right now?
+S1: no. price probably went up...
+S3: let's say we got 'em on sale.
+S1: now but don't you think that's peculiar, that the fermenters, would be the same price as the storage tank?
+S3: a little bit
+S1: i mean,
+S2: maybe they're just selling them at that price, because, [S4: it's the same ] they wanna get rid of 'em.
+S1: <ALTERED VOICE> the, pre-Thanksgiving sale
+<S2: LAUGH><PAUSE:06>
+S1: hmm... hm.
+S2: do you think they'll have any more,
+S4: why don't you use, use that six- sixty-nine hundred bucks
+S2: what if he looks at it, and says_ why would he be that picky?
+S4: he's an yeah. (we got) everything else is outta the outta the book (it's) just from graphs. this is a lot more detailed than that is.
+S1: these are used,
+S2: so they don't [S1: that's okay ] have fermenters in the, book huh?
+S4: no
+S2: no brewery equipment.
+<PAUSE:06>
+S4: i think they i mean they have like tanks and reactors but...
+S3: this thing is used in, pharmaceutical industry the food processing industry, for mass consumption application, it's a U-V thing, there's no price. [S1: let's estimate ] there's just another like U-V, did we decide that U-V is just to get like contaminants out?
+S4: biological stuff out kill, (microbes)
+S2: i don't know
+S3: but it says it's used in the food processing industry. so you'd probably want it to taste good.
+S1: i wonder if water purifier isn't what we we're really looking for, cuz that's something else.
+S3: a water, make it taste gooder
+S1: de- [S2: yeah ] bad taste-izer
+<SS: LAUGH>
+S2: well we're looking for like the, the ion exchange kind, of water purifier aren't we? where it takes out the um minerals and, i don't know [S3: i have no idea ] we did something on it, while we were in two-thirty
+S1: (xx) really
+S3: (xx) the water purifier.
+<SU-m: SNEEZE>
+S1: bless you. i don't know i have no idea.
+<PAUSE:29>
+S1: well, can we do the um, we've got everything for the material balance now right? right?
+S3: let's try one of these yes we have everything for the material balance. (xx) water purifier. (xx)
+S1: why don't we just put an aquarium filter over the tap?
+S2: what is that?
+S3: removes sediments chlorine, chlor- (xx) heavy metals, blah blah blah blah blah, and (xx) ions. (xx) that's like aquarium pharmaceuticals. does that just mean, like, stuff for your aquarium?
+S2: <LAUGH> that wouldn't last very long.
+S4: why?
+S2: cuz i don't think it would, fit over our pipe or anything.
+S1: i guess.
+S4: how big was it?
+S2: it was just for an aquarium.
+S4: oh.
+S3: how many gallons? can't we just,
+S1: <LAUGH> maybe like, ten gallons, fifteen
+S3: up to three hundred gallons of pure water with a single cartridge. [S2: with a single cartridge though we'd have to change it like ] we'd have a lot more than that never mind.
+S1: four times?
+S2: four times a batch
+S1: four times a filling <PAUSE:05> um,
+{END OF TRANSCRIPT}
+Please contact the English Language Institute with questions or comments.

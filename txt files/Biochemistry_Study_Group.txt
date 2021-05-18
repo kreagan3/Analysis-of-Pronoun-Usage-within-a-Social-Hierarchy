@@ -1,0 +1,1647 @@
+<PERSON ID="S1" LANG="NS" ROLE="SU, Peer Group Leader" SEX="F" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S2" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S3" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S4" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="R1" LANG="NS" ROLE="SU, MICASE Researcher" SEX="F" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="SS" LANG="NS" ROLE="SU, Students" SEX="U" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="SU-f" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="SU-m" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"/>
+
+
+
+
+S1: sorry we could only get the old book.
+S2: oh that's okay.
+S1: okay. <PAUSE:09> so, we have questions on electron transport or what?
+S2: um, you kn- that oxyl acetate, you know that, there's like a, a weird cycle. it's, it sorta seems separate
+S1: citric acid cycle?
+S2: no, it's something, sort of related to it but it's not, it. [S1: okay ] like, i was reading in the book. it's like
+S1: oh oh, [S2: the ] the the t- okay i know what you're talking about
+S2: okay, i just...
+S1: for the fatty acid breakdown right?
+S2: uh yeah, i think so
+S1: okay do you know what chapter that is? it's (way) past this
+S2: um, in alri- is it all in the same ch- it was like,
+S1: glyoxylate?
+S2: yeah, [S1: okay ] i'm just sort of confused about it, like
+S1: the purpose of it? or what
+S2: like, i i know it's like, it breaks down fatty acids but like, how is it related to like the citric acid it like feeds to the citric a- acid cycle
+S1: right, right okay, so, some of the same enzymes are involved, okay [S2: okay ] like, uh you go from acetyl CoA to citrate that's [S2: okay yeah, yeah ] you know exactly what you do in the citric acid cycle so you s- have a citrate synthase that does that. okay, then you go to isocitrate, just like in the [S2: okay ] citric acid cycle, so aconitase
+S2: and what i- what does this mean? like, you know that means that if there_ A-T-P would inhibit it? or, [S1: um, let's find out. ] is that j- like an inhibition? and in calcium and A-D-P s- like,
+S1: that i- that's what it appears to be so, A-T-P would inhibit that
+S2: cuz i- is it cuz it bi- it binds to that, or or something?
+S1: it probably binds to the enzyme, [S2: okay ] isocitrate dehydrogenase which
+S2: oh okay and it [S1: uh ] changes the conformation
+S1: yeah, so and it's it's an allosteric inhibitor. [S2: oh okay ] and so these are allosteric activators. okay?
+S2: oh so allosteric inhibitors bind to the enzyme and change the active site? or is that, so oh okay
+S1: right, right. okay? [S2: okay ] okay so, um, maybe
+S2: like, my book started talking about these two like how they, different parts of it give off C-O-two
+S1: right, so we have C-O-two [S2: yeah ] so, what do you think that means? [S2: i remember ] so how many how many carbons does citrate have?
+S2: doesn't it have six? [S1: right ] so it gives off two [S1: it g- ] isn't isn't there like two parts to it? like,
+S1: okay let's look at the, structure. [S2: wait ] okay <PAUSE WHILE READING> okay, so here's citrate [S2: ci- yeah ] okay?
+S2: like, i think this one's the one that leaves.
+S1: which one's the one?
+S2: the middle one?
+S1: the new one?
+S2: no the middle one, here [S1: right ] that's the one that, leaves first
+S1: right... so what does that mean?
+S2: that it changes, shape?
+S1: right so, this is your substrate citrase, citrate and, aconitase the enzyme, [S2: okay ] is gonna change it to well eventually to isocitrate, [S2: okay ] okay? and still has [S2: oh okay ] six carbons at this point, okay? then, you have this oxidative decarboxylation step
+S2: oh, so that car- that would ca- that would cause the C-O-two to leave
+S1: right, and that's catalyzed by, this [S2: oh okay ] enzyme okay?
+S2: okay. so that was
+S1: so then you have another carbon, leaving, sa- it's ca- like the step name is called the same oxidative decarboxylation, but it's a, by a different enzyme has [S2: mhm ] different substrate
+S2: oh okay [S1: okay? ] how does that r- sort of relate to the, other one though?
+S1: what other one?
+S2: the, this one this
+S1: the glyoxylate cycle ? [S2: yeah ] well, the same enzymes and substrates are used and that, this cycle, um, okay it says, what is, it says it's a variation of the citric acid cycle right? [S2: mhm ] and <PAUSE WHILE READING> okay. hello [S3: hi ] oh we're being recorded today, okay? so you hafta, sign some consent forms before you can speak. <LAUGH> okay?
+R1: actually if you'd rather fill them out, when you leave [S1: okay ] at the end of the appointment that's okay too.
+S3: no problem.
+S1: is that okay?
+S3: that's fine. [S1: okay ] (i could care less) [S1: okay ] oh you got a book? okay so this is
+S1: i got an old book, okay. yeah that won't help up us
+S3: yeah o- older books here okay. i'll be right back.
+S1: okay, so, um,
+S2: so like, i know those, when it go- it goes from here, so this is the gly-
+S1: glyoxylate cycle
+S2: so this is the whole citric acid cycle [S1: right. ] oh okay, that's what i was ki- cuz i thought it goes here and how could it go there too? oh so it's like half of it.
+S1: so, yeah it's just it's just_ and so, when you do this, you don't get um,
+S2: isn't this to like, sort of maintain, this in the cell? [S1: right ] is this, this is in plants? or
+S1: does it only happen in plants?
+S2: or was it something else?
+S1: i think you might be right it only happens in plants [S1: oh okay ] but actually i'm not sure i'm not sure. in plants the enzymes of the glyoxylate cycle are sequestered (into) the membrane by organelles.
+S2: okay so not in, not in mammals or (whatever)
+S1: um, it doesn't, does the glyoxylate cycle take place in mammals, or just plants? or animals at all?
+S3: the, glyoxylate cycle?
+S1: do you know what that is? [S3: no ] okay. did you do your reading?
+S3: yeah i did [S1: okay ] but probably not that one. is that like (xx) system one and two and stuff?
+S1: what's that?
+S3: (xx)
+S1: no. [S3: okay ] no this is, um like,
+S3: the citric acid cycle
+S1: this is the citric acid cycle. [S3: yeah ] this is the glyoxylate cycle.
+S3: oh.
+S1: okay? and it says in plants it's, in these organelles called glyoxosomes, um, not present in all plant tissues, yeah i think, you're right, it only happens in, uh, in plants. and that's, because you know we don't have these enzymes this isocitrate lyase and, malate synthase right? yeah.
+S2: can something inhibit this?
+S1: probably <LAUGH> well the same things that are gonna inhibit, the enzymes that are up here, [S2: oh okay in wait, okay ] are gonna inhibit this cycle [S2: oh okay ] just like they would inhibit the citric acid cycle, and these two enzymes, prob- have their own inhibiti- oh vertebrate an- uh animals do not have the enzyme specific for the glyoxylate cycle, isocitrate lyase, and malate synthase and therefore cannot bring about the net synthesis of glucose from lipids [S2: wait ] so what plants can do, [S2: oh okay ] is, they, can take lipids, and turn them into glucose. we can't do that
+S2: but don't we have that too?
+S1: we can't [S2: we have fatty ] break down fatty acids the same way they can.
+S2: oh, then what process do we use (then?)
+S1: um, a different one [S2: oh. ] <LAUGH> okay, um okay. we'll have to find out. <PAUSE:02> um, oxidation of fatty acids, this thing
+S2: oh we don't have to read that
+S3: we haven't done this chapter
+S2: yeah, (xx)
+S1: uh, you do that, later? or do you do that a- at all?
+S2: i don't, think so. i think we're just skipping it
+S1: i think you do. cuz i did that part [S2: (oh) ] you did, you do that. it's a it's very different
+S2: (alright,) well we'll learn that later then.
+S1: yeah, we'll learn that later.
+S3: so what're we gonna go over, for today?
+S1: um, well he had some questions first so we're gonna, continue with that. and you're like, teach me. we're not doing that.
+S3: why not? it's the best way
+S2: s- and this one uh, sort of. is this just like, this
+S1: so this is just like telling you that, these intermediates in the citric acid cycle, they don't just [S2: appear there, oh they come from ] do this. they can do other things.
+S2: oh so these things, do these things come from that or this, makes that?
+S1: well [S2: cuz ] which way is the arrow going?
+S2: it's going that way but, [S1: right ] your body doesn't ma- but we eat these things.
+S1: we can make those too
+S2: oh we can?
+S1: yeah
+S2: oh okay. and this, <READING IN MUMBLING VOICE> oh, okay. so we can use our amino acids to make that [S1: right ] and that can be used to (do) that [S1: yeah we can take amino acids and ] s- oh so that's how we make, we can make glucose if we don't have enough.
+S1: right. [S2: oh ] actually i don't think we can do that. i think only plants can do that right? (phospho) amino pyruvate
+S3: do plants have mitochondria? they [S1: yes ] do right? okay.
+S1: oh, i guess we can
+S2: it's in here, liver and kidneys
+S1: we can do that. okay
+<PAUSE:08>
+S2: yeah, yeah and then, yeah that's all i had cuz i- i was just confused by the pictures.
+S1: okay, but we probably wouldn't go, um... we probably wouldn't go like that. we would, i think we would just go like that, to go to oxaloacetate [S2: oh okay, i- make ] because, we don't need to do the whole glycolysis cycle again you know [S2: oh okay ] you might as well just go to oxaloacetate, rather than g- [S2: but i- ] making glucose. [S2: it's possible ] it's possible. i guess.
+S2: oh okay.
+S1: what do the red arrows mean? why are some red and some blue? shown in red are the four anaplerotic reactions that replenish depleted intermediates of the citric acid cycle.
+S2: anaplerotic means both ways, so... maybe that's the enzyme, like C [S1: yeah. so ] the enzyme's going there
+S1: intermediates can be replenished by anaplerotic reactions. under normal, circumstances the reactions which uh, in- by which the cycle intermediates are drained away, and those by which they replenish (xx) (the balance of it) okay... so they didn't give a very good definition of anaplerotic.
+S2: is it, so it means it just goes both ways though. right? like, the reaction can go, backwards and forwards
+S1: no that's not that [S2: oh it isn't? ] important no. what does anaplerotic mean? here why don't you look it up, find out. you're on the right page so
+S3: what's the word?
+S1: anaplerotic
+S2: and then i have a question
+S3: A-N-P how do you spell that?
+S1: A-N-A.
+S2: and then the Q cycle, th- that's ubiquinol right? that's not for plants.
+S1: what's not for plants?
+S2: the Q cycle or whatever
+S1: the Q cycle.
+S2: you know the one where ubiquinol carries electrons
+S3: that's the
+<PAUSE:06>
+S2: is that the Q cycle or i thought it was wasn't it something else?
+<S3: DRAWING ON BOARD>
+S1: what? is that even, what i- what_ can we label something? i don't even know what that is.
+S2: <LAUGH> that's complex one? [S3: yeah ] i thought it started in complex three.
+S3: ubiquinol?
+S2: the c- no, the Q cy- isn't the Q cycle ubiquinol?
+S3: yeah, that's what it's also called though.
+S2: i thought it starts in three.
+S3: i thought it was like right here and like, complex three was like, over here and this is like, Q is like right there
+S2: oh, i don't know i i th- s-
+S3: we'll go over that.
+S2: yeah
+S1: okay. well ubiquinone is after the comple- after complex one, so
+S2: and, what's the other one, quinone is just, like we had to fill in like [S1: yeah ] on our project you know the pictures? [S1: so which one does ubiquinone ] where would we put quinone? [S1: go, with? ] it's the oval one.
+S1: <LAUGH> so, it's the oval one, okay, so what
+S2: i put that in complex three, an- cuz i- i don't know, cuz
+S1: did you use the book? [S2: yeah ] okay, is that what the book told you?
+S2: well that's where i thought i- it would go.
+S1: did you find out what anaplerotic meant?
+S3: it told me to go to this page but, i don't see it here.
+S2: i thought i- it's something to do with reactions, right?
+S1: anaplerotic? [S2: yeah ] right
+S2: like
+S3: to replace intermediates for this purpose cells employ ana- replenishing, it means replenishing.
+S2: oh, so it's a reaction that, if you run out of something, it could still go backwards. isn't that like why it's
+S1: no, that's not what it means. it means that, it's not just like backwards and forwards like that. there are also other,
+S3: like N-A-D to N-A-D-H, like you have to go back?
+S1: no, it's no- that's not what back_ that's not what it means. to replace intermediates removed, for this purpose cells employ anaplerotic reactions which are briefly discarded okay. so anaplerotic reactions, are other reactions. like [S2: oh like, like these are the, other re- like ] these are not invol- right. these are anaplerotic reactions. going this way.
+S2: like, just in case you don't have tha- enough of that, that'll make more [S1: right ] to put it, so that's, that's the reaction that's in_ oh, okay
+S1: so these are, some anaplerotic reactions, and where they take place. [S2: oh okay ] okay [S2: oh ] so pyruvate making malate with, these other guys, is an anaplerotic reaction, right here.
+S2: oh okay. [S1: okay? ] yeah
+S1: okay. so let's, figure out, oh that's not it. um, the, this guy. [S3: (second?) ] [S2: yeah ] oh this is the oxidation of fatty acids.
+S3: should i draw you oxal- citrate acid cycle?
+S1: yeah let's see it.
+S3: okay
+S1: can you do it?
+S3: i don't know all the little enzyme things but, i think i've got, the gist of it.
+S2: our exam's next week right?
+S3: yup <PAUSE WHILE WRITING ON BOARD> (am i right? i messed up)
+S1: coenzyme A.
+S3: is it?
+S2: isn't it acetyl, CoA
+S3: acetyl CoA, okay
+S2: does it, they're different right?
+S1: they are different. acetyl, CoA has coenzyme A attached to it [S2: oh oh okay ] that's why the, that's where the CoA comes from. <PAUSE:07> how do you spell acetyl?
+S3: i don't know
+S2: A C E T Y L
+S1: right.
+S3: this isn't English class
+<S2: LAUGH>
+S1: you have to know how to spell them though
+S3: is it alpha, keto something or other?
+S1: right, <LAUGH> keep [S3: gluterate? ] going alpha keto
+S3: gluterate?
+S1: right.
+S3: and in that case (xx) <PAUSE WHILE WRITING ON BOARD>
+S1: that was right... now that's not right
+S3: how do you spell it?
+S2: wha- wher-
+S1: he's trying to spell oxaloacetate.
+S2: isn't there an L? oxaloacetate?
+S3: well whatever we know what that word is
+<S2: LAUGH>
+S1: w- spell it out. ox- no, spell it out. say the word and spell it out.
+S3: alright.
+S2: there's an O
+S3: is it phonetically, do you spell it phonetically?
+S1: right
+S2: O ox- A
+S3: oxyl acetate?
+S2: O, acetate
+S1: that's not right
+S2: you forgot an O, y- right?
+S1: right
+S3: how do you
+S2: oxaloacetate. [S3: oh ox- ] just add an O in yeah
+S1: wh- where does the O go before or after the L?
+S2: yeah
+S3: <WRITING> (it would) before (it would) before,
+S2: no
+S1: say the word.
+S3: oxaloacetate, oxalo- ace-
+S1: is it oxylacetate or oxaloacetate?
+S3: oxalo-
+S1: oxalo- right? [S3: okay ] so now spell it. <PAUSE:07> oxalo <LAUGH> oxalo. okay, good job, except you have an extra letter in there but that's okay. okay. right...
+S3: is that basically it?
+S1: is that it?
+S2: acetyl CoA, uh citrate isocitrate, (xx) mm yeah. i think that's right
+S1: very good so
+S3: are you impressed?
+S1: i'm impressed. so, tell me the enzymes that do this. you can't use your book.
+S3: oh that's (a hard one)
+S1: okay, what how do you get acetyl CoA from pyruvate?
+S2: isn't it, pyruvate dehydrogenase?
+S1: right. so how many enzymes are, actually in that complex? that's not just one enzyme right? right okay
+S2: three? isn't th- that's the E one, two and three right?
+S1: right. [S3: yeah. (xx) dehydro- okay (xx) ] and what, coenzymes, do those, need?
+S2: coenzyme A?
+S1: <LAUGH> no
+S2: mm. oh, M, M-G pl- plus or whatever, (that is)
+S3: M-G
+S1: do they need magnesium?
+S2: or is it some (other) [S1: i think, you might be right i- ] no that, no that's that's, no that's glycolysis i think, isn't it? i know you need M-G something, somew- in some reaction (xx) i don't know if it's this one though
+S1: yeah, i yeah i think you need, like a lot of reactions need M-G but that is not really important. okay, we're not looking in the book right now. okay, sit down
+S3: i can tell ya
+S1: okay, so, um, how do you get citrate from acetyl CoA? what enzyme catalyzes that reaction?
+S3: some kind of (xx)
+S1: we're making citrate.
+S3: some kind of a, there's a decarboxylation, right there
+S1: is there?
+S3: isn't there? don't you lose C-O-two?
+S1: how many, carbons does citrate have?
+S3: three?
+S2: si- six
+S3: six, really?
+S1: six [S3: okay ] so how many carbons does acetyl CoA bring into the reaction?
+S3: six. bring in? seven?
+S2: six?
+S1: acetyl, what is acetyl? [S3: must mean something ] organic chemistry, what is acetyl?
+S2: s- it's an alcohol?
+S1: acetate [S2: oh ] what is acetate? what's the formula for acetate?
+S2: C,
+S1: or how many carbons are in acetate?
+S2: i know what a hemiacetal is. [S3: seven? ] is that,
+S1: a hemiacetal, [S2: (is half) ] is like, eight. it just has a particular, functional group on it right? [S2: yeah ] but we're talking about the molecule [S2: is it ] acetate how many carbons does acetate have?
+S3: six. [S1: no ] five
+S1: how many carbons does pyruvate have? [S3: six ] pyruvate
+S3: no it has three.
+S1: so, if we had pyruvate go into acetyl CoA there's no way we can, have six carbons in acetyl CoA right? [S3: no ] so how many carbons does acetyl CoA have?
+S3: three
+S2: three
+S1: does it have three?
+S2: cuz that would equal six.
+S1: okay if pyruvate has three [S3: yeah ] [S2: mhm ] you know when you make, acetyl CoA from pyruvate you use the enzyme pyruvate dehydrogenase right? what does that enzyme do?
+S3: takes off, H-two-O. dehydrogenase?
+S1: well, that's what the complex is called but okay so each individual enzyme, what does each indivil- individual enzyme of that complex do?
+S3: doesn't one of 'em phosphorylate?
+S2: doesn't it have that long ar- it like attaches two parts together? [S1: right ] there's like some arm thing that moves it, close like they're on opposite ends.
+S1: they're on opposite ends.
+S2: like, you know, is that the one with three complex right?
+S1: it's a complex right
+S2: isn't there something like here and here and then it attaches it here? [S1: okay why don't we look at the picture of that. ] i re- i remem- remembered it, i remembered it in the book.
+<PAUSE:06>
+S1: there was an arm thing, you're right about that. and that's what i was asking you about earlier.
+S2: that's what i was thinking about...
+S3: there's no A-T-P (with this) <DRAWING ON BOARD>
+S1: there's no A-T-P where?
+S3: in the, citric acid cycle.
+S1: there's no A-T-P in the citri-
+S3: you don't put it in. you don't you don't put in A-T-P
+S1: do you get A-T-P?
+S2: yes
+S3: um, yeah you get energy but you don't put it in.
+S2: you
+S1: okay, here you go. <POINTS TO BOOK>
+<PAUSE:08>
+S3: i told you you l- you lose a, a C-O-two.
+S1: no you said that acetyl CoA has six carbons.
+S3: oh okay but i told you <S2: LAUGH> there was some kinda decarboxylation.
+S1: you said there was decarboxylation between acetyl CoA and citrate.
+S3: oh is that what i said?
+S1: yeah that's what you said.
+S3: oh [S1: we're mak- ] so it's between pyruvate and acetyl CoA.
+S1: right. [S3: okay ] so how many carbons does acetyl CoA have?
+S3: five, uh two. [S1: two <LAUGH>] two <LAUGH>
+S1: so how do you get, acetyl CoA, which only has two carbons, to make this six carbon molecule?
+S3: of citrate?
+S1: of citrate right. how do you make it?
+S3: must bring in four.
+S1: where do the four come from?
+S3: from that enzyme.
+S1: from the enzyme? does the e- does an enzyme ever change in a reaction?
+S3: no [S1: no ] it's a catalyst.
+S1: what what other, substrate has
+S3: oh ox- the O, the other O thing
+S1: say the word.
+S3: is it the same one?
+S1: yeah say the word.
+S3: oh. oxaloa- oxaloacetate.
+S1: oxaloacetate, right.
+S3: yeah they come together.
+S1: right [S3: yeah ] what enzyme, enables them to come together and make citrate?
+S3: some kinda dehydrogenase?
+S1: you're making citrate, what enzyme?
+S3: is-
+S2: isosome? i don't know
+S3: citrate dehydrogenase.
+S1: citrate
+S2: citrase
+S3: -trase
+S1: citrate you're making
+S3: kinase (no, that's not what it was)
+S1: what does a kinase do?
+S3: phosphorylates?
+S1: okay, so we're making citrate. so citrate,
+S3: synthase? dehydrogenase
+S1: synthase, right.
+S2: synth- oh so dehydrogon- dehydrogenase breaks down?
+S1: right. usually
+S2: s- synthase makes it and kinase,
+S3: phosphorylates
+S2: phosphorylates?
+S1: what does phosphorylase do?
+S2: adds phosphorous? inorganic
+S3: no it takes it out
+S1: yes
+S2: oh no, oh okay so then wh- what puts it (on)
+S3: there's that one section that it tells you all these (proteins)
+S1: what what phosphorylates things?
+S3: kinases.
+S2: ki- oh okay. ki- oh okay yeah
+S1: so kinase and phosphorylase are opposites. [S2: oh okay ] okay? s-
+S2: yeah it's in the book i remember there's like a whole chart
+S3: yeah l- like know these terms yeah [S1: okay ] totally. see i read that.
+S1: very good. uh, so how do i get isocitrate from citrate? what enzyme do i use?
+S3: oh, it's just,
+S2: it i- takes off something doesn't it?
+S3: no all it is is a rearrangement.
+S1: right. so an enzyme has to do that. [S3: yeah ] what enzyme does it? [S3: um ] it starts with an A.
+S2: a- a- aldase
+S3: oh aci- no i- no it's like acitotinase
+S2: alkinise?
+S1: what is it?
+S2: alkinase?
+S1: uh, no.
+S3: no it's like A C I N O T A S E or something like that
+S1: A C I or A C,
+S3: A C i know it's like A C
+S1: O [S3: okay ] A C O. so say the word again. you had it spelled right except for that one thing.
+S3: oh okay. ac- acno- no what a- what'd they say? A C O
+S2: aconitase?
+S1: aconitase, right.
+S3: okay, okay
+S2: oh, okay. what did i say before then?
+S1: i i, akal- i don't know something, [S2: oh okay ] weird. aconitase.
+S3: (whatever) okay
+S1: how do you spell aconitase?
+S3: i don't know
+S2: A C O N O T A S E
+S1: N O or N I?
+S2: N O. I.
+S1: N I. aconitase, okay? so what's the intermediate between citrate and isocitrate?
+S3: sys.
+S1: sys what?
+S3: acitrate? s- no sys
+S1: sys A
+S3: sys A
+S1: sys, starts with an A
+S3: (aconicitrate?) sys
+S1: the enzyme that catalyzes this reaction is aconitase [S3: aconitase okay ] which (you're gonna find) the intermediate between citra-
+S3: sys a- sys
+S1: sys what?
+S3: i don't know. i just know it's called sys. does it start with a sys A? like sysaconi- no?
+S1: sys what?
+S3: aconitase?
+S1: aconi- wh-
+S3: oh that was that thing again, that was the enzyme so it's acononate.
+S1: right. sysaconitate, or, kina- sysaconitate right. <FLIPPING PAGES> no more looking. sysaconitate. [S3: okay ] okay? so, aconitase catalyzes the reaction, from citrate, to sysaconitate, [S2: to isocitrate ] and then to isocitrate. okay? so, how do i get alpha-keto-gluterate?
+S2: it's i-
+S3: it's another dehydrogenase, isn't it? decarbo- they're all like dehydronation, reactions
+S2: aren't they just the name of the, en- the name of the thing they're making? with some
+S1: i- the name, uh you yeah the names are very uh they use the names, right. [S2: oh okay ] um, but so how many carbons does isocitrate have?
+S2: six still?
+S1: six right. how many carbons does alpha-keto-gluterate have?
+S3: it has five
+S2: five
+S1: so what kind of
+S3: (so it'd be a) decarboxylation
+S1: it's a decarboxylation reaction.
+S3: so it's some kinda dehy- dehydrogenase isn't it?
+S2: y- you lose C-O-two right?
+S1: so, what enzyme does that? don't look.
+S3: isn't it some kinda dehydrogenase?
+S1: what is it?
+S3: some kinda dehydrogenase?
+S1: right, what kinda dehydrogenase?
+S3: alpha-keto-dehydrogenase, (or)
+S1: um, well no. [S3: okay ] i- uh go the other way.
+S2: isocitrate dehydrogenase?
+S1: right [S2: oh okay ] isocitrate dehydrogenase okay?
+S2: oh okay (yeah)
+S3: do i have to know these enzymes like, explicitly, really?
+S1: you do have to know the enzymes.
+S2: like all of 'em, for, every cycle? or anything
+S1: i'd be pretty su- y- you, i'm pretty su-
+S3: but wouldn't she like kinda [S2: for the ] tell you like, in this reaction, [S2: like you y- ] from here to here we use this enzyme
+S1: yeah she's not gonna ask you to draw it out or anything.
+S3: no but like, yeah i know but like, one of those questions about, like, from isocitrate to alpha-keto-glu- uh, gluterate, you know, the enzyme in it is isocitrate dehydrogenase.
+S1: this is what you have to know for the citric acid cycle. know how pyruvate dehydrogenase complex works and is regulated. know the reactions intermediates and enzyme names for the citric acid cycle. you do not need to memorize the structures. know about anaplerotic reactions that replenish the intermediates in the citric acid cycle. don't forget about plants, so that includes the glyoxylate cycle.
+S3: okay so why don't we like go over this stuff?
+S1: know how the cycle is regulated [S2: oh, okay ] know which steps are exergonic and irreversible. know where all the high energy compounds are formed and what they are.
+S2: wow that's a lot
+S3: (it's like)
+S1: no it's really not a lot. once you, you just have to know the citric acid cycle, and know the other little, things
+S2: yeah so just memorize basically, like how it goes. [S1: right ] like what we're doing now. [S1: right ] oh okay
+S3: okay so like let's do that stuff <S2: LAUGH> i mean
+S1: we are doing that stuff
+S3: okay good <LAUGH>
+S1: gosh you're demanding all of a sudden.
+S3: because i like,
+S1: we are doing that stuff
+S3: okay good [S1: okay ] good
+S1: so, next reaction what happens? how many carbons does alpha-keto-gluterate have?
+S3: five
+S1: how many carbons does succinyl CoA have?
+S3: i think it's like five. it loses uh, like some hydrogen or something like that.
+S2: isn't there like nothing in the middle now?
+S3: <DRAWING ON BOARD> like there's this_ [S2: (that's the part) ] i think it's like this, and then, at the bottom then the coenzyme A comes in and replaces that.
+S1: right s- well
+S3: kind of basically. like all this is still the same.
+S1: so you're saying you still have the same number of carbons, you've just lost some oxygens. [S3: yeah ] do you ever do that? how do you just lose oxygen? [S3: (xx) ] you breathe off what? in respiration what do you breathe off?
+S3: carbon dioxide
+S1: right [S3: (so there) ] so you're not gonna, lose oxygen like that [S3: you lose C-O-two, yeah ] you're gonna lose carbon dioxid- carbon dioxide right? [S3: yeah ] so, is this a decarboxylation reaction?
+S3: yeah
+S1: right. so what enzyme catalyzes it?
+S3: alpha-keto dehydrogenase... no.
+S1: alpha-keto-gluterate [S3: gluterate ] dehydrogenase [S3: gluterate ] complex.
+S3: dehydrogenase? okay.
+S1: it's a complex. okay? yeah
+S3: so it's basically all these, can you just, u- usually
+S1: you usually can. some [S3: okay ] uh a little later it gets a little bit, backwards. [S3: okay ] okay? so, um
+S3: but isn't that what happens? like okay you might lose this but then it comes, like that?
+S1: no.
+S3: <POINTS AT BOARD> i thought that was like, part of that. what does it look like?
+S1: <DRAWING ON BOARD> it's like this... so then it goes to this.
+S3: oh, S okay, yeah yeah
+S1: so you have a C, bonded to a, a carboxyl group, and then you go C bonded to [S3: yeah okay so yeah this i- ] acetyl CoA is this ac- this isn't acetyl CoA, i mean not acetyl CoA, coenzyme A [S3: yeah coenzyme A ] right? [S3: yeah ] [S2: yeah ] so, coenzyme A. okay, i don't know what i was doing
+S3: what's what's S? what's
+S1: S is a sulfur. it's how you attach it.
+S3: okay sulfur, coenzyme A. okay.
+S1: yeah, you attach coenzyme A to your sulfur.
+<PAUSE:05>
+S3: okay
+<PAUSE:05>
+S1: okay no more looking. <TURNS PAGE>[S3: huh okay ] okay what happens next?
+S3: you lose this.
+S1: you lose it?
+S3: (to go over) there, right? isn't it?
+S1: what do you lose?
+S3: the coenzyme A
+S1: right... so what enzyme does that?
+<PAUSE:09>
+S3: um
+S1: you're [S3: sus- ] making succinate. so wha-
+S2: s- s- succinate dehydrogenase?
+S3: no, synthase. [S2: no, syn- ] it'd be some kinda synth- right?
+S1: what kinda synthase?
+S3: succinyl synthase?
+S1: is this a, is this a reversible reaction?
+S3: i want to say,
+S1: what reactions are reversible and what, are not? draw the double arrows in there.
+S3: (xx)
+S2: isn't the first one and the third one? oh no, hold on.
+S3: no that's glycolysis.
+S2: oh okay, oh.
+S1: okay [S2: is ] is acetyl CoA plus oxaloacetate to citrate reversible or not reversible?
+S3: i think this is reversible
+S1: the that's a reversible, [S2: mhm ] right?
+S3: (xx)
+<PAUSE:05>
+S3: i don't think this is.
+S1: you don't think that is, well you would be incorrect.
+S3: okay
+S1: okay <LAUGH> okay, what about succinate to fumarate? thank you
+SU-f: you're welcome, thank you
+S3: ooh, what's
+S2: isn't there like patterns, that you could figure out? like, in glycolysis it was like the first one the third one
+S3: that's not a pattern
+S1: the s- it's a, it's not a, it's not like a pattern it's just what the cell, [S2: oh okay ] is capable of doing. like,
+S3: fumarate to malate, that would be, reversible wouldn't it?
+S1: that is reversible.
+S2: how can you tell which one's reversible though? just
+S1: it de- it really you can't just tell
+S2: oh okay so we actually have to
+S1: you have to know
+S2: oh okay
+S1: because, you can't just tell it depends on, the env- cell environment
+S3: i don't think [S1: okay? ] the first one is reversible [S1: okay ] right?
+S1: what about malate to oxaloacetate?
+S3: um, i wanna say
+S2: mm, no, uh
+S3: yes it is (xx)
+S2: is it?
+S1: yes it is.
+S3: thought so.
+<PAUSE:05>
+S1: and, what about succinate to fumarate?
+S3: hmm... think so?
+S2: mhm
+S1: right it is.
+S2: so most of the citric acid cycle is reversible.
+S1: most of it is, yeah.
+S4: hi
+S1: hello...
+S4: is this one-sixty-two right now, [S1: no ] or are you doing three-ten?
+S2: three-ten
+S1: uh, three-ten
+S4: right
+S3: yeah you're, you're not in our section
+S2: yeah
+S4: yeah. i forgot that this was here, i'm actually coming from G-S-I office hours but, that's okay <LAUGH>
+S1: okay
+S3: oh, she starts at three
+S4: yeah, i'll just wait.
+S1: what time is it?
+S2: two forty-five
+S1: oh okay. okay,
+S3: so the only one that is_ are we done with it? no [S1: so ] okay the first one is irreversible
+S1: it's irreversible, right
+S3: what about <POINTS TO BOARD>
+S1: you tell me.
+S3: um, <PAUSE:05> yeah?
+S1: oh you don't have a chair. oops, i'm sorry.
+S2: how come
+S3: looks like no
+S1: looks like no, yeah <LAUGH> from the book
+S3: <LAUGH> okay. and i'd probably say this one is, not reversible either.
+S1: it's not reversible right.
+S3: okay
+S2: can i ask you a question?
+S1: sure
+S2: wh- why do you need oxaloacetate to be reversible? do you know why?
+S1: why do you need it to be reversible?
+S2: cuz if, y- you can make it from some other process.
+S1: w- it's just a ob- uh another way to regulate it. i mean if there's another problem
+S2: oh, okay cuz it's isn't it in low concentrations cuz it's not as, is it i- just as_ like the book talks about being in in low concentrations, does that mean it's, either not that impor- it's important? or it's just
+S1: it might be, used very quickly. so that's why it's in low concentrations.
+S2: oh okay. cuz it prefers to be in low concentrations or something.
+S1: okay so if, so then if it prefers to be in low concentrations then it can just, you know go back to malate real quick so it doesn't have to deal with being in high concentrations.
+S2: oh cu- isn't that like a higher energy? that's why?
+S1: oh. if it is [S2: or ] then, say yes. okay
+S2: oh i don't know
+S1: i don't know either. where did you read that?
+S2: i don't know it's the different book
+S1: okay
+S3: God
+S1: don't stress. okay.
+S3: is this it? is this the one?
+S1: that's your, uh yeah little study guide thing
+S3: mkay well
+S1: okay. so where do we make A-T-P here?
+S2: umm, at the nonreversible points.
+S1: not always.
+S2: but you can't go backwards to m- you can't use A-T-P to go backwards to A-D-P so (xx)
+S1: why can't you?
+S2: cuz it's not_ i don't know
+S1: you can.
+S2: oh you can?
+S3: like right here right? <POINTS TO BOARD> yeah.
+S1: that's reversible.
+S3: but you're producing A-T-P
+S1: right
+S2: oh okay...
+S3: is that the only step where you, get A-T-P?
+S2: no uh, isn't there two A-T-Ps from this?
+S1: why do you say there're two A-T-Ps?
+S2: i must be confusing it with something else
+S1: you're not confusing it with anything else.
+S3: what about the very end reaction, no?
+S1: what about it?
+S3: well like i- once you complete it i'd think you'd get something out of it
+S2: oh never mind. d- it's, the cycle goes around
+S1: <LAUGH> no, you don't
+S3: oh you don't?
+S1: uh you get N-A-D-H and F-A-D-H-two but, [S3: oh ] right now [S2: ok- ] you don't get anything out of it, <LAUGH>
+S2: it's cuz you go around twice cuz you have two of those. okay that's why you get three. okay.
+S1: right, you go around twice, so that's why you get two A-T-Ps.
+S3: you have two acetyl CoAs to start off with?
+S2: yeah [S1: why do you have two acetyl CoAs? ] remember you have two, you have two pyruvates
+S3: oh yeah okay. [S2: okay ] then you'd okay. [S2: oh okay ] yeah
+S3: okay
+S1: i printed that off the web so, everyone can get that [S3: good ] if they want it okay.
+S4: and she said she was gonna update it.
+S1: oh i think she updated it today right?
+S1: cuz, i don't know (she said something about it)
+S2: yeah, i didn't understand this part, the pentose phosphate pathway?
+S1: oh
+S3: did we even really go over that, at all?
+S2: she, i think_ well it was on that ho- remember that homework?
+S4: is that on there?
+<S1: LAUGH>
+S2: cuz, it was on that homework assignment we had remember the photosynthesis one? [S3: where would that be under? ] remember they had A B C D E F G
+S4: oh yeah but then she said we didn't really need to know that [S2: oh ] or uh, Louisa said we didn't need to know [S2: oh okay ] (it's_ would be in the book) yeah it is. and, is this what he was talking about?
+<BACKGROUND CONVERSATION>
+S2: can i ask you a [S1: sure ] ques- like, this is confusing me. you know how it's enzyme limited, and substrate limited? like, this is exactly the same as in my textbook. h- how is the, this one enzyme limited, and, how, like i'm i got confused cuz it seems the opposite for me. ma- [S1: okay let's read the little ] i'd s- i'd say this would be enzyme limited cuz (there's only)
+S1: thing down here okay [S3: yeah ] let's read this. regulation of the flux through a multistep pathway occurs at steps, that are enzyme limited. okay? [S2: mhm ] at each of these steps, the orange arrows, which are generally exergonic, the substrate is not in equilibrium with the product, because the enzyme catalyzed reaction is relatively slow. [S2: mm okay ] so, what they're saying is, the enzyme, um, there's low concentration of the enzyme
+S2: is th- is this the enzyme or is, that
+S1: i don't really know [S3: cuz i thought ] what the B and all that stuff is.
+S2: i think these are just like different like designations but like, it represents like, this could be the same as that they just have a different number
+S1: oh oh i get it. i get it. okay, so, what's happening here is, B is your substrate, for [S2: yeah ] this enzyme, whatever enzyme orange is
+S2: then what's A for?
+S1: A i- it's just a multistep pathway
+S2: oh so just like [S1: so it's just arbitrary ] it's just say ran- oh, okay [S1: so they could ] so B's th- and this is enzyme limited cuz there's only one enzyme.
+S1: no, the enzyme is the ac- the arrow, okay the enzyme is here this is a product, that you get. [S2: oh, okay ] okay? so your enzyme, is here. enzyme is here
+S2: so enzyme limited you get one product. oh the the arrows are the enzyme. but
+S1: right it's not like you just get one product, but you get, like, [S2: so ] you have a high concentration of substrate compared to a low concentration of product. and that's why it's called enzyme limited because you don't have a lot of enzyme
+S2: cuz you let's say you had all this, substrate but there's one enzyme there, only one of these can go, [S1: right ] and that could make just that. [S1: right ] and this is substrate limited cuz there's
+S1: there's very little substrate, but you have lots of enzyme around, okay?
+S2: so you still have to make one
+S1: you would still, make a comparable amount of product, [S2: oh okay ] as your substrate
+S2: oh okay [S1: okay so ] and then h- here there's like, here's a substrate.
+S1: so here's your substrate, [S2: and there's many ] for this enzyme and, this, um, you don't have a lot of uh, substrate, an- but you have a lot of enzyme. so you make your product. but now this next reaction is enzyme limited so you don't have a lot of enzyme.
+S2: so you have just like one enzyme there and (xx)
+S1: so, this collects this, product from here collects
+S2: oh cuz it's still waiting to
+S1: cuz it's, yeah it's waiting for free enzyme
+S2: so there could be like one to go here then it makes it then one again, [S1: right ] but this one there's like many here [S1: there's m- ] that's why i could make [S1: right ] oh okay i th- i thought the arrows were like the_ you know like the reaction arrows?
+S1: reaction arrows?
+S2: like you know th- like you know in the citric acid cycle [S1: mhm ] like you know the arrows i thought that was, that what that was. [S1: okay ] i don't know cuz you know how they just write the enzyme's name?
+S1: not good pizza?
+S4: i said it looks good <LAUGH>
+S1: oh. okay i thought you said it looks sick, okay <LAUGH>
+S4: no <LAUGH>
+S2: oh okay this is clear now. [S1: okay? ] okay yeah.
+S1: okay. what else?
+S3: uh, which ones are exothermic? the ones that are irreversible? or no.
+S1: you tell me, which ones are exothermic.
+S3: well, obviously this one has to be right? cuz it's
+S4: the first one is, highly exothermic, right?
+S1: is it exothermic or exergonic?
+S3: aren't they the same thing?
+S4: what's the difference?
+S3: i thought they were the same thing.
+S2: ex-
+S3: exergonic means exothermic. [S2: yeah ] and endogoni- and
+S2: endergonic's the one that takes in energy
+S1: it doesn't have to be the same thing what's the equation, for delta G?
+S3: if it's negative, it's exergonic, [S1: right ] which means if [S4: it's exothermic ] it's negative it's exothermic.
+S1: does it have to be? what's the equation for delta G? delta G equals
+S2: isn't i-
+S4: something minus, change of T, [S2: del- ] something change of S or something
+S1: right.
+S2: it's entropy isn't it? (xx)
+S1: so
+S3: oh entr- entropy minus enthropy, [S4: T change of S ] or something like that?
+S4: yeah
+S1: so [S2: change in en- ] delta G equals delta,
+S2: S
+S4: S?
+S2: isn't there T and then (xx)
+S1: okay why don't we look it up
+S4: H, H delta H <LAUGH>
+S1: let's look it up.
+S2: H minus T ti- times S?
+S3: i thought, like they were
+S4: (H times) delta S
+S2: yeah
+S1: wait, that's right
+S3: i thought they were just synonyms, basically
+S1: what's just synonyms?
+<S2: LAUGH>
+S3: exothermic and
+S1: usually, they are, but, they don't have to be.
+S3: not in this case? but in this case, are they?
+S1: okay in this case yes [S3: oh okay, that's ] okay that's <LAUGH>
+S3: that's all i wanted to know
+S2: isn't exothermic, doesn't exothermic give off heat but e-
+S3: gives off h- y- yeah
+S2: ender- what is the other one? [S3: endergonic ] endergonic just, gives off energy.
+S1: right. (it)
+S3: but it takes in heat though doesn't it? take
+S2: hm
+S1: what takes in ener- [S2: no- ] heat
+S2: exo-
+S3: exothermic takes in heat, and (i would) guess
+S4: no it gives off
+S2: e- exergonic gives off [S3: endothermic? ] energy exothermic
+S4: endothermic, yeah it takes in heat
+S3: yeah, it takes in heat, yeah
+S2: endergonic and exergon- which, <S1: LAUGH> are they
+S1: why don't you write the terms on the board [S2: (alright) ] and then we'll, define them... okay where's the uh, citric acid cycle?
+<PAUSE:05>
+S2: you uh, you can know a lot about the whole passage by just looking at the picture right just
+S1: right. you know uh uh uh if you don't have time to read, just go in and look at the figures, like before the exam. i highly recommend that. even if you do read everything, and you just want like, quick study session [S2: oh okay ] just go and look at all the pictures [S2: okay ] and if you don't understand a picture then definitely read the, legend for it. where is the citric acid cycle?
+S2: isn't it, here. [S1: yeah ] no it was af- isn't it after this?
+S1: (oh,) here it is. oh this doesn't have the delta G cycle does it? where do we have delta Gs? oh, they're here.
+<PAUSE:04>
+S2: for, creation of A-T-P you need a delta G of negative thirty, point-five or something?
+S1: right. something around that
+S2: does it have to be so it has to be ne- like either negative thirty-one, it can't be like negative twenty-nine?
+S3: right? no? maybe?
+S1: um, it can be if it's coupled with something else.
+S2: usually alone it's not.
+S1: yeah, okay, what?
+<S3: WRITING ON BOARD THROUGHOUT UTTERANCE>
+S4: actually [S1: okay ] it's the change of H that's negative. [S1: right ] [S3: okay ] i don't know what (H time-) maybe (those are the change of G)
+<PAUSE:06>
+S2: oh exothermic's for H but, w- delta G's exergonic (and)
+<PAUSE:12>
+S3: yes no? [S1: right ] okay
+S2: what does H stand for?
+S1: what does H stand for?
+S4: change of enthalpy
+S2: enthalpy, oh okay that's heat. and then, endergon- a- oh and delta G is f- oh, alright yeah.
+S3: okay so
+S1: so what, does, what does endergonic or exergonic tell you [S3: yes ] it tells you what? [S3: what? ] if it's, what kind of reaction? if it's a
+S3: if it favors products or not, you mean, forward_ uh oh, instantaneous?
+S1: instantaneous or spontaneous?
+S3: spontaneous, okay
+<S4: LAUGH>
+S1: spontaneous those are two, very different terms. [S3: okay ] spontaneous means, that it's endergonic that means it will uh ex- uh exergonic, [S3: that's exergonic ] that means it will go forward. [S3: forward yeah ] okay, if it's endergonic, it will not go. [S3: mkay ] it's nonspontaneous. [S3: sure ] spontaneous does not mean quick, it just means whether it will go or not go. [S3: mkay ] [S4: okay ] okay?
+S3: so
+S2: s- so exergonic's when, it's like here and here <GESTURES AT BOARD>[S1: right ] and then, endergonic's the opposite
+S3: yeah, [S2: oh okay, okay yeah ] cuz it takes it in, so yeah
+S1: okay, and endothermic and exothermic, [S3: just heat ] are heat. and that usually is a good indicator of
+S3: but if something's, exothermic then it's gonna be, spontaneous.
+S1: not necessarily. what's the equation for G? what's the equation for G?
+S2: uh, [S4: change of H ] <S1: WRITING ON BOARD> H, minus T, delta S
+S4: T yeah T delta S
+S2: just put H minus T, times delta S.
+S1: right. so,
+S3: what's T?
+S1: what's T?
+S2: temp- temperature
+S3: temperature? [S1: right ] okay
+S1: and what's S?
+S2: en- uh, entropy
+S4: change of entropy?
+S1: right, so
+S3: entropy or enthalpy?
+S2: entropy
+S4: entropy [S3: entropy ] H is enthalpy.
+S3: okay
+S2: what is the one with Faraday's constant? just like a delta G equals negative
+<S4: LAUGH>
+S1: yeah that's, it's another equation
+S2: oh d- do we have to know that?
+S1: you don't have to know that [S3: no ] she gives you equations on the exam.
+S2: yeah but, if
+S3: are there calculations on the second exam, that you gotta make?
+S2: there's
+S1: probably
+S4: chapter fourteen covers it
+S3: what's that?
+S4: chapter fourteen
+S3: oh
+S2: yeah, it's pr-
+S3: yeah
+S2: that's where (xx)
+S1: okay, so can we get a negative, G, and still have a positive H? positive delta H? is it possible?
+S4: yeah
+S3: if this is negative
+S1: right, you can. so you can have, an endothermic reaction, that is exergonic. [S3: okay. ] so [S2: (xx)- ] that means it absorbs heat, but, it is non s- i mean but it is spontaneous.
+S2: okay
+S4: okay
+S1: okay?
+S3: so back to this.
+S1: back to that.
+S4: tha- this one, doesn't this one have a change, a big change in G? [S1: right, it does ] that's negative?
+S1: ne- uh it's like negative thirty-two-point-two so (xx)
+S3: so it's like one and four? or is it just four? alright well let's just go, let's just go with
+S1: one and four oh are we talking about i- okay we're talking about enthalpy as well?
+S3: let's, yeah, let's just talk about like endergonic and <DRAWING ON BOARD> exergonic so, that's four then right?
+S1: right, that's four.
+S3: okay. what about here?
+S1: um, <HUMMING> hm hm hm, that is three.
+S3: okay.
+S2: so, okay
+S3: (and) here to here <GESTURES AT BOARD>
+S1: fou- uh, no wait that's not actually three. because um, the through the_ it's actually four, yeah. to get to the intermediate it's three, the intermediate of sysaconitate.
+S3: okay they will, [S1: yeah ] okay [S1: but then ] transitory theories transition theories?
+S1: right, but then when you couple it with sysaconitate to isocitrate, it's en- exergonic <LAUGH> okay, this is fun.
+S3: so, isocitrate to alpha.
+S1: isocitrate to uh,
+S3: alpha gluto keto gluterate
+S1: wait, i'm confused. no, i was wrong <S4: LAUGH> that's three.
+S3: this is three?
+S1: that's three
+S4: the next one's four?
+S1: the next one's four.
+S3: okay, here to here.
+S1: the next one's four.
+S3: and this definitely has to be four
+S1: is it highly four?
+S3: yeah
+S1: if it's highly four, how can it be reversible?
+S3: oh, but i thought that's where you get, your A-T-P.
+S1: that is where you get your A-T-P.
+S3: so
+S4: isn't it from like a, a transition reaction or something? is it in here? <PAUSE:02> no, never mind...
+S3: so if you're gaining A-T-P, i would_ i mean_ doesn't nec-
+S1: but in like the previous reactions that are, irreversible [S3: mhm ] you have a very large, negative delta G. so
+S3: so those are highly forward.
+S1: highly forward so, [S3: this is not ] that, so the energy that you gain from going through the p- two previous reactions, you use in this reaction. [S3: okay ] and this reaction is ba- can go, forwards and backwards
+S3: but it's it's low, like it's not very high.
+S1: it's not very high, what?
+S3: it's not highly, endergonic
+S1: it's not highly exergonic [S3: exergonic ] but it is exergonic [S3: yeah ] it's not as high as those guys.
+S3: so it'd be like lowly? <LAUGH>
+S1: lowly, exergonic? uh well it's like negative three, [S3: okay, so it's not ] kilojoules per mole, [S3: pretty normal ] and the other ones are like negative, forty, kilojoules per mole [S3: i get it ] okay? so, next uh is,
+S3: three?
+S1: zero.
+S3: oh it's nothing?
+S1: it's neither exergonic nor endergonic.
+S2: can it do that though? because then the reaction wouldn't occur. cuz there's no energy putting putting, (wanna put it out)
+S1: but it you have, way more substrate than you do product, you're_ remember about Le Chatelier's principle. [S2: oh it moves from the highest ] you want to balance it. [S2: oh okay that's why ] you wanna balance your equilibrium okay,
+S3: so what about, this one, would that be the same thing?
+S1: what do you think?
+S3: yeah, i would say.
+S1: no
+S3: no?
+S2: oh
+S3: that'd be, <DRAWING>
+S1: wait, wha- what, why am i on the wrong
+S3: what about in the fumarate to malate?
+S1: oh, that is, it's, lowly exergonic.
+S3: okay
+S4: what's that little O mean? that you just drew?
+S3: this? <GESTURES AT BOARD>
+S4: yeah
+S3: neither.
+S4: oh <LAUGH>
+S1: it's zero kilojoules per mole. [S4: okay ] [S2: yeah ] okay and the next one?
+S3: and from malate to oxaloacetate
+S1: what is that?
+S3: i would guess it's probably
+S4: it's three
+S3: exerg- three? so it'd be, okay
+S2: so it takes in energy to go to_ oh okay cuz you have to make it, like
+S4: that's why this one's so, highly exergonic. to pull that one
+S3: oh okay okay, let me write this down
+S1: right, and that's why oxaloacetate exists, in_ or it, favors low concentration. [S2: why? ] remember you said that?
+S2: yeah. why was it again?
+S1: because the reaction to make it, from malate, uh is so, endergonic... and the reaction to make citrate, from oxaloacetate and acetyl CoA is so exergonic, [S2: okay ] that, when you make the little bit of oxaloacetate you immediately convert it to citrate.
+<PAUSE:05>
+S3: can we do this one next?
+S1: <LAUGH> can we do this one
+S4: Lucky do you know if G-S-I office hours are always in alcove 5, or
+S1: i don't know
+S3: she's wherever, she goes wherever she can find one
+S2: she's always in that
+S4: oh really?
+S3: well yeah
+S2: usually she's in that one though
+S3: usually but, like s- she, it was there last week that's why i wish she could
+S1: yeah i always s- i hear her over here sometimes
+S3: that's why i wish she could find an empty spot. they kick someone out.
+S2: oxaloace- so from oxaloacetate to acetyl CoA is zero?
+S1: from oxaloacetate to acetyl CoA?
+S2: yeah
+S1: those are two substrates for the same enzyme, for a citrate synthase.
+S2: oh they combine
+S1: they combine to form citrate
+S2: oh okay so plus, so plus
+S3: so uh, how'm i doing this week?
+S1: how you're doin- [S3: yeah, yeah ] how are you doing? you're doing very well.
+S3: okay, good.
+S1: were you mad at me last week? [S3: no i wasn't mad, i wasn't mad ] i'm sorry i yelled at you that would've been a fun one to record last week <LAUGH>
+S3: how would it be fun? <S2: LAUGH> there was like silence
+S1: okay
+S3: other than you yelling at me.
+<S2: LAUGH>
+S1: well i mean if i ask a question and y- and i mean it's a really easy one and you just haven't, prepared at all, that's annoying
+S2: it's much more better if i actually know what i'm [S1: exactly ] [S2: doing ] like, cuz the last two weeks i had exams, so i caught up this weekend. that's why i have questions. so now, like you know
+S1: it's almost three do you wanna have your pizza, so you can go? [S2: (i guess) ] actually it is three-oh-five.
+S2: oh, really?
+S1: do you have to go?
+S2: yeah, what i i don't know i i if i have any more questions
+S1: i have another group on Wednesday nights, from six to eight, if you wanna come
+S2: oh you do? [S1: yeah ] six o'clock...? i think i asked you all my questions already
+S1: okay, well if you think of anything else, you can always come to that one, and i think there's another one tomorrow from four to six.
+S2: four to six?
+S3: by who?
+S1: um, ew. [S3: what? ] that was like ew, i don't wanna come to your group anymore.
+<S2: LAUGH>
+S3: no, if i need_ i come every Monday haven't i? [S1: yeah ] so there you go.
+S1: n- it's j- okay i don't know who it is, uh i forgot his name
+S3: uh actually i probably can't (do this)
+S1: he's some little Indian boy. <SS: LAUGH> well, he is. what am i supposed to say...? i mean i'm not [S3: i just figured you ] being offensive, i'm Indian too, right?
+S3: really?
+S1: really <LAUGH>
+<SS: LAUGH>
+S3: wow
+S2: can i just ask you about this picture first?
+S1: yeah, go ahead.
+S2: so, why do they show both of these? [S1: okay cu- ] like if they're in different places? cuz this is the [S1: well ] citric acid cycle, but that's only in plan-
+S1: the intermediates can go and, [S2: do both ] into the, yeah the intermediates can, enter the cytoplasm and interact with one another.
+S2: but if this is not in humans, oh this is just plants
+S1: yeah, we're talking about plants right here
+S2: oh okay, so they plants have th- both of these. [S1: right ] oh this is like pl- still on plants. y- so this is the mitochondria of the plant
+S1: in the glyoxosome
+S2: oh okay
+S1: and that's where you get the glyoxylate cycle in the plant.
+S2: oh, okay. okay, that
+S1: oh i'm sorry you didn't know about the recording thing
+S4: <LAUGH> that's okay
+S2: and then, this is <PAUSE:06> (cuz uh) where's the, where's the Q cycle? like, would it be here or here?
+S1: i don't know what Q means. what what
+S2: ubiquinone, ubiquinol, it's
+S3: it's, ubiquinol
+S1: like, why do you call it a cycle?
+S2: cuz that's what the book called it.
+S1: okay, can w- i see that term? [S2: um ] i don't know what they're talking about.
+S2: it was, in
+S3: yeah i'm kinda shady on that like, not very clear on [S2: yeah ] that like the whole, photosynthesis stuff. oh yeah that's why [S2: oh ] i pointed at that, <POINTS TO BOOK> that whole thing that's (xx)
+S1: okay, well this is actually the oxidation of fatty acids. this is not what you want
+S2: oh okay that's why it looks similar.
+S1: yeah. so this is not it. this is amino acid oxidation. this is
+S2: did we learn that too?
+S1: uh i don't think you actually [S2: oh okay (yeah, so) ] learned that. here's um your little guy...
+S2: oh they have different pictures. oh here, this one.
+S1: okay. so where does it say Q cycle?
+S2: oh, in our book it was like later in the_ was it, when they talk about, complex three, how ca- i don't know ma- maybe it's a new term they have.
+S3: yeah no they do call it the Q, something or other.
+S1: okay you're in photosynthesis now. okay, so
+S2: so it was it was like somewhere here or s- like, like y- i think you make two cytochrome Cs, like, t- y- two cytochrome Cs are used to, make it go more.
+S1: okay [S2: what ] so she didn- she didn't want any pizza? okay.
+S3: yeah shouldn't we eat this before it gets cold?
+S1: you can have a slice, if you want it.
+S3: that's okay.
+S1: what, go, eat.
+S3: no i'll get all greasy.
+S1: okay. so
+S2: like y- you know um, in this one? here you have this going in, a- and it goes to F-M-N and then to, F-E-S? F-E dash S?
+S1: oh well you don't have to know all that. that's way, [S2: oh okay ] complicated, i feel
+S2: so we just have to know like what happens in each one, like before it gets pumped out and stuff.
+S1: yeah i, actually i don't even know that stuff
+S2: cuz like the Q cycle was part o- it wasn't like, it was part of you know that detail it said like you don't have to know that? it was sort of something like that.
+S1: where's the
+S3: now where's the where's the plant one?
+S2: oh is it in plants only? i thought it was in everything.
+S3: where's the plant picture one though?
+S1: just, keep going
+S2: are those like, those big, like iron things [S1: (oh) ] those are just part of the protein right? the one, that one (xx)
+S3: this is it he- right here. that, that's what you're talking about?
+S2: oh okay. oh it's in plants? i thought it was in...
+S3: Q cycle, right there.
+S1: Q cycle,
+S2: oh it's in plants only
+S1: figure, eighteen-ten. not that. figure eighteen-ten? that's like really far back, are you sure guys? okay
+S3: (we're not on) chapter eighteen?
+<PAUSE:06>
+S2: uh
+S1: no that's eighteen-nine. figure eighteen-ten. so yeah you have, it's, okay, Q B H cytochrome B okay. so yeah, what happens is, okay
+S2: so it's not in u- it's not in us, it's only
+S1: it is in us
+S2: but if it's only in plants
+S1: n- no [S2: oh ] this is part of the uh, oxidated phosphorylation now
+S2: so, like, i remember reading that two of these are used up, two cytochrome Cs
+S1: okay the path of (electrons) through the complex three, probably involves a Q cycle [S2: oh okay ] such as, that shown here, [S2: in blue ] the blue arrows. okay? so, here you have these electrons coming in, and, they [S2: and ] you know, k- they, uh, fall down some, like [S2: so ] from higher energy to lower energy so they
+S2: are these, these are the ones with um, iron in it right? these are iron container things? (like you)
+S1: the B stuff?
+S2: weren't they like something like, irons in the middle of it? like, they're two di- the cytochromes are all different, A B and C? [S1: (xx) ] like i remember they had a big picture of it, somewhere.
+S1: yeah this book isn't, [S2: oh, okay ] doesn't have as many pictures as your book. [S2: oh okay ] it's not as good.
+S2: cuz like i was just looking at it
+S1: is this it? this thing?
+S2: no it was like a bi- like a big page full of, all the cytochromes
+S1: oh, yeah i don't think this book has a, big page full of cytochromes.
+S2: oh. is it important to know? like, like some, some of them have, c- like cytochrome C i think is covalently bonded, n- but the other two aren't, the
+S1: covalently bonded to what?
+S2: plac- like, histidine or something or cystine?
+S1: okay b- [S2: but that's, oh ] complex three, ubiquinone to cytochrome C, complex three also called the cytochrome B-C-one complex or ubiquinone cytochrome C oxa- o- oxa- oxidoreductase contains cytochromes B-five-six-two, B-five-six-six cytochrome C-one and an iron sulfur protein and at least six other proteins are m- used [S2: okay ] it's really it has a lot of stuff.
+S2: that's what i was talking about then. like our book had pictures of some of these. [S1: okay, yup, this one ] but th- i guess since it's not in this book we don't have to know it for
+S1: does she say that [S2: she ] you can have this book if you have it?
+S2: no, she doesn't, it's like it this book doesn't exist like we only have our b- well, i don't think anyone has this book
+S1: no one has that book? well then she might want you to know that stuff.
+S2: oh okay. well i'll just look on the, review, sheet, later.
+S1: oh, okay well let's see, if you have to know it.
+S3: this looks like it's
+S1: uh, know various components of the electron transport, chain, know how F-A or, N-A-D-H (xx) (causes endoelectrogen- then remember) two shuttles [S2: yeah (xx) ] know the steps (xx) for generating hydrogen gradient.
+S2: that's when like hydrogen pumps out [S1: right ] and stuff pumps in.
+S1: know the chemiosmotic theory for A-T-P synthesis and understand
+S2: that's just th- that's just the general picture of it, [S1: right ] so
+S1: know the structure and hypothesis mechanism of A-T-P synthesis. be able to calculate the net yield of A-T-P from one molecule of glucose, for example so [S2: isn't it a ] be able to co- calculate the net yield, of A-T-P
+S2: so that's like t- there's thirty A-T-P?
+S1: how many?
+S2: thirty to thirty-two?
+S1: per what?
+S2: per, one glucose.
+S1: no.
+S2: two?
+S1: no... okay i'm hungry.
+S3: okay, so let's eat then.
+S1: can i eat?
+S2: yeah
+S1: okay, are you guys ready? [S3: whoa ] <GASP> this is good. i love feta cheese guys.
+S3: it's, triangle...
+S1: we don't have napkins though
+S3: so what happened last time? did they just forget or something?
+S1: um, she said that, [S3: whoa ] there was a mix-up. what, did you just do? you dropped everything. <PAUSE:09> wow. this is wonderful. i asked for veggie pizza, because i am, in love with veggie pizzas.
+S3: are you vegetarian?
+S1: no. [S3: oh ] i just, don't eat meat all that much.
+S2: what is feta cheese?
+S3: it's Greek cheese.
+S1: feta cheese?
+S3: goat's.
+S1: it's the, stuff right here. where does it come from you mean?
+S2: yeah.
+S3: Greece.
+S1: um, i don't know, Greece? okay.
+S3: yeah, it's a Greek cheese. it's either made by sheep, or goats.
+S1: okay, i need a napkin. i'm a messy eater.
+S3: use a piece of paper.
+S1: okay. can i use this?
+S3: no
+S1: <LAUGH> no, it's my work.
+S2: there's one on the floor.
+S1: no, she wants that. crap.
+S3: here...
+S2: here, there's a newspaper
+S1: you can print this out again.
+S2: there's a newspaper
+S1: oh, here's a newsp- oh whoops <SS: LAUGH> oops, i don't even know what's been on this table, it's s- so gross. i'm gonna eat it anyway. i'm making a mess... well, close the pizza don't let the buggies get in.
+S3: there're no bugs.
+S1: yeah there are. there're so many bugs in the S-L-C it's ridiculous.
+S2: s- all these chemicals in the (air)
+S1: thanks for the pizza. it's wonderful.
+R1: oh you're welcome. good... thank you for being recorded.
+S1: no problem. we'll do anything for free food, right?
+<SS: LAUGH>
+S2: so we don't have to know those little things i was talking about.
+S1: i don't think so... i didn't have to know it. [S2: okay ] i mean it doesn't say like explicitly
+S2: so like two cycles in complex three
+S1: yes...
+S2: oh, okay (xx)
+S3: is it independent?
+S1: is what independent?
+S3: ubiquinol
+S1: independent of what?
+S3: of complex, three. if i was like its own, entity.
+<PAUSE:05>
+S1: um, yeah maybe.
+S3: like cytochrome C is independent, right? [S1: mhm ] cytochrome C is cytochrome C.
+<PAUSE:09>
+S1: so how do you, how does it, pump the protons?
+<PAUSE:05>
+S2: doesn't it lower the, gradient or something? so it, allows it...
+S3: it goes four four two right? [S2: yeah ] the first four goes out complex one?
+S1: no...
+S3: complex three?
+S1: only two go out complex one
+S2: no, four. [S1: four? ] four four and two. yeah.
+S1: oops, i just, (xx)
+S2: isn't there like two N-A-D-H that goes there?
+S3: right there yeah complex one.
+S1: yeah, aren't there two Hs that go?
+S3: no they're four four two.
+<PAUSE:09>
+S1: okay, whatever you guys think...
+S3: where do the other four go out?
+S4: um, i have to go to work but, [S1: okay ] (i'm just gonna) take this...
+S3: did she help you?
+S4: yeah
+S3: that's good.
+S2: did you do the homework yet for this week?
+S4: no.
+<S1: LAUGH>
+S2: oh, okay
+S4: i'm gonna be up all Tuesday night if you wanna call me <LAUGH>
+S1: bye.
+S4: bye.
+S1: um <PAUSE:04> (didn't) figure this out. oh here's your little cytochrome stuff right? no.
+S2: no they were like real big pictures though they
+<PAUSE:08>
+S3: oh so it comes out, complex three.
+S2: yeah. it goes in one and is carried by, that Q-H-two that's, ubiquinol, and it goes to three, and then goes to the Q cycle.
+S3: mkay, where does the other four get pumped out of?
+S2: complex two.
+S3: complex two
+S2: oh no, oh no complex one, is it one? n- i know it's one and four
+S3: it has to go out three channels
+S1: so what is comp- what is complex one? N-A-D-H, dehydrogenase right? [S2: mhm ] so that's where all the N-A-D-H from, both glycolysis and the citric acid cycle, come in and they drop off their, electrons they've been carrying. right? [S3: okay ] and that enables, complex one to start pumping protons, up their gradient [S3: so is that ] because they have all this increase in of energy
+S3: is that the answer to this one? like what's_ is this where he's talking about N-A-D-Hs?
+S1: yeah, let's just answer the questions
+S3: yeah, right?
+S1: right, okay
+S3: <LAUGH> okay
+S2: so what happened?
+S3: oh, she's about to tell us.
+S1: so complex one, is N-A-D-H, dehydrogenase, [S2: yes ] okay? so all the N-A-D-H, from glycolysis and the citric acid cycle,
+S2: go through that.
+S1: yes. they come in and they drop off the electrons they've been carrying, and are converted back to N-A-D-plus. and those electrons are taken by, complex one or, N- N-A-D-H dehydor- dehydrogenase complex
+S2: isn't it i- i- for every one N-A-D-H two, go out and then uh, so you have two N-A-D-Hs going that's why you have four? [S1: oh, okay ] is- isn't it isn't that why the cycle goes around twice?
+S1: yeah. yeah, you're right. okay, yeah you're right you're right
+S2: is it? [S1: yeah ] it's not in the book, i just
+S3: so, how does it enter it?
+S2: isn't [S3: it just goes in ] this this it it doesn't that take it? [S1: yes ] cuz that's the f-
+S1: it doesn't take the N-A-D-H, it takes the two electrons that the N-A-D-H have carried. [S2: but how come ] so N-A-D-H is turned back into N-A-D-plus remember? [S3: mhm ] [S2: how come ] we converted it into N-A-D-H?
+S2: why is there only one H though? how does it have two?
+S1: okay, draw up on the board [S3: it's ] N-A-D, plus
+S3: it's N-A-D-H plus, H.
+S2: yeah, s- bu- oh the other, plus H just follows it?
+S1: watch.
+S3: whoa, careful.
+S1: <PAUSE WHILE WRITING ON BOARD> okay? so you have N-A-D-plus, plus two electrons, plus two hydronium ions right? so that's actually, two hydrogen protons, [S2: okay ] okay? now what happens is, <WRITING ON BOARD THROUGHOUT UTTERANCE> this guy takes the two electrons, okay? [S2: hm ] and takes one hydronium, ion. okay? so if he takes, two electrons and one hydronium ion, what's his charge gonna be? he's already plus.
+S2: so it'd be
+S1: so you take, one of those pluses away so (then you) is you add two minuses, so one plus,
+S2: so it becomes a negative?
+S1: two minus,
+S1: oh okay so it becom- if it's negative the H is there it's like
+S1: plus one plus [S3: so it's ] so what does that yield?
+S3: zero.
+S2: oh
+S1: one plus, wait
+S3: that's zero.
+S1: that is zero_ yeah, that's zero, that's right [S2: oh ] very good. that's zero. so then you get, N-A-D, H because you took one of those, plus, the hydronium ion. cuz you only took one hydronium ion and you add it.
+S2: hydr- isn't hydronium just,
+S1: it's just a proton.
+S2: it's H_ doesn't, how many electrons is it, none?
+S1: it doesn't have any electrons, it's just one proton.
+S2: oh okay oh, cuz the other hydrogen that it's bonded with. oh no they're not bonded. they're like, so
+S1: tha- it's really, this.
+S2: oh okay yeah [S1: okay? ] okay i understand.
+S1: but it's not really that
+S2: but didn't they say the plus isn't really a charge? it's not like
+S1: isn't [S2: i've he- ] every what?
+S2: they they talked about like the p- like the plus isn't really what it means it's
+S1: the plus isn't really what it means
+S2: on N-A-D-plus? N-A-D-p- it doesn't mean it's like positive, positively charged they said it's just
+S1: it means, this is what it is. you have an N, it's bound to four things. [S2: yeah ] and so, it has a positive charge cuz it's lacking [S2: oh okay ] see N usually exists in this state. it likes this state, it's neutral in this state, and it has one two three four five, carbons. [S2: okay ] and this state only has one two three four carbons, so it's lacking one carbon so you could say, that, so the way they designate that is a positive. [S2: oh ok- ] okay? [S2: oh okay ] because it's lacking one, electron. [S2: okay ] so you know how to count up valencies?
+S2: yeah, i know
+S1: okay, so that's how y- that's how they got that
+S2: okay and and then so that goes twice cuz you have two, a cycle twice, so that's how you get four, [S1: right ] okay, th- cuz they don't, they don't say that. they just, sort of show you a picture.
+S1: okay <LAUGH>
+<PAUSE:07>
+S2: and then F-A-D-H is exactly the same as N-A-D-H for this complex two, that's why you get four, also.
+S1: what's different about,
+S2: s- f- F-A-D-H is fla- f- [S3: (flavin?) ] isn't it like a f- flavin protein or whatever?
+S1: what do i, how do i make F-A-D-H-two? remember it was F-A-D-H-two. how do i make it? what do i start with?
+S2: F-A-D-plus?
+S1: plus
+S3: two E, two H
+<PAUSE:04>
+S1: so in this case, you, F-A-D can accept both, the two electrons and the two hydronium ions. so it gets a neutral ch- it shouldn't be neutral then should it? no.
+S2: shouldn't they be charged cuz they can move inside the cell? like, you know the cytosol or whatever?
+S1: oh, well i guess, wait, it has to be like that but then, it can't be, two... <WRITING ON BOARD THROUGHOUT UTTERANCE> oh does it start like this? F-A-D-H-plus?
+S2: oh yeah, yeah it does
+S1: yeah, okay. then, it works...
+S2: oh it always accepts one.
+S1: it'll only accept one of these hydronium ions, the two electrons, and the other hydronium ion is, just, he's he's he's with him, he's, [S2: oh okay ] he's ionically attracted to this guy.
+S2: oh okay that's why they're there. [S1: okay, so ] cuz i always wondered why they always added plus H
+S1: right, [S2: (xx) ] so, what happens is, the electron that that guy brings in, is_ i mean the hydronium ion that guy brings in is the one pumped across. and the hydronium ion he bri- also brings in, is that one that goes across. [S2: oh okay ] okay?
+S3: it says like there're two shuttles, what are the shuttles? this? [S1: two shovels? ] [S2: shuttle ] shuttle, shuttles.
+S1: shuttles, okay, what's the [S3: yeah. this one of 'em? ] other shuttle? does that look like a shuttle to you?
+S3: what's a shuttle?
+S2: is it something that, something that moves transports
+S3: yeah, it takes back and forth
+S1: so is that a shuttle?
+S3: looks like it.
+S2: so the Q
+S1: that's a shuttle. uh is that a shuttle?
+S3: yeah, looks like it.
+S2: yes
+S1: that's a shuttle, right?
+S2: yes
+S3: yeah. how come that's not a shuttle? it takes it.
+S2: because it's putting it in, it's like going
+S3: oh
+S1: that goes that way. [S3: oh, okay ] it is a shuttle, basically
+S2: isn't that just going in by itself though [S1: yeah, it's going down its gradient ] it's sort of like, this thing is a- actually using stuff to go out.
+S1: right
+S3: but it says two
+S1: yeah there is two, what's the other one?
+S3: but that's three.
+S1: tha- no, we're talking about N-A-D-H having two shuttles. [S3: oh ] so where is [S2: one and three ] N-A-D-H's other shuttle?
+S2: isn't it one and three?
+S1: no.
+S3: four? one and four?
+S1: okay, does N-A-D-H come, to three? three gets its energy for pumping the electrons, o- for pumping the protons, from the electrons that, these guys have passed along. [S3: mhm ] so only one and two are actually [S2: shuttle ] [S3: oh ] interacteri- interacting with, interactering? <LAUGH> interacting with, N-A-D-H, and F-A-D-H-two.
+S2: so, she said the two shuttles for a- for
+S1: for N-A-D-H. there's another shuttle for N-A-D-H.
+S2: but that's not listed there
+S1: it's not on that picture. where is it?
+S2: isn't it, i don't know. is it like, isn't it like the, ubiquinone, that shuttles the
+S1: where else do you get, N-A-D-H? you get it from the [S2: elect- ] citric acid cycle, which takes place, in the cytosol. [S2: in the mito- yeah. ] do you get_ sorry i spit everywhere. do you get um, [S3: N-A-D-H ] N-A-D-H from glycolysis?
+S3: yeah
+S2: yes
+S1: and where does glycolysis take place?
+S3: in the mitochondria? no no no
+S2: in the s- s-
+S3: no
+S2: it's like, [S1: no ] outside of the, mitochondria?
+S1: right where what's outside the mitochondria?
+S2: the [S3: cy- ] plasmal membra- no, cytos-
+S3: cytosol
+S1: cytosol. so, there has to be some kind of shuttle [S3: in the cytosol? ] on the outer membrane here, [S3: okay ] that, increases the Hs in here. [S2: oh ] what's, where's that shuttle? show me a picture there's a picture.
+S3: this one.
+S1: does that look like the right picture?
+<S1: PAUSE WHILE READING>
+S2: isn't there like, i- that (simport) and antiport some- something like that? A-T-P, [S1: okay ] or something isn't it shuttle? no
+S3: what?
+<PAUSE:05>
+S1: sorry i had to laugh. <S3: LAUGH> i wasn't laughing at you.
+S3: you're laughing with me?
+S1: yeah. wet ones.
+S3: <LAUGH> um,
+S1: maybe there is another picture, hm. (i think there was)
+S3: okay can you just tell us?
+S2: so what i said was wrong? like there's no
+S3: i can't find it.
+S1: what you said was wrong um i, what did you say?
+S2: the one you were laughing at the, N-A-D-H with the, thing going (in)
+S1: i wasn't laughing at you... i was laughing at something else, like i think of things and i laugh. okay...
+S3: okay, so what is it?
+<PAUSE:04>
+S3: okay
+S1: there was a picture wasn't there?
+S2: can't it move cuz it's charged already? so, oh no cuz the lipid it m-
+S3: no char- if it's charged it can't move through the membrane.
+S1: what's that? what's that?
+S3: F-A-D, complex three... cytosolic
+S2: cyto-
+S3: (xx)
+S1: let him read it too.
+S3: that's not a shuttle.
+S2: that's an enzyme.
+S1: how is that not a shuttle?
+S3: it's not a complex. [S2: it's an enzyme ] it's an enzyme. your enzyme is your shuttle?
+S1: no, [S2: you mean ] what are we doing here?
+S2: oh you're changing G three P
+S1: we're changing N-A-D-H, [S3: mhm ] and we're making it
+S2: so that's the shuttle?
+S3: the malate aspartate
+S2: shuttle
+S1: right, read that section [S3: oh okay so ] real quick. read the section so you understand what's going on don't just, <LAUGH> write down words.
+S3: <LAUGH> did you know the name of it or,
+S1: 'm'm
+<PAUSE:06>
+S2: should i start studying for the exam today?
+S3: yeah.
+<S1: LAUGH>
+S2: i don't know.
+S1: it's all highlighted for you. read the two highlighted portions.
+S3: there's one sentence. <LAUGH>
+S2: the most active N-A-D-H shuttle
+S3: so that's three shuttles then.
+S1: where are there three shuttles? read the two highlighted sections. read the second highlighted section.
+S3: okay it says shuttle, this says shuttle i thought complex
+S1: <LAUGH> not just the word shuttle
+<S2: LAUGH>
+S3: <LAUGH> i know but
+S1: read the entire part
+S3: okay, i see that but i thought complex one was, also a shuttle.
+S1: it is a shuttle.
+S3: so that means there are three shuttles, not two.
+S1: what are the three shuttles?
+S3: the, malate aspartate shuttle [S1: mhm ] the glycerol-three-phosphate shuttle and, complex one.
+<PAUSE:06>
+S1: um is the malate aspartate shuttle another name for, complex one?
+S3: is it? i'm assuming so.
+S1: you tell me.
+S3: oh yeah, it is.
+S1: <LAUGH> how would i know that? <PAUSE:08> not this, this is not the same as complex one, right? [S3: yeah ] delivers reducing equivalence
+<PAUSE:34>
+S3: well that took you long enough <LAUGH>
+<PAUSE:04>
+S1: i'm a slow eater. <PAUSE:11> okay, now, what happens here? the reducing equivalents of cytosolic N-A-D-H, are first transferred to cytosolic oxaloacetate, to yield malate by the reaction, of cytosolic malate dehydrogenase. look at this picture. [S3: yeah ] malate aspartate shuttle. you don't actually, form any kind of um, any kind of a, you're just getting the N-A-D-H into the, intermembrane space so it can, react with complex one. so you only have complex one and glycerol-three-phosphate. okay? [S3: uhuh ] this those are the actual complexes okay? [S3: uhuh ] that, do the whole,
+S3: thing
+S1: thing. this, is it's called a shuttle, i guess it yeah i guess it is another shuttle. um, yeah those are two shuttles, yeah.
+S2: so the only two complex shuttles are G-three-P and complex one.
+S1: right.
+S2: oh okay.
+S1: those are the complex shuttles because
+S2: so those are the two she's asking for
+S1: i_ she also wants to know, about this one. so she's asking fo- she's actually asking for_ when she says shuttles she means these two shuttles. this one is also, [S2: oh okay ] um, creating a gradient, okay?
+S3: so complex, if it was like, on your exam, what are the two shuttles A B C, and D? [S2: she's not gonna ] and is it malate aspartate, and glycerol-three-phosphate shuttle?
+S1: you would say those two.
+S3: okay not complex one?
+S2: well [S1: well, ] co- complex one isn't a shuttle really [S1: really ] cuz it's not moving right [S3: okay ] it's just allow- isn't it just allowing? cuz there's it's like these things are like actual processes, like complex one's just there, [S1: um, ] like in the, lipid. it doesn't move in
+S1: yeah okay, i guess you could say that.
+S2: well i don't know
+S3: okay
+S1: like this one is [S3: good ] what i consider a classic shuttle.
+S3: okay
+S1: okay?
+S3: good
+S1: this one is not really a shuttle but whatever, they call it a shuttle.
+S2: s- so a shuttle, what do you define a shuttle as then?
+S1: well, this is a way of getting N-A-D-H from
+S2: one point to another
+S1: from one point to another. and it's shuttled because it, um, it is transferred, the electrons from it are transferred, to something else, yeah. yeah. and then, that thing can move across the membrane and then make N-A-D-H again on the other side of the membrane, and then um, and then interact with complex one. [S2: okay ] okay? this thing, i guess it's a shuttle, i mean if you really wanna call it that, [S2: (yeah i- i-) ] an alternative means of moving, reducing equivalents from the cytosol, to the mitochondria matrix, dihydroxyacetone-phosphate in the cytosol accepts two, reducing equivalence from cytosolic N-A-D-H, in a reaction catalyzed by cytosolic glycerol-three-phosphate dehydrogenase, and then bring about isosome of, isosyme of, glycerol-three-phosphate.
+S2: yeah, what i- what is an isosyme? isn't it something that can catalyze two different things? is that what's
+S1: what's an isosyme? what's an enzyme?
+S3: a catalyst.
+S1: so what's an isosyme?
+S3: it can do two
+S2: it can do, take two different things?
+S3: iso-
+S1: an enzyme bound isosyme, of glycerol-three-phosphate dehydrogenase. so, we have glycerol-three-phosphate dehydrogenase, and then we have this isosyme of that. so,
+S2: so it's like something different. but it's similar to is
+S1: it's yeah it does the same functions,
+S2: but it's different in structure.
+S1: but it's different, right.
+S2: oh so like an amino acid could have a different residue, but it could still do the same thing.
+S1: an amino acid could have a different residue?
+S2: no, like you know how like histine like, [S1: okay amino acids are ] i mean like i mean i mean it's like, like if something's attached to a his- histine, w- and then something's attached to like a serine, but they catalyze the same thing. [S1: right, exactly ] yeah that's wh- that's what i meant
+S1: that's an isosyme
+S2: oh okay.
+S1: but you could also call those mutants because, you changed one amino acid. but if they exist in two different forms in, the body, [S2: oh ] then, they're called isosymes. like, if they classically exist. but if you go in and you change this one amino [S2: oh okay ] acid residue, to something else it's called a mutant. [S2: oh okay ] you could also call it an isosyme, if you want.
+S2: oh okay. okay i understand that now.
+S3: okay, could we do, steps responsible for generating, the hydrogen ion gradient.
+S1: okay. what_ how do you do that? <S3: LAUGH> what is that?
+S3: just do it on the board. and like
+S2: isn't that just like ca-
+S1: okay, go up to the board
+S3: i don't know it, though. but you can help me (probably)
+S1: how do you, how are you pumping [S2: (well) ] the electr- uh the hydrogens across? we just went over that.
+S2: they go
+S3: oh, through the complex (so do the) complex, (thing)
+S2: one, one three and four. [S1: right ] [S3: yeah ] and that creates a gradient cuz when it comes back in, like i- that's what makes it allowed, allowed back in. [S1: right ] and the- and then it allows the, what is it, what was it th- A-T-P can come out of that? or, yeah the A-D-P can attach to that and phosphorylate it, A-T-P
+S3: so it's basically, okay N-A-D, goes N-A-D-plus, and from this, four, come out? [S2: yeah, and then that makes this ] so do you have two of these then? [S1: yes. ] okay. [S2: then ] then
+S3: (xx)
+S1: why do you have two of them?
+S3: because, from glycolysis.
+S1: mm, let's look at that little chart they have for you. where's that chart?
+S3: you get two pyruvates.
+<PAUSE:09>
+S1: so there's two, in the matrix, [S3: mhm ] uh, and then, that's from the pyruvate oxidation. and, six from, the citric acid cycle, two from glycolysis, and you also have two A-T-Ps from glycolysis, and you have two F-A-D-H-twos from, citric acid cycle, and two A-T-Ps or G-T-Ps from the citric acid cycle.
+S3: okay, so that's all you they want you know when they mean the, the g- ion gradient is just that read_ like, those steps? like this thing right here right? [S1: right. ] okay
+S2: doesn't the H then sort of go through doesn't it leak out here, on the side
+S3: so there, is the overall nine? that come out, that like
+S1: overall what nine?
+S2: no eight eight
+S3: well how [S2: no ] you get four four two and one comes back in.
+S2: oh no ten, ten
+S3: yeah so it'd be, ten but, that would make it nine. cuz you get four pumped out four pumped out, two gets pumped out, and then, it looks like one gets pumped back in
+S1: no, is it pumped back in [S2: no ] or is it falling down its gradient? it's falling through that channel down its gradient. and it falling through the gradient enables, the formation, and release of A-T-P.
+S3: okay well, falling down its gradient but it comes back into the matrix
+S1: after it's pumped.
+S2: but it's not using energy. it's just
+S3: yeah.
+S1: okay so you pump those, w- however many across.
+S3: okay if i give you ten dollars and somehow i get one dollar back, i have nine dollars.
+S1: but you also got an A-T-P out of it. [S3: okay ] so you've, gotten a result. [S3: okay ] okay?
+S2: these take more energy to pump i- this thing just goes in, like i-
+S1: (it just) happens. it just falls. [S3: okay okay ] it doesn't_ nothing's happening there.
+S2: how co- how come here they say, it goes through there. doesn't it go out through this little hole here? and that's, that's what i saw in m- our book.
+S1: i don't think it really matters, where it comes out from
+S2: just, just know it goes in (there)
+S1: i mean it just, falls down its gradient. it it could, i i don't know, where, it i mean they it's n- a- tha-
+S2: cuz this is the thing that rotates, isn't it? so,
+S1: right. it hasn't been solved. the structure hasn't, [S2: oh okay ] like the complete structure has not been solved.
+S2: oh there's still
+S1: there's still some iffy, it's hypothesized, [S2: oh okay ] you know
+S3: i'm like sketchy on these steps ri- like this, okay right here, okay four, gets pumped out, then, the electrons, what does, complex two do here? (xx)
+S1: what happens between succinate and fumarate in the citric acid cycle? look up there. succinate and fumarate, what do you get, at that point?
+S3: dehydrog- like it, so yeah you lose
+S1: what do you get, though? you get something, at that point.
+S3: um,
+S1: what do you get?
+S3: phosphorylater? no
+S2: carbon dioxide s-
+S1: okay, you get N-A-D-H from other steps, what else do you get?
+S3: you get water don't you? don't you put water in?
+S1: what do you get from that step?
+S3: here <POINTS TO BOARD> A-T-P
+S1: no from succinate to fumarate, what do you get? you get something. it starts with an F.
+S3: F?
+S1: F.
+S2: F- A-D-H?
+S1: F-A-D-H-two. [S3: oh. ] so you get, one, per cycle. and that enzyme, that goes from succinate to fumarate, is complex three. it's, membrane bound, so it can't, float around like the other guys are all, like soluble in water so they're all, [S2: these ones? ] hanging out down here. no, not these guys.
+S2: oh, [S1: the- complex ] this is part of the Krebs cycle?
+S1: yeah complex two is, that enzyme, [S2: oh, oh okay ] is the enzyme th- from succinate to fumarate.
+S2: but they just separated it.
+S1: they separated it, right. [S2: oh okay ] so that enzyme is membra- membrane bound, it's the [S2: oh ] only member of the citric acid cycle that is membrane bound.
+S2: oh okay i under- [S1: okay? ] oh so that's how they relate.
+S1: right, [S2: oh okay ] that's how they relate. you also get the N-A-D-Hs from there, that come in here. so that's an- another way.
+S2: so all these other ones are just like somewhere else? i mean i mean [S1: they're no- ] no those ones are somewhere else but, these are always attached, oh okay those, are floating.
+S1: yeah the- those, a- all of those enzymes are_ are what?
+S2: they're floating?
+S1: they're floating yeah they can
+S2: except except this one.
+S1: they can hang out, in the [S3: oh okay. oh s- ] cytosol because they're, hydrophilic. this guy's hydrophobic.
+S2: oh okay [S1: okay? ] so that's th- why it's stuck there. [S1: right. ] and that's tha- oh okay.
+S1: right, okay?
+S2: okay, i didn't know that.
+S1: yeah they don't explain that in the book at all, i think. and that's really bad. [S2: oh ] they don't say, oh by the way guys this is
+S2: cuz it seemed separate but now it [S1: yeah ] seems like, okay
+S3: what?
+S1: <LAUGH> the enzyme that goes from succinate to fumarate, of the citric acid cycle, [S3: yeah ] is complex three.
+S3: oh, so this is complex three. <WRITING ON BOARD>
+S1: yes, you can write complex three up there. [S3: okay ] it also has a name. what is the name of it?
+S3: the enzyme?
+S1: yeah.
+S3: succinate dehydrogenase?
+S1: i actually don't know
+S2: that's two,
+S1: is that it?
+S2: complex three is something else.
+S1: well we're, talking about complex two. what is complex
+S2: oh yeah succinate dehydrogenase
+S1: okay then. so,
+S3: is it?
+S2: yeah it's, cuz it's... [S3: okay, cool. ] h- h- how do you find a best way to study for this? cuz like last time i read the chapter and did the practice tests. and i did the study guide.
+S1: you did all of that?
+S2: yeah.
+S1: very good. well i wouldn't
+S3: could just do that again.
+S1: in the study guide, okay. do you have your study guide?
+S2: but i didn't really understand like every single idea. no.
+S1: okay. in the study guide, [S3: those, questions are worthless. ] there's like, some que- yeah some questions are worthless. like,
+S2: oh, like she tells us some questions to look at on our web page.
+S1: okay i would do that definitely [S2: yeah ] look at those questions, but some of those questions are very, [S3: specific ] specific, [S2: oh s- ] and you don't really need to know them. [S2: okay. ] i would focus on, the crossword puzzle, [S2: oh okay ] and the stuff [S3: really? ] in the same chapter after the crossword puzzle like there's
+S3: stuff like, what you know, applying what you know
+S1: yeah, the what you know thing
+S3: um, there's a multiple choice stuff and all that
+S1: right. and then there's one thing after the multiple choice that's like, it's like, you know apply the knowledge or something like that, [S2: oh okay ] but the stuff before,
+S3: yeah that's that's all, garbage.
+S1: the cr- crossword puzzle?
+S2: you mean li- oh the stuff that i sort of wasted my time on? [S1: yeah, the stuff before the crossword puzzle? ] that's why it, it seemed like after i did all that like, what am i doing?
+S1: yeah, exactly it's like way specific and you have to like hunt for everything in the book
+S3: mhm
+S2: and it's wasting my time, [S1: exactly ] cuz it took a long time for me to do it.
+S1: i mean if it actually helps you learn it, [S2: oh it di- it didn't though ] then, i would do it. but if it doesn't, then don't.
+S2: it like sort of made me, waste more time [S1: yeah ] staying up late.
+S1: it will sorta make you hate, biochemistry. [S2: oh okay ] okay.
+S2: oh okay that's (see s-)
+S3: although i don't right now though.
+S1: don't you? okay
+S3: i do. i hate this class.
+S1: wha- oh, okay.
+S2: i like organic chemistry better than this.
+S1: okay what else?
+S3: be able to calculate the net yield of A-T-P (xx) so that's like the equation stuff? oh like yeah let's go over this theory and, what, like the experimental evidence that supports it. like it it describes what it is but it doesn't really tell you. like, they it says like this is it, this is the theory you know?
+S1: okay tell me <LAUGH> what the chemiosmotic theory is.
+S3: tran- uh electrons that are transferred, along the respiratory chain
+S2: yeah that's the picture.
+S3: yeah tha- that's it
+S2: yeah they, told us.
+S1: okay well read the, [S3: okay ] definition to me.
+S3: is accompanied by, outward pumping of protons across the inner, mitochondrial membrane which results in the transmembrane difference, in proton concentration, and thus in P-H. the matrix becomes, al- becomes alkaline, alkaline relative to the cytosolic side, of the membrane. okay. so it's basically in the picture. [S2: yeah ] but
+S2: it's, that's what the
+S1: okay where's the, experimental evidence for it?
+S2: didn't they do that, that, [S3: oh ] chromatography, thing?
+S3: is it like, i think it was kind of in our notes but, [S2: yeah ] like if you change the P-H or whatever and stuff will happen [S1: okay ] then like A-T-P goes down then stuff will happen
+S2: yeah.
+S1: can you go backwards? can i go from A-T-P, [S2: no ] to A-D-P?
+S2: no.
+S1: no?
+S2: aren't you going from like a really high energy to a low energy?
+S1: so if i_ this i- you're saying that this enzyme, won't go backwards. it won't go from A-T-P to A-D-P plus a pho- [S3: oh no ] inorganic phosphate.
+S2: oh no i guess it can.
+S1: it ca- it will. [S2: cuz ] if it's in that environment, [S2: yeah in the right ] that enables it, it will do that.
+S2: like when they separate. i think they showed us like, they did some kind of chromatography for all the different, like, i- i- in our book they had a picture of that, [S1: okay ] different colors, that represented each one of these [S1: okay ] and tha- that's how they found all these
+S1: so, in your book i- has, did they say that the structure of this is totally solved?
+S2: no, they just showed us all these like, protein structures.
+S1: did they say the structure of this guy's totally solved?
+S2: um, i didn't really, i didn't really know it wasn't solved or not.
+S1: cuz this is a really old book.
+S3: i don't know. i don't think so.
+S2: all i know is they just showed us a lot of like, they sh-
+S3: that's the one that turns around, like that right?
+S1: right
+S2: yeah they showed us like lots of pictures of that, and all the different, alpha, there's like three alpha and three beta. [S1: okay. ] and like, there's like an empty space. there's one with A-D-P
+S1: i'm gonna buy a C-D today guys. okay. <LAUGH>
+S3: that was random.
+<S2: LAUGH>
+S1: i know i just thought of it that i'm gonna buy it today <LAUGH>
+S2: and then it, sorta moves and that's how they, that's how the A-T-P changes to, A-T-P
+S1: okay, will A-D-P and the inorganic phosphate, w- make A-T-P, uh, without the hydrogen pump? or without this, falling down its gradient?
+S3: no
+S2: no
+S1: no.
+S3: needs it.
+S2: cuz there's no, nothing to move it, make it move in a circle. doesn't, right?
+S1: it actually will, make the A-T-P, it just won't release the A-T-P.
+S3: oh
+S2: oh okay, so that's why you need the hydrogens.
+S1: the hydrogens fall down their gradient forcing, this F-one complex [S2: turn ] to turn, when it turns, it releases the A-T-P
+S2: yeah, so it's like a mach- a machine. [S1: yeah it's ] like the quarter machine, you put in your money.
+S1: it's the world's smallest machine. that's what, my s- teacher calls it. okay. [S3: okay ] [S2: oh okay ] world's smallest motor. okay? what else?
+S2: oh yeah do you think the cell map is good to study like, we should make the cell map and then study
+S1: i didn't use it to study, but i mean if it really helps you stu-
+S2: cuz we have to make one anyway so i might as well.
+S1: yeah, you might as well, yeah. it'll help you study when you're doing it, and then if you wanna post it on your wall and like try to m- you know memorize it you can.
+S2: oh okay.
+S3: have we got, to uh carbohydrate ma- metabolism yet?
+S1: have you?
+S3: i don't know, don't think so
+S2: mm
+S1: what ab- what about uh, glucagon and, [S3: (all of that?) ] all that stuff
+S2: i- isn't it like, glucogenesis?
+S1: glucogenesis?
+S2: isn't that what they ca- that's what they called the
+S1: gluconeogenesis maybe?
+S2: yeah
+S1: yeah. have you done that yet? i don't think you've done that.
+S2: i r- i read it
+S1: oh okay. i don't think you've discussed [S3: what is ] it in class yet have you? gluconeogenesis? [S2: i don't know ] did you discuss gluconeogenesis?
+S2: no, i fell asleep in class though. <S1: LAUGH> like, i always get sleepy.
+S3: (that's a good place)
+S1: do you guys look at the notes that are on the web?
+S2: i printed them out but i [S3: yeah ] never i don't look at 'em
+S3: i look at that and i look at her uh, slides, yeah
+S1: okay, so did you guys discuss gluconeogenesis yet?
+S3: no
+S2: no
+S1: okay
+S3: what is, okay, what about the, cyclic and noncyclic, foio- phosphorylation
+S1: where are we?
+<PAUSE:07>
+S3: what's, rubisco?
+S1: have you guys done that yet?
+S3: i don't know.
+S1: rubisco?
+S3: i don't know
+S2: no we didn't
+S1: tha- she spends like a day on that. you would've remembered.
+S3: oh
+S2: mm well i gotta go now.
+S1: okay. bye
+S2: (thanks)
+S1: are we done? oh we have ten more minutes.
+S3: practically. <PAUSE:08> yeah, okay. um
+<RECORDING RELATED CONVERSATION>
+S1: okay, mkay. okay what about this stuff? bioenergenics, glycolysis,
+S3: i think we've, gone over glycolysis like, a ton of times
+S1: bioenergenics? [S3: hmm ] do you have it memorized?
+S3: what?
+S1: glycolysis?
+S3: the stats?
+S1: yeah
+S3: pretty much.
+S1: you need to know.
+S3: i pretty much know what happens.
+S1: you can have this. <LAUGH> you will need to understand the different ways cells transduce and utilize energy.
+S3: so glycol- glucose to, six
+S1: okay, we're talking about [S1: phosphate, okay ] bioenergenics hm hm hm hm hm hm hm
+S3: i don't know all those equations and stuff.
+S1: oh well doesn't she give you them? [S3: yeah ] okay.
+S3: but like i won't know how to use them.
+S1: you won't know how to use them?
+S3: no. i'll have to look over 'em. <PAUSE:14> if it's a pyruvate it can be stored, or it could go (to) what, fermentation like lactate or [S1: right ] (xx) or it can enter the citric acid cycle. [S1: right ] okay, good...
+S1: are there any other fates?
+S3: no they're only three. no there're th-
+S1: what about all those anaplerotic reactions?
+S3: yeah but, they tell you that like the th- it says the three fates of pyruvate.
+S1: oh does it? oh. [S3: yeah, those are ] <LAUGH> well that was cool i turned to the right page. [S3: yeah... ] okay, tell me about glucagon.
+S3: isn't that what we did last time kind of?
+S1: did we do that last time?
+S3: okay if you have high g- if you have like a high glucose level then insulin will b- will release, but then if you don't then, glucagon will be released [S1: right okay you got it, okay ] and if it's, too high, then, it goes from phosphorylase B to A, if it's too high, if it's like the A-T-P concentration is high?
+S1: the A-T-P concentration is high?
+S3: A-T-P over A-D-P?
+S1: so what is the active, form of that (xx)
+S2: phosph- the A form, is the active form. yeah cu- phosphorylase B is a (inactive)
+S1: so if you have too much A-T-P, why would you want phosphorylase A to be added?
+S3: oh no, you'd want B then. [S1: right ] yeah (xx) cuz you don't have enough okay. and what changes it is, phosphorylase kinase A? [S1: okay, i don't remember ] or, B i think it's B actually, i don't know. okay...
+S1: so what's in the paper today?
+S3: i don't know.
+S1: are you voting tomorrow?
+S3: no.
+S1: why not?
+S3: i'm not registered.
+S1: that's sad.
+S3: i'd have to go home anyways.
+S1: what does that mean? you'd have to go home anyways
+S3: cuz if i
+S1: why can't you register here?
+S3: oh, [S1: i registered here ] but i don't live in i don't live in Ann Arbor. so what's the point? just for one time?
+S1: you only stay registered for a year.
+S3: oh, you have to reregister every time?
+S1: i'm pretty sure. no?
+S3: no
+S1: i don't remember. i don't know, i'm not even from, Michigan and i registered here. so my vote will be so important.
+S3: well good for you, good for you.
+S1: good for me? no, good for the country guys.
+<PAUSE:04>
+S3: i don't know. are you even from Michigan?
+S1: no.
+S3: where are you from?
+S1: Virginia. see my vote wouldn't count in Virginia but it counts in Michigan.
+S3: so why didn't you just go to, University of Virginia?
+S1: uh because, i knew too many people that went there.
+S3: it's a better school than this.
+S1: no it's not.
+S3: yeah it is.
+S1: no it's not
+S3: yes it is
+S1: no it's not.
+S3: in the overall ranking it ranks higher.
+S1: i- it's it's not better. it's not better.
+S3: okay whatever. but that's okay. (xx)
+S1: and it's smaller, and it's just more disgusting, okay.
+S3: but it's better. but anyways. it ranked higher.
+S1: maybe it ranked higher this year but it didn't rank higher when i, accepted my, little, [S3: okay ] thing to come here. can we continue?
+S3: no we're done. it's four o'clock.
+S1: we have, four more minutes. you're always complaining that we don't go over enough stuff.
+S3: well i don't think i've learned anything in the last, three minutes
+S1: <LAUGH> so, you haven't gotten to either of this yet? [S3: i don't think so ] you didn't do any photosynthesis?
+S3: oh, yeah well can we_ yeah, we have. like this is, the stuff right? <S1: LAUGH><PAUSE:04> yeah, there we go. there's only, two lectures left. tomorrow and Thursday. cuz the exam's next Tuesday.
+S1: okay so i'm gonna ask a question real quick okay?
+S3: you may.
+S1: i'll quiz you in the last five minutes.
+S3: hey, how's it going?
+S1: um, oh, that wasn't good. um <PAUSE:06> you do not need to memorize the delta Gs for each reaction. [S3: nope ] that's what she says. what do the equations for delta G and reduction potential tell you about biochemical reactions in real cells? oh, you need to fill out a, consent form.
+S3: oh.
+<PAUSE:07>
+S1: answer the question.
+S3: um, if it's <PAUSE:05> if it's a, what's it called <PAUSE:05> if it's positive then it's in the spontaneous, i mean it's not spontaneous and it won't go forward.
+<PAUSE:05>
+S1: what about reduction potential, what is that?
+S3: i have no idea.
+<PAUSE:07>
+S1: okay.
+S3: mm mm
+S1: i thought everybody would be jealous of us. no one is, though.
+R1: some people have been.
+S1: oh really? [R1: mhm ] okay, good.
+S3: what's that?
+S1: they would be jealous of our pizza.
+S3: oh.
+<PAUSE:11>
+S1: she's doing biochem too.
+S3: that's the G-S-I.
+S1: that's not the G-S-I.
+S3: the one that's talking right now? [S1: mhm ] yeah, she's my G-S-I.
+S1: oh it sounded like somebody i knew.
+S3: sorry.
+<PAUSE:08><RECORDING RELATED CONVERSATION>
+{END OF TRANSCRIPT}
+Please contact the English Language Institute with questions or comments.

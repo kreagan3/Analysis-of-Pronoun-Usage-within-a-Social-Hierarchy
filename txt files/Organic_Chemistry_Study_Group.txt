@@ -1,0 +1,1363 @@
+<PERSON ID="S1" LANG="NS" ROLE="JU, Group Leader" SEX="F" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S2" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S3" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S4" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S5" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1">
+<FIRSTLANG> KAN </FIRSTLANG>
+</PERSON>
+<PERSON ID="S6" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="2"/>
+<PERSON ID="SS" LANG="NS" ROLE="JU, Students" SEX="U" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="SU-f" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="SU-m" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"/>
+
+
+
+
+S1: okay, today's icebreaker is and yes i will give another one when it comes around to me again i have lots. my name is blank, <LAUGH> one crazy weird defining fact about me is blank i would like it to hopefully be something that's not, true to anyone else in the room. does anyone else here [SU-m: uh ] have s- at least seventy-three first cousins?
+S4: i don't think
+S2: i think think (xx) i have seventy-three (siblings.) exactly.
+S1: well then i'll come up with [SU-f: (wow) ] another one. but that's my example. at the last count which is about three years ago i had seventy-three first cousins, they breed like rabbits [SU-f: wow ] so who knows how many i have now. and only one that i know of has died. so, i know i have at least three new ones but i don't know most of them, so i don't know what kids they have, <S4: LAUGH> so, there we go. today's this week's group building goal can't really apply in group, and that is i would like when you guys pass each other outside of group, for you to feel comfortable saying hello to one another and addressing each other by name if appropriate. and if you do have the opportunity to have such an occasion in which you can do that i would like to hear about it just for the uplifting (so that,) i can say nah nah nah nah boo boo to the powers that be. saying that we don't provide a well developed atmosphere, bah humbug. so, alrighty then, okay we're also starting something a little new this week. um, it occurred to me yesterday, like no one had anything they really wanted to talk about we did concepts for a little while and then they were like well we'll let's just work on the, the things. and it really didn't seem to me to be a good use of time to just sit down and look at the course pack and work on it. um, cuz that's something you guys can do on your own [S4: mhm ] and if you need to work with other people it's something that, hopefully you guys can contact each other you can use our group email list, um, and you guys can do that on your own too. i think it would be a better use of our group time while you have this many minds in one spot to work on concepts. [S4: okay ] but i understand that the problems are good, examples of concepts so i would like to try to split it down the middle, [S4: mhm ] and spend about half the time working on like concepts, kind of try to hash things out like when we_ i don't know if like the tables and charts and that kind of thing are helpful to you guys, or like the day_ i don't know who was here the that day we divided up, different kinds of reactions and had people teach them. [S4: i liked that. ] but that kind of thing just a, hearing it one more time is never bad. so that's that's the only thing and um, i have gotten some feedback from a couple of people over email and i really like that this is you guys's group not mine. um i like knowing what you like and don't like and what you'd like to change, so if anyone has comments please feel free to send them to me, i won't ever like be like oh, well you know... Liam thinks that, <SS: LAUGH> it's stupid when we do, so we won't do that i [S4: okay ] wouldn't do that. okay, so, i would like to go around and do the icebreaker first, and i don't wanna do it by attendance we'll do it, the questions by attendance so go ahead Andy.
+S2: okay my name is Andy um, one crazy weird, uh fun fact about me is, uh i've lived in five states i think that's kind of, [S4: what are the five states? ] [S1: which ones? ] uh Wisconsin Michigan Virginia Texas and New Hampshire.
+S4: okay
+S1: which one do you like best?
+S2: oh uh, oh Michigan of course. <SS: LAUGH>
+S1: really though. <SS: LAUGH>
+S2: i don't kn- ah, they're all a little different so it's hard to say.
+S3: um, thank you <S4: LAUGH> my name's Hilary um one crazy weird defining fact about me is, um, that i usually go to, weird strange far pl- places every summer.
+S4: like what?
+S1: what was your favorite?
+S3: mm... probably Rome, most likely.
+SU-f: (really?)
+S4: (xx)
+S4: <LAUGH> (xx)
+S3: yeah, yeah
+S4: okay
+S1: was this a bad thing or [S4: no ] is this just a personal_ okay.
+S4: did you go last summer? or
+S3: naw i was there a couple years ago.
+S4: (oh a couple years ago? okay.) alright my name is Liam and one crazy weird defining fact about me is, um, gosh <LAUGH> i (didn't) think of anything. um, um, i don't know i have a, schnauzer, <LAUGH> its name is Bailey. <LAUGH>
+S1: how'd you come by the name Bailey?
+S4: um, that's actually um uh one of my friends uh last names, and just thought it was a pretty good name.
+S1: (xx) schnauzer ownership?
+S4: for yes, <LAUGH> a schnauzer
+S5: um, my name is Rashmi and, one crazy weird defining fact about me is, hm, i wouldn't say it's crazy or weird but like i have tw- i have a twin brother.
+S4: that's cool
+S1: does he go here also?
+S3: that's cool
+S5: mhm
+S4: alright
+S1: does it turn out to be a generally good or generally bad thing?
+S5: i don't know it's the, i feel it's the same like i don't see, i don't know like i don't know how it is to have <SU-m: LAUGH> a sibling of another age but, you know, i really don't know. <SU-m: LAUGH>
+S1: alrighty then. my name is Kelly one crazy weird defining fact about me is, that i got engaged when i has four and a half years old, <SS: LAUGH> to a guy named Ethan Ebner who is currently at Cornell studying to be a doctor. Last time i saw Ethan was in fifth grade and i hit him in the back of the head with an apple, in an apple fight in an orchard and i knocked him out. and when he came to he was not very happy with me and we haven't spoken since.
+S4: (wait) how'd you know that he's at Cornell then?
+S1: um i, he's from Marshall which is where i was born, [S4: yeah ] and so all the other people from Marshall tell me these things. [S4: oh really ] that's what they tell me. <LAUGH> and, tree hugging's not crazy or weird, <S4: LAUGH> thank you very much i got that comment yesterday. um, okay does anybody like have anything off the topic of organic chemistry that they would like to discuss before we get on topic of organic chemistry?
+S4: i'm sick of politics. <LAUGH>
+S2: i know but you_ it seems like you have to watch it.
+S4: i know, <LAUGH>[S3: yeah ] it does.
+S2: it's like if you're not_ watching T-V and that's not on
+S4: yeah i know.
+S2: and it's
+S1: i'm glad i didn't stay up last night.
+S4: yeah i'm glad too
+S2: and it's it's so funny too cuz uh it's_ you know that it's not gonna be counted for actually they closed the counting, but they're still on there like putting filler out you know they're just like reading out of history books and, it's crazy.
+S4: yeah
+S1: i think it's interesting they kept saying on the news like the president has been decided, [S4: yeah ] we just don't know who it is. <LAUGH>[S4: oh i know ] like, we have it nailed down to two. <LAUGH>
+S4: who said that? was it Koppel or somebod- uh yeah
+S1: one of the c- one of the channels [S4: yeah ] i only get one channel [S3: hm ] [S4: oh ] so whatever channel it is that i get, <SS: LAUGH> the guy on that channel kept saying that over and over last night. [S4: (xx) ] so, yes this is interesting. everyone keeps telling me it's something to tell your grandchildren, [S4: yeah ] so write it down, <S4: LAUGH> cuz you won't remember. [S4: yeah ] <LAUGH>
+S2: save the paper.
+S1: okay, so, organic chemistry. [S4: mhm ] concepts, like how are how is things sounding so far in lecture? like Greek or like mm manageable or yeeks need some help?
+S5: i think a chart would definitely help. [S2: yeah ] like with (plus and negative) reaction (xx) two and then E-one and E-two just so, (xx) <SS: LAUGH>
+S2: busted
+S1: marker. <LAUGH>
+S5: um, (okay)
+S1: show us what you mean Rashmi so we can make sure we understand. [S5: hmm ] and you guys are i think allowed [S2: between substitution and (xx) ] to actually eat the pizza. [S4: oh. <S3: LAUGH> really? ] i don't think you have to just sit and smell it like, it's supposed to be a reward not torture.
+S4: i kinda like to smell it, actually. <SS: LAUGH> i'd kind of like to talk about um, like what makes a good nucleophile and um [S2: yeah ] stuff like that. good solvents like
+S1: okay so let's let's write a- [S4: s- what solvent's good ] can we write an agenda someplace on the board? cuz otherwise i tend to forget these things. <PAUSE:08>[S5: okay um ] so we'd like a chart. we'd like to discuss nucleophiles
+S3: guess what? (i haven't read the book yet.)
+S4: you haven't? anything?
+S3: (xx) no <S4: LAUGH>
+S2: you mean chapter seven?
+S3: yeah i've read chapter seven.
+S4: it's a_ (xx)
+S1: oh how did the exam go?
+S3: (xx)
+S2: uh, pretty well.
+S3: fine. very good.
+S4: very good
+S1: did anyone's not go better than the first one?
+S5: (mine went better)
+S4: (xx) much better
+S2: i think everybody d- in general did better.
+S4: mhm
+S1: so does everybody feel a little bit better about the class?
+S4: mhm
+S1: maybe not so much. <S2: LAUGH>
+S2: i made some like dumb mistakes on the exam which is like, [S5: yeah ] totally
+S4: i missed the stupid [S3: yeah ] naming one. (like) can you believe that? <LAUGH>
+S3: yeah so did i. yeah
+S2: i know i c- i missed that one too i couldn't [S3: i ] believe it. i thought i had that down pat.
+S3: it was such a prick.
+S4: yeah, i know, it was a trick.
+S2: yeah it's like, it was really deceptive. [S3: trick ] <S4: LAUGH> and i missed the like the energy chart i didn't do well on that one either i lost some stupid points on that, oh well. i did pretty well. <S4: LAUGH>
+S3: yeah
+S4: yeah
+S3: is this a long chapter? [SS: yeah ] so it's gonna take me all weekend to
+S2: it's it's not that [S4: yeah ] no i read it like_ m- started last night and i read finished it today. it's not, [S3: really? ] [S4: (that's speedy) ] but no i_ it's like s- i_ there's a lotta stuff in there i still don't know the specifics the con- like general concepts aren't like too bad.
+S4: the problems did you do the problems here the, (voice?)
+S2: uh i did a a few.
+S4: some of them are pretty tough.
+S2: i did like towards the end i kind of you know kinda gave up and there's a f- [S3: (crap) ] few sections that i just like, skimmed through.
+S3: oh man this is long, <S4: LAUGH> still going.
+S1: lotsa pictures. <SS: LAUGH>
+S3: yeah i like pictures that take up a whole page. [S4: mm yeah ] two-sixty-six, two, [S4: yeah ] so, [S4: (xx) ] that's normal. okay.
+S1: so, [S4: alright ] is there anything else we wanna put on our agenda so that we don't forget it while we get going. somebody eat a piece of pizza.
+S3: i w- [S4: what kind ] i just ate like six tacos.
+S5: yeah i'm so full
+S4: i know, i know i ate [S1: i don't ] a lot too.
+S2: taco night?
+S1: cuz i wasn't gonna ask you guys.
+S3: yes
+S2: i'll eat a piece of pizza. cuz my dinner was terrible.
+S4: oh i don't wanna_ what's on this pizza? mushrooms?
+S3: <READING BOX> green, onions mushroo
+S2: (thanks)
+S4: not so much <LAUGH>
+S1: green peppers mushrooms and cheese. there's a piece with minimal topping. mostly cheese.
+S4: alright i'll take that one. thanks.
+S1: you're welcome.
+S4: this one?
+S1: (yeah that one)
+S3: yeah i'm not an onion fan.
+S1: i don't think it's i think, like it's green peppers. like it's looking and smelling like, [S3: green onions mushroom ] green peppers comma onions comma mushrooms. <SS: LAUGH> cuz yeah there are onions [S4: yeah ] but these are green peppers.
+S4: i can't stand mushrooms. <LAUGH>
+S1: (so maybe they're pick-off-able)
+S2: oh, i love all these things. <LAUGH> i guess i'm just a freak.
+S1: <LAUGH> Andy's like, success
+S3: (xx) <S4: LAUGH>
+S1: oka-
+S3: in about an hour i'll be hungry.
+S1: okay. that's good we have an hour. so, [S3: hm ] okay. agenda, so let's start with the chart. [S4: hm ] what would you like to express on the chart? and you guys can erase the other stuff if you need the space.
+<S4: :14 PAUSE WHILE ERASING BOARD>
+S3: where's Stephanie?
+S4: what?
+S3: where's Stephanie?
+S4: oh i don't know.
+S1: i think may- somebody wrote to me and said they couldn't be here. hm maybe it was Stephanie. i think so i think she said she'll see us next week.
+S4: okay
+S5: we could just like maybe S-one S- t- S-N-two and then talk about like, what's involved in what, um, (stuff like that)
+S4: (xx)
+S2: like just for kicks do you wanna throw in like the E ones too?
+S4: yeah
+S3: yeah
+S5: yeah
+S4: (xx)
+S2: cuz there's like four major ones right?
+S3: yup
+S4: yeah
+S5: which, i should probably (finish)
+<PAUSE:05>
+S3: what's S-N mean?
+S2: substitution
+S1: (xx)
+S5: (substitution) (xx)
+S4: nucleophilic substitution
+S1: chemists like to think they're tricky, (xx)
+S2: or substitution nucleophilic [S4: yeah ] you know, (xx) <SS: LAUGH>
+S3: (xx) depending on how you
+S1: and E is
+S5: how you read?
+S3: elimination
+S4: elimination
+S2: elimination
+<PAUSE:07>
+S4: how about like how many steps they are.
+S2: yeah... or key differences i guess.
+S5: (xx)
+S4: oh i'm gonna start with like number of steps, in each one. <SS: LAUGH> (xx)
+S1: Liam
+S5: okay i said Y is
+S4: that's (G-shock) right?
+S2: two steps yeah.
+S4: and you just like, if it says one it's two, [S2: yeah, (xx) ] if it says two it's one.
+S5: unless it's two steps
+S4: right
+<PAUSE:05>
+S5: okay
+S3: elimination is, can you have two steps too?
+S2: yes
+S3: mm (alright)
+S4: yeah because if it's um, two steps then first the leaving group leaves, and then it attacks the beta-hydrogen.
+S2: yeah but (you go for beta)
+S4: but, what?
+S2: (go on,) i was gonna say like i'm a little confused about beta cuz they don't really say much, they don't like use that explicitly in the book but i know like, i know (come up over and over.)
+S4: what it is you mean? what [S2: yeah ] beta- hydrogen is? [S2: yeah ] it means that um, [S2: is it just the ] like it's, on the carbon that's attached to the carbon that's attached to the leaving group. <LAUGH> so it's like
+S2: so it's_ yeah i
+S4: so the carbon with the lead- leaving group there's a carbon attached to that carbon, and the hydrogen is on, that carbon.
+S2: okay. and what's the uh, i mean what's the point of calling it beta? just
+S4: it just means that it's w- two carbons [S2: (you'll determine which one) ] away. yeah.
+S2: okay
+S1: no the the beta-hydrogen comes off during the elimination reaction.
+S4: yeah
+S2: yeah okay
+S1: cuz
+S3: does it just fly away?
+S1: yep
+<S4: LAUGH>
+S4: no it's taken by the um, [S2: deprotonated ] base.
+S2: yeah
+S3: yeah, okay
+S4: by the Bronson base right?
+S1: so it's deprotonated?
+S4: deprotonated yeah.
+<PAUSE:07>
+S5: and um, S-N-one carbocation one, E-one carbocation, [S4: yeah ] (seven) [S2: (xx) ] (xx)
+<PAUSE:14>
+S1: are you guys starting to see what i, was talking about with the notes, for this, section?
+S5: (xx)
+S2: what did_ what'd you say about it?
+S5: taking good notes.
+S4: yeah
+S2: yeah
+S1: cuz you'll want to reorganize it (like this later.)
+S2: yeah. [S4: hm ] the notes are like, it seems like they're really extensive too. like there's a lotta reactions you gotta write out.
+S5: um, what else do we want to say? um
+S1: have you guys talked about the chirality?
+S3: no. oh yeah, [S2: mhm ] sort of. yeah yeah.
+S4: yeah
+S1: that's important
+S4: (for what,) that it has chirality?
+S1: how does a reaction affect whether or not it has chirality?
+S2: if it's a, (xx) molecule, let's say S-N-two, then um, (there's an R to the S) and vice versa?
+S4: oh because there's always inversion you mean?
+S2: right, yeah cuz like, when like you have a leaving group going this way, and then, [S4: mhm ] something coming in this way, [S4: right ] so it switches around.
+S3: is that for S-N-two?
+S1: so long as they're the same priority [S3: or ] right? or no?
+S3: yes
+S2: mm, yeah. i guess there's a lot of assuming there. but everything we_ it seems like we've, dealt with, [S4: yeah ] (it's all other_) like hydrogens or carbons coming off.
+S1: but like, this is the trick (xx) in chemistry they start everything out sounding all nice and simple, [S2: mhm ] and then they figure out curve balls they could throw you and that's what the exam is.
+S2: but
+S3: our G-S-I said that if, you, like if there's always going to be an inversion no matter what however whether or not it switches from R to S she said usually does but, you got to check it just to be sure. [S2: mhm yeah ] (xx) priority. (beagle)
+S1: so there's always inversion. do we wanna write that up there?
+S4: yeah let's write inversion.
+S5: and S-N-two and [S1: S-N ] E-two.
+S4: wait
+S2: wait, for E-two though... how can there be an, inversion if it's going from a single bond to a double bond?
+S1: hm
+S4: hm
+S2: there is like (unnecessary) (xx) (sections in the,) the uh, stereochemistry eliminations.
+<PAUSE:36>
+S3: is that like whether you (can net E or Z?)
+S4: yeah i think, [S3: with ] that's [S3: um ] what it's talking about.
+S2: but when you have elimination you start out with something that's not, E or Z to start out with. [S4: yeah ] so i don't
+S4: so it really can't have, inversion can it? <LAUGH>
+S3: it's not called inversion. is it? <S4: LAUGH>
+S1: i'm telling you that there's more useful information in the four of you guys's heads than there is in mine. <S4: LAUGH> looking at me is just not really an effective way to learn stuff.
+S3: i have like two different elimination connectivities. (xx) with inversion.
+S2: well yeah you can you can like, yeah you can like it might go to Z it might go to E and that's where the i think the beta, uh hydrogens come into play. like
+S4: (okay)
+S3: i just don't think it's called inversion.
+S4: which one (of those)
+S2: right, and one is gonna be higher priority than the other, depending on, um, the number of hydrogens is boun- i don't know how that, see these things seem like it'd be the same amount.
+S3: what do you mean higher?
+S2: um like there's an example in the book. like s- for example it, that one that's got more carbons attached it is higher priority than this one. [S4: right ] but th- that one's got the same amount of carbons attached and [S3: oh ] one's E one's Z, it doesn't matter which one is,
+S4: but these two are totally different in the book.
+S2: right that's what i'm, [S4: yeah ] yeah that's what i'm saying. it seems like the and that's what i'm s- thinking it seems like they'd just be the same E and Z wouldn't matter but you're gonna have a definite one at E or a definite one at Z.
+S4: yeah. so we can't really call it inversion then.
+S3: 'm'm
+S1: but can we say something about what kind of, thing it's gonna make? like is it gonna make all one? is it gonna make a two? is it gonna make, [S3: (xx) ] is it like, [S4: number ] will it always go to E? will it always go Z? can you tell?
+S2: that's a good question
+S4: mm
+S1: i
+S3: which one?
+S1: i mean these are just the useful things to have on a on an all [S5: it's like, two ] encompassing chart.
+S4: yeah
+S5: E-two right?
+S1: two what?
+S5: for E-two, is that's what we're talking about?
+S1: right.
+<PAUSE:16>
+S4: (xx)
+S1: ohh, i'm understanding my own notes. <S4: LAUGH> can we go back to S-N-two for a second? [S4: yeah ] [S3: mhm ] um, if it's chiral to begin with will it be chiral afterwards?
+S1: yes
+S2: yes
+S1: unless somehow like your nucleophile is, already on there somewhere. [S2: same yeah, right ] but in general you still have chirality right? [S5: so chirality (would be maintained) ] my notes say chirality maintained and i'm like looking at that with a big question mark going what in the world does that mean? cuz it doesn't necessarily, (xx) that's okay (xx)
+S2: yeah
+S5: is that okay to like if, i just write maintained?
+S1: yeah, as long as that makes sense to you. like, [S5: yeah ] making sense to me doesn't do you guys a whole lotta good on the test.
+S4: yeah
+S1: <PAUSE:08> okay so i'm sorry what what were we talking about? E-two? or E-o- E-two right?
+S4: yeah, E-two.
+S1: we were talking about what kind of molecules can make. [S4: yeah ] <PAUSE:06> you can feel free to pull up a chair and, join us. come and join us. um, yes i know i'm weird. <S4: LAUGH> E-two. like, can if i have any, two carbon thing, am am i gonna be able to do E-two? like what do i have to have to make an E-two? do i have to have anything to make an E-two?
+S4: you have to have beta-hydrogens. <LAUGH>
+S1: okay. [S4: and ] and what's the [S4: y- well ] difference between a beta-hydrogen and a, any other hydrogen?
+S2: you have to have a, carbon-carbon bond.
+S4: yeah one carbon-carbon bond
+S1: are these requirements?
+S3: yes
+S4: yes
+S2: yeah you, you need a car-
+S5: a what? what'd you guys say?
+S2: you ne- you need a carbon-carbon bond.
+S1: and Rashmi feel free to just hand the pen off if you don't feel like writing on the board anymore.
+S2: because isn't the definition, of elimination_ well, i get i take that back. i think just up to what we know every elimination reaction is going to be carbon-carbon, (xx) otherwise.
+S4: yeah so far, [S1: that's a good question ] has to be a l- leaving group
+S1: it's good to realize the assumptions that you're making.
+S4: leaving group, and, then the hydrogen on the other carbon, <LAUGH> right.
+S1: okay, need leaving group. that what you're saying?
+S4: yeah
+S1: okay. <PAUSE:05> and what else do you need?
+S4: hydrogen on the other carbon.
+S5: that's a hydrogen on the other carbon
+S2: like maybe we should draw it out write an example or something.
+S3: yeah maybe we should (xx) picture (xx)
+S5: okay <PAUSE:04> (xx)
+S2: (zanton,) two-sixty-two (xx)
+S5: (xx)
+S1: hi
+S6: hi
+S3: <S6 ENTERS> pizza
+S6: ohh
+S1: we're being recorded, but if they ever use your first name they won't use your last name if you don't want them to use your first name they'll change it. the guy can tell you all about why if you'd like after study group, have some pizza.
+S6: right on. <SS: LAUGH>
+<PAUSE:05>
+S1: we're making a chart.
+S6: this one?
+S1: it's Emily
+S2: (xx)
+S6: study group today
+S2: oh
+<PAUSE:07>
+S1: i'm kind of flattered that people have more than one study group and they still come to mine. <S4: LAUGH>
+S2: you can never have enough study groups.
+S1: huh?
+S2: you can never have enough study groups.
+S3: no
+<S2: LAUGH>
+S1: although i have [S3: (xx) ] a couple people, who quit.
+S3: oh how's your Tuesday section going?
+S1: oh, mm, <SS: LAUGH>
+S4: hey now
+S3: okay, or not. <S1: LAUGH>
+S1: moan. yesterday was fine there was only two of them and they were both male. <S4: LAUGH>[S3: that works out ] (xx) (greatly) it reduces the amount of distracting [S3: most of the time <LAUGH>] flirting that can go on.
+S4: yeah
+<S6: LAUGH>
+S4: um... that's pretty good. <LAUGH>
+S1: okay. so, is there anything else that's needed? like, [S4: thirty-two? ] yeah. is there are there any other assumptions we're making with that drawing? for example which hydrogen are we saying is gonna leave?
+S4: um the one anti to the, leaving group.
+S1: oh why does it have to be anti to the leaving group Liam? [S4: um ] enlighten us.
+S4: cuz that's what Dr Koreeda said today. <SS: LAUGH>
+S1: and what Dr Koreeda says is law. <S4: LAUGH>
+S4: uh, yes.
+S3: he said that today? <SS: LAUGH>[SS: yeah ] oh, oh God. <SS: LAUGH>
+S1: while Hilary was asleep in lecture. <LAUGH>
+S4: right. it's [S4: just out of it ] because it's the , the most stable or something like that.
+S1: you tell us
+S2: it's gotta be something with stability.
+S4: yeah, something
+S3: wait how do you
+S2: or, it's it's just uh
+S3: how do you know which one is like the beta-carbon and which one's the alpha-carbon again?
+S4: that's beta, because this is the [S3: oh leaving ] alpha's with the leaving group.
+S3: duh. okay
+S4: yeah
+S3: thank you
+S4: no problem.
+S1: okay can you say that like either to the board or, so that like, everyone can benefit from the wisdom that you and Hilary just gained?
+<SS: LAUGH>
+S5: (xx)
+S3: but i gained some i already had.
+S4: so
+S1: don't i sound like you would like to [S4: yeah ] share that to the cl- with the class?
+S4: sure <LAUGH>
+S1: do i sound like i'll make a good teacher? would you like me to read your note out loud to everybody? <SS: LAUGH>
+S3: oh gosh. flashbacks. <SS: LAUGH>
+S1: you look like the type that would do that too. <LAUGH>
+S3: i never got anything read out loud to the class though. [S1: oh i did. ] good thing. <SS: LAUGH>
+S1: twice
+<SS: LAUGH>
+S3: i had teachers read it like to themselves but not like to the class.
+S1: oh, no, <LAUGH> i had a mean fifth grade teacher that really didn't like me. she would read them to the class.
+S3: what did you say?
+S1: never anything good. <S4: LAUGH> but it's just the fact that everyone's laughing at you. <LAUGH> which is why i'm weird today. anyway. sorry. alpha, is the, [S4: (xx) ] carbon so in this case is, which one?
+S5: S-one?
+S1: because, the C-H-threes are leaving it?
+S4: no (the B-R.)
+S1: ah, silly me. it's good that you guys are here to straighten me out.
+S4: yeah
+S1: <LAUGH> i'm sorry i guess i'd rather go over stupid stuff (and) have you guys feel like you know something. [S4: yeah ] okay. and so which one's beta? the one with the C-H-three? okay
+S4: yeah
+S3: oh dear.
+S1: what?
+S3: (nothing)
+S1: oh. yeah. okay then. so, we were talking about anti-elimination right? before i so rudely distracted you. what about anti-elimination? Liam?
+S4: um, [S1: (xx) ] it's it's the best because um, you know, is it the easiest to attack or something?
+S1: Rashmi? <S4: LAUGH>[S5: no ] wait what's attacking what?
+S4: um a Bronson base is attacking the, hydrogen. the beta-hydrogen.
+S1: so does it take off the beta-hydrogen and then that causes the whole thing?
+S4: um, it, takes off the beta-hydrogen at the same time that the leaving group is leaving, right?
+S5: yeah
+S1: so it's like a big old simultaneous, [S4: yeah ] double breakup at the same time.
+S4: right
+S1: mkay.
+S3: wait [S5: (xx) ] say that again. what happens?
+S4: the base attacks the hydrogen at the same time that the leaving group, is s- leaves
+S2: (surfaces,) [S3: okay ] that's why it's E-two.
+S4: yeah
+S1: and if you need another marker just tell me and i'll go steal one. <LAUGH>
+S5: (i'm okay)
+<PAUSE:11>
+S1: okay so why did it, why do we have the reaction between the carbons that we do instead of between a carbon with the bromine and the C-H-three that's pointing out to us?
+<PAUSE:06>
+S2: you mean why is that hydrogen removed is that what you're asking?
+S1: well, you're saying that the reaction's gonna happen between those two horizontal carbons right?
+S2: right
+S1: and not the two, that look vertical in our two dimensional picture? why? why not between the carbon with the bromine and the C-H-three.
+S3: no idea
+S2: (xx) um, that's a good question.
+S6: because, it because it's easiest to, attack on the other carbon, because of the area that the molecules take up.
+S1: that's good. [S4: mhm ] explain to them why you think that would be.
+S4: yeah
+S6: um, what was it? chapter four when they were talking about, when a carbon is attacked when, like there's a certain amount of area, cuz it's tertiary, and it comes to attack like this <GESTURES WITH HANDS> and like it can't get in because it gets blocked out, [S4: oh ] so maybe between the C that's coming towards us and the carbon that is attached to the bromine, there's too much of that tertiary area that's taken up as opposed to the opposite side. so that's where it would attack.
+<PAUSE:04>
+S1: so (that brings up) some kind of rule about substitution on carbons.
+S4: it's gonna happen with the more highly substituted carbon.
+S1: mhm. so, [S5: so (xx) ] E-two is picky right?
+S4: right <LAUGH>
+S1: has to have an- anti-elimination. [S4: mhm ] and it has to be between the most substituted carbon. huh? picky stuff. [SS: mhm ] how often do you think that happens? <SS: LAUGH>
+S2: i got a feeling they're gonna find s- <S6: LAUGH> find some way to like, screw us up on the t- [S6: on the test? ] on the test, where, it'll they'll make it look like it the uh two carbons are obvious, but they're
+S5: so can you say it has highly substituted carbon? or is that what you
+S4: beta-carbon
+S2: yeah base attacks a beta, hydrogen right? [S5: right ] but the c- the carbon, um
+S5: how do you wanna say that? that it goes to the not here but here?
+S2: yeah the double bonds lead you toward it. yeah how would you say that? <S1: LAUGH>
+S6: in a nifty little paraphrase
+S1: like three words. <S4: LAUGH> five words. <PAUSE:06> six maybe. <SS: LAUGH>
+S6: um
+S4: pack H, pack H on, highly substituted carbon? <LAUGH> no.
+S1: okay but, wouldn't it be there isn't a highly substituted carbon, [S4: no ] or if there's only a medium substituted carbon? <S4: LAUGH>
+S2: the most
+S1: so attack, H on, most, [S4: yeah ] substituted carbon?
+S4: yeah
+S5: base attacks H on, most (xx)
+S3: on most substituted beta-carbon right?
+S4: yeah
+<PAUSE:09>
+S1: does that paraphrasing make sense to everybody?
+S3: mhm
+S4: yeah
+S1: so does knowing about this whole anti-elimination bit, tell us anything about whether or not we're gonna get E and Z? like can we look at that molecule that Rashmi so pleasantly drew for us and tell if it's gonna be E or Z?
+S4: i think so. <PAUSE:09> no i don't think you can. because those, it's, those two on the top are like, right in the same, like they're right next to each other just one is coming out and one is coming in so you don't know which is gonna be, which one's gonna [S2: yeah but you ] go down do you?
+S2: you_ i think it'd_ you know it'd be, uh, E, because once the double bo- bond forms it's not gonna be able to rotate. and if it looks like the hydrogen, and uh, C-H-three are gonna be on the same side then the hydrogen, C-H-three, C-O-s-
+S1: but it doesn't look like it'd be in the plane of the board [S4: yeah ] how can you have stuff on one side or the other Andy? [S4: yeah ] this is one of those questions with one of those question marks that there is a really good answer like i'm i'm not shooting you down i just want you to [S2: no, hey i ] explain it. how can you have different sides if it's not in the up and down plane? i'm baffled. <LAUGH> what third plane would there be? i'm not used to third planes i didn't take calc-trig.
+S3: lucky you. <SS: LAUGH>
+S1: huh?
+S3: i said lucky you. <LAUGH>
+S1: oh that's not what i thought you said. <SS: LAUGH> excuse me? would you care to repeat that a little louder dear? whew i'm calm now. <SS: LAUGH> i had a little moment where i wasn't calm but it's passed. <LAUGH>
+S3: no Kelly
+S1: okay. i was like yikes, <S3: LAUGH> (xx) anyway, yeah sorry. what third plane might there be?
+S4: Z <LAUGH>
+S1: the Z-plane can you have different sides on the Z-plane?
+S4: i think so. <LAUGH>
+S1: (alright)
+S4: see, yeah
+S1: tell me if this is a real molecule or if this is just all in my head. cuz keep in mind that all in my head is an option. <SS: LAUGH><:09 PAUSE WHILE WRITING ON BOARD>
+S4: oh that's not real (i think.)
+S1: not real?
+S6: no. that's, that's
+S1: and is that at all the same thing too? <:08 PAUSE WHILE WRITING> okay so is this bottom one real?
+S6: yes
+S1: what does this look like when you look down on it? or like at it from here we're looking down on it what what does this look like, from here?
+S4: (you're looking in at the bottom)
+S2: it looks like
+S1: nope
+S3: that's not right.
+S2: well it kind of looks (xx)
+S3: no (xx)
+S6: it looks like a chair.
+S1: well if you look at it from un-
+S2: but if you just put like i- we're looking at it flat so if you took it, and you just like flipped it up you mean and looked at it this way, so that's what i'm saying it would kind of look like, you could have the (dashes and bushes there) i mean couldn't you?
+S1: if i'm down here, <TAPS ON BOARD> and i'm looking at this molecule like this, where is the C-H-three in relation to me
+S4: above you, and
+S1: it's above me and is it going, away from me or towards me? it's like,
+S4: towards you
+SS: towards you
+S1: here right? [SS: yeah ] so if i'm down here here, [S4: yeah ] it's coming straight at me, [S4: yeah ] like a wedge like, [S4: mhm ] straight at me. how about this H where's it coming?
+S4: yeah, definitely coming
+S1: like straight at me? [S4: mhm ] oops like, you're right that's not a real molecule. [S4: yeah there you go <LAUGH>] like, [S2: ah ] straight at me?
+S2: yeah
+S1: and where is this H (going) down here?
+S4: going back
+S3: back
+S1: going back like [S4: mhm ] (xx) going back. and where is the C-H-three u- down here? going there. <TAPS ON BOARD> so, try that again is this a real molecule?
+S4: yeah
+S2: yeah
+S3: yeah
+S1: and does it have E or Z, designation?
+S3: E
+S5: E
+S1: but it has something. [S4: yeah ] so, now that now now that we've established that we can have flat, things with something do you wanna try and like make your point again Andy?
+S2: yeah um, <LAUGH> that was that was my point um,
+S1: what was your point?
+S2: well, <:06 PAUSE WHILE S2 WALKS TO BOARD> the way i look at it is you're gonna have a double bond between here and ignore the hydrogen beta-hydrogen uh, bromine. and so you're gonna have a C-H-three going out and a hydrogen coming in and vice versa here, so it's gonna look something like this. <:05 PAUSE WHILE WRITING> if this is like the planar view (you know) looking right down on it <:17 PAUSE WHILE WRITING> and the ones in the front correspond to the wedges and the ones in the back, correspond to the dots. so that's why i was saying, well it'd be, E because these are they're on (opposite sides)
+S4: so it's just because one is on a wedge and one is on a dash that's [S2: yeah ] the only way you can tell, (xx)
+S2: the only thing i like, the only thing i wondered about is, this thing is, it's probably still gonna be like rotating cuz it's a single bond so how can you tell for sure or is it just so instantaneous that it's just gonna like freeze that like that?
+S3: oh. couldn't it freeze in any any, anyway?
+S2: right so it like it c- can you predict you know what it's gonna [S6: oh i see what you're saying ] be?
+S3: yeah
+S6: cuz they're rotating, consistently right?
+S1: well how many options do you have?
+S2: two.
+S4: yeah
+S1: two options.
+S2: (xx)
+S1: what are your two options? just to make sure we're all on the same page.
+S2: E or Z
+S4: E and Z
+S1: well but why?
+S2: well actually like, [S1: yeah that te- ] technically you have four options but, [S4: two ] i mean if you jus- the way you look at it you only have an E or Z.
+S1: okay can you show us?
+S2: alright <LAUGH>
+S1: i'm confused.
+S2: okay well
+S1: <LAUGH> you lost me.
+S2: well i_ alright. let's just say this is a single bond and this is rotating. technically this can come down here so you have these two on the same tide side and this is gonna cohere so then
+S1: but then do you have anti-elimination? like looking at the one where it is still rotating, how many options [S2: yeah well i y- ] do you have to still have anti-rotation anti-elimination? some form of that one of those -ation words.
+S2: wait you're saying that this one is rotating, and we haven't we haven't,
+S1: is that one rotating?
+S2: this one wouldn't be, [S1: right ] once the double bond is formed.
+S1: is the other one rotating?
+S2: y- uh, yeah. but it's going in and out gauche and anti m- eclipse
+S1: well so, in order for elimination to occur, which, what things do you have to line up? and then how do they have to be lined up?
+S2: oh that's a good question.
+S1: what i mean when we say anti-elimination what has to be anti?
+S4: the hydrogen in the leaving group, or the beta-hydrogen.
+S3: but there's two hydrogens.
+S4: oh
+S1: well okay s- well let's start with the leaving group do we have any other options for a leaving group?
+S3: no
+S1: so pretty much we we're not gonna r- rotate that right-hand carbon right?
+S6: mhm
+S4: right
+S1: right. so let's look at the, left-hand carbon. how many options do we have as it's drawn right now?
+S4: uh one. <LAUGH>
+S1: right and so this is not rotating. we have one option right?
+S3: right
+S1: if it is rotating how many options do we have?
+S3: two
+S1: where's the other option? [S4: the other hydrogen ] what could happen?
+S3: it could, those three could rotate on the C and you could have the, C-H-three and the H and the H kind of, switch places the three of them.
+S1: so you would you still be working with that same H?
+S3: no
+S1: with the other H.
+S4: yeah
+S1: so if we do it right as it's drawn, and we do the whole reaction do we have E or Z when we're done? if we did elimination right now as it's drawn.
+S4: E
+S3: E
+S6: E
+S2: right
+S1: E. could you get Z out of it the way it's drawn without rotating it?
+S3: no
+S2: i don't think so.
+S1: so by looking at it drawn like that do we know what it's gonna look like after a [S2: yep ] double bond forms?
+S3: yes
+S5: mhm
+S1: do we know for sure for positive no other options? [S3: uh ] assuming it's j- we do it as it's drawn.
+S2: yes
+S5: mhm
+S1: mhm right? as it's drawn. if they don't tell us we have to do it as it's drawn, what's our other option give us E or Z?
+S3: E, uh Z
+S4: Z
+S5: Z
+S2: Z yeah
+S1: Z. so we'd hafta, read the fine print to find out whether or not rotation was okay.
+S6: ah, so it could be one or the other. (xx)
+S3: mhm. i have a question.
+S1: yeah
+S3: i know the base attacks the beta-hydrogen and, then what happens to the B-R it just falls off? is that, it's just it's just the leaving group that just leaves?
+S2: yeah. cuz it's simultaneous.
+S3: so, where does the double bond_ oh so is the, the H, gonna s- the the [S2: yeah ] that that's gonna swing up and make the double bond [S2: yeah, yeah yeah yeah yeah ] and then the B-R takes the thing with it.
+S2: right
+S3: okay
+S1: anyone understand that or not understand that? <LAUGH>
+S3: i understood it.
+S6: did did you guys talk about um, antiperiplanar geometry?
+S3: huh?
+<S1: LAUGH>
+S4: no. we have not.
+S2: have we done that in lecture?
+S1: enlighten us.
+S6: um, w- today when we were talking about the same kind of molecule, and they were trying to talk about what, H wh- what was gonna be protonated.) [S3: he's probably read book the already ] [S4: mhm ] there's this thing called, antiperiplanar [S3: (that's not fair) ] geometry which is just like the anti form of the other side, which is a easy way to figure out which one's gonna get protonated.)
+S1: wait why are we protonating things?
+S6: well i mean, w- which hydrogens are gonna leave, and so, <S6 WALKS TO BOARD>[S1: oh so deprotonated ] to deprotonate so it's kind of, an antiperiplanar geometry would say that, this...
+S2: yeah that's the same thing.
+S6: would be the ones that are gonna be, leaving. so if you if you took that away and then this one away, you look at the molecule kind of like this on the side, then it's real easy to see, [S2: yeah ] where the E-formation is.
+S4: mhm
+S2: i think we started to talk about that earlier.
+S4: mm
+S1: we talked about why it has to be anti.
+S4: okay
+S1: okay. i'm going to pose a hypothesis, and then you guys can either accept it or shoot me down. [S4: okay <LAUGH>] i pose that you can tell what's more likely, E or Z.
+S4: you can? (is that what you said?)
+S1: that's what that's my hypothesis. [S4: okay ] can anyone explain why that might be?
+S2: yeah, because, i don't know i i think it has something to do with, you want it to be in, or it's gonna be in its most stable form like if you d- looked at the (Numer) projection, so its most stable form is gonna be anti, and so i think you'd look at, whether it's E or Z in its anti, formation. is that
+S1: so like is it more stable, if it's anti and the C-H-threes are on the same side? or is it more stable [S4: on the opposite ] when it's anti the s- C-Hs are on the opposite side? [SS: opposite side ] so is it more stable right now as we have it or in the other option?
+S4: right now
+S2: right now
+S3: right now
+S1: so what's more likely E or Z?
+S3: E
+S6: E
+S1: so do we accept my hypothesis?
+S4: i accept
+S3: yes
+S1: does anybody like did i lose anybody? thumbs up thumbs down? thumb thumb thumb thumb
+S2: sounds good
+S1: okay
+S3: why does it have to be the anti-hydrogen again? the one that's anti to the leaving group.
+S6: anti (xx)
+S4: cuz Dr K- <LAUGH>
+S2: anti (xx)
+S3: j- oh is that it's n- <LAUGH>
+S1: hm? i didn't hear that at all.
+S4: i said Dr No- [S3: he said Dr Kohl says so ] Dr Kohl said so. <SS: LAUGH>
+S1: oh yeah. which is law. <LAUGH>
+S3: yeah
+S4: i think it's just because um, they l- they want to stay at like, when they're um, the hydrogen's being attacked and the bromine is leaving at the same time, and they don't want that to happen on the same sides. so it's more st_ because there's kinda like partial bonds happening or like,
+S3: okay that makes sense
+S4: the hydrogen is partially attached while at the same time the bromine is only partially attached, [S3: okay ] isn't that kinda [S3: ] and while and the part
+S1: one of those, transition state [S4: yeah transition state. ] snapshot motion picture kinda things.
+S4: and the double bond is partially formed so, you want those to be, kinda far away.
+S1: where'd you get that from?
+S2: that's on uh
+S1: i wanna know cuz i don't know whether or [S4: was that Nolta? ] [S2: yes ] not to let you guys copy it or see if you can figure out your own resources.
+S2: it's on Nolta's
+S3: Nolta's website
+S5: Nolta's
+S2: website yeah
+S6: i got this too if you guys wanna,
+S1: highly recommend the magic sheet.
+S4: yeah
+S6: if you guys wanna Xerox these you can.
+S2: whoa whoa
+S6: you're more than welcome to.
+S4: what are those?
+S1: yeah i don't have this one,
+S2: yeah i don't ha- where'd you get that one?
+S1: but these two, [S4: yeah ] from Nolta's website, [S2: yeah ] (Arnolds) gave 'em to us last year, [S3: wait ] [S5: (xx) ] highly helpful. everything you need to know about S-N, two E two F-N-one E-one, nucleophiles,
+S4: this is (xx)
+S5: but there's another side to it.
+S2: yeah i don't have the other side either. i think it might be in a different section you know how_ when you go to her website there's
+S4: (oh is it?)
+S1: this is chapters eight and nine.
+S4: oh okay
+S2: yeah see we don't have the chapter eight in there.
+S5: oh okay
+S1: this is just a list of what you need to know for chapter eight nine, cuz chapter eight nine is the one where you actually have to memorize, reactions. [S4: mm ] which sounds really hard, but it's not cuz because i explained to you how all of them happen. so if you understand like, the idea of why each of them happened it's not at all hard to figure it out on the, exam and there's ju- minimal memorization, and memorization for these exams is almost preferable cuz then at least you only have to study it till your done.
+S4: okay
+S2: unless you're taking the MCAT. <S6: LAUGH>
+S3: well, then you're screwed. <SS: LAUGH>
+S1: okay. so, is there anything else we could possibly hash out about E-two? are oh_ did you guys talk about rates?
+S2: uh
+S3: i think like maybe briefly. yeah
+S4: a little bit
+S2: i think it's just kind of
+S1: yeah they don't say much about it but they test you on it like crazy.
+S4: yeah
+S2: yeah cuz i think it's [S3: (how) ] kind of a overlap of what we, well, in terms of like th- the reaction steps and how many intermediates and whether it's, how many transition states are there but yeah they didn't really say a lot about it (in lecture.)
+S1: they just want you to know, what the rate is dependent on. [S3: ] the
+S3: reactants right?
+S1: concentration_ [S2: concentration ] but is it the concentration of both reactants?
+S4: no
+S1: or just one? let's go_ can we go across like [S4: (xx) yeah ] on the very bottom of the board. maybe somebody please. i'll ask nicely like i was actually raised with some manners.
+S4: my hip <SS: LAUGH>
+S1: even though we all know better. <LAUGH>
+S3: okay
+S4: (xx)
+S5: what are we doing?
+S3: i was gonna say
+S4: (i know)
+S1: we are doing, [S6: rates ] rate. rate two-oh-five <PAUSE:07> we may not get to specific questions today but that's okay because we have a while until the exam. [S4: yeah. okay ] [S3: kay ] okay so for S-N-one, which concentrations of what are important?
+S4: um, just the, one, the one with the leaving group right?
+S1: why?
+S4: cuz it's a two step reaction and the first step, is the rate-determining step, and that's when the leaving group leaves.
+S2: i disagree because, oh this is S-N-one you're right okay i'm thinking of S-N-two wait, no now i'm confu- oh no i'm just stupid. <SS: LAUGH> S-N-one is where you have, a carbocation, [S4: carbocation ] carbocation. every- s- such <S3: LAUGH> like a debate about cation or cation. <S5: LAUGH> carbocation. uh
+S4: (xx)
+S1: i heard that it was cation because it's an ion. [S4: yeah ] and cat just means positive.
+S4: yeah
+S2: but like i've heard like professors say cation before.
+S4: oh really?
+S3: really
+S2: yeah. [S4: i've never heard that ] Fr- when i had Frink, [S4: oh ] that's the w- he said it he said, um,
+S3: when you had Frink.
+S2: yeah
+S4: in the past.
+<SS: LAUGH>
+S3: Frink
+S1: i've had enough of that.
+S2: he's teaching he's teaching uh, two-fifteen (too.)
+S4: yeah
+S3: yeah not signing up for that.
+S4: no. h-
+S2: he wasn't like that bad.
+S4: how's Wagstaff? i didn't
+S2: i don't know it just sounds like
+S6: oh my friend has him.
+S2: how does he like him? no?
+S5: no?
+S3: no?
+S6: i don't know he [S1: not so much? ] on Friday he goes to Koreeda's lectures cuz it's the only time during the week that he has time to go to it. [S4: right ] he said every time he gets out of lecture he's more confused than (xx)
+S4: really?
+S3: who?
+S1: that's generally bad. <LAUGH>
+S4: Wagstaff, for two-fifteen.
+S3: one of my friends had him and (he was) like, there was no problem.
+S4: oh. okay
+S6: you guys i'm sorry that i was late but wh- when it has the number of steps and i- and it's the S and N one, two,
+S1: two steps
+S4: two steps
+S6: okay.
+S1: that whole that row underneath it are number of steps. so S-N-one has two S-N-two has one E-one has two, [S6: ah okay ] E-two has one. [S6: okay ] and then underneath that we were just writing other stuff, has a carbocation, chirality is maintained, has a carbocation, needs blah. <LAUGH>[S4: so it's (xx) ] blah is of course a highly scientific term, <S4: LAUGH> used only in prestigious universities such as this one. <SS: LAUGH> right. like today my lab notebook i was writing mushy. <S4: LAUGH> was classifying things as mushy. <S3: LAUGH> okay so anyway back on topic. [S4: so ] S-N-one, rate is determined by the concentration of...?
+S4: um, the electrophile.
+S1: which is the
+S2: just the
+S3: the electrophiles?
+S4: yeah. the one with the leaving group.
+S3: so the carbon leaving group [S4: yeah ] (xx)
+S4: the whole compound with the, carbon [S2: isn't ] in the leaving group.
+S2: isn't there something also like, if there's like water, cuz y- you're gonna have this cation, and like the more things that stabilize it when it's a cation, (isn't,) [S4: oh yeah, the solvent you mean? ] so if yeah if you have s- better or solvent and the doesn't have to have a concentration that high.
+S4: yeah, that, does it_ that affects that just affects which one it ha- which one happens right? isn't that what the solvent
+S2: yeah okay
+S1: so do we care about about the concentration of the solvent or only what kind we have?
+S4: what kind we
+S2: yeah, okay
+S4: yeah
+S1: so what determined what_ the concentration of what determines, um the rate for S-N-one?
+S3: (xx)
+S4: the one with the leaving group. <LAUGH>
+S2: yeah the same (xx)
+S1: the one with the leaving group. so it's right the R like, R-L-G or C-L-G, [S4: yeah ] so it's the carbon with a leaving group on it. (xx) is everyone comfortable with leaving group as L-G. [SS: yeah ] <PAUSE:09> okay why doesn't anything else matter? why doesn't the nucleophile matter?
+S4: cuz it happens after the rate determining stuff. it's all downhill, [S2: mhm ] after it. (xx) it just matters if it's gonna go to the carbocation or not. cuz after, [S1: that's all, that's ] when you have that carbocation that, um, nucleophile really wants to get to that so it's really easy to happen.
+S5: cuz that's, the, like getting to the carbocation is the slow step and this slow stu- step is the rate determining step, [S4: yeah ] (and)
+S3: mm
+S4: so how come that
+S1: so, as this is only vaguely clear to me like is this clear to everybody else? if not like, don't feel bad about it it's only just barely vaguely clear to me. don't everybody talk at once it's hard for me to hear. <S4: LAUGH> like, <LAUGH>
+S3: (xx) fine
+S2: yeah (xx)
+S1: thumbs up?
+S2: yep
+S1: thumbs up? thumbs up? thumbs up? thumbs up? alrighty then moving on, S-N-two. rate. <LAUGH> concentrations of what are important (in the rate?) and keep [S5: (xx) ] in mind like just C-L-G, the fact that there (isn't any leaving group) the what's important is the concentration. and when they write stuff in brackets that's what they mean. [S4: yeah ] that's what that means [S3: so ] concentration of that.
+S4: yep
+S3: oh the, uh leaving group, the carbon leaving group or the R, leaving group and, uh, the nucleophile?
+S1: wh- what about somebody else? give [S6: you want me to write? ] poor Rashmi a break. since she's [S5: yeah ] been at the board for like, forty-five minutes. <LAUGH>
+S4: you must be tired
+S2: if you want you can take my seat too. alright uh, [S4: so it's both. ] so it's the carbon leaving group, [S4: everything ] <:06 PAUSE WHILE WRITING ON BOARD> and the what else? the uh,
+S4: the, electronucleophile
+S3: yeah
+S4: whatever <LAUGH>
+S3: like the Lew-
+S2: so should we abbreviate that somehow?
+S3: like the Lewis base with the little
+S2: okay
+S4: yeah Lewis base (xx) alright. is it in a Lewis base or (not?)
+S3: it's, either.
+S2: the electron pair yeah.
+S4: yeah
+S1: wait but are we talking about the base or are we talking about the nucleophile?
+S4: (okay) we're talking nucleophile
+S3: well i think th- what's coming in.
+S1: so is that a base or is that a nucleophile?
+S3: it's a nucleophile
+S4: it doesn't have to be a base or (xx)
+S1: so, [S3: it just has to have ] is that what B means to you guys? does B say nucleophile?
+S4: no
+S3: that's how he drew it. <S4: LAUGH> or am i am i totally
+S1: (i'm a-) i'm asking what makes sense to you. [S3: yeah ] i'm not [S4: oh ] asking what makes sense to professor Koreeda because i'm pretty sure he could do just fine on the test. [S3: yeah ] <SS: LAUGH> okay? i'm pretty sure he'd pretty much screw up the curve. <LAUGH> i'm asking you what makes sense to you guys does B say nucleophile to you?
+S2: actually it doesn't. it's B says base to me.
+S1: then what does say [S4: yeah ] nucleophile to you?
+S2: um
+S4: (A?) <LAUGH>
+S3: L
+S2: uh yeah wanna put a N with the
+S3: he put L-B, if that, i know we're not [S5: (okay ) ] like going off_ like Lewis base.
+S1: well but is that, is that talking about the nucleophile or is that talking about the base that takes the H?
+S3: it's both,
+S2: yeah it's the base is the base [S4: both ] is different though
+S3: cuz remember he drew like, two arrows one taking the H it can take that path or it can, be the path where it goes in as a nucleophile.
+S4: (okay)
+S2: but there can be uh, yeah.
+S3: cuz it can be (xx)
+S1: so what about like, C triple bonded to an N, (untraded) pair on the end, [S3: yeah ] does that make a good nucleophile? [S3: mhm ] or is that a base? (oh yeah it is) another not a very good example, just [S2: it seems like they go hand in hand ] ignore me.
+<SS: LAUGH>
+S3: yeah
+S2: it seems like the two go hand in hand, [S1: there's there's gotta be ] [S3: i just ] but there're some specific ones that are like, [S3: yeah ] [S4: yeah ] a lot better bases.
+S3: i just said it cuz that's what he kept using so like to be consistent. [S4: yeah ] we could call it smiley face. <S4: LAUGH>
+S4: can we just call it nucleo?
+S1: does he does he do that too?
+S3: no <LAUGH>
+S1: oh Nolta did that, <LAUGH> to to emphasize that it could be anything she made it smile. like Nolta always did NUC, N-U-C with a little minus sign.
+S4: yeah NUC sounds good. <SS: LAUGH>
+S2: i kinda like [S4: and that ] [S1: like i don't know ] smiley face personally.
+S6: yeah i like NUC.
+S4: i don't think i can remember th- what smiley face is. <LAUGH>
+S6: wai- wai- wait a minute
+S1: well leave the smiley face and put nuke like, <LAUGH>
+S4: yeah there you go.
+S2: (yeah i gotta remember that)
+S6: cuz for S-N-one
+S1: what what whatever says nu- i like i don't care, what it is as long as it says nucleophile to you guys when [S4: yeah ] you're looking through these notes later going what on earth was going on?
+S2: right the smiley face is (saying it to me.)
+S1: great. that [S4: okay <LAUGH>] says nucleophile to me. okay. [S4: okay ] so E-one. what matters?
+S4: same as S-N-one?
+S1: does anyone disagree?
+S4: cuz it's th- the same thing happens. with
+S2: yeah. i agree.
+<PAUSE:06>
+S1: is this bad that we're spending so much time on this or is this good?
+S6: no it's
+S4: (that's fine)
+S2: this is like half t- at least, a good chunk of chapter two, or chapter seven.
+S1: okay. and so what about E-two?
+<PAUSE:08>
+S3: E-two's the same as S-N-two right?
+S2: yeah
+S1: okay so, i- bel- it is. and is everybody cool with, why all this is? <PAUSE:05> if you guys ever in the middle of the week get to the point where okay i got it during study group but, yeah <S4: LAUGH> i lost it some time in between then, um email everybody, i'm sure somebody will explain it again.
+S6: do you guys know if, Nolta's here tomorrow, in the morning at eleven A-M, in the S-L-C?.
+S3: Thursdays?
+S6: yeah. i saw it written [S5: yeah eleven to one ] on her door. is she in one of the alcoves around here?
+S5: yeah
+S2: is she usually pretty uh, a lot of people come? like, she pretty busy, if you try to come see her?
+S5: she is sort of [S3: i've never gone ] yeah.
+S4: i have class i can't <LAUGH>
+S3: yeah. no i sleep during that class. <S4: LAUGH>
+S1: but even if he is here s- explain stuff to other people. [S6: well it's just that, i mean ] maybe it's just cuz like, she makes sense to me but
+S6: we made a chart today and and, i mean you guys are making a chart and i got a different chart and it's just like all this information it'd be nice to have one, rock solid confirmation chart cuz, i've got stuff on mine that, that you guys haven't talked about and, [S4: mhm ] things on yours are kinda different from the two that i have here. [S4: mhm ] it just seems to be like sensory overload after a while. <SS: LAUGH> cuz you're not sure, what you're actually supposed to be responsible for.
+S1: i know you absolutely positively have to be responsible for the stuff on this sheet. [S6: sure ] bare minimum, you need to be able to understand the stuff on this sheet. which i'm hoping to make sure we get to all of on here. so... and because i have the sheet i know i'm remembering stuff right so, i know i'm not giving you wrong information, <S4: LAUGH> which is kinda helpful to know.
+S4: okay. so what else what else (can we do here?)
+S1: so okay, so we've got, oh look at that S-N-one has one thing that matters S-N-two has two things that matter E-one has one thing that matters E-two has two things that matter. [S4: wow ] what do you know [S3: check it out ] chem is not trying to mess us up. <S4: LAUGH>
+S3: this time.
+S1: this time <LAUGH>
+S2: yeah but look at this it's so deceiving.
+S1: it is deceiving. they just wanna try to confuse you. they want to make sure that, they're not put out of a job by, producing too many young chemists. it's all about job security.
+S3: you can have you if you want.
+S4: (xx)
+S3: there's cinnamon and this is the regular kind. i stuck 'em both in there, (xx)
+<SS: LAUGH>
+S2: i guess so. <LAUGH>
+S1: okay so, do you want to like beat to death S-N-one S-N-two and E-one like we did E-two? just to make sure that, [S4: sure ] are you really sick of this chart already? [S3: no it's fine ] how about Rashmi since the chart was your, are you sick of this or would you like us to keep going and beat those to death too?
+S5: we can keep going
+S1: since you're not writing
+S2: beat the crap out of 'em
+<S6: LAUGH>
+S1: so do you wanna, go backwards or forwards or jump around? which one do you want to do next let's start with that?
+S2: let's start with (that one) (xx)
+S4: okay, S-N-one
+S1: alright. so what's everything we need to know about S-N-one? [S4: (do we) ] how does it happen? why does it happen? what's it have to look like? what can it make? what's it do to the second chirality?
+S2: well, there's g-
+S1: how 'bout how's it work?
+S2: there's gonna be a leaving group, and the leaving group jets. and then there's gonna be uh, cation, left, stable cation, (which is) somewhat stable.
+S1: so if we make like a little, just like a really brief flowchart like sequence of events.
+S2: okay so um, [S5: um ] alright, [S1: hm? ] [S5: you have a bruise ] you have a carbon in the leaving group
+S1: yeah. i have a lot of them. this has not been a good week for this whole half of my body. i have one on my hand that i just got last night so it hasn't really formed yet i hit Jeff's loft.
+S3: i_ oh with your hand?
+S1: yeah. [S3: oh ] and then i have a great big one on my leg and then like another one on my hip.
+SU-m: what's up (Olson)
+S2: what's up Emerson
+S3: Jeff squared is living together next year.
+S1: they are?
+S3: yeah
+S1: i thought that was still up in the air as of yesterday at least.
+S3: (xx) they were all out looking today i saw them when i was (xx)
+S1: yeah. yeah i was running a little bit late cuz we were trying to do the housing thing.
+S4: yeah it's a pain in the butt.
+S1: pain pain, [S4: i'm just gonna make ] we need a third girl. <LAUGH> okay
+S2: you guys don't mind i'm just making kinda like a generic, (xx) that's how i like to show just drawing something.
+S1: das is gut. gut by me anyway. but then again
+S2: so you have this, this is the main, main thing right here, and you can have the leading group which is gonna take take electrons it's gonna, (xx) leaving group, <:17 PAUSE WHILE WRITING ON BOARD> then this is_ cuz it, left so it's gonna have a, (a) charge it's gonna be, cation, right.
+<PAUSE:04>
+S1: okay so then the whole kinda reaction s- takes a little miniature breather right? that's what [S2: right ] the dip in the energy diagram means? [SS: yeah ] (xx) [S6: so ] you have two separate things
+S6: is this where, the molecule's planar...? in the transition state
+S3: yes, yes
+S1: and is this a transition state or is this an intermediate?
+S3: intermediate
+SS: intermediate
+S6: intermediate i'm sorry
+S1: is it planar?
+S3: oh, no it's in the transition state that that happens isn't it? like when it has (xx)
+S2: i think um,
+S1: is that planar? like
+S2: i i guess it's not. cuz aren't you gonna have like, you're just all of a sudden like gonna have this open orbital but nothing, in here's gonna change is it? [S3: (xx) ] well it's it would be planar, cuz you just
+S1: okay so if <DEMONSTRATES PROBLEM PHYSICALLY> i am [S6: okay ] this molecule that you're looking at, i have a hydrogen right? that's_ oh sorry a hydrogen that's coming towards you, [S4: mhm ] right? and i have a C-H-three group that's going, away from me right?
+S4: right
+S2: yeah
+S1: and an H group above my head. am i planar, when you're [S4: yeah ] [S2: yes ] looking at me like this?
+S4: yeah
+S2: yes
+S1: am i in one plane more or less, [S4: yeah ] considering that i am not a two-dimensional object? <LAUGH>
+S4: yeah
+S1: rotation demonstration. <S4: LAUGH> so, is it planar?
+S4: yeah
+S2: yes
+S1: does that make sense? but i still have an empty orbital like sticking out of my stomach and coming out of my back. [S4: mhm ] [S2: right ] but as a molecule i'm planar. so this brings up (which)
+S4: so it still has the, dashed line, and the
+S2: well either way i mean, [S4: yeah ] you can draw it either way. you just (say) like your perspective [S6: (xx) ] [S4: yeah ] of looking at but
+S1: right
+S4: yeah that's true.
+S1: you're just spinning from being like this, [S4: yeah ] to like this. <LAUGH>[S4: yeah ] [S3: mkay ] (xx) study group (xx) um so which side does the nucleophile attack on?
+S4: on either side.
+S3: mhm
+S1: oh so does that affect the kind of chirality type stuff you have there <S3: SNEEZES> (xx) bless you.
+S4: could be either inversion or, retention.
+S1: so what happens if you've got half your molecules doing inversion and half your molecules doing retention?
+S3: mm i thought i saw it on the other side.
+S4: racemic mixture
+S6: mixture
+S5: (xx)
+S2: no that's for hor- i think that's, yes
+S3: oh oh oh yeah yeah i'm thinking of the other one
+S1: so we're ended with a racemic mixture. that sounds like one of those, key phrases we should probably put down on a chart.
+S2: but um, <S1: LAUGH> i just uh i have a hard time seeing that because, it's like, fifty percent of the time it's just i mean it's just that you go with you know the odds, you think fifty percent of the time it's gonna come up one way okay.
+S1: this is this is one of those statistics things that if you do it enough it will end up with the right proportion. basically there's no good reason for it to either, come at my stomach or my back. like there's nothing making it want to do one or the other. so you assume that if you have enough molecules and you repeat this enough times half the time it'll hit me in the stomach and half the time it'll hit me in the back. does that make sense?
+S2: yeah <PAUSE:08> okay so what else do we want to try here?
+S5: we can do the order of reactivity. tertiary, secondary
+S4: oh yeah that's good.
+S3: what?
+S4: about, which was better tertiary or secondary? [S5: mhm ] [S3: oh ] that was at the end of the chapter wasn't it?
+S3: oh wait what did you say about um, here's is this the one where there's an inversion always?
+S4: um, half of 'em will end up in inversion half of it'll be retention.
+S5: (xx) racemic
+S4: that's why it's racemic.
+S2: because it can_ [S3: oh ] see it can come from either side, [S4: yeah ] from here or from here.
+S3: and the leaving group was originally on the right so that's why, [SS: right ] okay.
+S1: so as the leaving group left from my stomach it can either come back in where the leaving group was, or it can go, the other way.
+S3: oh half and half like R and S?
+S4: yeah
+S3: okay.
+S1: and so when you have a mixture that's half R and half S you have a
+S3: oh but wait that not even a stereo center.
+S2: yeah that's true. um
+S1: in the event that it were though, yes. more or less. good observation.
+<PAUSE:08>
+S2: there are you happy now? <SS: LAUGH>
+S1: oh, now now children let's not get mean.
+S3: you don't have to be snippy about it. <LAUGH>
+S1: you're the one swearing at people.
+<SS: LAUGH>
+S3: (xx) i did not.
+S1: sure sure that's what they all say claim innocent now i know better about you. <S3: LAUGH> i've heard stories.
+S3: yeah i'm sure you have.
+<S1: LAUGH>
+S1: not really, i don't talk to most of those [S3: that's ] people though.
+S3: that's a good thing.
+S1: anyway, back to the topic at hand. so, so then, our nucleophile hits one side or the other, and all is (xx) are we all clear on, i mean c- is there anything else we can say about S-N-two is there anything more we can, beat to death about it?
+S3: S-N-one? or S-N-two?
+S1: S-N-one, i apologize, S-N-one (xx)
+S2: i yeah i i'd like to know um, i'm confused about, so you've got this molecule this carbo- or this cation, just floating around and, they're saying well if it's in water, it's more stable, does that, make sense? or if it or depending on the solvent, um, but some solvents are better and they can determine which what's gonna happen. i don't know, i'm just like thinking of little bits and pieces of lecture.
+S1: why would that be [S4: yeah ] why would having a polar, protic solvent, [S4: that would make ] help
+S2: because yeah
+S4: that'd make a l- elimination happen more often right? because, the nucleophile doesn't, i mean doesn't really care to attack it because, it's not as positive because it has the negative, um, solvent around it right?
+S1: oh so we're so we're saying that by having polar solvents around a positive, carbon [S4: carbon ] is gonna make the charge less, strong it's gonna be more stable. [S4: right ] does that make sense? we've got all these like, the negative [S4: yeah ] ends [S2: yeah ] ends, you know mole- water molecules have [S2: so if you ] kind of a negative end and a positive end. [S4: yeah ] so if Hilary's an excessively positive person, <SS: LAUGH> she's one of those happy perky people all the time, and the rest of us are, [S4: right ] incredible pessimists, and really miserable then we kind of balance Hilary out a little bit better, [S4: right ] than if we were all just completely neutral and sat here quietly, and then Hilary's perkiness just kinda took over the whole little room. <S4: LAUGH>
+S3: (xx)
+S4: uhuh yeah <LAUGH>
+S1: does that make sense?
+S2: yeah um, <S4: LAUGH> i guess my only question it doesn't matter when you're looking at a reaction, and it says, i mean is, they ask any questions, like if it's, the solvent is so and so i mean is there any, [S4: yeah ] way you can determine, if it's better or it's worse or, just depending [S1: well ] on the polarity [S4: i think ] of it?
+S4: i think like uh yeah especially if it's secondary, be a secondary can be, it's like either or, elimination or substitution right? [S2: yeah ] it's so like if instead if it was in a very s- polar solvent then it'd probably be more likely to be elimination right? if it was a [S2: yes yes ] secondary carbon.
+S2: okay so i guess we're gonna, get to that.
+S1: well and
+S5: um i have to go you guys so um, i'll see you guys [S4: okay ] next week.
+S2: see you
+S3: bye
+S6: good luck
+S4: bye
+S1: see you next week have a good week.
+S5: thank you. <LEAVES >
+<PAUSE:06>
+SU-m: (xx)
+S1: hm okay.
+S2: so um, i think we beat this one to death.
+S4: yeah
+S1: no but so, let's a- sometimes these things sorta have foresight. so let's say that, you have s- you're starting all the way on the left, and you have that chiro-carbon with the leaving group right? and so it's sitting there and it says, i have a couple choices, if i wanna do substitution, i can either do S-N-one or S-N-two right? and it says well i know, that i'm in a polar solvent, and i know that if i end up with a carbocation i'll be okay, cuz it'll get kinda balanced out. am i more likely to go the S-N-one route or the S-N-two route?
+S2: the S-N-one
+S4: yeah
+S1: so i'm more likely, to form a carbocation if i know it's gonna be stabilized. if i'm in a nonpolar, um, solution, and i know i can either do S-N-one or S-N-two but my charge is gonna be all mine to carry it won't be stabilized at all, am i gonna head more to S-N-one or S-N-two?
+SS: S-N-two
+S2: cuz you have a stable, something stable come out of it.
+S1: does that make sense?
+S4: mhm
+S1: that's how that whole solvent thing affects it. [S2: okay ] and we'll talk a little bit more about that, [S6: hm ] cuz i would like i would like to, develop, both of these types of things in the in a chart_ i'd like to do i had a lot of trouble with the whole solvent thing, [S2: yeah ] a lot.
+S3: looks like he's gonna explain it more in depth, just like looking at the notes that he gave or whatever it seems like that's the last thing that he has, [S2: mhm ] (on this list.)
+S1: so yeah and my study group also made a chart, and it helped me a lot, and then we can kinda work through, the important details on that in making our own chart also... there's one i've got lotsa ch- i've got charts up the yin yang. <S4: LAUGH> and yes that does hurt sometimes. like this is one all about solvents, and how they affect, the different reactions. [S4: (xx) ] so if we don't get to this this time i will make sure we get to it next time, [S4: okay ] so like during our concept part. then as we get closer to the exam we'll make sure we leave more and more time for, specific questions, um but my my goal and agenda, would be to really hit this chart this time and then make sure i write down to do nucleophiles next time.
+S4: okay
+S1: so, right here on the attendance sheet do, nucleophiles, [S4: and solvents <LAUGH>] and solvents. okay. so, what else can we say about S-N-one? <PAUSE:10>[S4: (i don't know) ] is anyone not clear?
+S2: well, something eventually is gonna happen to this, i mean, i don't know if that's we really <S4: LAUGH> consider that part of S-N-one reaction but i mean
+S4: yeah the nucleophile is gonna, [S3: yeah ] [S2: yeah ] attack the, [S3: i think that's ] carbocation
+S2: yeah, and i think as i remember it like, it doesn't, matter, i don't know this could be totally wrong it doesn't matter what nucleophile, attacks it it's gonna go at the same rate cuz it's (xx)
+S3: yeah cuz it's so unhappy.
+SU-m: (i don't know)
+<PAUSE:05>
+S1: s- s- so that would be emphasizing what we have at the bottom. it doesn't matter what the nucleophile is, [S4: oh okay ] or what concentration it is, [S2: yeah ] [S4: yeah w- ] [S2: (i got that) ] it only matters what hap- what, with the carbon in the leaving group.
+S2: yeah
+S4: yeah okay
+S2: so like... final step doesn't depend on the nucleophile, (or something like that?)
+S4: yeah
+S1: well but, is the [S4: (well the) ] nucleophile involved in the final step?
+S4: yeah
+S2: what?
+S1: is the nu-
+S4: yeah the final step, yeah definitely
+S1: so can we draw the final step? even if it just says NUC or it's a smiley face that's saying NUC or, [S2: alright ] it's a real honest to goodness NUC.
+<SS: LAUGH><PAUSE:11>
+S2: so then, that
+S1: or what's the other option?
+S4: (xx) it from the other side
+S2: oh yeah. could come from over here.
+S4: yeah
+<PAUSE:05>
+S1: i'm seeing puzzled looks.
+S4: no i got
+S3: why why
+S6: no i got that.
+S2: because you're
+S1: it's not that the leaving group's going over there saying the nucleophile can [S4: (i'm not the league here) ] go all the way around.
+S3: oh oh okay,
+S4: yeah
+S2: oh yeah yeah, yeah (xx)
+S3: oh i thought that was holding up
+S2: this is, supposed to be right here. [S3: okay ] and that's why it's racemic.
+S4: yeah. i get it.
+S1: so is there anything else we can say about S-N-one?
+S4: i think it's pretty good.
+S1: think we've beat it into the ground? okay, so how 'bout S-N-two?
+S2: you guys, you guys (have this one? mind) if i erase it? <:06 PAUSE WHILE ERASING BOARD>
+S4: (xx) <LAUGH> that's good.
+S1: so how does S-N-two work?
+S2: (xx)
+<PAUSE:09>
+S4: it's just, it starts out just like, E-two, right? <PAUSE:04> except for, well not exactly i i guess
+S2: well it doesn't start out c- cuz [S4: yeah ] when it starts it's
+S4: it doesn't attack the hydrogen. it attacks the carbon (xx)
+<PAUSE:04>
+S2: so then you're gonna have <PAUSE:05> gonna have a nucleophile right here right?
+S4: yeah, it attacks from the opposite side, of the leaving group.
+S1: make sense?
+S2: (xx)
+<PAUSE:08>
+S2: and this is like it's gonna, happen at a like, pretty much simultaneously s- s- what these little dots are for. cuz one doesn't happen first and then the next one happens. <:07 PAUSE WHILE WRITING> so because of that the energy graph is just gonna be <:09 PAUSE WHILE WRITING>
+S1: why does the arrow come through the carbon-two (xx)
+S2: oh whoops
+S4: it doesn't <LAUGH>
+S2: (xx) mistake
+S3: is this that X side attack one?
+S1: yeah
+S4: yeah
+S2: yeah
+S3: okay
+S2: and so this one
+S4: so that's why there's always inversion?
+S3: what?
+S4: there's always inversion then.
+S3: oh
+S6: correct
+S1: i was trying very hard to watch what i said so that <S3: LAUGH> i wouldn't be accused of getting the group off topic and, in a bad direction this time.
+S3: why do you have a story?
+S1: i always have stories. <LAUGH>
+S3: story time
+S6: personal experiences?
+S1: i have a story for everything, but i don't think it's it's appropriate to share it at this i don't think it would be a learning opportunity for me to share my stories at this particular junction.
+S3: what?
+S2: you'll have to tune in next week.
+S1: yeah. <SS: LAUGH> reason to attend regularly. <SS: LAUGH> get to ask questions and hear my rotten stories. alright, [S3: oh boy ] so was there anything else we can say about S-N-two?
+S2: S-N let's see, there's gotta be something else.
+S3: so wait it's gonna stay R or stay S most of the time, is that what it is? or it's gonna s- or
+S2: no uh, it's gonna switch most of the time. because if you're
+S4: (xx) most of the time.
+S3: oh so chirality's maintained but like R or S isn't though i was confused.
+S2: right, but like
+S1: right, it just it's still chiral, it has chirality to it
+S4: yeah, it's like always, inversion. well it's not always (chiral mostly though it is)
+S2: but what we were saying before, if there was like a, you know a (piece) if, you assume the nucleophile is gonna be, the highest priority i guess. [S4: yeah ] if like on this one you i think you probably would assume that, but this if these were some other molecul- molecules or atoms, [S4: yeah ] you can't always assume that. so it'd probably just be j- best to check every time.
+S1: but in this case you might not even still have chirality. i mean what if your nucleophile is C-H-three-C-H-two?
+S2: right
+S4: oh okay. so it's not always maintained?
+S1: but, well, but it [S4: (xx) ] would be so long as you don't have have different, as long as you have different things. [S2: yeah it's always inverted ] but it does- it doesn't make it, what it means is it's not making it a racemic mixture. [S6: right ] [S4: yeah ] saying that is i- an opposition is saying that the other one creates a racemic mixture. if, [S3: they're all gonna come out the same. ] right if it's gonna_ right, right [S2: this one i ] thank you. <LAUGH>
+S2: this one i think there's some debate on actually be- before the last test, if this is a racemic mixture, then you have to assume, that, um, let me think about this for a second. that's a chir- that will be a chiral molecule, because, but there's just an orbital there, does it matter, when you have the, wh- when you have the cation?
+S1: orbitals don't affect chirality. is that what you're asking?
+S2: yeah
+S3: don't they meet at the end anyway? like once the nucleophile comes in.
+S2: oh okay, there's okay, okay, i gotcha
+S3: i think that's what they're talking about.
+S4: yeah
+S1: cuz if it's three it can't have chirality anyway.
+S2: yeah, that's what i was wondering. okay.
+S3: oh
+S4: yeah
+S1: but it's not like, (empty R bills) have an automatic fourth or something like that.
+S2: mhm okay
+S4: down
+S1: okay. so, again is there anything else we can say about S-N-two? can we really quick why did they call 'em S-N-one and S-N-two and E-one and E-two? what's the one and the two mean?
+SS: bimolecular and unimolecular
+S1: ohh, is that, are we get- like does that make sense?
+S3: no
+<SS: LAUGH>
+S1: no? so, how many [S4: it's when it talks (xx) ] [S3: we had it like fifty times in class today. ] how many molecules does it take to start an S-N-one?
+S3: hm one
+S1: how many molecules does it take to start an S-N-two?
+S4: two
+S2: deuce
+S4: because like the rate determining
+S1: how many molecules does it take to start an E-one?
+S4: it's just the same as the rate determining how many
+S1: right. [S4: things ] how many things to get it started.
+S3: wait wait, why is that, only take one to get started?
+S4: cuz like the rate, like how we said the rate is only determined by the carbon in the leading group, [S3: mhm ] so it doesn't matter about the, nucleophile.
+S3: so the leaving group just leaves nothing comes in_ no wait [S4: right ] or nothing goes in until why does it just decide to leave like just, because?
+S4: just because
+S1: are bromines all that unhappy with negatives charges? or [S4: (they like 'em) ] chlorines or flourines or iodines for that matter?
+S3: nope. so they'd be happier (with) more stable
+S1: (right,) and there are nucleophiles around, but sometime- like if a nucleophile's not strong enough, to push out of a leaving group, [S3: mhm ] okay so do you guys want a, a relationship analogy for this one?
+SS: sure
+S1: you've got a carbon it's got a couple of options, it's got, Mr leaving group whom we're with now, it's got Mr nucleophile who's looking pretty good out there on the edge. <SS: LAUGH> we have a couple of options, they can kinda have a simultaneous shift. yes i have stories about this too and no you don't get to hear them. <SS: LAUGH> or, we can break up Mr leaving group and send him out on his own, remember he's like leaving groups are great big bulky things, they [S3: yeah ] can handle walking themselves home. <LAUGH>[S3: (xx) leaving group ] and then the nucleophile will come in. if the nucleophile's like, alright not so hot, chances it will have a simultaneous switch, are less. cuz this nucleophile is it's just not really gutsy enough to go in there and kick out, Mr leaving group. it just it's it's just not quite. but if leaving group leaves then nucleophile's, good enough to go in there to that very very positive carbon, <SS: LAUGH>
+S3: oh
+S4: that's a good analogy
+S1: see?
+S3: thanks Kelly
+S1: you're welcome. <SS: LAUGH> does that make sense? so it's all about how, [S3: oh yeah, like major sense. ] how many molecules it takes to start it. okay so E-one
+S4: alright, um
+<S1: LAUGH>
+S2: Kelly can just draw this one right? cause i got_ have a problem with that. [S4: (xx) ] (xx) <:33 PAUSE WHILE WRITING> (talk to me.)
+S1: so how's this whole thing start? it's got a one molecule start and finish. don't laugh at me, is that really necessary?
+S3: sorry i'm still laughing about that. <SS: LAUGH>
+S4: the first
+S1: stop laughing at me.
+S4: (the first happens)
+S1: that's why they call it substitution?
+S4: the leaving
+S3: <LAUGH> seriously?
+S2: substitution
+S1: so
+S4: oh for th- this one or for the other one <LAUGH>
+S1: <LAUGH> i'm i'm not [S4: (for the E-one) ] breaking up with you i'm just substituting you [S2: substituting ] for another nucleophile.
+<SS: LAUGH>
+S3: where have i heard that line? <SS: LAUGH>[S1: why'd (xx) ] where what did i use that line
+S6: hey
+S1: okay so anyway, Liam enlighten us. how does this start?
+S4: leaving group leaves,
+S6: (xx) outta there
+S4: gets outta there.
+S1: okay so now [S4: and so s- ] what do we have?
+S4: carbocation.
+S1: can we draw it like underneath maybe?
+S2: sure, uh can i_ mind if i just erase this (xx)
+S6: just go ahead that's fine, we're on the same page.
+S2: okay
+S1: so now we take a breather, [S4: yeah ] a little molecular, <TAKES DEEP BREATH>[S4: yeah ] two steps. <LAUGH>[S4: yeah ] (just) a little pause between steps. so there we go. we're in that nice little valley. so is_ Anna's not in this group right?
+S4: no
+S1: okay Anna in my other group runs marathons, and this is how we explained two step reactions. if i were to attempt to run a marathon, <LAUGH> i would make it through the first part like oh a half a mile and then i would die. <SS: LAUGH> and eventually i'd have the energy to run it a little bit more, <LAUGH> and then do it again, and then i'd die again. but that's that little moment in the middle, i'm not done with the distance i could probably run in one day, but i'm pausing. [S4: yeah <LAUGH>] and it's a lot easier, while you're not running than it is while you're running. so, okay, so we have this carbocation molecular breather, <TAKES DEEP BREATH> so now what happens?
+S4: the nucleophile comes in, and grabs that beta-hydrogen.
+S1: what else does this nucleophile have to be?
+S4: uh a good base right?
+S1: mhm
+S4: so
+S6: strong base
+S2: a stronger (xx)
+<PAUSE:10>
+S2: (xx) okay so... [S4: yeah ] (i guess) at the same time when this, grabs the hydrogen, [S4: yeah, (and that forms a, pylon) ] this (xx) (forms a pylon.)
+S3: so is that the same thing as the other one except that it happens in a different order? [S2: yes ] or no that one hap- or does that one happen simultaneously?
+S4: one step and yeah that's simultaneous
+S6: that's a spontaneous, [S3: okay ] so instead of having, two intermediate valleys it's only got one.
+S4: yeah
+S2: (xx)
+S3: (what do you mean) transition state
+S1: no it doesn't, it doesn't have, yeah transition state
+S4: yeah
+S1: it only has one transit- it doesn't have any intermediates (with) one step. intermediates are valleys.
+S6: right, but i was saying that from, the first energy diagram that he drew up there, so there's there's not there's not another one right.
+S1: (so then there's one) transition state.
+S2: this is happening like simultaneously isn't it?
+S4: yeah
+S1: that part is
+S2: so that's, just, yeah, just gonna be the one, transition state.
+S6: ah
+S3: ah interesting
+S6: got it
+S1: okay, so, why is it forming between the two double bonds that it is and not, one of those carbons and the C-H-three next to it?
+S2: so it's, [S6: charged ] well the C-H-three is already, has its octet filled.
+S1: well but so does that other carbon that the nucleophile strong base attacked.
+S3: yeah but isn't it_ it has to be next to the one that, [S1: oh that ] (that) the leaving group
+S1: by this instead of this.
+S4: the that one is, yeah.
+S3: wait what?
+S1: these are next to each other. [S4: those two are ] why these [S3: oh ] two carbons and not these two?
+S2: uh
+S6: oh, one's uh
+S3: it's more substitutive?
+S6: it's uh, [S4: yeah ] the carbon is, tertiary? it's got [S4: tertiary? no ] it's connected to, one, two carbons as opposed to one carbon.
+S4: secondary you mean?
+S6: secondary.
+S1: so is it more substituted less substituted?
+S4: we want the more substituted.
+S2: when you when you say substituted what eg- what exactly do you mean? i'm a little confused about that.
+S4: it has carbons
+S1: substitute means anything but a hydrogen.
+S2: oh okay. [S4: (xx) ] so that one is less s- substituted.
+S1: which one?
+S2: <POINTS TO BOARD> that_ wait no this one is, more substituted cuz it's got the, [S1: yeah ] carbon here [S4: yeah ] this one's got all carbons so it's not.
+S1: (xx)
+S4: (xx) right.
+S1: so does that make sense?
+S2: so what's the uh, secondary and, primary thing all about? (is like) what were you saying?
+S6: um, well that's gonna actually determine, which reaction's faster. the primary secondary and tertiary carbons, and that was one of the things that we had [S2: oh ] talked about earlier today.
+S2: so if there was like, <POINTS TO BOARD> if this was, C-H-three right here, [S6: right ] that one would be faster... [S6: right ] and then if_ well yeah.
+S4: wait would be a faster is that what you said?
+S6: yes
+S4: why is that?
+S2: because, it's more substitutive.
+S1: why, faster? why is that affecting speed? <PAUSE:05> i can see the likelihood.
+S4: yeah, it would be more likely to (xx)
+S2: why likelihood?
+S1: it's more likely to go to the more substitute carbon than, [S4: yeah ] [S2: is there any ] and that explains why it's going to that one instead of the one below.
+S2: is there any like physical, (or it's) just just the way it is and take it for what it is?
+S1: i think it's stability. [S2: okay ] [S4: (xx) ] cuz, i mean even if i- your transition state, your action shot is that there's kind of a negative charge moving around, [S2: mhm ] [S4: yeah ] and it's always better to have charges especially full charges, [S2: yeah delocalize yeah ] delocalize like that.
+S2: gotcha
+<PAUSE:05>
+S1: so is that, thumbs up? [S6: yeah do the ] thumb sideways? thumbs down?
+S6: you said that which carbon was more substituted cuz it's substitutes the same thing that's not a c- a c- right. okay so he's got one two and he's got,
+S2: see this one is just C-H
+S6: it's got three Hs right. [S2: yeah ] okay gotcha.
+S1: so [S6: so ] thumbs up?
+S4: yeah there's
+S6: it goes to the one that's more substituting.
+S1: right. [S4: yeah ] (they) make a double bond with the more substitute carbon.
+S6: more substituted carbon
+S1: right. Hilary?
+S4: yeah it shows that like (in) the very, the summary at the end of the
+S3: uh with this i'm okay.
+S6: a- after chapter, eight?
+S4: chapter seven.
+S6: chapter seven? okay
+S4: yeah it shows like, it says tertiary is greater than secondary is greater than primary, [S6: yep ] for elimination and
+S6: okay that's good. [S1: so thumbs up? ] wow this helps a lot.
+S1: thumbs up?
+S4: yeah
+S3: wait so the one, tertiary is the best for which one, for the carbon, that's substituted?
+S4: yeah, for the, [S6: unimolecular ] one with the halide. or
+S1: alpha or beta?
+S3: no. beta.
+S1: beta we have (xx) [S4: beta right ] beta. [S4: yeah ] alpha we we can pick out which alpha carbon we have cuz, it's the one with the leaving group right? [S3: right that's easy ] so we everything is relative to our alpha-carbon. [S3: so ] that's established we can circle it even with ink doesn't have to be an erasable pencil.
+S3: so then the beta-carbon's gonna be the one that's the most substituted.
+S1: right it's gonna work with_ [S3: it's gonna want (to be sure) ] if there're more than one beta-carbons, it's gonna work with the beta-carbon that's the most substitute like here there are two beta-carbons, [S3: right ] there's one on the left and one below it. [S3: okay ] and it's gon- it has to pick one of those beta-carbons and it'll pick the one that the most substitute. cuz that'll be the most stable, way to make a double bond.
+S3: and so what kind of, which one of these do you want a primary for? the subs- or wait, the one, the S-N, [S4: (one or) an S-N-two ] S-N-two, you want, to have, does the other_ do the other ones matter?
+S1: okay [S4: um for S-N-one you want tertiary. ] can you explain why, it is with S-N-two?
+S3: because it's less crowded and then the nucleophile is able to get in there easy. [S4: yeah ] yeah it's eable- aisi- ah able to get in there more easily.
+S2: so if you had like, you know you have big things coming off, [S3: yeah ] [S6: mhm ] you know, let me in.
+S1: so this would be like if i'm standing here as like, a molecule, me wearing regular clothes as opposed to like Hammer pants and like a giant [S4: mhm ] (inflatable) jacket (and,) [S3: got it ] <SS: LAUGH> (this isn't even eight- was it la-) were you guys the group that had an eighties day?
+S3: no
+S1: (xx) [S6: must be Tuesday ] we had an eighties theme day. [S4: (really) ] everything was coming back to the eighties (xx)
+S3: oh wait no that was us. that was. i think.
+S4: oh yeah i think it was.
+S3: (xx)
+S1: here we go again, yeah Hammer pants. okay. <SS: LAUGH> so what else can we put on this chart?
+S3: wait, i okay wait i have something else that he kind of talked about in class, like what about the P-K-A stuff? like which ones do you have to have? like conjugate conjugate acids less than ten or greater than ten, [S4: oh (xx) ] [S6: oh i, i got that ] all that, if we could go over that.
+S1: (xx) you can probably even take the marker away from poor (xx) and let him sit down.
+S2: woo hoo
+SU-f: less than a month from now
+S1: oh that was you <LAUGH> i thought that was you i was like oh you throw your voice really well.
+<S4: LAUGH>
+S3: huh?
+S6: can we erase something?
+S4: yeah
+S6: the bottom's okay?
+S4: erase anything.
+S6: <:31 PAUSE WHILE ERASING BOARD> okay, so for S-N-one and S-N-two, um, let's see <:28 PAUSE WHILE WRITING ON BOARD>
+S4: that makes sense
+S3: because you don't want it to leave once (it's off the end) right?
+S4: you don't want it to attack one of the hydrogens. [S6: right ] [S3: ahh ] before (xx)
+S6: and this is the same for S-N-one and S-N-two.
+S3: conjugate acid less than or equal to ten?
+S6: correct. it also says that [S4: (xx) ]
+S3: so that means that the acid's gonna be stronger than the base is gonna be? [S4: yeah right ] okay.
+S4: (strong acid weak base) <LAUGH>
+S3: fabulous
+S4: i always tell myself that strong acid weak base. weak base (xx)
+<PAUSE:14>
+S6: do you guys remember when he wrote up bulky bases? [S4: yeah (we're gonna) ] and he was like we're gonna talk about this later, [S4: yeah ] and then he never talked about it again.
+S4: yeah
+S6: so, we talked about it in our uh, in our group today, and bulky bases (xx) <LOOKS THROUGH PAPERS>
+S3: so wait what does that say? secondary carbon bulk favors
+S6: the bulk favors, this reaction, which i guess, [S4: (the secondary) carbon? ] which i guess which, what she was saying was, the earlier example i told you where there was something tertiary, [S4: mhm ] and if it was a bulky base it was just bulky, and so it couldn't, (connect or something.)
+S1: so basically, if, [S6: it's just ] whatever kind of clothes i have on, if, did you guys ever play in like gym class in elementary school with those Big Bertha Balls? [S4: yeah ] they're like eight people wide?
+S4: yeah
+S1: crab soccer <S4: LAUGH> right, so pretty much, no matter what kind of clothes i'm wearing, a Big Bertha Ball is gonna have a lotta trouble like running into me and connecting. [S6: right ] like it'll be hard for me to tie a a Big Bertha Ball to my waist and walk around with it. [S4: right ] <LAUGH> just gonna have difficulty getting in there, it has nothing to do with what kinda state i'm in it's just huge. and so this is the same thing. and so if i have on great big bulky clothes and my Hammer pants and a great big fluffy jacket is it gonna be even easier for it or even harder?
+SS: harder
+S1: right. even harder. so it's gonna want big bumpy bases, are gonna want either, lowest like primary carbons, [S4: mhm ] or,
+S4: carbocations
+S1: right. or both.
+S4: yeah both. <LAUGH> wait so why did, why'd you write secondary carbon? what does that mean? <LAUGH>
+S6: i don't know. <S4: LAUGH> i copied it off the board.
+S4: oh okay. <LAUGH> (that's fascinating)
+S3: (okay yeah) that's a little sketchy.
+<SS: LAUGH>
+S1: well because primary, [S4: yeah ] let's think about primary. le- is is the clothes analogy working for you guys or am i do i have you lost on that one?
+S4: what?
+S1: the clo- my clothes analogy.
+S3: no (that's fine)
+S2: no
+S4: no that's fine
+S1: okay so if i'm in like pretty normal mainstream, not taking up a lotta space clothes, so i'm a primary carbon. [S4: mm ] right? we're as skinny as we can possibly be, it's all hydrogens. am, i going, to want to be S-N-one or S-N-two?
+S4: one. or no
+S1: i'm feeling very very skinny today. i'm Hilary.
+S3: oh
+S4: (you would want) S-N-two. <S3: LAUGH>
+S3: thanks Kelly.
+S1: you're welcome. i want to be more S-N-two right?
+S4: yeah
+S1: the nucleophile can fit right there, [S2: yep ] [S6: oh yeah okay ] and so if i have on the Hammer pants and the, big poofy round inflatable jacket am i gonna favor S-N-one or S-N-two? so i'm a tertiary carbon,
+SS: S-N-one
+S1: right. does this make sense? [S2: yep ] and then this is complete and so, basically we can figure out tertiary and primary, [S4: mhm ] those aren't hard, [S4: those are easy ] where it's wishy-washy is secondary. [S4: mhm ] so our big questions really fall on the secondary. [S4: mhm ] and that's where we can we_ i mean you can look at it and say so okay i have on Hammer pants but a pretty thin jacket. [S4: mkay ] it's it's really hard to say so that's when it's important to look at the nucleophile. [S4: mhm ] that's why they have secondary carbon, cuz it's important to look at the nucleophile.
+S4: so bulky nucleoph- nucleophile, (xx)
+S1: right so if the nucleophile is bulky, it's gonna want S-N-one.
+S3: wait can you repeat, that first part again?
+S1: yeah
+S3: just
+S1: if i'm if i'm a primary carbon, i'm real skinny, i'm you, it really doesn't matter like, we can decide whether or not i'm gonna more likely be S-N-one or S-N-two. it's pretty clear cut right?
+S3: um, which, the carbon itself? like
+S1: right it it w- it's reasonably easy to predict if it's gonna be more towards the twos or more towards the ones.
+S3: how is that easier to predict? i guess
+S1: because, if i'm up here <WRITING ON BOARD> and i either have like an extra thing i either have four substituents or three either way, and i'm very very skinny. so i have all this big empty bald space, [S3: right ] for things to hit me. am i more likely to let go of this arm, beforehand or to wait until something hits me in the stomach? [S3: (xx) ] [S6: (xx) ] am i more likely to be S-N-one or S-N-two?
+SS: S-N-two
+S3: S
+S2: so wait. (for something)
+S1: right
+S3: yes
+S1: i'll i'll most likely wait for something [S3: yeah, the one without ] to come at me on the other side. [S3: okay yeah ] if, i'm huge and big and puffy, i'm a tertiary carbon, [S3: mhm ] these are umbrellas, i've got umbrellas on my hands and my feet, am i going to more likely want to get rid of my arm first, or wait until something tries to hit me in the stomach?
+SS: get rid of your arm
+S1: right cuz something's gonna have a really hard time hitting me in the stomach i'll never get anywhere. [S3: mhm ]
+S4: yeah. so that's why it's S-N-one
+S1: so, ch- p- f- primary's pretty clear, to us and tertiary's pretty clear. [S6: mhm ] secondary, if i have_ secondary's attached to two carbons right? [S4: right ] so i have an umbrella in both my hands but my feet are still_ my legs are still pretty skinny, it's it's a little hard to say. right? [S4: mhm ]
+S6: kinda content both ways
+S1: right, kinda wishy-washy. so in order to figure out which one's more more likely we have to look at the nucleophile what's trying to hit me. if what's trying to hit me is, <:05 PAUSE WHILE WRITING ON BOARD> a C-N bullet, <S6: LAUGH> we call these bullets because they're long and they're kind of pointed on the end, and they travel insanely fast. <LAUGH> and they always hit things. cuz this is just, a really awesome, nucleophile. [S4: right ] so if i'm secondary i'm not really sure if i want to do S-N-one or S-N-two and a C-N bullet comes at me what am i gonna more likely do?
+SS: S-N-two
+S3: S-N-two yeah
+S4: yeah
+S1: right, so let's say, [S4: you don't wanna ] there isn't any S-N-two,
+S4: you're just lazy you don't wanna get rid of your [S3: no ] (arms,) just let it hit you. <LAUGH> it's so much easier. <LAUGH>
+S1: but i do have T-But-O. and this is my very favorite nucleophile ever and we can discuss why sometime if you really want to it's a whole environmental thing. this thing's <S2: LAUGH> yeah big its got three umbrellas of it's own, and this is the, part that wants to hit my stomach. so i've got two umbrellas in an attempt to block it and it's the size of a Big Bertha Ball, am i gonna tend towards S-N-one or S-N-two?
+S3: S-N-one. oh
+S6: yeah you're right
+S1: does that make sense?
+S2: yeah
+S4: yeah
+S6: uhuh
+S1: cuz i'm gonna need to do this <S1: DEMONSTRATES PHYSICALLY> so that i turn out planar cuz right now it's a lot easier for you guys to roll a Big Bertha Ball and hit me. [S4: mhm ] without it hitting one of my, uh appendages, than if i'm like this, [S4: right ] it's gonna be a lot harder for you guys to hit me with a Big Bertha Ball. [S4: mhm ] if you're trying to roll it at me (at the study group later day.) so does that make sense?
+S3: mhm
+S1: that's bulky bases versus, small, or nucleophiles versus small nucleophiles. so that's why they ask you about secondary carbons, cuz we can figure out primary and tertiary, [S4: yeah ] i w- this is something i wanna go over more next time so we will talk about this, more later. but that's the idea behind it that's why they write secondary.
+S4: okay
+S1: so does what, (Scotty) wrote up there for us make more sense now?
+S3: mhm
+S2: yes
+S4: very good Scotty.
+S1: so now, i think we need to, fill some forms out real fast, so that, this can be (xx) go ahead it's all yours.
+S6: can you imagine not ever taking chemistry and like listening to our conversation, <SS: LAUGH> it must sound like a foreign language. <SS: LAUGH>
+S4: yeah it must
+S1: and it
+{END OF TRANSCRIPT}
+Please contact the English Language Institute with questions or comments.

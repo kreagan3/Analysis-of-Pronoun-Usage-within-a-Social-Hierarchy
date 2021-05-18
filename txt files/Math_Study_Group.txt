@@ -1,0 +1,1353 @@
+<PERSON ID="S1" LANG="NS" ROLE="SU, Group Member" SEX="M" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S2" LANG="NS" ROLE="SU, Group Member" SEX="F" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S3" LANG="NS" ROLE="SU, Group Member" SEX="F" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="SS" LANG="NS" ROLE="SU, Whole Group" SEX="U" RESTRICT="NONE" AGE="1"/>
+
+
+
+
+S1: alright is the Moebius transformation stuff in here or is it in the, Stahl, or is it not in anything?
+S2: um, i don't know i shoulda brought my notebook.
+S1: i don't see Moebius in here...
+S3: is that the handout?
+S1: yeah this was that co- this was conjugacy so, it might not have anything to do with Moebius.
+S3: okay
+<PAUSE:10>
+S2: i think it must be in Stahl like on around page one-fifty-nine, cuz that's what our exercises are out of.
+S3: does she spell Moebius wrong? she spells it M O B I U S
+S1: well no she puts [S2: yeah ] M O with the two, dots above it.
+S2: with the two dots just like she does in the book
+S1: i think she spells it right [S2: yeah ] like let me just point to where (he's) wrong
+S2: it's like Moebius. i can't say it like she can. she's like Moebius.
+S3: you know i have like this other teacher in, four-fifty, and she was_ spelled it like, M O E B I U S.
+S2: that's how they spell it in the book.
+S3: i know. but, in our other class like four-thirty-three, spelled it like, Natasha. so i don't know what's right.
+S1: alright so
+S2: i think, O E is a linguistic form it's a vowel, and it goes like /oe/ it goes however she says Moebius, it goes like that, and it's an actual vowel in linguistics and so i think that's why they spell it like that.
+S1: alright so what's R-hat?
+S3: and so does the [S2: R-hat ] O-dot-dot replace the [S1: is that like ] O-E or something?
+S2: yeah.
+S3: okay
+S1: is that like [S2: i think ] R minus infinity?
+S2: i'm trying to remember if it's R minus infinity or R, minus zero or
+S1: or R no maybe it's R union with infinity
+S2: plus infinity yeah because C-hat is, the complex numbers union infinity.
+S1: right so that must be what it is. okay?
+S2: alright so, show that, given any three points X Y and Z in R-hat, there is a Moebius transformation which sends the points zero one and infinity to X Y and Z respectively
+<PAUSE:05>
+S1: okay so, we wanna find a... Moebius transformation... <PAUSE:10> zero to, minus one to Y infinity to Z
+S2: so don't we do it like she was doing 'em in class?
+S3: was this on Friday or, when?
+S2: um i don't know she just seemed to do something like this, one we want to go to Y, and infinity we want to go to Z. so then we have to write 'em, F-of-Z equals equals F-of-X, right isn't that what we do? F-of-X equals and now we want it to be, zero, A plus zero all over, zero, B plus zero?
+S1: so we're n- there's no complex numbers in this so that's kinda weird. cuz the Moebius, i thought, okay well Z doesn't have to be a complex number it can be a real number cuz real numbers are complex numbers? [S3: yeah ] okay. [S2: yeah ] alright.
+S2: so, F-of-X equals, actually we only need A to be zero right? doesn't matter [S1: so you want ] what everything else is.
+S1: so you want F of-zero to equal X. is that what we're saying? equal X.
+S2: um, oops yeah.
+S1: right. so, it doesn't matter what A is right? and it doesn't matter what C is. it just mat- and D can't equal zero. right?
+S2: well we have to have, one of 'em be X.
+S1: oh right.
+S3: so
+S2: so we want A to be one right? so it'll be one-X, so we want [S3: yeah, that's- ] A to equal one, B to equal zero, C to equal zero and D [S3: B to equal zero, C to equal zero, and D ] to equal one.
+S1: oh but here's, here's what the p- but we're supposed to, we're mapping zero to X so isn't, you stick zero in for Z right? [S2: uhuh ] not X. [S2: right. ] so you wanna make, you wanna make [S3: you wanna make ] B X. you know what i'm saying?
+S2: no.
+S3: okay, say a function of a number, like F-of-zero, equals, like F-of-X equals zero, and then F-of-zero equals what? zero because you're sticking, that number, in the parentheses, [S1: you see what i'm saying? ] into the term.
+S1: well she did like F-of-Z equals A-Z plus B, right? so you whatever you stick in for Z on the left you gotta stick in for Z on the right so if we put zero [S2: oh ] if we do F-of-zero, then you wanna put A times zero, that's all
+S2: so you want A to be zero. [S3: no. ] no you don't care what A is do you.
+S1: well, did we, okay did we determine that Moebius maps were like isometries or whatever?
+S2: yes.
+S1: so can we, can we do- can we do a reverse mapping can we map X to zero Y to one and Z to infinity? and then, will that give it to us? if we have a map that does that, [S2: then we just use the inverse map? ] then there'll be an inverse map right?
+S2: we could if it would make you happy.
+S1: well because it's a, isn't it hard to map, like how are we gonna map zero to X. you know what i'm saying?
+S2: yeah i'm, kinda confused about what she wants.
+S1: cuz if y-...
+S2: this woman makes me crazy.
+S1: cuz you're right. it's the case where like, where A equals one... B and C equal zero... and D equals one.
+S2: but doesn't that map it to Z?
+S1: no cuz we're not
+<PAUSE:04>
+S2: A-Z plus B so that's one times Z plus zero, all over, zero times Z plus one.
+S1: right but our Z in this_ Z is just whatever, number you stick in. [S3: <SNEEZE> excuse me ] like X or Y or Z or zero
+S2: so now Z is zero?
+S1: wait a min- well.
+S2: and what is X how do you get the X out?
+S1: yeah see that's what i'm saying.
+S3: <SNEEZE> excuse me.
+S2: bless you.
+S1: that's why i'm saying maybe we need to go from F-of-X to zero.
+S2: alright let's try it. so let, F-of-X equal zero. so that's gonna be <PAUSE:06> that only gives you, basically A and B.
+S3: D has to be a number.
+S1: well that's good we want some of 'em to be, we don't want it to be fixed by the one point we want it because we need to stick in stuff for the other points. we need to combine it so that one mapping maps, three different things, you know what i'm saying?
+S2: okay...
+S1: so alright if you wanted to make F-of-X equal zero
+S2: oh so we're only doing one Moebius transformation for all of these?
+S1: yeah.
+S2: oh.
+S1: yeah. there is a Moebius transformation which sends the points these to this.
+S2: so then one of the matrix entries is gonna be X somewhere, presumably.
+S3: that's C-X isn't it...? if you want, F-of-X to equal zero am i right? so won't C-X plus, D, or the kind of unknown?
+S1: it means you need
+S3: you need A to equal zero?
+S1: A equals zero
+S3: B to zero?
+S1: B's zero
+S3: then you have
+S1: and C [S3: C ] and D can be anything you want
+S3: yeah
+S2: but one of 'em has to be X. you have to go to X.
+S1: no because you're sticking X in for the Z.
+S2: okay so now you're doing F-of-X equals zero. [S1: yeah ] alright.
+S1: we moved on.
+S2: not F-of-zero equals X.
+S1: uh'uh... okay. so now we wanna do F-of-Y equals one. so we want, A-Y plus B, C-Y plus D equals one.
+S2: so we want A and D to be one, or A e- to equal D, that's all we need.
+S1: yea- no.
+S2: no.
+S1: we want A to b- A and C to be zero, B to equal D.
+S2: okay.
+S1: cuz we're mapping Y to one not Y to Y.
+S2: and now move infinity to Z? so F-of-Z, equals infinity?
+S1: oh wait this is a problem though.
+S3: mhm.
+S2: she defined what it was
+S1: well because we said B equals zero from the first one and so if D equals zero then you're not gonna get one in that equation. for F-of-Y [S3: mm... ] maybe this can be done easier with matrices.
+S2: we're making a matrices. [S1: see yeah ] why don't we try it the real way how we're supposed to.
+<S3: LAUGH>
+S1: how are we supposed to?
+S2: like put in F-of-zero equals X.
+S1: okay. how are you gonna do do this?
+S2: so now we want <PAUSE:05> so it doesn't matter what A and C are... and, we want B over D to equal X.
+S3: don't A and C have to be zero?
+S2: no. because, Z is gonna [S1: yeah ] be zero.
+S1: okay A-C equal whatever [S3: oh okay ] and, B over D equals X?
+S2: yeah. right?
+S1: sure.
+S2: and now in the next one, we have, F-of-one equals Y. so now... that gives us, A plus B over, C plus D equals Y
+<PAUSE:12>
+S1: okay...
+S3: so...
+S1: okay i can see that.
+S2: okay and now we have to do infinity do you guys have what she did, in class the first day, and made, the map for infinity?
+S1: well you hafta,
+S2: cuz she defined the map that was infinity.
+S1: oh.
+S3: do you know which day it was?
+S2: it was the very first day she started talking about Moebius.
+S1: um, she said it equals A over C.
+S2: was that the first day?
+S1: well i ha- does it matter what day it's on if i have it written down?
+S2: no.
+<SS: LAUGH>
+S1: i don't know, i have like, don't have all the notes from the other day.
+S2: do you have it Herb?
+S1: i think that was the first day though Friday March nineteenth.
+S3: Friday March [S1: but that ] s- seventeenth?
+S1: that makes sense
+S2: nineteenth he said.
+S3: nineteenth
+S1: that makes sense because, oh wait. cuz really it's like, as, as Z tends towards infinity or whatever you stick there
+S2: yeah. yeah.
+S3: no i guess not. (it's so)
+S2: so you're saying that B and D are, trivial. yeah yeah yeah she did she did. so, A over C. so we want, Z to equal, A over C <PAUSE:07> right?
+S1: i think so
+S3: F-of-infinity?
+S2: mhm
+S3: you want, F
+S2: F-of-infinity equals Z and so that means A over C equals Z. now we solve these equations, and put them all in terms of each other, use like the Y equation.
+S1: yeah that makes sense A over C okay...
+S2: alright. so A equals C-Z, and B equals D-X. so now, A plus, C-Z... D X <PAUSE:17> what kind of thing are you guys trying to come out with here?
+S1: well
+S2: are we trying to come out with something that's, not got As and Bs in it, and Cs and Ds?
+S1: we need to have something of the form, A-Z plus B, C-Z- over C-Z plus D, where Z's not necessarily Z, but where the Xs and the Ys and the Zs are, make up those different components.
+S2: so we don't want any As Bs Cs or Ds we all want it in terms of X Y and Z?
+S3: mhm
+S1: um, well that's not necessarily possible, but...
+S2: Herb you know we don't have any class next Friday right?
+S3: yeah i saw it on the, um
+S2: just making sure.
+S3: i was quite happy.
+S2: yeah she said she had to go somewhere...
+S3: i get to sleep in on that day. <S2: LAUGH> i won't have a class until
+S2: yeah Mark said he doesn't have to go into any of his classes that day
+S1: cuz i'll be skipping four-seventy-five as usual. my other classes, i haven't been there in a few days.
+S2: yeah so Natasha's not coming so he's like
+S1: i hadn't been there we had an exam last Wednesday, i picked it up on Friday and then i hadn't been back.
+S2: yeah so he's all like, oh yeah now i don't have to go to any of my classes because, just because Natasha cancelled i can cancel 'em all.
+S1: that's o- well that's the only class i go to, on Fridays. okay.
+S2: so we have A equals C-Z and B equals D-X.
+<PAUSE:07>
+S1: see that's our problem, three equations four unknowns. cuz what we wanna do is get A equals B equals C equals and D equals, [S3: mhm ] cuz that way you can just stick 'em back in.
+S2: in terms of what? cuz we know what A equals and B equals.
+S1: in terms of X- in terms of X Y and Z.
+S3: what does A equal?
+S2: C-Z
+S3: okay.
+S2: and B equals D-X.
+S1: cuz you wanna be able to write something of the form, F-of-alpha equals, something times alpha plus something, over, something times alpha times something.
+S3: mhm
+S2: what is alpha?
+S1: well i'm_ we already used Z so it's Z. but it's not, but because we got Z in the problem it's not Z any more
+S2: it's a different Z.
+S1: remember how she did F-of-Z equals A-Z plus B, well Z is just that, variable [S2: yeah ] so alpha's the new variable. [S3: mhm ] so we won't get confused.
+<PAUSE:53>
+S2: but we could also solve, for D couldn't we? [S1: mhm ] D equals B over X... [S1: mhm ] and, C equals Z, A over Z. [S1: mhm ] so what if we put in all those then would it be bad?
+S1: well if you put in A over C equals Z and then C equals A over Z the s- they're just gonna start you're gonna run in circles right? [S2: yeah ] we have three equations four unknowns.
+S2: so we have...
+S1: but, do we also know that, well i guess that, that won't help... we- we don't know what A-D minus B-C equals. we just know it's gotta be what greater than zero?
+S2: we would hope. yeah. don't you think?
+S1: it's part of the real numbers...?
+S2: A-D minus B-C otherwise it would be orientation-reversing.
+S1: yeah but just we're also in the real numbers so you can't have a complex conjugate. [S2: right. ] but [S2: oh i see. ] but that doesn't help us though. like, because it's an inequality.
+S2: so what if we took A, B C
+S3: did i find C? maybe i'm just doing this wrong i think i might have found C. Z minus X...
+S2: why don't we wanna write it, C-Z, times alpha, plus D-X, equal- i mean all over, A over Z, times alpha, plus B over X?
+<PAUSE:09>
+S1: um... i just don't feel like you've told yourself anything like i guess
+S2: no i haven't.
+S3: okay i got a s- i don't know i got a C, i think
+S1: oh but we decided that
+S3: that that's not right right?
+S1: well but we decided that A and C can equal whatever. oh that's important.
+S3: well see that was
+S2: well that was in the first one
+S3: that was in the first one but in the second one i have A plus B equal to, Y [S1: well for ] and A plus C equal to one. C plus D i mean, equal to one.
+S1: that doesn't have to be true though.
+S3: why would it not have to be true? [S1: i don't know ] cuz the top has to, like the sum of the top either, i mean A could be easier or
+S1: what if- what if A plus B, equals two times Y and C plus D equals two? [S3: yeah. ] it just has to be proportional so you can't break it up... but if we have A and C being whatever, then let's make them something that works.
+S2: like one?
+S1: let's... like what if you made, A equal Z and C equal one or something.
+S2: but they can't equal whatever because in the bottom A over C has to equal Z.
+S1: i know. [S2: okay ] you make it so that it works.
+S2: so you want A to be equal to Z, and C to be equal to one.
+S1: okay, so what if we do that...? well no then that gives us uh, Z in the Y equation. unless B equals like Y minus Z or something well it could be done... it's gonna get complicated though... so if A equals Z,
+S2: i think this sucks.
+S1: and C equals one... then you've got, Z equals B over
+<PAUSE:11>
+S2: so you gonna watch the M-S-U game tonight?
+S1: yep, i'm gonna watch the Ohio State game, the M-S-U game and the Michigan hockey games on TV also, it's a big night.
+S2: who's M-S-U playing?
+S1: uh, they play Duke.
+S2: what're you gonna do tonight Herb?
+S3: i don't know. <S2: LAUGH> i hadn't planned any plans. John's friends are having a party, but i don't wanna go so, i guess i'm not gonna go.
+S2: mm, no party... i'm gonna go to the mall.
+S3: that sounds like a good idea. i think i'm gonna sleep. mm yeah
+S2: and i'm gonna go to Meijer. we are like out of food we feel like Old Mother Hubbard, Heather and i do because we go to the cupboard and like, we have some stuff, but we're missing, one ingredient out of everything we could make, so yesterday we were trying to think of what we want to make for dinner and we were like well we could have pizza subs but we don't have any sub rolls. and we could have
+S3: how about infervising, improvising?
+S2: that would be scary.
+S3: or else you'd have like that pizza sauce and you take off the pizza sauce lid and there's nice moldy stuff on the top
+S2: did i tell you i did that?
+S3: yes <S2: LAUGH>
+S2: thanks. <S3: LAUGH>
+S3: i just thought everybody should know.
+S2: <LAUGH> oh. that sucked. [S3: now they do ] i'm like oh this is moldy, mm, yum.
+S3: that was, pretty good.
+S2: yeah. but we're missing something out of every dish we could've made bacon and cheese sandwiches but we didn't have any cheese. and we could've made taco seasoning, taco sauce, tacos but we didn't have any taco seasoning. so it was like alright whatever we need to go to Meijer... alright, yeah let's look in the book
+<PAUSE:21>
+S1: can we, show that, can we show that there is a... would it work to show that there is a- like a hyperbolic isometry? or does that not work cuz we're in R-hat?
+S2: i think it would still work. cuz if there is, a Moebius transformation that's automatically a hyperbolic isometry. how do you think Natasha learned to say Moebius like that?
+<S3: LAUGH>
+S1: i don't know.
+S3: you just like that too much.
+S2: i can't say it i can't say it like sh- she can. i took phonetics and we learned how to say things like that but it's really easy to forget how to say it. i took phonetics so we started s- saying all sorts of non-English sounds and it was really hard. you'd be like /oe/, Moebius.
+S3: i wonder if you'd be good at speaking other languages. well i know you like language and stuff but like, [S2: yeah ] languages that, are beyond me that
+S2: that have non-English sounds?
+S3: yeah like Chinese.
+S2: oh my goodness. that would hurt. i'd be like oh no
+S3: i still haven't figured out that one syllable. [S2: oh ] cannot figure it out. so i can't say John's name at all.
+S2: she was telling me about, John's real name when she came over. [S1: hm' ] cuz he's Taiwanese and so he has, [S3: Mandarin ] a Mandarin name
+S3: Mandarin Chinese. well
+S2: and she was trying to tell me what his name was but she said she can't pronounce it. [S3: <LAUGH> eh it was kinda ] it was funny i'm like so what's his real name she's like i don't know i can't say it. i'm like how long have you been going out with him she's like, be quiet.
+S1: hm'
+S3: and oh, no i i've been trying the whole time i've been with him and stuff. i just haven't figured it out. and then his mom, told me, this other word, has the same syllable and, i- it's like a compliment oh you know, good food or something like that you know. and i would say it it's just, i can't say that syllable. i'm just like oh okay... [S1: hm ] his mom's really cute. she's just, she's the sweetest thing.
+S2: he was born in Taiwan?
+S3: yeah he came here when he was two, so. he picked out, his goofy name.
+S2: when he was two?
+S3: no when he was like a little older. [S2: oh ] i think he didn't need a real name.
+S2: he didn't need a real name. after all Mandarin names are all fake names.
+S3: <LAUGH> i know. i just realized what i said. <LAUGH> like, okay... that was silly... <PAUSE:17> we only need to, name one transformation right?
+S2: yeah. [S3: so ] the one is plenty for me.
+S3: okay, lemme- lemme give a go at this... <PAUSE:07> you know how you're saying like there's multiples of something but, if you give one, all you need is one, so, it doesn't matter if there's multiples of, these um, things. it's just i don't see how that's kind of, relevant i'm just keeping things. one, simple. so i [S1: okay ] don't know if it'll work, but i'll try it okay?
+S1: okay
+S2: there aren't any like this in the book.
+S1: she never gives us anything that we can use.
+S2: do we wanna work on part B? [S1: sure ] or keep working on part A? i just didn't know if we did part B maybe it would help us do part A
+S1: i'm sick of part A
+S3: well i'm still going at part A
+S2: okay you truck along on part A and we, will continue and try to get some insight... show that any Moebius transformation is uniquely determined by where it fixes zero one and infinity... <PAUSE:19> can't we do it like we, used to do problems like this?
+S1: which is?
+S2: like, sometimes, we said, it's gotta be a fixed distance from here and a fixed distance from here and a fixed distance from here, and so it has to determine, every one in the plane. or maybe we could do it using the minimal motion that she talked about do you think we'd be able to do it using that?
+S1: it's probably got a point at infinity <PAUSE:13>
+S2: because she talked about, you remember when we used to do things like this and we used to say we have zero here and we ha-
+S1: well here's what we can do though we can say, if the Moebius transformation fixes zero one at a point in infinity, um... then can't we say that it fixes the entire, um all of R-hat because, um
+S2: all of R-hat or all of H-two?
+S1: we're working in R-hat.
+S2: oh i wanted to work in H-two.
+S1: well since we were in R-hat in A i thought
+S2: okay, we can still be in R-hat. if it fixes zero one and infinity it fixes
+S1: it has to fix the whole, thing, because uh it's an isometry and it's gotta preserve distances.
+S2: where is R-hat? and how is it different from C-hat and how is different from H-two?
+S1: well R-hat is the real numbers, plus infinity. C-hat is the complex numbers plus infinity so it includes the real numbers and infinity
+S2: how do you make a picture of it?
+S1: um... we're just, looking at one point and it's just a point, it's like a, it's probably like, you'd have to like look at the real number line probably.
+S2: oh on the real number line? [S1: right ] on a line? yeah i guess so. so it's on a line like this. zero, one... wouldn't just fixing zero and one be enough to determine this space? the line?
+S1: no.
+S2: why not?
+S1: because [S2: oh i see ] you could reverse it
+S2: you could reflect right here. [S1: yeah ] so then if we keep infinity over here, then it determines the line.
+S1: if it's a if it's a line, i don't know. it's not the, Euclidean, it's not the, X-Y-plane is it?
+S2: no because that's R-two.
+S1: cuz C is. C's a plane.
+S2: C-hat?
+S1: yeah. cuz you get the real part of the number and you get the complex part of the number. so the point Z is a point on the X-Y-plane... you know what i'm saying?
+S2: so, R-hat is the ones where, X, where
+S1: but R-hat must be out_ the line, because the, it says it calls the points zero one and infinity, right? [S2: yeah ] so they're not coordinates [S2: you're right it doesn't ] so it's gotta be the real number line plus infinity, plus a point of infinity
+S2: yeah yeah i like that. yeah because the I part has to be zero so it just has to be just A. okay. so if it fixes zero one and infinity it fixes R-hat... any Moebius... transformation... so can't we say it has to be, like a f- what we need to say is if we pick a point X, on this line, then it's a certain distance from A, from zero, and a certain distance from one, and
+S1: and a certain distance from infinity
+S2: certain distance from the point at infinity. because [S1: you can't ] we're talking R-hat it includes infinity as a point.
+S1: yeah but you can't necessarily measure a distance just cuz it's a point right?
+S2: it's an infinite, distance... alright. <PAUSE:10> but we can use the first half of the argument.
+S1: yeah. [S2: and ] and it has to do with which side of the number line infinity goes to. [S2: right ] does infinity go to infinity or negative infinity?
+S2: right. so let's think. i mean if it's outside, of the interval between zero and one, then it doesn't matter which side of the line it goes to because you're a certain distance from zero and a certain distance from one.
+S1: well you're mapping infinity to A over C anyways right...? so you're mapping it to a real number.
+S2: you're mapping it to Z.
+S1: how can you do that? how can you pres-
+S2: but we're just fixing it for now aren't we? aren't we fixing it for
+S1: well just for the hint, not for the problem.
+S2: yeah so, are you doing the problem or the hint?
+S1: well i'm onto the problem now.
+S2: okay...
+S1: d- i'm just thinking about part, even part A or any of this, how can you find a M- Moebius transformation that maps uh, infinity to a number, and still preserves distance. maybe it's not an isometry. oh yeah it is. the Moebius group is the isometry group of H-two.
+S2: well we're not in H-two we're in R-hat. <PAUSE:09> besides that you could always say this is Z way out here at negative infinity... it's weird when she talks about infinity just like it's a regular point.
+S1: F-of-infinity equals infinity?
+S2: yeah... alright so we have, i mean if X i- is not between zero and one, if we're fixing it now, for the hint, then it doesn't matter, where infinity is. so the only time it matters where infinity is is if it's between zero and one.
+S1: no it still matters.
+S2: why? in fact, the only place i think it matters is when it's on a half... cuz only then is it the exact same distance from zero and one... otherwise you could be, like one like three units from zero and two units from one, that tells you where X has to be and what side of the line it has to be on. [S1: mhm ] and, the other way around so i think the only place it matters for infinity is, is if you're right smack between zero and one...
+S1: okay so let's say that uh <PAUSE:12> so let's say
+<PAUSE:18>
+S2: so if X isn't at a half then it doesn't matter where it is.
+S1: yeah i'm just mulling that all over in my head right now
+<PAUSE:40>
+S2: so then to find out where it is from infinity we just need to see if X minus infinity is greater than zero or less than zero...
+S1: okay.
+<S2: LISTENS TO RECORDING><PAUSE:14>
+S1: how is it?
+S2: it's pretty good.
+S1: well what can you hear in there? <LISTENS TO RECORDING><PAUSE:10>
+S2: so um
+S1: is that somebody's heartbeat?
+S2: it's her pen.
+S1: that pen is so loud. <S3: LAUGH> that's so awesome... it's like listening into a stethoscope.
+S3: i got X Y Z with th- my, little doohickey, this little doohickey, it'll give you X Y Z
+S1: so what do you have?
+S2: bring the doohickey over here, so i can look at it.
+S3: these are my two pages i kept 'em in front so
+S2: oh goodness gracious...
+S3: i mean you can always have, um multiples of something, you know how you have, two over two and all this other crap
+S1: okay so this these are your answers up here [S2: you used L'Hopital's rule? ] and you just checked?
+S3: huh?
+S2: you used L'Hopital's rule?
+S3: that's how because you like when you plug in infinity, you get infinity over infinity [S2: uhuh ] you use um [S1: L'Hopital's rule ] yep and that's how you get B over C
+S1: so these are these are your an- this is your answer and you just plugged it in, to the plugged the different points in [S3: yeah, that's like ] to see if it worked?
+S3: yeah like, i got it from these things and i just saw if it worked, and it did. they all simplified.
+S1: if it works. [S2: alright ] you know what i'm saying?
+S2: so then do we wanna talk about, it?
+S1: well. do we wanna write it down to look at it later? <S3: LAUGH>
+S2: i need another piece of paper
+S1: how did you get A B C D in f- in the first place?
+S2: yeah yeah let's talk about that
+S3: okay like, you know how we had F-of- zero equals X? we didn't. we thought... we had something, i don't know. i don't think i used it. i don't know but, it had F-of-one equals Y so, A plus B equals Y, and C plus D has to be equal to one, right? to get Y.
+S2: oh so you took out the multiples.
+S3: so because, s- when alpha is one, and C is just some number, you can't really determine, what D is, because, C and D have_ the sum of the two has to equal one and the sum of the tops need to equal Y. beca- because if A is two-Y and B is, three-Y you'll get something ridic- a just a multiple, so.
+S2: so, what did you put in F-of-X for? oh F-of-alpha.
+S3: so and the other equations i used was, A equals C C, and did you give me that, B equals D-X?
+S1: yes.
+S3: so i don't know where you got B equals D-X i just trusted your judgment.
+S2: oh that was easy.
+S3: where did you get it from?
+S2: um hm hm hm hm hm... because, X equals B over D.
+S3: yeah, because the
+S1: that was from the F-of-zero equals X.
+S3: oh that's what where i got it from. see, i knew what i was doing really.
+S2: oh yeah. i don't know where you guys got that
+S1: okay so then you have four equations four unknowns then you're able to solve
+S3: yeah, it was no problem. and then i got those, [S2: Y? ] numbers.
+S1: that's great.
+S2: oh no
+S3: isn't that pretty? it's like, it is a transformation that works.
+S2: Y minus X, did you write all that down already?
+S1: no. well i'm still on i'm, i'm just putting down something so i can look at our numbers.
+S3: so yeah
+<PAUSE:22>
+S2: so you're showing that alpha equals, zero, is supposed to give you X right?
+S3: mhm.
+S1: which she did.
+S3: which i did
+S1: a very good job of it.
+S2: here you look at this.
+S1: oh, this is [S2: that's the rest ] what i wanted...
+S2: oh i see.
+S3: i thought i'd make it legible since, you might be curious.
+S2: did you, were you able to read the notes okay that i copied?
+S3: i haven't really examined 'em. but they-
+S2: because what happens is if you write on one side of the paper and then you flip it over and you write on the other side and then you copy, then it comes through from
+S3: oh that's fine. [S2: okay ] oh that's, yeah. oh you mean the shadows.
+S2: yeah.
+S3: oh no that's fine. i can read it...
+S2: how did you get... you said F-of-zero, equals Z minus X over Z minus X?
+S3: no, times, Z minus X. [S2: times. ] it was a simplification.
+S2: times.
+S3: i wanted to get rid of the fractions so i multiplied by Z times X. [S2: oh i see okay. ] i made a stupid stupid mistake down here. it didn't matter, but. it just was more work than i, needed to do. <PAUSE:16> did you guys get anywhere on part B?
+S1: we got some ideas.
+S2: i think so, yeah...
+S1: did you?
+S3: argh, you little brat. <SS: LAUGH> of course not. i was working on part A.
+S2: you lazy bum what's the matter with you? so, how did you get A equals Y minus X over Z minus X quantity Z again?
+S3: oh. let's see. well, you know how you have A equals C-Z right? [S2: mhm ] and B equals D-X? [S2: mhm ] B equals, Y minus A, and D equals, one minus C, you plug those in here, add those two equations together...
+S2: plug, add
+S3: let's see. <SS: LAUGH> i'll just write it down.
+S2: okay i'll start copying this and you write it down. and then i'll write it down, and we're all good.
+S3: Y minus, um...
+S2: oh my goodness, you wrote like a hundred zillion things.
+S1: you don't need to write all the steps. she was just doing a good job of calculation.
+<PAUSE:08>
+S2: and you multiplied by Z minus X over Z minus X again?
+<PAUSE:04>
+S3: yeah there's that one time i didn't need to do it i just did it for no reason.
+S2: oh
+S1: okay so, Y minus A equals, gosh you did a lot of, subbing there
+S3: like, B equals Y minus, A [S1: yeah ] D equals one minus C. [S1: right ] and you see like, look at the pretty arrows, you see that's where they come from.
+S1: so and then you took B equals D-X, implies Y minus A, equals one minus C times X. okay.
+S3: mhm
+S1: and then you added?
+S3: so you get C-Z plus X minus, C-X, equals the quantity equals Y, right... so, you get C times Z, minus X quantity, plus, X, equals Y, you subtract X from one side, and then divide by Z minus X. <PAUSE:13> so that's C.
+S1: wow. and then once you have C you can figure out
+S3: well, y- basically, you get A next, A is just, C times, Z which is Y minus X over Z minus X quantity
+S2: oh my gosh you are just an algebra-wizard woman today aren't you?
+S1: wow.
+S3: i was pretty happy... you know where i learned to really get through this yucky stuff, is last semester, in four-thirty-three, had all those ca- calculations [S1: yeah ] where you just said, oh if you continue this algebraically you'll get to the end.
+S1: yeah you know that sure didn't work on uh... what did i do tha- what did i say that i was gonna do that night? [S3: oh ] oh Natash- [S3: the midterm ] the last homework well no the midterm was fine [S3: oh yeah ] the last homework i got back cuz we have kinda blown that off or i had been, [S3: i blow it all off ] i got a... i don't know if i got a sixteen or an eighteen but it was just like each problem was like, how did you go from here to here how did you go from here to here i was like whoa. <S2: LAUGH>
+S3: it didn't work on her i got like a sixteen.
+S2: it usually doesn't work for her. i don't think
+S3: i wasn't expecting it to.
+S1: okay.
+S3: oh well you know i- i mainly got like, good grades so one sixteen will not kill me.
+S1: so we determined that R-hat, for B, we're like working on a number line. right? [S2: mhm... ] so first we thought about the hint. what can you say about a Moebius transformation which fixes zero one and infinity... and we said, if it fixes those three points, then it fixes the whole thing, then it fixes the whole line, because, um, we were saying that a Moebius transformation is an isometry [S3: mhm ] and so it has to preserve distance. and we weren't sure whether [S2: yeah, yeah (i had called it that) ] it was okay to call it an isometry because, we're in hyperbolic space and not in, [S2: yeah ] i mean because here we're in R-hat, which is what Euclidean? i'm not sure. maybe it is hyper-
+S2: it's a line.
+S1: i mean we could be in hyperbolic space if we want can't we?
+S2: not if we're on the real line because that's not a part of [S1: i'm gonna get some water ] <S1: LEAVES> even the hyperbolic half-plane... good-bye
+<SS: LAUGH>
+S2: i used to know somebody like that who would just get up and walk away when you're in the middle of like, [S3: saying something ] doing stuff. like you're in the middle of talking and the person he gets up and leaves, just like <SOUND EFFECT>[S3: yeah, that's ] and he leaves a lot. did you notice that? he leaves a lot.
+S3: i've noticed that.
+S2: yeah. <PAUSE:08><LAUGH>
+S3: this is only for a, short period of time. usually he like leaves for an extended period of time.
+<S1: RETURNS>
+S2: i think he needs a break from us so he just gets up and walks off.
+S1: i had to get water
+S2: i'm sick of listening to you guys i'm outta here.
+S1: i had to get water. [S2: mm ] i'm losing my voice.
+S3: i just get water from the kitchen.
+S2: and there's a cup right there too so you could actually bring the water to the table with you.
+S3: do you want a cup of water?
+S1: is that coffee?
+S2: no uh it's not plugged in.
+S1: what is it? oh well we could plug it in. what does it say...?
+S2: oh. yeah there's coffee in there Mark.
+S1: i was hoping it was gonna be hot chocolate.
+S2: but Herb, it doesn't_ it's not plugged in so it's cold.
+S3: yeah i know <LEAVES>
+S2: okay just checking. <S2: LAUGH><PAUSE:15> oh my gosh that suitcase was so heavy.
+S1: did it have all that stuff in it?
+S2: yeah. it was like oh yay i get to carry a suitcase all the way across campus.
+S1: how did we show
+S3: does anybody else want water?
+S1: no thanks
+S2: no thanks i'm alright, i just drank a Coke.
+S3: Mark?
+S1: no thanks.
+<PAUSE:17><S3: RETURNS>
+S2: alright. so what we decided was that, it's a line, the real line, and, i would be fine with saying that it has to be an isometry of the real line. and she can get over it <S3: LAUGH> because it has to preserve spaces i would say... so what i said was, was that, this is the line here's my real line right here, and i have zero, and one, and infinity right over here. so if i pick a point X on this line you know how we've done these kinds of proofs before? then it has to be a certain distance from one, and a certain distance from zero. and that determines where X has to be. [S3: mhm. ] but the only place, that it's not like that is right in between zero and one if you put X there then it's the same distance from zero as it is from one, that's why you have to know where infinity is. so if X minus infinity, is less than zero
+S1: i don't_ i still don't think that matters. i don't think the middle point even matters.
+S2: but you have to know where it is. you have to show that it fixes R-hat. and you can't fix R-hat unless you can determine exactly where it it is.
+S1: well yeah but [S3: i don't know ] w- if we're using the argument that it has to, retain the distance, [S2: yeah. ] if it's, a distance X from her- if it's a distance Y from here and a distance Y from here and if you fix those, it can't be anywhere else but a distance Y from both of those. if it's a distance Y from this it's a distance like three-Y from that.
+S2: oh so you're saying that it doesn't matter because, if these are fixed
+S1: it's gonna have to come in between so that the distance works...
+S2: well just if they were swapped like if this was one, [S1: yeah ] and this was zero then it would still be the same distance.
+S1: right eh but it's not you don't have to_ it doesn't matter what what happens with infinity if infinity gets mapped over here that still doesn't matter does it?
+S2: well then it's not the same. what if it has like this and infinity is over here?
+S1: but we're s- we're arguing that that map can't happen.
+S2: yeah and that's because infinity is, on the right so, if X minus infinity, is less than zero...
+S1: if X minus infinity
+S2: is less than zero then infinity has to be on the right.
+S1: no X minus infinity, is gonna be negative infinity. right? always, [S2: right. ] it's always gonna be less than zero.
+S2: no because if you put infinity over here, then it's gonna be, bigger than zero... that's the idea.
+S1: well, but infinity's over here to start with [S2: yeah but if you move it ] so oh you're subtracting X minus F-of-infinity, not X minus infinity. [S2: yeah. ] oh okay. alright.
+S2: F-of-X, minus F-of-infinity. [S1: okay ] no does do you have to do that?
+S1: i don't know what's going on anymore.
+S2: yeah but something like that, and then if it's less than zero then infinity's over here, if it's bigger than zero then infinity's over here.
+S1: Herb maybe you should do this problem for us.
+S3: no that's quite alright. i'm like trying to figure out what the heck <LAUGH>
+S1: i don't understand it
+S2: so now
+S3: i don't, i d-
+S1: i don't understand infinity that's the problem, [S3: yeah, i'm having a problem with that. ] that we have infinity in our problems
+S2: that's because she talks and then she goes like this, <DEMONSTRATES> and then
+S3: yeah the little hand-waving thing and she's like, tell me if i'm wa- i'm doing too much hand waving. none of us speak up it's kind of like
+S2: well Mark does sometimes. she'll be like does anybody wanna see this he's like yeah can't you just show it to us?
+S1: well i di- i always feel bad i wou- i would always be like just show it to us, but i th- i don't wanna be the only person who ever says that but, if she always shows it to us we spend more time in class going over our old stuff which is good, and we spend less time getting the new stuff which is good.
+S2: yeah. the slower we can make this term go.
+S1: if you look on the little if you but if you look on the syllabus we're only on, part four out of like six parts so i don't think we're gonna get to all the parts.
+S2: oh good, i haven't looked at the syllabus very well.
+S1: the Moebius transformation is the fourth part no f- part- four parts out of seven parts. part seven was the wallpaper though.
+S2: that might have been kinda fun.
+S1: no. [S2: oh. hide me. ] we're on part five outta eight parts.
+S2: oh part five outta eight parts?
+S1: but i don't think we're gonna get to the algebras.
+S2: that's good. that's like yeah we don't have to do as much math.
+S1: cuz we're spending forever on Moebius.
+S3: that's just, not very good when you're math majors that you're cheering you don't have to do much math.
+S2: yeah, i'm a linguistics major and i never cheer about not having to do very much linguistics.
+S3: how about you Mark, aren't you an English major also?
+S1: yes.
+S3: and do you cheer, to do like homework in, linguist- uh no not linguistics
+S2: English
+S3: English
+S1: do i cheer to do homework?
+S3: yeah. i just he doesn't like strike me to cheer about, any homework.
+S2: i don't think he cheers about very much do you cheer about very much?
+S1: i don't get excited about homework. and why? i'm just trying to get by just like everybody else.
+S2: what do you cheer about?
+S3: basketball.
+S1: yeah i cheer about sports. um, not this crap.
+<SS: LAUGH>
+S2: what do you cheer about Herb?
+S1: do we do we wanna skip B? and think about it later or something?
+S3: yes yes yes please
+S2: i think i hear some pleading. [S1: i'm feeling like we should ] even though i think we could figure it out.
+S1: i believe we could also. let's go to Stahl and then come back.
+S2: alright... why did she give multiple parts for every single problem we have?
+S3: she wanted to torture us.
+S2: yeah. oh and i really like
+S1: i think it's cuz of the i think it's cuz like, that last time i don't think we did a lot on the homework, if i remember right.
+S2: i really like how she says this problem set contains a total of four problems. it's like no. four times two plus one, problems.
+S1: why does she tell yeah why does she tell us it contains four problems?
+S2: yeah oh i can't see em. oh the printer's chewed off just cut off number four and so that's why, maybe that's why she puts it at the top just in case.
+S1: yeah that is a little quirk she's trying to trick us into thinking like oh
+S2: yeah she's like oh that's not bad this problem set only has four problems in it yeah whatever.
+S3: and there's like two parts for three of 'em.
+S1: alright so. oh my gosh so this has this has three parts
+S2: for all of 'em.
+S3: two parts for all of 'em?
+S2: yeah. [S1: this has three parts. ] and number two has three parts.
+S3: oh you've gotta be kidding.
+S2: but then it's harder to pick which one you wanna turn in because if you miss, some of one, then you don't wanna turn it in.
+S1: well at least we only have to do, two of the five parts on, fourteen.
+S2: what?
+S1: no this won't necessarily be that hard.
+S2: did you say two of the five parts on fourteen?
+S1: yeah we only have to do one and two out of five
+S2: oh alright.
+S1: and on fifteen we only have to do two of, well one out of four but it's number two
+S2: number fourteen one, and two, and number fifteen, number two, and number seventeen, one and two, and number twenty-one, finding a Moebius rigid motion hey let's do number twenty-one [S1: well ] and number twenty-three.
+S1: why don't we- fourteen's gonna be easy let's start there. [S2: oh yeah alright ] it really is gonna be easy.
+S2: find the image of the point
+S3: if you say so Mark
+S2: how many points is that
+S3: i have a hard time believing it though. i haven't seen the problem yet.
+S2: i'm confused. [S3: huh? ] that's separate points right, that's three points. find the image of each of threes these three points. right? and what is A...?
+S1: yeah. of th- supposed to be points probably. okay. well that's just so they don't have to write out those coordinates probably.
+S3: yeah
+S1: so
+S2: so that's what Z is.
+S1: you're gonna start with an inversion centered at zero, radius three, and then you're gonna do an inversion at centered at A, radius two.
+S2: ah that's what A is alright alright. so let's look in our notes and pull out the formula for inversion. of radius, X.
+S3: do you guys have your notes i just brought the wrong
+S2: no my notes wanted to stay home today.
+S3: you see i brought the folder, it's just the wrong color.
+S1: i have notes right here if anybody wants to look.
+S2: i'll take the notes.
+S3: you seem really happy you just grabbed 'em.
+S2: whoa yay me i got all the notes. i am note-woman... Friday March nineteenth
+S3: so Christina, what do you cheer about, i mean you said besides linguistics.
+S2: i cheer about linguistics mostly, cuz it's fun... oh that's R-two. i think, Herb do you have your notes for Wednesday the seventeenth, with you?
+S3: oh actually i do. i don't have my notes here but
+S2: because he leaves early on Mondays and Wednesdays
+S1: not always.
+S2: often... and look at the very end of that that notes.
+S3: like the last part like or the last of the list?
+S2: well she first starts talking about isometries of R-two. then she goes and then she gives a theorem. and then, i think she might talk about hyperbolic space in the last half of the class.
+S3: you wanna look at these?
+S2: sure.
+S3: i came in late that day.
+S2: inversion, dilation inversion across the unit center, circled at the origin, one over Z-bar.
+S3: yeah. one over Z-bar is [S2: one over Z-bar ] that was at the beginning of the class though.
+S2: was it?
+S3: yeah [S2: oh ] i'm pretty sure it was.
+S2: so we have one over Z-bar.
+S1: okay how about how about page one thirty-seven?
+S3: maybe not, maybe it's the second half of the, class.
+S1: at the bottom of the page. example nine-point-ten.
+S2: yeah. so it's, K-squared, over Z-bar... so now we write, I equals, zero, plus, one-I.
+S1: well it's not just K-squared over Z-bar.
+S2: yeah it is.
+S1: the inv- no look at the_ alright look at, here's what you want right here. cuz it's that's what we're doing we're doing an inversion, of the point Z, with A-K
+S2: i'm looking right here
+S1: we're doing this right here
+S2: no we're doing this. I-zero-two
+S2: yeah but that's based on this.
+S2: yeah. well we're doing I-zero-K.
+S1: alright.
+S2: so i'm doing this one and then later on we'll do this one.
+S1: okay okay. but it's- it's from here that's all i'm saying it [S2: yeah ] just happens that A is zero [S2: yeah. ] alright alright
+S2: yeah. so if A equals zero then you get, K-squared over Z-bar.
+S3: where are you getting the K-squared though?
+S2: K-squared is the radius of the inversion. [S3: oh okay ] so you see example nine-point-ten, the first expression they have, [S3: yeah ] two-squared over Z-bar? that. so I equals zero plus one over I. so K-squared... K equals three... K-squared is nine, over, minus-I... ta da ta da ta ta <PAUSE:05> and now we're doing
+S1: alright so we got K-squared
+S2: da da ta da. i got, two.
+S1: Z-bar. so you got nine over negative-I?
+S2: uhuh
+S1: okay.
+S2: i got 'em all.
+S1: we want I-zero
+<PAUSE:16>
+S2: you're right these were easy
+S1: well j- we didn't do fifteen yet.
+S2: no i'm doing fourteen part two now.
+S1: i told you those would be easy.
+S2: you're right you're right. you win a prize.
+S3: s- so tired right now. i slept at two o'clock and woke up at, like eight o'clock.
+S2: why did you like oh
+S3: prayers
+S2: i went to bed at like two and woke up at like, ten forty-five.
+S1: so you got nine over one minus I and one over minus-three minus four.
+S2: alright and now we are doing, if A equals three comma zero then the inversion... so we're gonna have... doing [S3: where are we? where are we? ] A comma two so we have two-squared, over
+S3: okay <S1: LAUGH> this is a silly question. what page is our homework on?
+S2: one-fifty-nine
+S1: one-fifty-nine
+S3: okay.
+S2: two-squared over Z-bar, minus... three, plus, three <PAUSE:15> oh. do you think we shouldn't join the fractions and make them one, like they did on the very bottom of the page?
+<PAUSE:20>
+S1: oh you mean, don't leave it in fraction form basically?
+S2: mhm.
+S1: yes, that's a good idea.
+S2: well it's still fraction form, but they [S1: oh you ] put the fractions together... oh you're right. yeah should we, make the fractions go away?
+S1: yeah you wanna just make sure you don't want any Is on the bottom. [S2: okay. ] that's what it is... whoop
+S3: i stole your paper.
+S1: whoop.
+<SS: LAUGH>
+S3: hm. so-
+S2: did you say whoop?
+S3: okay
+S1: /s/ whoops.
+S2: oh whoops.
+S1: whoop /s/. yes Herb?
+S3: i'm just like maybe i'm just a bit confused. oh we have to do it for that? silly me. never mind.
+S1: alright. [S2: uh oh ] so nine over negative-I, equals
+S2: no no, no. hey i started to sing a song. <LAUGH> no um
+S1: we wanna get the I off the top?
+S2: oh you're doing the ones in A too you're flipping 'em over.
+S1: yeah i'm doing it all. [S2: oh. ] cuz they did.
+S2: so you multiply 'em top and bottom by, I
+S1: just by I. so it'd just equal nine-I right? <PAUSE:04> is that right?
+S2: yeah.
+S1: okay... and the next one you multiply by one, plus I over, one plus I.
+S2: nine plus nine-I all over, one minus I-squared. nine plus nine-I, all over one... plus one. equals nine plus nine-I all over two... that what you got?
+S1: yeah.
+S2: and now you write it in A plus B I form?
+S1: mm, well you can, you don't have to. as long as you get the Is on top that's all they care about. if you look on page one-thirty-nine, or, yeah one-thirty-nine... they always get the Is on top.
+S2: yeah.
+S3: so the first one's nine-I?
+S2: yeah... alright so now we'll do number three. <PAUSE:27> what's nine plus sixteen it's twenty-five?
+S1: yeah... now you have twenty-seven plus thirty-six-I over twenty-five?
+S2: yeah.
+S1: okay... okay... so... I-eighty-two you take that. it goes into four that goes in like,
+S2: so
+S3: what j- did you get for the third one?
+S2: negative-twenty-seven plus thirty-six-I, all over twenty-five... the third one right?
+S3: thirty-six-I?
+S2: yeah.
+S3: over twenty-five?
+S2: yep.
+S3: okay...
+S2: oh no. i messed up...
+S1: how'd you mess up?
+S3: on which part?
+S2: i'm okay.
+<PAUSE1:00>
+S1: what'd you, get for one? two and two and one?
+S2: um, i'm, not there yet. [S1: okay. ] i'm still doing the, multiply-on-the-top-and-on-the-bottom thing. negative-three-I times I, is, three. plus fifteen, all over... nine... plus one. i got, uh oh. uh oh.
+S1: what?
+S2: messed up. again... negative-five, plus fifteen, get five-I. negative-five-I plus fifteen. <PAUSE:08> plus three, plus nine-I... i got four-I, plus eighteen, all over ten.
+S1: hmm. i got four-I minus twelve. oh but i think you're right, negative-five times negative-three, is fifteen. so that would give me, four-I plus eighteen over ten? [S2: yeah. ] so that's like, nine plus two-I over five.
+S2: yeah.
+S1: alright. that's good.
+S2: alright now we're doing the last one, the second one.
+S1: you with us here?
+S3: yeah i'm catching up. i'm just trying to hold on. <PAUSE:19> four-I plus, eighteen, or [S2: yeah ] over five?
+S2: over ten.
+S3: over ten? [S2: mhm. ] okay i missed something there.
+S2: cuz you're on number, A right?
+S3: yeah... i got over five.
+S2: i don't know when you multiply negative-I minus three, and you square it, then you get nine plus one, which is ten.
+S3: three where did you get a three?
+S2: because it's all over negative-I minus three that's the conjugate. or something. negative-I and then you have to subtract the three in the bottom.
+S1: four over
+S3: oh i have a two.
+S1: oh yeah you don't want, don't want a two on the bottom [S3: there ] just on the top.
+S3: that's [S1: yeah. ] wait wait wait wait. is this (fourteen check?) this is the A right here right? [S1: yes. ] this is little A. [S1: yep. ] that's where my problem was. [S1: yes. ] gotcha.
+S1: and then like, the two is K.
+S3: yeah. i see. i see the error of my ways.
+<PAUSE:10>
+S1: did you do that next one yet Christina?
+S2: almost. i have, four-I, plus seven, all over five.
+S1: i got negative-four-I.
+S2: oh no i still have plus-four-I. i have negative-two-I, plus four, plus three, plus six-I... when you multiply a negative-two, minus-three-I
+S1: six-I how did i ke- how did i do that again...? yep you're right.
+S2: okay. <PAUSE:32> eighteen minus four is fourteen?
+S1: i don't know. i think it is.
+<PAUSE:13>
+S2: oh no, fourteen times six? six times four is twenty-four, it's eighty-four. <PAUSE:08> fourteen times four, is fifty-six. <PAUSE:14> twelve times four is forty-eight?
+<PAUSE:18>
+S3: what did you get for the second one?
+S2: four-I plus seven, all over five.
+S3: yep. that's what i also got. <PAUSE:10> okay. (five four two) thirty-one.
+<PAUSE:07>
+S2: are you done?
+S1: uhuh. i reduced, at the beginning so that, i wouldn't have to do all those high multiplications you were doing.
+S2: oh well i got, a hundred and thirty-two plus sixteen-I all over fifty-two.
+S1: okay. now just divide it all by four.
+S2: divide it all by four? four goes into thirteen three times, carry the one, thirty-three, plus four-I, all over, one, three, all over thirteen.
+S1: yep.
+S2: ta da.
+S1: yep.
+S3: (does this look better?)
+S2: i'm so proud.
+S1: thirty-three plus four over thirteen yep. [S3: okay. ] alright and now we're on, fifteen, part two. <PAUSE:09> kay...
+S2: fifteen part two... express the following compositions as Moebius transformations... but this is just like she did in class right...? this should be easy. [S3: mhm. ] so now we want, K-squared, all over, Z-bar, plus A no minus A, quantity plus A. right...? so we should take, four, all over, we have to
+<PAUSE:07>
+S1: oh so what we were, no.
+S2: what is this? this isn't a complex number?
+S1: Z could be.
+S2: yeah but this whole thing so it's gonna be four over, two-Z minus one all over Z plus two quantity bar, minus two, no minus three, plus three.
+S1: alright so, let me see this again. so you've got
+S2: don't you think the answers to any of these might be in the back?
+S3: no... the level of this mathematics
+S2: i want chocolate... <LAUGH>
+S3: <LAUGH> thanks for cutting me off.
+S2: what were you saying?
+S3: i was mumbling something to myself, i guess.
+S2: oh i'm sorry that i interrupted your conversation with yourself.
+S3: i thought i was talking to you but i guess not.
+S2: <LAUGH> you were just mean to me again. <S3: LAUGH> oh you've got this evil side that rears its ugly head... i'm used to people talking to themselves so if you're not speaking up like you're talking to me then i don't know that you're talking to me.
+S3: i was talking up but my, i've got a sore throat, so.
+S2: cuz my boss he like talks, to himself, all the time. and it's like i've learned to tune him out when he's doing that so i don't even hear what he says, so.
+S3: but usually i don't talk to myself i'm talking to somebody when i'm talking.
+S1: so can we find the bar of this whole thing?
+S2: i don't know.
+S3: okay so
+S2: i think no... it's rotation over the X-axis no reflection, over
+S3: so this is
+S2: X-axis
+S3: another K-squared over, K-squared, over the Z-bar, quantity barred
+S2: are you talking to me?
+S3: yeah.
+S2: okay. just checking
+S3: is that right?
+S2: what did you say?
+S3: is it K-squared over, the quantity K-squared [S2: no ] over Z-bar totally barred, minus A, well you wanna see
+S2: it's K-squared, over, the quantity, bar, minus A, let me see
+S3: cuz i didn't_ this is what i was talking about
+S2: no. it's over... what are you doing? what number are you doing?
+S3: i'm doing fifteen, part one, isn't that the one we're s-
+S2: no we're doing fifteen part two
+S3: oh no wonder. that's a little confusing.
+S2: there you go. i just put another dot, just put another I. so now you have two Is.
+S3: uh i guess w- s- ts- i guess no wonder, there was a little miscommunication.
+S2: so, we have to learn how to find, the conjugate of the Moebius, find it? what page?
+S1: oh okay. here's some, here's some rules uh page one-thirty-five we got some some rules. [S2: some rules? ] oh i think she gave us rules too.
+S3: yeah she did.
+S2: what rules?
+S1: so this equals
+S2: come back
+S1: it probably is the bar, it's probably two-Z minus one bar, [S2: it is it is ] times, the bar of one over, Z plus two. and then it's gonna equal, that'll be like, two-Z-bar, minus one bar?
+S2: is that how it goes where are those rules they're not on page one-thirty-five?
+S1: right here
+S2: oh. those don't look very much like, bars, like rules.
+S1: oh. maybe they aren't rules, why am i d- using that?
+S2: no i think they are but they just should've set 'em off you know made 'em look nice. so you're right it's two-Z-bar, which is basically, it's two, times Z-bar, minus one
+S1: how do we know that those are rules though that's my question
+S3: i think you can t- e- break 'em up like [S2: yeah. ] you can get, two-Z, minus one, bar over Z, plus two
+S2: so it is, this
+S3: bar, like each of 'em you can have a bar over each of 'em, and then you can break it up further into two, Z-bar, minus
+S2: what's this?
+S3: didn't, she give us a rule like that she gave us, through example.
+S1: it is gonna end up to be that. two-Z-bar minus one, over, Z-bar plus two.
+S2: so now our answer is, [S3: yeah, basically ] four over, two Z-bar minus one, over, Z-bar plus two.
+S3: don't we have like [S2: minus three. ] plus and minus threes in there?
+S2: plus three. but we need to be able to multiply it all and make it look nice right?
+S1: yeah so we gotta [S3: yeah ] start messing around. [S2: alright ] so first i'm gonna put the three in there somewhere.
+S2: the minus-three?
+S1: the minus-three.
+S2: yeah me too.
+S3: so <PAUSE:12> i think i'm gonna start multiplying and getting that, Z-plus-two fraction outta there.
+<PAUSE:07>
+S2: so, we have, minus-Z-bar, plus five, all over, Z-bar plus two?
+S1: wait, i got i might've messed up. i got minus-Z-bar minus seven but
+S2: oh yep minus seven.
+S3: okay.
+<PAUSE:09>
+S1: all this ti- plus three? [S2: mhm. ] alright so, let's just work with, ignore the plus-three for now.
+S2: i agree.
+S1: you could just flip the Z plus two up on the Z-bar.
+S2: we can. so it's four, Z-bar, plus two? [S1: yeah. ] plus eight
+S1: well it's f- yeah four-Z-bar plus eight.
+S2: all over minus-Z-bar, minus seven. plus three now let's get the plus-three in there.
+S1: yeah.
+<PAUSE:25>
+S2: Z-bar, minus... twenty-one minus eight...
+S1: thirteen, so minus thirteen?
+S2: twenty-one minus eight is thirteen?
+S1: yeah.
+S2: okay. Z-bar minus thirteen all over negative-Z-bar
+S1: minus seven
+S2: minus seven. now, now what? now do you wanna multiply by negative-Z-bar plus seven? or step back?
+S1: no we're done now.
+S2: yeah.
+S3: i thought we were.
+S2: so now we have to write it do we have to write it in Moebius?
+S1: that is a Moebius transformation. [S3: you get ] A is one, B is negative-thirteen
+S3: mhm
+S1: so y- like
+S3: and C is, negative, one?
+S1: that whole expression, I-A-two composed with that is this. [S2: yay ] that's the Moebius transformation.
+S2: alright, so that's fifteen part two.
+S3: is this what you got...? i was kind of off in a daze.
+S2: yeah.
+S1: yes.
+S2: so now, number seventeen right?
+S1: okay.
+S3: peachy.
+S2: express the following hyperbolic rigid motions of the composition of two hyperbolic reflections. and hyperbolic reflection does what? it's over Z-bar isn't it? oh i have your notes, i can look.
+S1: yeah, you can look.
+S2: hyperbolic reflections she said it means inversions, or reflections.
+S3: over a, horizontal line right?
+S2: so inversion yeah so inversion is K over Z-bar K-squared over Z-bar, that's an inversion centered at the origin, and this one looks like it is centered at the origin. and, reflections over the Y-axis... are, here it is, number two.
+<PAUSE:07>
+S1: yeah, two is this one. K-Z-bar?
+S2: K-Z-bar. thank you... <LAUGH> yeah. see because you're gonna multiply these together when you compose and the Z-bar's gonna cancel
+S1: so we didn't, we didn't do inversions here? five? we got one over Z-bar didn't we? oh was that for the unit circle? [S2: yeah. ] oh across the unit circle so yeah it's K-squared over Z okay. so
+S2: alright so we want two-Z over five so F-of-Z, equals. two-Z over five.
+S1: and... K-Z over... bu- but what's K in this one, what's K in this one? K isn't necessarily the radius here.
+S2: yeah it will be.
+S1: but for here but what about this.
+S2: over this K is... it's
+S1: like what sort it's like a
+S2: i think it's the distance it is from the Y-axis. <PAUSE:07> if K equals negative-one that's only if K equals negative-one so it's only negative-Z-bar. negative-Z-bar.
+S1: yes. okay. yeah but we're we want a f- reflection across a vertical line.
+S2: that is the vertical line that's the Y-axis.
+S1: so we'd also, have to compose it with a translation or something or what?
+S2: do we want to really?
+S1: well no she's saying a hyperbolic reflection can be a, inversion across a vertical line not just across the Y-axis it can be at any vertical line.
+S2: yeah. but i don't think we're gonna need to translate in the first one.
+S1: well no that's great if we don't. i'm just i'm just saying, what if, a reflection across the Y-axis doesn't work? what if you need a reflection across the line Y equals three? [S2: then ] how are we gonna write that? that's all i'm asking
+S2: we'll look in here some more.
+S1: alright. beautiful. okay. okay. so we want want F-of-Z
+S2: so what is Z times Z-bar? is Z times Z-bar equal to Z?
+S1: we want F-of-Z equal to Z over five... is Z-bar times what?
+S2: Z-bar
+S1: Z-bar times Z?
+S2: no Z-bar times Z-bar. [S1: oh. ] wake up.
+S3: i don't know if Z-bar times Z-bar, but the Z-bar of Z-bar is Z.
+S2: that's good though that's good. Z-bar-bar is Z.
+S3: yeah.
+S1: yeah.
+S2: so
+S1: but Z-bar times Z-bar [S3: i don't ] is not [S2: right ] is not Z
+S2: that's okay though so we have F-of-Z
+S1: or Z-bar
+S3: i don't think so no i think it's Z-bar-squared.
+S2: so we're just gonna start with
+S1: it is.
+S2: we just start with, Z right? and now let's, do...
+S1: so we wanna
+S2: how do you get a denominator that's not Z?
+S1: well, K t- we have K times Z, for reflection. one over five, K equals one over five. or K equals two over five or whatever.
+S2: but that's a dilation...
+S1: but oh...
+S2: right...?
+S1: alright let's look at what they wrote about how 'bout that?
+S2: yeah, you do that and i'll think... seems like the first would be, square root of two. then we have... do the inversion, zero square root of two. equals. two over, Z-bar. square root of five, would be five. yeah let's try this. <PAUSE:12> i got it i got it i got it.
+S1: what do you have?
+S3: what?
+S2: two over... just a second i gotta think. two-Z, all over five is that what we wanted? yeah. that's what i cheer about.
+S1: that's wonderful.
+S3: <LAUGH> okay.
+S2: alright let the first one, be an inversion over zero com- okay. we're gonna take, inversion, zero comma square root of two, composed with inversion, zero comma square root of five, of Z. okay. and you do that and see if you get what i got.
+S3: hmm. i'm doing the five first... might work. that sounds good.
+<PAUSE:25>
+S1: mkay. i like it. i like it.
+S2: cool.
+S1: okay.
+S2: alright now let's do number two.
+S1: yep.
+S2: now this one's gonna be harder...
+S3: that's, very pretty. (xx)
+<PAUSE:12>
+S2: this one's gonna be a lot harder.
+S1: okay. let me i'm gonna try it how they have it in the book here.
+S2: ooh. <PAUSE:24> what page are you on?
+S1: one-forty-two one-forty-three. it's complicated but
+S2: ooh. <PAUSE:17> alright so let's try taking... [S1: so ] six?
+S1: so if, F-of-Z equals this, and F-inverse-of-Z equals this (xx)
+S2: four over Z-bar, minus, minus-four, plus <PAUSE:20> eight minus three is five. five six minus three is three. now. <PAUSE:29> three, over, Z-bar. <PAUSE:17> and now i wanna do, followed by the reflection, minus-two, whose axis is the vertical geodesic above negative-one zero... why don't we look at theorem nine-point-twelve? is that what you're doing?
+<PAUSE:22>
+S1: okay so there's a straight geodesic... how much time do we have, on the tape?
+S2: one thirty-seven.
+S1: there's an hour thirty-seven left on the tape?
+S2: now that's how much, we've been here. [S1: oh ] so we have, less than a half an hour left. and then we can stick in another tape.
+S1: so excited. she always looks so dazed when she looks after she looks at the clock. it's like <DEMONSTRATES>
+S2: <LAUGH> look at the clock again and let me see.
+S3: i don't think i can do it.
+S1: she's under pressure now.
+S2: you're pretty [S3: yeah. ] out of it today.
+S3: i think i'm starting to come down with something, so.
+S2: huh?
+S3: i'm starting to come down with something.
+S2: oh and you too?
+S1: i've had something for like a week and a half.
+S2: don't get me sick guys.
+S1: my throat hurt on this side for like a week and like now it's moving to this side.
+S2: huh. my throat hurts on this side but it's a different kind of hurt, it's like pain. under here
+S1: i'm afraid to go to U-H-S though.
+S2: why?
+S1: cuz of the stories. [S2: i've been there ] the stories about what happens when your throat hurts.
+S2: oh i've never been there with a sore throat.
+S3: oh, see
+S1: they always treat it wrong.
+S2: hm.
+S3: see i didn't have to do anything i just like, damaged a nerve, when i went to
+S2: yeah she went to U-H-S with a nerve damage. <LAUGH>
+S1: yeah i don't know how i feel about going there.
+S3: and she went she went like, she asked a neurologist and it was basically, sensory nerve that i damaged.
+S2: is it fixed?
+S3: it's fine. you just had to, wait till it regrew, [S2: oh ] it was kind of a scary feeling.
+S2: two-Z <PAUSE:09> negative-Z-bar. minus, shoot.
+S1: so what is R in this case?
+S2: R what R?
+S3: whose R?
+S1: in their, definition
+S2: R must be the radius of the inversion perhaps?
+S1: but it's talking about reflections.
+S2: oh goodness. <PAUSE:06> why don't we look in the moreover part?
+S1: moreover?
+S2: yeah.
+S1: moreover.
+S2: moreover, if F and G are two functions that have this format so does their composition for example. if F-of-Z equals this
+S1: R is an arbitrary real number.
+S3: okay.
+S2: R is an arbitrary real number?
+S1: yeah doesn't that- isn't that helpful to you? [S2: yeah. ] in this formula?
+S2: that really tells me how to do it.
+S3: i'm ready to crawl under the table and just take a nap.
+S2: don't crawl under the table we would be embarrassed for you.
+S1: hey look.
+S2: hey what?
+S1: the reflection in the in the bowed geodesic is of the same form as the inversion... through a circle centered at the origin.
+S2: hmm.
+S3: centered at the origin?
+S1: that makes se- oh a reflection in a bowed geodesic is an inversion over a circle [S2: yeah ] that's what it is.
+S3: yeah that's what, i'm just what are you talking about? they're the same. except-
+S1: well cuz they called it reflection. but it's an inversion.
+S2: yeah they called it reflection in the bowed geodesic.
+S3: well
+S1: and a reflection in the straight geodesic is a r- reflection. <LAUGH>
+S3: yeah that's what i think. but the rest are inversions...
+S2: plus R. alright.
+S1: so reflection is just negative-Z-bar plus
+S2: i think we need to do the straight geodesic first, in a big way.
+S1: yeah.
+S2: we need to do like two-Z,
+S3: the vertical, the reflection over a vertical line.
+S1: the straight geodesic is negative Z-bar plus, whatever we want it to be. you know what i'm saying?
+S2: you don't have to multiply? we have to multiply by something.
+S1: so why don't we try something out? we can guess and check.
+S2: we have to multiply by something right? in the book they multiply it by something.
+S1: they said one times negative-Z-bar plus R over zero times negative-Z-bar plus one.
+S2: look at example nine-point-one-three. down, you see where it says followed by the reflection negative-Z-bar minus two whose axis is the vertical geodesic above negative-one zero?
+S1: yeah.
+S2: i think that multiplies by something... see first we need to multiply... we need to do the kind that multiplies first, then do the kind that flips 'em upside-down.
+S1: why do they divide by one?
+S2: i don't know. i was not there either.
+S1: they wrote division by one into the problem. [S2: yeah. ] that's really not necessary.
+S2: so i wrote it too but it really didn't help me very much.
+S3: i think my, attention span's kind of wearing, thin over this short period of time.
+S1: are you guys really gonna are you gonna do four-seventy-five now?
+S2: yeah but probably not right now.
+S3: i'll do it at home but not now, not, no no no no.
+S2: i gotta go to the mall... alright so do we just wanna kinda like, skip part t-
+S3: are you going to Briarwood, right now?
+S2: when i'm done with cl- with this.
+S3: i should email John and [S1: do you think i'll get a ticket? ] tell him and just take off with you.
+S1: parked up [S2: yeah. ] in that structure there?
+S2: hm?
+S3: probably not.
+S1: it's supposed- it's supposed to be Saturday six A-M to six P-M also [S3: yeah ] permit parking.
+S2: i thought so and that's why i didn't park there today.
+S1: i did but i was like i was already fifteen minutes late.
+S2: yeah.
+S1: and i was like oh... right above D-P-S.
+S2: oh yeah. that'll be really good.
+S1: but it's the third floor i'm figuring who's walking up to the third floor.
+S2: oh my gosh i c- had to carry all this stuff from NUBS and i'm like <SOUND EFFECT>
+S1: you parked at NUBS?
+S2: no i didn't park there that's where all this stuff, lives.
+S3: i thought we were gonna meet at NUBS but then you, never said we were so i d- i just didn't w- i wasn't sure.
+S2: no, because i asked Rita and, there was a girl that was supposed to work on Saturdays. so i thought about it and then she said that it's better if you can get the speech event, in the natural environment.
+S3: oh
+S1: what if we do like one guess and check will that give us a good idea?
+S2: on this?
+S1: yeah.
+S2: yeah let's guess and check [S1: like a reasonable, guess. ] but let's try, first, [S1: you know what i mean. ] doing it by the kind where you multiply something. where like Z will go to two-Z.
+S3: she didn't teach us the sys- systematic way of really doing this.
+S1: okay. why do you multiply?
+S2: i don't know why you multiply but that's what i would think we have to do first.
+S1: no but what- okay so what multiplies?
+S2: i don't know. that's, your job.
+S1: the inversion doesn't multiply does it?
+S2: well one of 'em has to multiply. cuz if you look on where you were looking at those formulas that you like? [S1: uhuh ] it says A, Z-bar... that's what we want. see?
+S1: where's A-Z-bar?
+S2: right here. A-Z-bar. all over negative-negative-Z-bar minus A... so let's see we have K-squared, all over Z-bar minus A, plus A.
+S1: oh yeah. okay. yeah it does multiply times A.
+S2: so now what they did was they simplified it. so let's do that. let's have A equal, two... negative-two...
+S1: okay...
+S2: and we want K... let's try making K equal...
+S1: maybe just like one. no?
+S2: i wanna make it equal something else. cuz i'm trying to get the plus three out. K-squared minus A-squared. K-squared, is gonna be, what we don't know yet minus A-squared, so this is gonna subtract four... let's try square root of seven.
+S1: okay.
+S2: so now, this is gonna equal... A, Z-bar, plus, so negative-two
+S1: wait we can't have A equal negative-two though because our inversions are only centered at the origin. so there's no way
+S2: no they can be centered somewhere else.
+S1: not on her thing. across a circle centered at the at the origin is a hyperbolic reflection. [S2: <SOUND EFFECT>] so our A has to be zero.
+S2: i don't, like it to be zero.
+S1: well what is a, what does a tran- what does a, um, reflection do?
+S2: the straight-line reflection?
+S1: yes, that's what we, [S3: yeah what's the formula for refl- ] we have to figure out like how we do that.
+S2: right here.
+S1: that's what i said.
+S2: that's what you said?
+S1: so it's negative-Z-bar, plus
+S2: R where R is, an arbitrary real number
+S3: let's say, three?
+S1: okay but what did they do... i guess so they just...
+S2: what if you have a ticket?
+S1: what if i do?
+S2: uhuh.
+S3: it's twenty dollars.
+S1: i, mail in a, check with the ticket and, pay it off. it's my girlfriend's car so i'm not gonna like make her pay it. [S2: yeah. ] i'll just pay it off, you know. what else am i gonna do?
+S2: i don't know.
+S1: if it was my car i might just leave it on there but it's not so i can't.
+S3: i feel bad it's like, i drive my parents' car so i'd never do that.
+S2: never do what?
+S3: leave a ticket. never pay a ticket.
+S2: oh. why wouldn't you pay the ticket?
+S3: you just leave it. because some people just don't pay the ticket. [S1: mhm ] cuz they're just parking tickets.
+S2: yeah but then don't they like hunt you down and take you to court?
+S1: only if you get a bunch.
+S3: yep.
+S1: or if t- i mean if you get a ticket later on and they'll pull you over and they'll be like oh, you have an outstanding you know but if it's like one outstanding parking ticket and you'll be like oh i didn't even know.
+S2: oh i see.
+S1: you know. it's like oh i forgot.
+S2: reflections in the bowed geodesic have the form
+S3: oh once i got two parking tickets in one day. it was like a couple years ago but i was so mad.
+S1: so let's- let's just like take a guess. let's say we're gonna take
+S2: you know i think we can't_ reflection over a vertical line. so let's do one of those.
+S1: yeah we're gonna have to do one
+S2: let's do that first.
+S1: yes. let's do it first. okay? let's make
+S2: no no no. let's do it let me think. yeah let's do it first...
+S1: they did it second, but.
+S2: well let me see. if we look at this one
+S1: cuz all you wanna do is just add on, you know maybe we're just adding on a constant term. so what if we say that Z, over two-Z plus three, [S2: let's do it second. ] equals like, no let's
+S2: let's do it second.
+S1: alright alright. okay so what do you wanna do now?
+S2: let's do the regular kind first.
+S1: alright.
+S2: no. i will make myself clear. let's do, the kind that we, let's do the kind over a vertical line first.
+S1: and then followed by inversion. [S2: uhuh. ] okay. so it'll be inversion zero something, composed with, reflection...
+S2: reflection, across any vertical line we want so let's do
+S1: composed with negative-Z-bar plus, whatever.
+S2: let's do reflection across, three.
+S1: but do you know how that, how does whe- what it's across affect the equation?
+S2: i think it's going to
+S1: like how does the negative-one apply and, relate?
+S2: i don't know how but one.
+S1: just ig- just ignore whe- what it's over that doesn't matter. you know? just p-
+S2: well you have to know what it's across.
+S1: no you don't look get rid of- this is the equation negative-Z-bar minus two just take a negative-Z-bar plus some number. [S2: oh. ] it doesn't matter what it's over... but we know that's, that's reflection over some vertical line.
+S2: reflection across... reflection across, let's do reflection across but a reflection across, a, vertical line, not located on the Z-axis, it's the same so if if it's, reflection across the Z-axis then we have one over Z-bar right? [S1: yeah ] no. then we have negative-Z-bar? or one over Z-bar.
+S1: you know what's cool about what they have is they have like
+S2: negative-Z-bar.
+S1: yeah. okay.
+S2: so, if we wanna reflect across like, three, then it'll be like negative-Z-bar plus three or negative-Z-bar minus three.
+S1: okay all i'm saying is that's not what they did.
+S2: i don't think it is either. but i think we have to try to find the formula.
+S1: all i'm saying is i know it's not what they did. just, for, just for now, [S2: do it like that? ] ign- ignore, we can figure out later if we want to, what it reflects over, but now just do this because this is the only thing that matters when you're doing the formula, is uh, is this thing. this w- you could care less, what that is. [S2: alright so let's do ] cuz you don't even use that in the formula you use this.
+S2: three. let's do negative-Z-bar [S1: plus three? ] minus [S1: minus three ] minus three.
+S1: so let's do minus three. cuz that they ended up with positive numbers so let's do that.
+S2: okay. that's what we're doing. [S1: yeah. ] so now F-of-Z is negative-Z-bar minus three and now we invert over it, with a radius of, square root of two...
+S1: okay so, I-zero, square root of two. negative-Z minus three. so what does that equal?
+S2: that equals two?
+S1: right.
+S2: over
+S1: minus oh wait. over, what are we doing on the bottom again?
+S2: Z-bar, so it'll be
+S1: oh we take the bar of that.
+S2: yeah. [S1: so we're just gonna ] so it'll be, negative-Z, minus three, [S1: minus three ] and now we have to, that's all. so see, we're only getting one Z, and we need two Zs. two Zs. oh so let's do the other one first. [S1: okay. ] i concede to you.
+S3: the inversion first, and then?
+S2: let's do the inversion first. [S1: okay. ] so th- yeah. inversion over square root of two is gonna be, two over, Z-bar. four. no two over Z-bar.
+S1: use_ how about we do like, okay so you wanna do square root of two?
+S2: yeah. i'm trying to get two-Z to come out. that's what i'm working on. cuz we have to get two-Z, to come out and be on the bottom. that's why i think you can't, have, it have to be over, the origin.
+S1: yeah she may have messed up when she said that cuz they didn't.
+S2: yeah and how else would they get something with two Zs in it and we didn't?
+S1: well they even, they even said
+S3: maybe she meant the X
+S1: lookit their inversion is centered at negative-four zero.
+S2: yeah let's
+S3: i think she-
+S1: so let's center it wherever we want.
+S2: do what we want.
+S3: i think she meant the X-axis... like centered in on the X-axis. but because
+S2: yeah, [S1: yeah ] i think she did too.
+S1: okay. yeah. okay. yeah. that's fine. alright.
+S2: so... we have... do you wanna do it the same way they did? invert first? let's invert
+S1: yeah let's [S2: over ] because we we want Z on top of Z. so w- what they did was they did an inversion first.
+S2: yeah so let's do, inversion
+S1: how about centered at like negative-two zero.
+S3: that should work. that should work.
+S2: no i wanted negative-three zero.
+S1: okay let's do negative-three zero.
+S3: R, Z, minus [S1: alright ] K-squared
+S1: square root of two
+S3: over
+S2: um yeah. [S1: okay ] let's try that and see if it works. but see they got, a five, and that didn't give them two-Z.
+S1: well we're just playing around let's see what numbers we get and then you change the numbers that was the whole point.
+S2: so that's gonna give us...
+S3: K-squared...
+S2: i think i've, did we say square root of two? [S1: yes. ] or did we say square root o- okay.
+S1: so that gives you two, right? over...
+S2: Z-bar, plus three, minus three.
+S1: yeah.
+S2: and now let's reflect over
+S1: well uh, shouldn't we, let's see what that comes out to, you know what i'm saying?
+S2: you wanna simplify it some more?
+S1: well yeah we wanna, we don't even we have a Z [S2: we can. ] we have a Z-bar on the bottom but we don't have anything on the top, so let's find out what kind of, [S2: okay. ] alright? let's find out what we get on top. so this is gonna equal, minus-three-Z-bar, plus nine? no.
+S2: plus eleven? [S3: but if you do that, like if you have, like, reflection, composed with inversion, ]
+S1: plus eleven? no no no. cuz it's minus-nine plus two so minus-seven?
+S2: mhm.
+S3: a reflection composed with an inversion, should give you like, centered at, zero zero is R-Z minus K-squared over Z. but, we need the opposite so don't we have to do like, inversion and then the rotation i mean it didn't seem to work, but...
+S1: i think we're, gonna be good off if we start with what we have but, if we start with inversion.
+S3: like you have inversion composed with rotation or rotation
+S1: rotation_ reflection composed with an inversion.
+S3: sorry.
+S2: but now see that gave us, a negative-three-Z-bar. and that's really not kind of what we wanted.
+S1: no it's not what we wanted.
+S2: but let's keep going. followed by the reflection Z-bar, minus Z-bar, minus, what point do you wanna put in there...?
+S1: i don't know... so how are we gonna get a two-Z on the bottom?
+S2: well
+S1: this is looking, is this gonna be maybe two inversions?
+S2: i thought about that
+S1: you know it's gonna have to be because you got Z-bar and then you gotta get Z back. right?
+S2: yeah
+S1: we wanna end up with Zs not Z-bars.
+S2: but they did. they ended up with Zs.
+S3: yeah but, um if you reflect, it doesn't matter.
+S1: oh yeah cuz they did oh yeah cuz you s- when you reflect you take the bar anyways.
+S3: mhm
+S2: yeah. so do we wanna reflect now and see what we get?
+S1: if you reflect it doesn't it doesn't change the numbers in front of your Zs. see what i'm saying? [S2: why not? ] so we either because all you do is, you, [S2: yeah but ] bar it, and then you subtract some number that doesn't have anything to do with Z, you subtract a constant, [S2: alright, so ] or you add a constant, so our either our inversion has to get it, right the first time
+S2: so let's let our inversion be, over negative-two comma zero
+S3: are you able to even get like, Z over, like a, some kind of number? this is what i get, something like this, i did
+S2: so it doesn't matter what real number we put in there. i think it doesn't matter so let's do
+S3: how does it?
+S1: well it will it's gonna change what your, it's gonna change what your constant is up on top but
+S2: but if it doesn't, cha- it doesn't matter what the constant is [S1: yeah ] then, when we do the reflection over a vertical line we can do it over any vertical line we want. so no matter what we have going in there we can fix it. [S1: alright ] so let's do inversion, over, two
+S1: how do you change what you get in front of the Z on the bottom...?
+S2: let's invert twice... because we want to flip it over. so we wanna get what we have and then flip it over again
+S1: i think we wanna invert twice.
+S2: i agree.
+S3: okay. let's try it.
+S2: so let's invert over negative-two zero first. and then let's invert, over the origin. that's what i think so what radius do you want?
+S3: invert over what first?
+S2: invert over, [S3: some ] negative-two comma zero.
+S1: let's do what they did. let's do the square-root-of-five. cuz like what if- what if you get what they do, and then you like, invert it over the origin or something.
+S2: yeah i think we wanna do the origin next. don't we wanna use one of the numbers [S1: cuz what if what if you ] that (they're) talking about but they got a five who knows where they got their five <GASP> five is three plus two.
+S1: questionable.
+S2: but why don't we just <SOUND EFFECT> it's just about the same. so let's invert over, one. radius one.
+S3: i'm just going to use general Ks As and all this other jazz.
+S2: okay. i'm using, inversion
+S1: alright so you're gonna use negative-two zero?
+S2: and radius one. [S1: alright ] that's what i'm using. and that'll equal one, over... Z-bar, plus two, minus two.
+<PAUSE:15>
+S1: so minus-two-Z-bar minus three? over Z-bar plus two?
+S2: you are a lot faster than me... yeah.
+S1: oh. yeah.
+S2: so then... we really wanted a plus three. but but it might fix-
+S1: no. no we got a negative-two-Z-bar minus three right? [S2: mhm ] that's, negative-two-Z-bar plus three.
+S2: okay. so let's keep it that way over Z-bar plus two, and now, let's invert again [S1: okay. ] and this time we want it over the origin... and now [S1: we shou- ] we need to choose a radius.
+S1: i think we should, keep radius one or something.
+S2: keep radius one again?
+S1: i don't know. <PAUSE:07> or whatever i don't- pick whatever you want.
+S2: well let's keep radius one. so this'll be...
+S1: so you got a one on top [S2: yeah. ] and then on the bottom you get the bar of what's already there.
+S2: so that's, negative-two-Z minus three, all over Z plus two.
+S1: so Z plus two goes on top.
+S2: and there's a plus two, after that? no there's not? that's all. <PAUSE:15>
+S1: so that gives you negative-two-Z-bar minus three?
+S2: yeah... i don't like that. i can do it with three reflections i think.
+S3: yeah.
+S1: so that's Z plus two, over negative, -two-Z plus three.
+S2: because, we're really close.
+S1: yeah we are close.
+S2: it's two reflections. i mean if we did one more reflection then we would get it. because we would do a reflection over a vertical line. [S1: yeah. ] and then that would make, uh no it wouldn't. that wouldn't work either.
+S1: no you you wanna you gotta stick with two because you gotta get the Zs back. you gotta get Z-bars and you gotta get Zs. we're close maybe we just gotta, change something just a little.
+S2: alright so instead of doing this second inversion
+S1: so what the thing we need to change is the, center of the in- circle of inversion. right? so we got a two-Z plus three
+S2: but that's gonna multiply, that's gonna multiply the first Z. let's try, doing it over a vertical line now. stay where we were with the first one cuz i think that's cool. and then change, do the second one, like this. [S1: okay. ] i don't think it's gonna work do you? you don't do you?
+S1: i don't know i don't think_ i i stopped thinking that guess-and-check's gonna work. i thought i'd be- i thought we'd be able to see pretty clearly what the numbers were how they were being affected but [S2: yeah ] i don't see that. <PAUSE:08> we could work on four and, i don't know.
+S2: so which ones have we left so far we've left
+S1: one-B
+S2: one-B
+S1: and three-two. right?
+S2: yeah. and? didn't we leave one more?
+S3: no. we've got
+S1: we did all of two
+S3: we did all of two.
+S1: we did one-A
+S3: we just have, four to do...
+S2: so we got number fifteen right?
+S1: mhm
+S3: mhm
+S1: definitely.
+S2: alright. yeah let's do number four.
+S3: yeah i'm sick of this problem.
+S1: okay. let me get some water.
+S2: alright.
+S1: my voice is getting hoarse. i'm not sick of you guys really. <S3: LAUGH> here talk amongst yourselves about me while i'm gone.
+<SS: LAUGH>
+S3: oh we will don't worry... okay let's see- [S2: these are ] let's move on... is the tape running out?
+S2: i don't know i thought so but no we're still alright. just wait and see what happens.
+S3: so what's our cut for this?
+S2: hm?
+S3: what's our cut?
+S2: oh you want a cut huh? hmm.
+S3: you get two birds with one stone.
+S2: yeah i do.
+S3: you get homework done and then you get work.
+S2: yeah. i'll have to bring food.
+S3: work that you're paid for.
+S2: i'll have to bring food.
+S3: yeah. treat us next time.
+S2: Moebius.
+S3: you sound like a- kind of like you're mooing like a cow. <SS: LAUGH>
+S2: no i didn't say Moobius.
+S3: no but it sounds like, moo. <LAUGH>
+S2: <LAUGH> how did she learn how to say it like that?
+S1: i didn't notice, anything weird.
+S3: i didn't really notice that much until she told me.
+S2: how could you guys not notice? she's like not speaking English when she does that she's like Moebius. a Moebius transformation... okay. number twenty-one. find a Moebius region which in one of its fixed points is one plus nine. <PAUSE:38> so we can find out what kind we want it to be. it has to be a, rotation.
+S1: yeah did she tell us about fixing points in here?
+S2: um it was just the last class we went to
+S1: yeah
+<BREAK IN RECORDING>
+S1: for that particular point you want F-of-Z equals Z
+S3: one plus I, so
+S2: yeah. but it's gonna be two over Z. two over Z-bar
+S3: yeah it'll be two over, Z-bar that's what [S1: oh ] I was thinking. because if you square the two.
+S2: cuz it's, radius-squared.
+S3: that's that's my impression. so you get, two over...
+S2: two over Z so now let's put in, F-of-one-plus-I, right?
+S1: well you get two over Z-bar, according to this thing.
+S2: so that's [S1: cuz it's reversing. ] gonna equal two over
+S1: two over one minus I.
+S2: but now we do it.
+S3: that works.
+S1: now you do what?
+S3: equals one plus I.
+S2: you do this.
+S3: that works.
+S2: equals, equals
+S3: so inversion
+S2: I
+S3: zero
+S2: equals two, two plus two-I equals one plus I it works.
+S3: yeah. it works.
+S2: da da, da da da da
+S1: you guys are brilliant i woulda i woulda just crossed it out right away without even trying it. this would_ i don't_ am i an idiot?
+S2: yeah but we still like you.
+S1: thank you
+S3: no but you came up with the idea so
+S2: yeah it was your idea.
+S3: so
+S1: i can't believe i didn't_
+S3: see i i_ you know it made total sense because you have that circle there and its radius
+S1: okay so
+S2: yeah he's like [S1: inversion... ] i'm like then you do this he's like do what? <SS: LAUGH>
+S1: across circle, of radius, square root of two centered at one.
+S2: so now we do twenty-three. find a Moebius rigid motion which has a double-fixed point at negative three.
+S3: see? this was easy wasn't it? okay.
+S1: i'm still kinda glad we didn't start with this one. like Christina wanted to.
+S2: hey. <SS: LAUGH> thanks a lot yeah i like you too.
+S1: what is a double-fixed point?
+S2: it's
+S3: okay fix both of 'em.
+S2: two distinct real roots.
+S3: so it's fixing
+S2: one point in the boundary
+S3: five and seven so
+S2: of H-squared
+S3: they're on the X -axis
+S2: so it's a translation.
+S3: n- no. yeah
+S2: it's a parabolic.
+S1: translations don't fix anything do they?
+S3: no.
+S2: it's on the boundary. negative-three's on the boundary.
+S3: i thought i don't
+S1: what why do they what is negative-three? oh so it's like
+S2: it's negative-three comma zero right? [S1: yeah. ] negative-three [S3: are we supposed to ] on the real line.
+S1: it is. it is on the boundary.
+S3: okay oh twenty-three i'm doing twenty-two sorry sorry sorry.
+S2: stop doing that.
+S3: i am just i am totally out of it.
+S2: one point in the boundary of H-two and that's two distinct real roots. F is called parabolic. [S1: okay. ] type of translation question mark... so what [S1: so that means- ] kind of translation do you suppose that would be?
+S1: that means i wasn't sure or something. um
+S2: no that means she said we thought it would be some kind of translation?
+S3: who?
+S1: she's like she's i'll leave that, as an exercise for you to do at home. in your spare time.
+S3: yeah in all the spare time that we have besides doing this assignment and writing our five-page paper
+S1: she finally_ the good thing is she finally stopped coming into class and asking who did the spare time exercises.
+S2: did she used to ask that?
+S3: yeah.
+S1: she did a couple times she was like s- she's like so did anybody think about this problem and we were all like, uh uh
+S2: yeah, we did ha ha ha
+S1: she's like i guess i'm gonna have to put it on the homework then.
+S2: every parabolic isometry is conjugate to the map F-of-Z equals Z plus one.
+S3: so how does a translation fix negative-three, out of curiosity? i- i-
+S2: well why don't we... <MUSIC PLAYS><LAUGH> (you wrote like this?)
+S3: are they out there again?
+S1: this is awesome is this the Japanese club?
+S2: yeah.
+S3: this is, [S1: let's go watch 'em. ] Jen's A-P-A. i think it's Jen's A-P-A.
+<S1 AND S3 LEAVE><PAUSE:28>
+S2: do do do do C-Z-squared. plus D minus A-Z minus B equals zero. <PAUSE:25> C-Z-squared plus D minus A-Z minus B equals zero. <PAUSE:13> C-Z-squared plus D minus A-Z minus B equals negative-three. <PAUSE:30> when the discriminant is greater than zero (D minus,) so the discriminant equals zero. <PAUSE:23> D minus A-squared, (equals Z...)
+<S1 AND S3 RETURN><S1: DIFFICULTY OPENING DOOR>
+S3: woo hoo
+S1: man alive. they're doing (deep life) out there.
+S2: it's a good thing you had Herb w- out there with you to help you open the door.
+S1: yeah um, i'm not quite sure what happened. alright what's going on? anything? anything good?
+S2: yeah well what happens if we have to solve this equation, C-Z-squared, plus, D minus A-Z, minus A
+S3: C-Z-s- C-Z-quantity-squared?
+S2: no. C, Z-squared
+S3: yeah?
+S2: plus, D minus A
+S3: D
+{END OF TRANSCRIPT}
+Please contact the English Language Institute with questions or comments.

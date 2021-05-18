@@ -1,0 +1,1302 @@
+<PERSON ID="S1" LANG="NRN" ROLE="JG, Graduate Student Instructor" SEX="M" RESTRICT="NONE" AGE="2">
+<FIRSTLANG> FAR </FIRSTLANG>
+</PERSON>
+<PERSON ID="S2" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S3" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S4" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S5" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S6" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S7" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S8" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S9" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S10" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S11" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S12" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S13" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S14" LANG="NS" ROLE="SG, Graduate Student" SEX="M" RESTRICT="NONE" AGE="0"/>
+<PERSON ID="S15" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S16" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S17" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S18" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S19" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S20" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="ALL" AGE="1"/>
+<PERSON ID="S21" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S22" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S23" LANG="NRN" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1">
+<FIRSTLANG> SPA </FIRSTLANG>
+</PERSON>
+<PERSON ID="SS" LANG="NS" ROLE="SU, Students" SEX="U" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="SU-f" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="SU-m" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"/>
+
+
+
+
+S1: so, who came here first? i don't know, um, you wanna start, do you have a question? specific question?
+S2: no i'm fine you can
+S1: okay
+S2: (start with them) i got here late. (xx) they were waiting.
+S1: umm specific questions? you have a specific question?
+S3: um, everyone [S1: okay ] else was here first.
+S1: (Robin?)
+S4: yeah, i have a question, (xx)
+S1: okay
+S4: this, right here i'm not sure_ i don't understand why we use this, this um
+S1: oh oh, okay so this is,
+S4: shape factor
+S1: (xx) you use the shape factor when you don't know like when you have two dimensional heat transfer right?
+S4: okay
+S1: which is the case here because you know like (heat) is going this way, it's radially going out [S4: right ] and then it's it going off. okay? it's going to the surface here. [S4: mhm ] now you can't model this as a one dimensional heat transfer you know like the, um the sort that we learned before so you, take care of, the heat transferred from the surface of the tube, to the surface of the, soil or solid or whatever here it, it is, [S4: mhm ] um by the shape factor, okay?
+S4: but if that's_ this shape factor is it says it's for, hollow cyl- cylinder. [S1: um ] and that's why i don't understand why we use that
+S1: oh is this for the hollow cylinder? okay. i thought you were talking about this. is this the same as this?
+S4: yeah
+S1: because this is for, no this is for buried, buried cylinder. for a hollow cylinder
+S4: it's the same thing except you have R-two, except (xx)
+S1: right so this is for a buried maybe it's not a hollow cylinder cuz this H is, this H actually <AUDIO DISTURBANCE> yeah but what_ if you have something like this? this shape factor takes care of the heat transfer from the surface to here. [S4: okay ] okay? so what you do is you say, the formula is like this, the heat transferred from here to here, is just K of this material here, [S4: uhuh ] times the S shape factor that you have for this geometry which is this thing, times the delta-T the delta-T would be from the surface to the surface. [S4: okay ] okay? so this shape factor only takes care of um this region, from this surface to this surface. okay? that's all it does. now for the rest of it if you wanna go from here to here you have to worry about the other resistances that you have for example
+S4: (this example) here?
+S1: right. this is like the internal resistance, the convection resistance inside the pipe and this is for the thickness of the pipe itself. and then, from here to here the shape factor takes care of it. and you need to_ if you want to add the resistances you have to convert the shape factor into a resistance first which is one over K-S just like this. okay? so this is the shape factor, this is the Q for it, and this is the resistance for it. and it takes care of (heat) transfer from here to here. okay?
+S4: (then) whenever you have a cylinder you j- you just use A, the log mean
+S1: log mean yeah. if you have like multiple layers of some
+S4: what if you what if like this, thickness is really really, small? can you just use the
+S1: if it's if it's a very small thickness and if the material is very conductive, then you can probably say that the resistance is very small because this is, this delta-R is really, small and this K is very big so this resistance is very small you neglect it in favor of the other one.
+S4: so usually when you have thick, i mean thin, layer you can tell you can say that
+S1: the resistance is very small it has to be very conductive too. you can't really say only by, the delta-R because if this thing is very small too then, [S4: okay ] it might not necessarily give H (xx) right? [S4: (uhuh) ] so i- if delta-R is very small and it's very conductive then you can probably say the resistance is very small so it's all the uniform temperature throughout the thickness of the tube, right?
+S4: so there's jus- just one more question (xx) one more question like [S1: mhm ] if you if we have, problems that we did like at the beginning of cla- of the year, [S1: right ] and have Hs in 'em, like can we expect that, he's gonna give us like (another one) (xx)
+S1: yeah yeah you should [S4: so we gotta combine all ] be able to combine right. actually let me draw a picture for you think about this case, do you have an extra sheet of paper (i can) use? okay so think about this case let's say you have a box, sort of like a box here, and then there's a, pipe in it. okay?
+S4: okay
+S1: now there's another box here, and there's another pipe in it. okay? [S4: uhuh ] you know the dimensions. here and here, fluid is, flowing like let's say with a velocity of, ten meters per second, and temperature is given, [S4: uhuh ] for the fluid inside. here, another fluid is flowing with a velocity of let's say two meters per second, another temperature this is T-one this is T-two is given. and for h- here, the heat transfer coefficient is given. okay? for, between the two. so we have a heat transfer coefficient for the fluid that's here, and the velocities of these. now they say, calculate the rate of heat transfer from this to this. okay? so you have one resistance for the H here, which you have to calculate from
+S4: is this solid right here?
+S1: yeah this is solid right here. [S4: is this materi- okay. ] so, you have one resistance here which you can calculate from the Nusselt number. [S4: okay ] you have the Nusselt number you get the H you calculate the resistance here. then you have, probably like, you might you might wanna think about the thickness too but let's not worry about that. then from here from to here you have a shape factor which is given here. [S4: okay ] it's this case right? so you use this shape factor for the resistance from here to here. [S4: okay ] then from here to here you have an H, so it's one over H-A area being this, and then again from here to here another shape factor from here to here, another H.
+S4: Nusselt number, and would the Nusselt number be the same for these two or (xx)
+S1: no because the velocities are different.
+S4: okay. i mean w-
+S1: the velocities are different so you have to first check if they're in the same regime you might be able to use the same formula for them, if the re- regime is the same (xx)
+S4: i mean they they only give you like a Nusselt number of, i don't know whatever, ten.
+S1: oh okay. if they just give you a Nusselt number a value for Nusselt number then you (can say)
+S4: and then you have to find the Hs in here, i mean do you use the same Nusselt number, to find the Hs in there?
+S1: yeah if they give you, one less
+S4: (and so i,) just check (with) the formu- formula i tried to use right?
+S1: um yeah but they, they probably won't give you a number for Nusselt number you know they won't say like Nusselt number is ten.
+S4: okay
+S1: they just give you a velocity and you should be able to calculate the Nusselt number yourself, using the formulas for for (inside the pipe,) [S4: right ] right?
+S4: okay
+S1: okay?
+S4: okay
+S1: great.
+S4: thank you.
+S1: okay. next.
+S1: do you have a question?
+S3: i'll, i'll go after them.
+S1: okay
+S5: alright i just had a few, uh, conceptual things (here.) [S1: (alright) ] uh, first off, i know we have equations for_ to find N-F, do you thin- exam_ we can copy_ just use the charts right?
+S1: yes if it's_ if it falls in the chart if it's falls in this range, [S5: mhm ] use the chart it's easier. [S5: okay ] okay?
+S5: okay great. um
+S1: do you have a, hyperbolic tangent on your calculator?
+S5: yeah
+S1: you do? okay, cool.
+S5: yeah so, a- another thing (i was confused on) is that i know, you talked about this before and i don't_ i wanna make sure i have it right, now if you um_ because the one equation for, um, case two, [S1: okay ] N N-F it's it's just this huge equation, [S1: mhm ] and i know you said before you could you could probably just use this, [S1: yeah ] and just use L-C instead?
+S1: correct
+S5: okay so you can use that.
+S1: as long as the thickness is not very big.
+S5: okay
+S1: okay? as long as the thickness of the pipe is not really big you can use L-C because, um, as we said before <PAUSE:04> what L-C does is that they say we we we, okay we saw the case that this was insulated right?
+S5: yeah
+S1: and that's case one. if it's not really insulated, we correct the length by saying we cut this in half add half of it to this side add half of it to this side, so this is just a little bit longer, right?
+S5: mhm
+S1: so if this thickness is not very big now, this correction won't make too much of an error
+S5: yeah
+S1: right? in the, actual case. but if this thickness is big you need to use the formula for case two which is the exact formula for, [S5: okay ] a noninsulated (tip) right?
+S5: um, and then uh, oh for semi-infinite, um... so, i was just uh curious is tha- is this exponential is that, all of this (or is it just E-X-P of this?)
+S1: no no error function, no exponential_ see it's, error function of this minus exponential of this, times [S5: times ] error function of this.
+S5: okay okay
+S1: yeah
+S5: i was thinking (xx) [S1: right ] now (xx) how you keep track of this right i mean this is pretty big. <LAUGH>
+S1: this if you know the surface temperature.
+S5: y- yeah if you know
+S1: yeah if you know the surface temperature you can use this, this is probably in terms of H so you know the heat transfer coefficient outside and the temperature outside. okay?
+S5: well this is saying it's, T-one (and then this) (xx) is T-one?
+S1: yeah T-one is in the fluid, it's not the surface temperature right?
+S5: yeah, so, you can use this chart when you have fluid temperature?
+S1: right. (xx)
+S5: and then surface temperature, surface temperature it's just this term right here you know that, cuz this is just just, to deal with the fluid? [S1: um ] i thought mm, cuz you're, it looks like from the, (xx) surface temperature.
+S1: oh it looks like the surface_ oh you mean this this, part is the same as what the (equation) you had_ you know the surface temperature?
+S5: yeah but i i j- if i read the notes right it's just you need to know that this term is
+S1: yes, correct correct. [S5: and then ] so if you solve this part (xx) it's it's the surface temperature.
+S5: if you know the surface temperature. and then you use (the card) if you don't know it. or this big chain.
+S1: actually you know what this is for the general case yeah this this deals with the fluid this is for the surface temperature correct. [S5: okay ] yeah exactly.
+S5: okay, um, i think that was basically it, [S1: okay ] if i think of something else <LAUGH> i guess (xx)
+S4: so when do we use this equation then?
+S1: which one?
+S4: only if you know the surface temperature?
+S1: um see if it's, only_ if if you know the surface temperature it's only the first term that you need to, deal with, okay? if you ne- if you know the surface temperature and that's in your notes
+S4: it's right here?
+S1: that's in your lecture notes. right yeah, that's the only term that you need to worry about if you know the surface temperature. if you don't know the surface temperature you can either use this whole thing or use the chart. which i would say use the chart it's easier, <SS: LAUGH> (you know) don't <LAUGH> those exponentials and
+<UNINTELLIGIBLE SPEECH>
+S1: yes
+S4: okay, and so, what_ i mean like you use this if you know the, s- the surface temperature (xx) (now where does T-S come from?)
+S1: um T-one would be T-S then.
+S4: but i thought this (was) T-S (xx)
+S1: no tha- that if if you know this_ if you know the_ see that's the case that_ because it's the same if the formula will be di- will be different you will have T-S here then, because it's as if the H is, extremely large so that these terms drop out, correct?
+S4: okay
+S1: if the X is ex- extremely large, or the H, the exponential of, this minus this thing you know like [S4: (xx) ] this (thing) drops out right. and then you will, um, have only this term right? and that means if the H is very very big, the surface temperature is the same as T-one. so you can put your surface temperature here. but i would say use the, th- the lecture notes cuz, it was derived for you in the lecture notes, (in here.)
+<PAUSE:04>
+S4: so surfa- temp- surface temperature would be T-one right?
+S1: surface temperature would be T-one yes.
+S4: and then you would just solve it (for the H)
+S1: you use_ right di- did he, T-infinity well he gave you the big one again right? he gave you the big equation?
+S5: in his
+S1: uh wi- uhh
+S5: on his exam notes, he does (have the small) (xx)
+S1: does it?
+S5: yeah, [S1: okay ] yes the two (xx)
+S1: which is which? which is T-S over that, right? T-S minus (T-S.) [S5: (T-S) ] yeah
+S5: yeah and he he showed the, (cases about.)
+S1: right. so he just switched the T-S to T-one over the,
+S5: yeah
+S1: right? so if you know the surface temperature you can use that (xx)
+S5: but, th- and then wouldn't you use this (part) if you know H?
+S1: yes
+S5: okay. this one, you can use if it you don't know H?
+S1: no if you don't know H how do you use this one?
+S5: i don't_ i don't know why would you use this one? why (xx)
+S1: no if you don't know H, and you don't know the surface temperature you can't do anything. you need to know either H or the surface temperature. if you know the surface temperature use this part, or use that equation in the notes. if you know H you can either use this equation which is very big or use charts.
+S5: so if you don't know H you can still (use this) (xx)
+S1: if you don't know H and you don't know surface temperature you can't do anything.
+S5: no but i said if, if you know the surface temperature, and you don't know H you can (do the same?)
+S1: you don't know surface temperature but_ and you know H?
+S5: no you know the surface temperature but you don't know H.
+S1: you know the surface temperature and you don't know H you can use only this part. [S5: yeah ] or that equation.
+S5: and that's not as accurate, right?
+S1: it is it is very accurate. [S5: (xx) ] if you know the surface temperature it's it's very accurate using this. [S5: okay ] (xx)
+S4: how're you gonna find (these?) i mean how are you gonna solve for T if you don't know H?
+S1: no no, if they give it to you. if they give you like the surface_ they say like you have a semi-infinite solid initially at this, temperature at, like T-naught. and then at time T equals zero you set the surface temperature to be T-S and you keep it at T-S, how the heat, diffuses in, then you know T-S right? you know the surface temperature. [S4: yeah but that's ] then you use that formula.
+S4: that's gonna be, T-one right? T-S is going to T-one.
+S1: right yeah [S4: (i mean) you don't know ] you switch_ yeah. you don't know
+S4: what do you_ what do you have for your for your T?
+S1: for your what?
+S4: the T
+S1: T is what you wanna solve for.
+S4: yeah but you don't know
+S1: like it's a temp-
+S4: if you don't know H, you said you kno- you don't know H (you have to use)
+S1: no no if you don't know H you don't use_ see if you know, if you know the surface temperature you don't worry about these parts. you only, use the first, you on- you only, use the first
+S4: oh okay, alright just this one right here?
+S1: term right. [S4: alright ] okay?
+S4: yeah
+S5: oh just uh one quick_ i know you use alpha in this equation, uh, is rho a solid? is the K a solid?
+S1: yes
+S5: the- these are all for solids?
+S1: for, w- whichever material you're talking about but_ right in these equations it's for solid.
+S5: okay
+S1: in Prandtl it's for liquid,
+S5: oh, yeah
+S1: for fluid right?
+S5: yeah yeah
+S1: okay. so in this one (is just_) everything is for solid. [S5: okay ] alpha is for the same material like all of them are for same material. okay? i mean all everything actually Reynolds, Prandtl Nusselt everything is for the same material except for Biot.
+S5: yeah, okay
+S1: in Biot, H is for fluid, uh K is for solid, okay.
+S3: well, um temperature is_ i'm getting confused about this. [S1: uhuh ] for the, this one we're supposed to use the bulk temperature so is that a_ the average of the two temperatures?
+S1: no no you have, two different cases. [S3: okay ] for the first_ for the, cooling cycle you need to, do your you know like you, for this cooling cycle you need to (xx) your properties at this temperature and do your calculations based on this temperature and those (cool) properties [S3: okay ] and get an H. [S3: okay ] that's H for the_ c- cooling cycle. [S3: okay ] and then for the heating cycle you have_ you do the same thing, so you have two different Hs one is [S3: okay ] for the cooling cycle, one is for heating.
+S4: if you know H you don't know (xx)
+S1: mhm
+S3: okay so then when we, do the, plot of it we're gonna have,
+S1: for each, for for the five, first five seconds you use the H for, [S3: oh okay ] the heating for the s- next five seconds you, use the H for cooling. [S3: okay ] okay? and then again repeat, alternate between them, right?
+S3: okay. um and then, assuming, can we, check the Biot number or if we have two different Hs?
+S1: you have to check the Biot number for both cases, and see if it's
+S3: okay i- it has to work for both cases [S1: yes ] in order to use that? okay.
+S1: yes yes if it works for only one case then lumped (key) capacity is, valid for that cycle and then, you can't do lumped (key) capacity for the other cycle because it's [S3: okay ] not valid. [S3: okay ] so you have to make sure it's valid for both cycles so [S3: okay ] (xx)
+S3: and then, we want, we wanna graph the temperature naught, the theta over theta-naught right?
+S1: no you wanna, plot the the temperature itself.
+S3: okay
+S6: and is this, is this, equal theta over theta-naught or is this just theta?
+S1: no that's theta over_ well it depen- depends on how you define your theta. sometimes theta is
+S6: oh okay cuz i know i saw it written as theta equals this but [S1: right ] then i thought that was
+S1: yeah, because som- usually how they define theta is, a nondimensionalized thing so it's actually this whole thing is [S6: okay ] thay- theta. [S6: right ] but i remember in the book, where was that? there was an equation that was theta over theta-naught remember that? [S6: uh, i don't know ] um for the fin.
+S6: oh okay
+S1: for the fin. it was theta over theta-naught that that was how they defined it which is not very good they usually don't dimensionalize it so
+S6: okay so we wanna actually solve it for T?
+S1: yes
+S6: okay
+S1: correct
+S6: and then, on the third one, [S1: uhuh ] i was confused about temperature again. because, [S1: okay ] they give us this temperature, but [S1: mhm ] (xx) the film temperature, [S1: mhm ] and we don't know what the temperature of the wall would be. [S1: right ] so, are you supposed to use, conduction through it? or you don't
+S1: um, you don't know the k- material [S6: yeah ] right? you don't know the K [S6: yeah ] you don't know the thickness [S6: yeah ] you don't (xx) okay so, we want to_ we want the temperature at (xx) at this location right?
+S6: yeah
+S1: so, let's say if we knew that temperature if you could evaluate the film temperature, and you could do all our (xx) calculations right?
+S6: yeah
+S1: so what if guess on, guess just the temperature for the walls, evaluate our film temperature, and get our physical properties, and then calculate an H, okay?
+S6: okay
+S1: and because we know we can calculate Nusselt numbers [S6: mhm ] we know our physical properties and ca- calculate an H for here and then from H and Q, i know Q and i know H, i can calculate then the temperature of the wall. right?
+S6: yeah
+S1: because it's [S6: (xx) (it) ] like Q is equal to H times delta-T.
+S6: delta-T okay
+S1: okay? so first guess, first just guess a, wall temperature in order to evaluate your physical properties and then just, don't worry about that, guessing, okay? just first guess one, get your physical properties, okay? and then calculate your H, and then calculate your temperature of the wall, of the plate.
+S6: this won't be run? you don't have to iterate?
+S1: y- then you will have to iterate, well yeah, then once you [S6: oh oh then, okay ] [S3: yeah, but then ] get that then you put it back into (uh here) and then (xx)
+S6: then you have to re-
+S3: review your physical properties?
+S3: find your properties
+S1: yes
+S6: okay
+S3: okay
+S1: but if you're smart enough you can, you can guess a value which is, close. [S6: okay ] because, you don't you probably don't wanna guess a value of the, w- w- w- wall temperature to be i don't know like_ if this is twenty-five, and heat is being added to this thing, you know that it's probably gonna be, greater than, twenty-five [S6: uhuh ] for sure right?
+S6: right
+S1: don't guess like zero. <LAUGH> okay?
+S6: uhuh okay
+S4: alright, so um
+S6: yeah, okay
+S3: okay
+S1: it should get you there in two iterations or something. it shouldn't take, [S3: okay ] (eight million years.)
+S3: alright
+S6: thank you.
+S3: okay. thank you.
+S1: and one more thing, one more thing you can do, guess um, in order to make the first iteration easy, guess something that makes the film temperature, a temperature that you don't need to interpolate for.
+S3: okay
+S1: okay?
+S6: right, (one that's) on the table?
+S1: so you just (read them first time.) [S6: okay ] right. okay? <SS: LAUGH> tips right? tips.
+<SS: LAUGH>
+S7: this i (am) still doing this.
+S1: okay
+S7: <LAUGH> and i did, i finally did this (but i haven't been) able to correct it. [S1: okay ] i mean (xx)
+<UNINTELLIGIBLE SPEECH>
+S7: i mean i've done it (four times and then)
+S1: thi- this is correct.
+S7: it's cool? okay
+S1: i think it's correct. um i don't remember the exact final answer but, this looks right.
+S7: if this is- if this what you_ this is right you know i just i mean i don't think i messed it up.
+S1: okay
+S7: you know?
+S1: lemme just make sure this is right then. <PAUSE:05> T-naught and then minus yeah this is right.
+S7: okay cool
+S8: (should be right now. plus,) question one i did it_ i think an easier way you said you_ we should use like a, homogeneous (anaparticular) solution (and combine them.) [S1: right right ] i think it was easier just to do, what'd i do? well i i scratched it out but, in general, i just like_ you have D-T-D-T equals some (xx) constant with like this T in front of it, [S1: right ] minus-T can't you just move the whole thing
+S1: minus it's_ th- you have a constant multiplied by T (through) right? it's like some some other constant?
+S8: it's like (xx)
+S1: right, yeah, okay
+S8: so you move that down here,
+S1: yes
+S8: and this integrates relative to that and you have like a natural log (xx)
+S1: uh that's not then the homogeneous solution, right? that's that's solving al- everything all together [S8: right? ] right because you're
+S8: is there anything wrong with that?
+S1: no no [S8: oh ] nothing's wrong with that. it just your constant will be really big and the math is a little bit too involved.
+S8: yeah like my constant was, like that with [S1: yeah ] T-naught at the end
+S1: right [S8: so ] as long as you make sure you don't make a math mistake <S8: LAUGH> the method is right. [S8: okay ] but the math is really involved so,
+S8: yeah just don't make a mistake.
+S1: solving solving the homogeneous part and then adding the particular solution is easier.
+S8: okay maybe if i have time this weekend i'll do that.
+S1: okay great
+S8: okay? fine. <LAUGH>
+S9: (i have a) question (xx)
+S1: right
+S9: um, this is correct right? to find a particular solution?
+S1: yes
+S9: you say that it's (xx) and then, (xx) and then you solve it?
+S1: yes, yes i think i saw this yesterday yeah.
+S9: okay, but then the final_ (this is) probably_ i'm hoping that it's right like you just solve for C, C-one, (xx)
+S1: (xx) once you, [S9: okay ] plug that back in, then you solve for your_ first you plug your um, particular solution in and then you solve for your constant by using the (xx)
+S9: okay i put the both both parts Y-sub-C and Y-sub-(xx)
+S1: yes yes
+S9: okay and then you solve for C-one.
+S1: correct
+S9: okay
+S1: and yeah, shou- i mean your [S9: okay ] method is right. [S9: okay ] as long as you don't make a math mistake.
+S9: okay thanks
+S8: i just have (xx) question in two now, with what you said and that, what i did was i just, what'd i do? i first, i got all the properties_ i can just write on this. i got all this and i calculated a Reynolds number and from that you can use this correlation to get the Reynolds_ or the Nusselt number. [S1: correct ] and you can get H from that and then calculate the Biot number and then figure out_ say its like lumped (key) capacity, so you can [S1: uhuh ] you can use this equation here, [S1: right ] all these constants_ i don't know if that's the right equation but, these constants here that i know there's a s- i know there's a s- a a, heat capacity and a density. [S1: right ] that's up the steel wire though right?
+S1: correct. you're talking about the solid. you're talking about the temperature's trajectory of the solid right?
+S8: the solid that's why that's why i use,
+S1: everything is for solid
+S8: it's_ everything is for the solid except for H.
+S1: for H. exactly. H is for fluid around it, everything else is for solid.
+S8: okay and, that's that's a (pretty small T let's see) does it matter that the air's going this way or this way? does it
+S1: no. doesn't matter.
+S8: i did- i didn't think so.
+S1: no, it doesn't matter. it's just flow, past a cylinder, [S8: right ] perpendicular to the axis of the cylinder.
+S2: okay well, i don't know like but my plot was something like that i don't know if that's
+S1: okay you're i know what you're doing probably. oh wait.
+S2: this is time
+S1: no it's not, it should s- it should start going off really fast [S2: fast ] because, um, you'll pro- what kind of degeneration are you putting in? how much of the degeneration (are you putting in) the Q-dot? um oh wait that's for the okay second one no never mind. um, that's the H is V-point which one is for the, heating one? [S2: uh ] this is for heating cycle, this is for cooling cycle?
+S2: this is for the heating cycle.
+S1: this is for heating cycle, [S2: yeah ] okay.
+S2: so H is like forty-two
+S1: H is pretty big and then you don't have much of internal resistance so it should go up very fast. [S2: oh ] yeah, so you pro- and it should go u- go up exponentially too because you know the solution is exponential [S2: yeah, okay ] right? so you're probably (making it)
+S2: i sh- i sh- probably shoulda (got one of these)
+S1: you're probably the way the way you plugged the formula in (xx)
+S2: this is this is this is this is the thing that's bad. [S1: uhuh ] so this is something that's, (xx) then this is (xx)
+S1: uh probably you're just plugging in the formula wrong because, everything is right here. um i mean you're_ you have the right formula (to combine that) so you should be able to
+S2: use the (sample) (xx) [S1: okay ] and, i'll worry about (xx)
+S1: minus, what do you have? min-
+S2: i don't even know if that's the formula (or not)
+S1: well okay just to make sure you put the right formula. it's H-A over rho-C-P-V, times T.
+S2: it's
+S1: H-A over rho-C-P-V times T. the whole thing times T. [S1: right ] right the whole quantity.
+S2: okay. [S1: so ] (xx) and A is the surface area (xx)
+S1: yeah. A is the surface area of (both) V is the volume of the sphere.
+S2: do you consider this a long [S1: of the, (long) ] a long cylinder? cuz like you figured out surface area.
+S1: doesn't matter.
+S2: it doesn't matter about the edges?
+S1: oh you can you can put it in but it's the same thing. like it gives you, it gives you pretty much the same answer [S2: okay ] if you just worry about the outside surface area and neglect the two edges, the two ends, that's fine.
+S2: (xx) okay (i won't worry about it)
+S1: you can_ i mean_ it's just a formula right? you can just calculate it and [SU-m: yeah ] assign a cell to it and,
+S2: yeah okay
+S1: okay?
+S2: (xx) okay, that's, all.
+S10: (xx)
+S1: those are the surface area of the fin.
+S10: they are? then what is the face area of the fin?
+S1: that's the cross-sectional area, perpendicular to the direction of heat transfer.
+S10: so when, so, so when is (sh- he) using this?
+S1: when you say Q is minus-K-A D-T-D-X, that A is the cross-sectional area. perpendicular to the direction of heat transfer.
+S10: but he's not using that in here.
+S1: um, no. probably, might be an M.
+S10: (is it um) in in the C like this is like the same equation but except this is H-A and this is (C-A)
+S1: it's A-F it's the same thing. oh K, no oh okay you know what he's doing? he's, doing the_ well okay, he's um, okay he's doin- what he's doing he's saying like the heat transfer is the same, all the heat transfer that is here, [S10: mhm mhm ] comes from the base of the fin right? so, this if this is conduction then this would be the, cross-sectional area of_ perpendicular to the direction of the fin.
+S10: so, so i but i can use either one of these (equations)
+S1: yes actually this is easier. this is much easier. as long as you know the efficiency of the fin
+S10: yeah (xx) (but i just wanna make) sure this i know what this is, this is cross-sectional?
+S1: yeah cross-sectional because whenever you talk about conduction it's minus-K times A D-T-D-X right? and that A is the area, perpendicular to the direction of heat transfer right?
+S10: mhm
+S1: (alright?) so that that's the area that that's how it comes in the picture.
+S10: uh, so, [S1: mhm ] but then, should this, part this part is part of the, efficiency, so what happened to this (Biot number?)
+S1: well you had the temperature profile and you took a derivative of it. right?
+S10: well w- wait the Biot number, is less than (xx)
+S1: and that's how this, um that's how they did this because that's not_ see they have this formula for the temperature profile they take the derivative of it and they get this. okay? and since this A-M is not the same as this, A-F and since this K is not the same as this H you don't expect, to have all the terms here (like) they just cancel out.
+S10: (that's what you use for this cycle?)
+S1: right
+S10: so using this would probably (use them here?)
+S1: that'll be easier right.
+S10: okay
+S1: yeah
+<TRANSCRIPT ABORTED AT 26:34; POOR SOUND QUALITY LAST 42 MIN><BEGIN SECOND TAPE; RECORDED 10/25/00>
+S1: alright. kay so, let's go on with your questions. you came first [S11: go ahead ] right ?
+S12: yeah, [S1: okay ] okay, i wanna talk about number three.
+S1: okay
+S12: i think i know how to do it but, like i didn't_ i'm not sure i'm like setting it up right, [S1: mhm ] we can do spreadsheets for both parts right?
+S1: yes
+S12: it's easier to do it that way.
+S1: correct
+S12: so i was thinking, you wanna guess this temperature right?
+S1: yes
+S12: calculate the
+S1: why do you wanna guess the temperature?
+S12: so you can calculate you wanna calculate you don't know the H, the heat transfer coefficient (xx) here
+S1: right okay
+S12: right?
+S1: correct
+S12: so, you wanna guess that so you can calculate G-F to evaluate the properties, to, you know do the Nusselt stuff to calculate H-all? or am i doing this wrong?
+S1: no that that's correct. [S12: okay ] you need the Grashoff number too right? yeah Grashoff and Prandtl.
+S12: yeah a- and Grashoff and Prandtl.
+S1: okay.
+S12: okay, and then you wanna calculate, the, Q through here so then you can go back and recalculate this,
+S1: correct
+S12: to make sure it's right.
+S1: yes
+S12: so, but the question i was having is, you can either calculate Q like this, like being convected from this, or Q through here right? they'll be the same thing.
+S1: do you think they'll be the same thing?
+S12: won't they?
+S1: well i'm just asking.
+S12: yes
+S1: yes, it's steady state.
+S12: cuz it's steady state.
+S1: right yeah.
+S12: okay
+S1: okay so it doesn't matter if you
+S12: if you calculate it either way.
+S1: right. and the other thing is, you don't actually need this temperature do you?
+S12: you don't yeah no.
+S1: right you can jump from h-
+S12: and on the second part you don't need the temperature on the inside of the insulation.
+S1: inside of the insulation no you don't need it [S12: no you don't. yeah ] because you can jump [S12: yeah ] from the inside of the room to the outside [S12: t- yeah ] of the insulation right?
+S12: okay, so i understand that, so i kinda_ yeah it's just setting it up that kind of confuses me, like what
+S1: what to guess first and how to proceed you mean?
+S12: ye- well i kind of, made just like a reason that it would be closer you know to this obviously than this and, i kind of (been) more confused on the second part how, it's the same, it's the same idea for the second part right?
+S1: yes
+S12: except you're gonna guess three temperatures.
+S1: which are, which temperatures?
+S12: the temperature_ like th- if this is the inside of the insulation the temperature on the inside of the insulation inside of the window and the outside of the window.
+S1: so outside of the insulation you mean. not inside of the insulation.
+S12: yeah, yeah, sorry.
+S1: okay, right, yeah
+S12: in between the space.
+S1: correct [S12: okay ] so but these three temperatures are all related right? it th- it's not that there's three independent temperatures you you [S12: no ] guess them independently first, but then they're all related t- through the Q because at steady state the Q is the same that goes through, all of them right?
+S12: mhm
+S1: so, you guess the three temperatures but, what you can calculate all three in one step, right? in each step of your iteration you can calculate all three different temperatures. because if you know the Q, right? you can jump from, the inside of the room to the outside of the, um plastic, and calculate this temperature. and the with the same Q you can jump from here to here, you know to the inside of the window and calculate the temperature of the inside of the window with the same Q you can, jump from the inside of the room to the outside of the window, so all three temperatures can be [S12: dependent on this thing, here. yeah. ] calculated in each iteration step. right? and then you, then the new, three temperatures that you calculate are are your next guesses. you put 'em in, into your next step of iteration.
+S12: yeah
+S1: right?
+S12: yes
+S1: so it's basically the same thing as part A it's just like three different temperatures that you have to guess. and as long as you guess them, you know like physically they're close to, what they're really going to be
+S12: it should be a good iteration and you [S1: yeah ] don't have to do it [S1: it's like in ] that many times.
+S1: no i think it should converge in like
+S12: couldn't you [S1: four ] can you do a circular reference? or is it
+S1: yes
+S12: better to do
+S1: um circular reference
+S12: you know what i'm saying like, [S1: i- di- do ] can't recalculate it and then have the first cell that you guessed reference that last one?
+S1: yes you can do that yeah.
+S12: okay
+S1: right so, like you calculate the temperatures and then the temperatures that you calculate here you say these cells are [S12: (xx) yes ] these temperatures right? but don't do the same ce- cells go down. you know what i mean? like don't do_ like if you guess the three tha- temperatures and you put 'em here, don't say that these three, are, put into this cell again. put 'em in in the next, row. you know what i mean?
+S12: no i have no idea.
+S1: okay. you guess_ you have three cells for the temperatures right? one
+S12: mhm
+S1: two three. so this is like T-one T-two T T-three and then you go on and you calculate these three. okay?
+S12: mhm
+S1: don't put these three in the same cells put 'em in the next row. put 'em here, and then, go on.
+S12: ohh, i see what you're saying and then do, redo that.
+S1: yeah because this way you know like you're referencing something to to itself it's not good because, sometimes Excel, gets confused. <LAUGH>
+S12: oh i see what you're saying
+S1: okay?
+S12: um, okay then the only other, thing that, i have a question on, for the second part, is, do we do i wanna like go about it with the same steps like first calculate, this H, to calculate, you know, see i- it doesn't make as much sense to me there i guess.
+S1: why? tell me what your thought process is.
+S12: well cuz i know that you you don't_ for the second part you don't need this H_ you need this H and you need this H right?
+S1: correct
+S12: to calculate, the Q.
+S1: yes
+S12: <PAUSE:07> so would you calculate like, i know you said y- that you guess all three at the same time and then you qui- <PAUSE:04> i'm not, it's not making as much (sense to me.)
+S1: if you if you guess the three temperatures right?
+S12: yes
+S1: can you calculate all the Hs that you need?
+S12: yes
+S1: yes. so what's the problem?
+S12: oh okay. i see what you're saying. it's ju- but i'm just, yeah yeah
+S1: you don't understand what?
+S12: no i just don't understand like what sh- i should go about doing first.
+S1: you just guess three temperatures you know all your Hs right? if you guess the three temperatures, okay?
+S12: then you do know the Hs. oh okay i see what you're saying.
+S1: yeah you know the Hs so so you can calculate the Q [S12: yeah ] and, by knowing Q you can cal- recalculate the temperatures that you guessed, and put 'em back into the next step. [S12: yeah ] right?
+S12: yes, yes, okay
+S1: does that make sense?
+S12: yeah no it makes sense i just, you know i'm thinking, like doing, i'm th- still thinking about it like one at a time like do this one, and then calculate this to recalculate that (but then) you should just do it all at once.
+S1: no no no no no. no no. calculate one at a time you know why? because, the Q that's going in here depends on this H right?
+S12: mhm
+S1: right? you can't just jump from here to here because, first of all, um, if you
+S12: cuz all of the three temperatures depend on each other.
+S1: yeah, they all depend on each other [S12: so everything ] so you kn- you need to know this H, right? so you can't really guess just one temperature,
+S12: okay
+S1: okay?
+S12: but it makes sense if i do that for the first part.
+S1: yes, because, for the first part you can jump from the inside of the room to here right away. but, in the second part if you want to jump from the inside of the room to the outside of the window, on your way there's an H that you don't know so you can't calculate a resistance for this part. unless you know these temperatures wh- which you guess.
+S12: okay
+S1: okay?
+S12: mhm
+S1: so just start, start working on it it'll make more sense to you, once you start.
+S12: i i mean i do i have a spreadsheet set up for the first part.
+S1: no no on_ for on for the second part i mean. [S12: oh yeah ] okay?
+S11: okay i have um (xx)
+S1: that was all? you should stay. <LAUGH>
+<S11: LAUGH>
+S12: what?
+S1: you should stay.
+S12: yep
+S1: we need, words here. <S12: LAUGH> okay
+S12: (unless you use_) we use, we use bad words.
+S11: uh, for the first one um, i know it's like flow through a pipe but, you need to know what regime you're in don't you?
+S1: yes
+S11: you need to_ so, to do that you need to calculate your Reynolds number?
+S1: correct
+S11: um, do you, do you need a rho? or
+S1: you need a rho for what?
+S11: a density o- of, rho of the oil flowing through the pipe?
+S1: hmm hmm hm hm
+S11: is there a way to get around that?
+S1: did we not give it to you? okay we didn't give it to you okay but, um what is rho-V?
+S11: oh um, if you have, mass (xx) (Q) oh it's just mass? rho times V
+S1: no V meaning velocity.
+S11: oh the velocity?
+S1: yeah
+S11: oh K-G per area
+S1: right
+S11: so you can multiply that by,
+S1: it's kilogram per second per area right?
+S11: yeah
+S1: so it's like a mass flux. correct?
+S11: okay.
+S1: right?
+S11: so yeah
+S1: so the mass flux so it means tha- i- if you know the mass flow rate, and you know the area you can calculate that, right?
+S11: oh yeah that's right okay.
+S1: okay?
+S11: you can just divide, uh
+S1: and do you know, those parameters?
+S11: yeah i can, i can play around with the units and (figure that out.) [S1: um ] but i (just wasn't taking it)
+S1: see that's_ yeah, so that's, that's the mass flux going in here. [S11: mhm ] so you know the mass flow rate, [S11: mhm ] and you know this area. if you divide this mass flow rate by the area you get the mass flux. so that's [S11: (xx) okay ] rho-V
+S11: alright okay
+S1: all together.
+S11: okay
+S1: okay?
+S11: um, for the second one i thought i knew how to do it but, there's nothing that we applied, like that we learned, recently right? there's no natural convection or anything?
+S1: no there's no natural [S11: okay ] convection.
+S11: and then can you assume that the, ice is, zero degrees or the bulk of ice?
+S1: yes, yes that's zero.
+S11: (are they_) okay so delta-T would just be ten degrees.
+S1: well actually you're only, you're only worrying about the surface of the ice right?
+S11: mhm
+S1: and the surface eye- of the ice which_ i- it's melting right?
+S11: mhm
+S1: so it has to be at zero.
+S11: oh it has to be zero degrees okay.
+S1: right? and the other thing is though, did you_ okay so, your solution scheme is right, but, once you start doing it you'll realize that there are some other things that you need to worry about. [S11: (alright) ] your solution scheme is right but you haven't done it right.
+S11: no not yet
+S1: okay so, so you want
+S11: should i go ahead and try it first?
+S1: yes [S11: okay ] you want to model it as_ well okay if if you have questions ask it.
+S11: okay. well i haven't, i haven't tried it yet so i don't know if i
+S1: okay so, um, your_ you want to model this as a flow over flat plate right? [S11: mhm ] okay that's fine, that's fine.
+S11: okay alright
+S1: just go ahead and do it and and you'll probably a- ha- have some more questions then.
+S11: oh alright okay, and then, i haven't really tried number three yet so
+S1: okay
+S11: okay thank you.
+S1: sure... um, this one was Regina's right? i think she left [S11: yeah ] it here.
+S13: okay i think i was, [S1: hey Brandon ] kinda listening in, what you were talking about, i was looking for rho as well, so you take, you said rho velocity equals uh, the... the mass flux
+S1: yeah, check out, check [S13: mass (flow) (xx) ] the units and see what it gives you, [S13: (xx) ] rho velocity.
+<PAUSE:18>
+S13: so it's, kilograms per meters squared per second?
+S1: yeah, so it's kilograms per meters squared per second it means that it's like a mass flux right?
+S13: mhm
+S1: because flux is, quantity per unit time per unit area. [S13: mhm ] right? so that's a mass flux going into the tube. [S13: mhm ] so, if you can calculate the mass flux somehow, okay you can get around, you know like calculating rho-V, calculating rho individually and multiplying it by V, now you know the mass flow rate in here right? the total mass flow rate
+S13: yeah, mhm
+S1: and you know the area that it's going through, [S13: mhm ] right? the perpendicular to the flow. um, so you can calculate the mass flux right?
+S13: mhm [S1: just like ] so then you calculate the mass flux and then, do you know the (xx)
+S1: well rho-V itself is, [S13: yeah ] the mass flux. [S13: mhm ] so you don't know the ve- you don't need to know the velocity do you?
+S13: mm... no, but
+S1: because rho-V is the mass flux and you calculated the mass flux why would you need the velocity? right?
+S13: mhm
+S1: you know the rho-V, so, [S13: okay ] and that's all you need i mean you put it_ you say rho-V and then you'd multiply it by D divided by the viscosity gives you Reynolds number. right? [S13: okay ] mhm
+S14: i need to talk to the uh, advisor himself. <LAUGH>
+S1: what's going on?
+S14: when you done man?
+S1: huh?
+S14: how how long you gonna be here?
+S1: i'm gonna be here until one-thirty.
+S14: ah
+S1: why?
+S14: i was just gonna see if you wanted to go eat. i hate [S1: oh ] eating by myself.
+S1: you do? i have office hours i can't.
+S14: i guess so
+S1: can't leave this room.
+S14: you can't leave? come on
+S1: no <LAUGH>
+S14: alright
+S1: okay
+S14: have fun
+S1: have fun, bon appetit
+S13: kay what, what Reynolds numbers am i looki- i mean, i found_ i mean like the only ones i s- ever saw were like, these i mean, these ones
+S1: the Reynolds numbers? what, what do you mean like the formula for Reynolds number?
+S13: like is it just like a regular Reynolds number?
+S1: yeah [S13: okay ] it's flow in a pipe.
+S13: okay
+S1: so it's just rho-V-D
+S13: kay
+S1: over mu...
+S13: and that's for the, i mean you're using_ i guess this_ like it has a like a film temperature or a bulk temperature
+S1: it's a bulk temperature [S13: yeah ] in the, in the
+S13: in the pipe
+S1: pipe um you don't need to worry about the film temperature it's all [S13: yeah ] bulk temperatures. so that's the average bulk temperature that you need and we assume that, the physical properties are constant throughout the pipe, [S13: mhm ] and we just put those values in, okay?
+S13: okay
+S1: <PAUSE:06> so, okay.
+<PAUSE:05>
+S13: i think i was using the (wrong ) (xx)
+S1: hi Scott.
+S15: hey Ali.
+S1: how's it going?
+S15: pretty good. how're you?
+S1: good. <PAUSE:14> okay, i'll get to Scott and then, get back to you okay? <PAUSE:04> most of this is yours, i think i forgot mine.
+S15: okay
+S1: so what's up?
+S15: uh, for the first two i'm checking if i did it right,
+S1: okay
+S15: and the third one i was gonna, ask for some advice. <LAUGH>[S1: mhm ] um, let's see. so the first one i'm considering, what'd i do? what page? trying to think of my setup. oh i find Reynolds because it's a flow, so it... so then you can find Nusslet , and know what H i- or, Nusselt number what equation to use.
+S1: okay, mhm
+S15: and so then you can find an H.
+S1: yes
+S15: so then, you just set the Q equations equal to each other,
+S1: um the Q equations being
+S15: um, you know, you know this equals that and it also equals, M-sub-P.
+S1: um M-dot-C-T, well_
+S15: see the delta-T is d- different.
+S1: okay yeah what delta-T are you using here and what delta-T are you using here?
+S15: okay that's, this one's the fluid, delta-temp_ like from, the wall to the center, right? and then,
+S1: to the to the bulk.
+S15: yeah to the bulk yeah. [S1: correct ] so then uh and then this is from inlet to outlet.
+S1: exactly
+S15: okay
+S1: okay great
+S15: yeah i i suppose i should, define that a little better <LAUGH> better but, yeah i put that in there. okay
+S1: okay so delta-T-two, is
+S15: is the, inlet (to outlet)
+S1: so this is your T-out? seventy-four?
+S15: yeah
+S1: i think it's a little bit, low.
+S15: oh yeah?
+S1: i'm not sure but i think, [S15: i- ] because you know i um
+S15: it can't go much higher though cuz it's only seventy-seven.
+S1: well, this seventy-seven is supposed to be the average, somehow, you know like, the average of the bulk temperature. [S15: oh ] so it should [S15: oh ] be, so your outlet should be, around ninety degrees Celsius or so. so just check your calculations it's, your method is right. [S15: okay ] but just check your calculations and see if you, um did everything right. this should be [S15: so ] fine...
+S15: oh because, like when i take a delta-T, of uh, when i have a like, this delta-T, is that from ninety-eight, not to seventy-seven cuz that's bulk? is that where i'm doing it wrong?
+S1: no i think that's right. [S1: okay ] so because it's it's to the average bulk temperature.
+S15: okay it is to (that)
+S1: so ninety-eight, is your wall [S15: wall ] temperature right? so ninety-eight to seventy-seven is this one, [S15: mhm ] and then this one is inlet to outlet. inlet [S15: okay ] being sixty. it should be fine then, i don't know. the final answer_
+S15: i'll i'll just look it over
+S1: yeah your method is right and i don't know the final answer but it should be around ninety degrees Celsius because, um, that's why we gave you this average. [S15: oh ] okay because the physical properties have to be at the average bulk temperature right?
+S15: mhm
+S1: and we give it to you at seventy-seven so it should be, around ninety. [S15: okay ] or eighty-nine or something. so, yeah but [S15: oh okay ] your method is right
+S15: okay
+S1: okay now the second one
+S15: okay and then
+S16: i'm gonna listen in and <LAUGH>
+S15: yeah, <LAUGH> um, <S1: LAUGH> for the second one um i found a film temperature, and then evaluated a bunch of physical properties, [S1: okay ] and i also set, um, i set my mass rate equal to rho-L-W D-D D-T.
+S1: um rho-L-W okay, um L-W D-T right yeah correct. [S15: okay ] mhm [S15: um ] rho is for?
+S15: um the ice
+S1: correct
+S15: yeah
+S1: okay.
+S15: okay so then i, um i said okay i foun- first i have to find a Reynolds number to do, figure out what region i'm in. [S1: (right) ] and i did have one question because, um i_ it said it'd be over the entire system. [S1: correct ] so you'd use, but um, i took the mean length and i'm not sure if that's what it_ you're supposed to do.
+S1: mean length between where and where?
+S15: because i_ because it's not square, so i wasn't sure so i said, it's gonna be the average of these two, that's what L would be, because it's point-five, kilometers by, [S1: but ] one kilometer?
+S1: no but when we were talking about flow over a flat plate, the L that we're using is just, in the direction of flow. we don't care how wide it is right?
+S15: oh really?
+S1: yeah we only, care how long it is. so the L should be the length, always.
+S15: oh, oh it's always length.
+S1: yeah, if you're modeling it as a flow over flat plate.
+S15: okay. well then i can change that but, i don't think it will change it that much so then i just found, i found that (as in) turbulent and i think it'd still be if i used a thousand.
+S1: yeah because it's even higher right?
+S15: yeah oh yeah <LAUGH>
+S1: because L is even higher [S15: yeah <LAUGH>] right? so it's t- [S15: okay ] just say it's still turbulent.
+S15: okay. so then i could find an equation for Nusselt. [S1: correct ] and, i got P at_ Prandalt from there, [S1: mhm ] i have, that, so then i can find an H.
+S1: okay, and is this an average H or a local H?
+S15: it'd be average.
+S1: okay
+S15: i think, the equation <LOOKING IN BOOK> (xx) that's a good question. uh yeah page (two-forty-nine.) <PAUSE:04> (oh yeah) <PAUSE:04> both parallel looks like Nusselt <PAUSE:04> i don't know yeah i i'll just used this, it said for turbulent region, yeah and this is for R-E-L okay so yeah it should work.
+S1: right. now, that thing_ you remember we talked about this in the class, that this is for the case where, all of your heat transfer is occurring in the turbulent regime.
+S15: oh, oh so i should do a laminar (xx)
+S1: so that's, that's what they say like the completely turbulent, region. [S15: oh ] so this is a, fo- only for the case where all the heat transfer is occurring in the turbulent regime. [S15: mhm ] now in this problem part of it is in the, laminar regime right? [S15: oh ] now, the way that you wanna go, about this is, you need to calculate a, you need to calculate an average H, for the whole thing.
+S15: okay so
+S1: okay
+S15: do you, kinda, do you use like a what a (level ruler or covar) or like because y- you know a set length's gonna be in laminar and a set's gonna be in turbulent,
+S1: yes
+S15: so then you take the average, like they're weighted, or something or (xx)
+S1: um you, okay but considering the turbulent, how do you want to consider the turbulent part say that, um, tell me how you want to consider the turbulent part. [S15: um ] do you want to put_ what kind of L do you wanna put in there and what kind of, Reynolds number do you wanna put in there?
+S15: oh, obviously you (couldn't,) your L would be, if i remember right it's the entire region isn't it? when you calculate, Reynolds?
+S1: yes okay lemme, give you a hint, you work on this, because it's not, you can't really see it, unless you start working on it mathematically.
+S15: (get) another sheet here <LAUGH><TAKING OUT SHEET OF PAPER>
+S1: uh yeah just [S15: (xx) ] is this_ were you gonna turn this in?
+S15: yeah oh well i can find some more paper
+S1: here, just (take this one off) <S15: LAUGH><PAUSE WHILE REMOVING PAPER> okay, so, wha- the f- the way we calculate the average heat transfer coefficient is we just, integrate it over the whole thing over the whole length right? so we say H-average, is just, one over length, okay the integral, from zero to L, of H-local-D-X. okay? this is [S15: oh ] how we calculate the average right? and we have to mul- di- divide this by L because we're multiplying it by a dimension here, (like) in the integral. [S15: mhm ] H is varying with X so we inte- we integrate it from zero to L, over X and then we divide by L to get a right dimension, right?
+S15: mhm
+S1: now, the way we wanna do it here we want to break this, because we have two different equations for i- local heat transfer [S15: yeah ] coefficient in the [S15: yeah ] laminar and turbulent regime, so we say H average is just one over L, and then we, do the, do the laminar part separately, X-C being X-critical.
+S15: okay and you find that.
+S1: that's where_ yes, that's where it becomes turbulent right? [S15: mhm ] so H-A-X for laminar, D-X, from zero to X-C, plus, from X-C to the L, [S15: yeah ] H-X for turbulence, D-X okay? [S15: okay ] now, you don't really need to do this, plus, you don't know the, local heat transfer coefficient for the turbulent right? they don't give it to you they just give you the, average one right?
+S15: yeah
+S1: this one is, the laminar one is just, point-three-three-two, Reynolds to the one half, Prandtl to the one-thirds, [S15: mhm ] right? but this one you don't know. you don't know the local one they just give you the average one right?
+S15: yeah yeah
+S1: okay but you know, first of all this thing you know when you integrate it what kind of, um what kind of a constant it gives you here because it's done for you right? [S15: mhm ] correct? the the laminar part it just gives you point-six-six-four, right?
+S15: oh yeah yeah
+S1: so this one you're all set, you jus- you know this point-six-six-four Reynolds, to the one-half and this Reynolds is at X-C, [S15: mhm ] Prandtl, to the one-thirds, [S15: mhm ] and Reynolds at X-C you know what it is it's just five times ten-to-the-fifth right?
+S15: oh yeah, yeah
+S1: because that's where it becomes turbulent [S15: yes (xx) ] right? so you know this part this part is_ you're all set. [S15: mhm ] now on this part, you you don't know this H-X you don't know the, [S15: (constant) ] um local heat transfer coefficient [S15: yeah ] for the turbulent part but you know, if you, [S15: oh ] if you calculate it from zero to L-H-X-turbulent, D-X, it gives you point-oh-three-six-six Reynolds to the point-eighths Prandtl to the, one-thirds right?
+S15: mhm
+S1: so what will happen if you calculate from X-C to L? just think about it's very easy, you can find
+S15: um, it would it'd be half wouldn't it? or am i thinking it wrong?
+S1: no, [S15: wait X-C ] the only thing is,
+S15: oh oh oh
+S1: you know, you d- you have to, you have to think about how X comes into picture in an in, heat transfer coefficient it's only through Reynolds right? [S15: oh ] so if you integrate it from zero to L, you will have Reynolds-to-the-point-eight. [S15: mhm ] if you have_ if you calculate it from X-C to L, wha- what kind of a, Reynolds number will you get? i mean, what will be the, form of this? the constant will be the same. [S15: oh okay ] because you know when you integrate it it gives you this. but then the Reynolds number, will take a, different form just think about it, for a second and se-
+S15: oh i would think, just to the one or is that? (xx)
+S1: uh the power shou- probably shouldn't change because
+S15: wait the power doesn't_ this, this is only changing? or the pow-
+S1: no the_ even this is not changing the form of it is changing just just how you, calculate it. um think about how y- when you when you integrate this you say that's the integral of this and then evaluate them at the two limits, right? [S15: mm ] and you get this, correct?
+S15: yeah
+S1: because lower limit is zero. if the lower limit is not zero, what would you get? think about it a little bit i i'll [S15: okay okay ] get back to you okay? and do you do you have questions about the third one too?
+S15: yeah um, [S1: okay let's let's ] well i gue- we all have a question on the same thing for part three [S16: yeah ] so,
+S1: for_ [S15: if you want (to) ] on the third one?
+S16: third one yeah
+S15: yeah
+S1: okay then let's get, [S15: okay ] to all of you together.
+S15: um
+S1: hi Sarah.
+S17: hi Ali.
+S15: okay so the
+S1: Rosabel you procrastinated till Wednesday. <SS: LAUGH> it's the first time. <LAUGH>[S15: so ] okay
+S18: (do you h-) do you wanna sit?
+S1: yeah, [S18: okay ] i'll sit. okay.
+S15: so the first part's pretty easy i th- ess- you just add up resistances right?
+S1: you add up resistances from where to where?
+S15: you assume you start somewhere (under) rho, and you're given an H for the air, and you're given a K for the glass. [S1: mhm ] and you know the, inside and outside temperatures. so you have everything
+S1: um, okay, just one thing though. if you're putting_ what_ um okay if you're putting, the resistance for, inside and then the glass, [S15: mhm ] what kind of delta-T will you put in here?
+S15: it'd be, sixty-five minus zero right?
+S1: if you want to put sixty-five minus zero you have to go from, inside all the way to the outside. you're going only to the surface of the glass right?
+S15: oh oh yeah i'm only going to the surface, okay. <LAUGH>
+S1: so this temperature difference will be the f- from the surface of the glass to the, inside of the room, [S15: okay ] and you don't know that. you don't know the surface [S15: you don't know (that) <LAUGH>] of the glass temperature correct? okay so
+S16: surface of the glass on the outside?
+S1: yes. [S16: mkay ] correct.
+S16: so your [S15: can you ] H is of the, your H is of the room right? [S1: yes ] it's not of the gap? okay.
+S1: no. which gap?
+S16: after you put (the) in the [S15: with the film (in it) ] <LAUGH> plastic insulation
+S1: oh no no no
+S16: okay
+S1: first it's like, right and we're we're only talking about part A yo- we haven't put the plastic insulation yet. okay?
+S16: okay
+S1: so, um, th- doing doing it the same way you can you can talk about this, you can say that Q is delta-two over R. R being this but then delta-T is from the inside of the room to the outside surface of the, window. the temperature of which we don't know. [S16: okay ] so we can't use this right away now, [S15: okay yeah ] okay? but, let's say if we wanted to go from the inside of the room all the way to the outside. [SU-m: yeah ] so we wan- we wanted to put the delta-T that you put in here what kind o- what modifications [S15: oh ] do we have to put in here?
+S15: you just have to, add a, natural convection (to it.) okay.
+S1: right you have to add the natural convection right? [S16: mhm ] and natural convection itself, depends on the temperature of the window. [S15: mm ] right?
+S15: yeah
+S1: because it, it's it depends on the delta-T that you have, between the vertical plate and the bulk right?
+S15: yeah
+S1: [S16: mhm ] so, not knowing that temperature you can't really do anything, right now. okay? so, but let's say if we guess that temperature, let's see where we can go. if we [S15: oh ] guess this outside temperature we can get this H right? and then we can calculate the Q going from here to here. right?
+S16: okay
+S15: mhm
+S1: we can calculate the Q. now, once we calculate the Q, we can say, that same Q goes from the inside, to the right surface, through the outside of this, which is this formula. [S16: mhm ] and then recalculate that temperature.
+S16: right and check your T and if it's not the same T then you do it all over again.
+S1: yeah. put that, che- if you get_ you get a new tem- uh you get a new temperature for the outside of the glass right? with that new temperature calculate the heat transfer coefficient here again, do the same thing again.
+S16: so the first the first Q you calculate is just from the outside glass, to the outside, air, from like here to here using natural convection?
+S1: you can do that you can do that if you want you can jump from here to here you can you can do whichever you want because the Q is the same. [S16: right ] they're all in series right?
+S16: right
+S1: so you have the same Q you can either go from here to here you_ or you can go from here to here.
+S16: right but the H you calculate from natural convection is just from here, to here right?
+S1: right,
+S15: yeah
+S16: okay
+S1: correct it's the natural convection from a_ for an outside wall.
+S1: okay?
+S16: okay
+S15: okay
+<PAUSE:04>
+S16: um so, for part B, do you treat, if you have air that's like, in the gap, and [S1: yes ] do you treat that as like an, i don't know would that be characterized by a K like an insulating material or would it be still have an H?
+S1: no you won't have an H. [S16: (xx) ] when you have air in between two different um, like between two different plates, [S16: uhuh ] and they have different temperatures you know that air starts moving right?
+S16: right
+S1: it starts circulating probably. [S16: okay ] going down on the cold side going up on the, hot side right?
+S16: okay
+S15: so, but the only thing we were wondering is that it gives you a characteristic width, of [S1: yes ] that air. so, it seems like if there was an H, you know does that matter how wide it is? it seems like it would, (make a)
+S1: it does. yeah.
+S15: okay
+S1: so that characteristic
+S15: but it seems hard to figure out, how
+S1: well because
+S16: oh that's how you get your, that's that's like the air between two plates then?
+S1: exactly. yeah. [S16: okay ] because you have these two plates at two different temperatures so air starts rising on the, col- on the hot side and then, going down on the cold side so it'll start circulating like this.
+S15: mhm oh okay
+S1: so it's like the same thing that you had [S16: right ] with an enclosed, um compartment that you had you know like air in,
+S15: oh okay
+S1: and it was circulating so your characteristic dimension would be the, gap dimension.
+S15: oh okay. oh yeah
+S1: okay?
+S16: and then, the length is how, tall the window, is?
+S1: yes.
+S16: oh i forgot (xx)
+S1: so thi- this part, you know the gap part is exactly the same as, what he, um, solved for you in the lecture.
+S16: right [S1: Professor Thompson ] where he had his delta characteristic.
+S1: right the delta characteristic right? we called it delta (xx)
+S15: oh okay
+S1: okay so you have that thing too it's just like a, whatever i mean the gra- the normal gap that you would have and you have air circulating in it, that part [S16: mkay ] right?
+S16: mhm
+S1: so you can calculate that too, um
+S16: so once again you don't know, so once again you have to do natural convection, again get the Q, cuz you still don't know the temperature.
+S1: right you_ there are several things that you don't know in part B, let's draw a picture first.
+S15: do you wanna piece of paper?
+<SS: LAUGH>
+S1: yeah i'm writing on the newspaper, okay. um let's draw a picture this is the window, and this is the, plastic okay? so we have this fan here, we know H here, now we know_ we don't know this temperature we don't know this temperature we don't know this temperature <SS: LAUGH> we don't know this temperature we don't know this H we don't know this H.
+S16: right
+<SS: LAUGH>
+S1: right? so we don't know anything. but let's say, first of all do we need this temperature or not? this one, inside of the plastic.
+S15: i don't think so.
+S16: 'm'm
+S1: we really don't need it. the temperatures that we need are these ones because we need them for the natural convection, right? so, we need this this and this.
+S16: right
+S1: so, there are three different temperatures that we don't know but let's let's, see if we guess them, okay, let's see if we if we guess the three temperatures can we calculate them all at_ all in one iteration step or not? okay?
+S16: okay
+S1: so let's say we call this T-one we call this T-two and we call this T-three right?
+S15: mhm
+S16: okay
+S1: if we know these temperatures we can calculate this H and this H right?
+S15: mhm
+S1: because they're just natural convection they only depend on the delta-T and the characteristics here and the, [S16: right ] you know like the, you know the dimensions you can calculate the physical properties if you know the temperatures. so you [S16: (right) ] guess these three let's say, [S16: uhuh ] and then you calculate this H this H. now knowing the Hs can you calculate the Q?
+S16: mhm
+S1: yes because you know this temperature in, and you know this temperature out. [S16: (xx) ] so you can go al- from here to here [S16: (okay) ] or you can go from here to here or from here to here whatever [S16: right ] you wanna do. you can calculate them, [S16: right ] okay? so, in the first step if you guess, T-one T-two T-three, you can then go and calculate them, all of them. right? [S16: right ] T-one T-two T-three then just repeat them.
+S16: right
+S15: mhm
+S1: so it's exactly the same thing as part A it's just like th- three different things that you don't know and you gue- guess all of them at once, and calculate all of them in one step.
+S15: okay
+S1: okay? and using a spreadsheet is much easier because you just put the formulas in you can say okay whatever H you calculated for here, put it in this formula for you know like resistances in series, go from here to here calculate this go from here to here calculate this go from here to here, calculate this, [S16: mhm ] and once you get these three put 'em in the next row, T-one T-two T-three that you just calculated do the same thing until they converge.
+S15: oh okay
+S16: okay
+S1: okay?
+S15: <LAUGH>
+<S1: LAUGH>
+S16: yeah
+S15: oh yeah
+<SS: LAUGH>
+S1: you're happy now.
+S16: no
+S1: you're not happy now?
+S16: it's okay, that's good
+S1: well you started late you're not gonna be finished by Christmas.
+<SS: LAUGH>
+S15: alright cool
+S16: thank you Ali.
+S1: sure, no problem. so did you think about that?
+S15: well i was trying to think about both at one [S16: wait ] time [S1: okay right okay ] but i i just stalled.
+S1: think about that one.
+S15: did you think about it Rosabel? <LAUGH>
+S16: i didn't hear that much of what he was saying. this is this and this is, [S15: so what ] oh this is, so it would just be, yeah it would just be Reynolds at L-point-eight minus Reynolds-at-X-C-point-eight. [S15: oh ] cuz you're just [S1: wow ] integrating.
+S1: awesome
+S16: right?
+S1: yes
+S16: cuz the zero term drops out.
+S15: oh so it's this, just this equation. [S1: exactly ] oh duh. <LAUGH>
+S1: that's that's great. that's great it's not very obvious, where you say duh, it's not very obvious. <LAUGH> great, great
+S15: i see. (xx) cool, so yeah that just equals,
+S1: so we'll just rearrange it.
+S15: oh yeah so yeah just to make_ yes it's (R-E at point-eight.)
+S1: so did you come first or did Renna? well Renna is busy now <LAUGH> so i don't, (think that's)
+S18: i h- i heard what you were just saying. i totally, understood i was over here but i understand except, why was there only two, three T-thr- or three Ts unknown?
+S1: uh no there're four Ts unknown but there're [S18: there is four. okay. ] three that you need. because this T where's inside? this is H-inside right? yeah this T you really don't need, [S18: no ] because you kno- you need these Ts to calculate your natural convection, coefficient right?
+S18: yeah
+S1: because it depends on delta-Ts. but this natur- this convection uh coefficient you already have it so you don't even need this T. right?
+S18: okay yeah yeah
+S1: so, you_ there're four Ts that that're unknown but you that_ there's one of them that is of no use so we just like disregard that one we guess these three... okay?
+S18: okay
+S1: and once you guess them you can calculate the Hs here and here and calculate the Qs and then recalculate the Ts from the Qs right?
+S18: okay is this one just gonna be um, (H-al-) that'll just be natural convection, (with a) [S1: yes ] vertical plate
+S1: for vertical plate, this one is natural convection, inside a (gap)
+S18: but, yeah, but the reason you have to do all that is cuz you need these two.
+S1: yes.
+S18: yeah.
+S1: correct
+S18: okay.
+S1: okay?
+S18: yeah i have one other question.
+S1: sure, mhm
+S18: um, on the second problem, i was wondering, for, if that's an okay equation circuit for that kinda (it's Prandtl.) that's where i went off of is this, and i got to, there.
+S1: um lemme see what exactly you did you're saying energy over time is, Q over A [SU-m: thanks Ali ] Q is on- sure. we'll see you in the lecture. um is this Q? what is this Q? oh okay so if you say, let's see, okay so this Q looks like it's a flux right?
+S18: yeah
+S1: okay so if you divide that flux by area again
+S18: yeah so i don't want that there if i ha- say Q is like that. yeah
+S1: so you don't wanna do this. now
+S18: i didn't really mean that. <LAUGH>
+S1: okay
+S18: cuz i haven't (written it yet.)
+S1: so, and you're saying like energy over time right?
+S18: mhm
+S1: will be Q. if this Q is the flux, then you need energy over area over time, to have the flux, right?
+S18: okay
+S1: correct?
+S18: yeah.
+S1: okay so but let's, i- wha- these are just um, these are just dimensions that we want to um, lemme just, alright? these are just um, dimensions that you want to correct but let's see what your solution scheme is, what you want to do l- next. um let's say you correct this, [S18: okay ] dimension-wise right? you want to say that, um okay explain to me what you're doing here, um... okay you're s- here well, alright here you're saying that the energy that you're, um giving to the system, will, go into melting the ice. [S18: mhm ] and melting the ice will, be like, okay melting the ice will cause it to, shrink right?
+S18: yeah
+S1: okay, that's correct. where do you want to get this E from though? you wanna get it from here. um <PAUSE:04> okay why are you c- worrying about this conduction in the ice? [S18: um ] let's look at the picture draw me a picture of this.
+S18: i guess you should. <PAUSE:14> yeah since this is melting this would be at, zero degrees. (so) water (is at,) so this is gonna have, (xx)
+S1: okay yeah. so, you're saying that, okay dra- show me where the conduction is from, where from where to where.
+S18: i guess it wouldn't because, as soon as um, the energy would just have to pass through, the water's resistance, i guess to get in there?
+S1: yeah, the energy goes through the_ yeah through resistance for the convection and then gets to the surface and that's [S18: yeah and that's_ ] all we worry about.
+S18: yeah okay yeah
+S1: right? so we don't really need [S18: 'm'm, 'm'm ] that conduction right? okay, so that's fine. now, so you say, the only, thing that we need here is just like the H of water, times the area of course to get the total Q not the flux, [S18: mhm ] and then we can relate that to the energy that is, used for melting the ice. okay. the solution scheme is absolutely correct, the only thing is how do you get this H then? H for water?
+S18: yeah i wasn't sure because i know that they're traveling together so i thought, maybe
+S1: they're not traveling together the, the, um, the ice is being towed. so the ice is traveling at the, speed that we gave you, but water is stagnant... okay? so there's i- the the ice is traveling in stagnant water. so what does that look like, in terms of what you've learned before?
+S18: i would <PAUSE:15> hm, i wanna say natural convection, but i don't think that that's it. <LAUGH>
+S1: natural convection is um, okay natural convection is when the, if this thing were, um, [S18: were still ] stagnant too right?
+S18: but it's not
+S1: it's not it's moving. <PAUSE:06> so if you have a plate that is moving in the, water, if you start moving with the plate, what will you see? from the observer's, point of view? you know like the observer's moving with the, with the plate. okay? so from the observer's point of view the plate is stagnant now. correct? if it's moving with the same speed [S18: yeah ] as the, plate.
+S18: so then the water would be moving (if) [S1: right ] you were at that point.
+S1: what does that look like then?
+S18: then that looks like flow, past a, flat plate.
+S1: exactly. exactly. so it looks like flow over, over a flat plate. [S18: yeah ] so and [S18: okay ] and you know some Nusselt number equation for that and you can get the H right? [S18: okay yeah ] okay?
+S18: thanks Ali.
+S1: sure
+S18: hey i did have that down. <LAUGH>
+S1: <LAUGH> okay then why don't_ why didn't you tell me? <LAUGH>
+S18: um, cuz i wasn't sure. <LAUGH>
+S1: okay
+S18: cuz i- yeah, i knew that only one of 'em was moving and i thought but, [S1: mhm ] i didn't know which one (xx) (mattered.) <LAUGH>
+S1: cuz it doesn't matter your reference frame is, um this th- you know like the physics of the problem doesn't depend on the refer- reference frame that you choose. [S18: 'm'm ] so you say okay my referen- reference frame is moving with the, iceberg now. so it's as if the iceberg is stagnant and the water is flowing past, the iceberg right?
+S18: okay yeah
+S1: okay?
+S18: alright
+S1: that was all?
+S18: mhm
+S1: okay, great.
+S18: thank you
+S1: mhm.
+S19: don't worry Ali i don't have questions.
+S1: you don't?
+S19: i just came to try and do homework. <LAUGH>
+S1: okay. you just like this place huh? <S19: LAUGH> Ravi
+S20: Speaker information restricted
+S1: oh you're doing separations? <SS: LAUGH> okay your G-S-I is actually here. okay Brandon how are you doing?
+S13: i think i'm doing (alright) now (xx) what you're trying to do here, or
+S1: um you get the Reynolds number and see if it's laminar and then you're saying you have a Nusselt number equation yup that's fine.
+S13: okay
+S1: mhm
+S13: thank you.
+S1: sure
+<PAUSE:05>
+S20: Speaker information restricted
+S1: what? that's um they're just recording this for, some study. it's a project for the language insti- institute, and
+S20: Speaker information restricted
+S1: no that's just, it's not a big deal.
+S21: do you have, do you have the uh, assignment sheet, for today's homework?
+S19: yeah
+S21: can i borrow it for a sec?
+S19: mhm
+S21: i gave mine away, but i have to give (xx) week, to the graders.
+S19: Connor i'd rather get an ass-kicking than help you out.
+SU-f: yeah
+S21: yeah, i know... that might just be the case if you don't just give me that paper. <S19: LAUGH> thank you.
+S19: you're horrible. <LAUGH>
+S21: <LAUGH> i'll be right back.
+S1: Elise you're working on heat and mass right? <S19: LAUGH> not separations? <LAUGH>
+S19: Ravi you got half an hour. go go.
+S20: Speaker information restricted
+S19: dude i worked on that homework yesterday from like six o'clock until like midnight. like draw- with my ruler like drawing little lines, i was just_ yeah.
+S20: Speaker information restricted
+S19: i like i graphed it over and over again i was just like i can't make this look neat this is (something) (xx)
+S20: Speaker information restricted
+S19: it's like the most inaccurate method, to determine anything.
+S1: wha- what method is that?
+S19: it's um, we're we're doing multistage batch distillation, [S1: right ] and so we're finding like, how much distillate we can get at a certain <S21 RETURNS HOMEWORK SHEET> thank you,
+S21: thanks
+S19: at a certain um, mole fraction a certain purity, [S1: right ] and stuff, and they want us to compare the amounts that we can get at constant reflux ratio and constant distillate composition. [S1: okay ] ho- so for like both of those methods, it's almost kinda like guess and check like you gotta draw a bunch of different operating lines [S1: right right. uhuh ] and stuff, and then you've gotta calculate the integrals, like the areas under the curves of like, (xx)
+S1: wh- of which curves?
+S19: um, what you have is, you graph one over X-D minus X-W where this is the mole fraction of the distillate [S1: right ] and this is, mole fraction left in the liquid (of the plume) [S1: right ] which is X-W and you're gonna end up with graphs that look like that kinda, [S1: okay ] and then you have to go from like certain values, you know that you determine, [S1: yeah ] from another graph, and calculate this area but like we don't know how to do that, on Excel so we use_ we've been using like the trapezoidal rule some people are using the midpoint rule
+S1: um trapezoidal is always better, it's [S19: yeah ] always the best.
+S19: i use the trapezoidal. but then like i mean, i like had to estimate cuz i didn't wanna just use like the values that we had cuz that'd only be like two or three values, so i like estimated points on the graph you know, it's just like, you know everyone's values are gonna like, range all over the place.
+S1: but you know, when you integrate, you don't really introduce much error. you know that? [S19: really? ] yeah, if you integrate, if you have like a little bit of error for these things it usually doesn't matter. [S19: oh ] you know like integration is the, one with the least um round-off error, is the you know like operation with the least round-off error. [S19: really ] yeah, so it shouldn't be the, i mean as long as your points are, pretty close you know
+S19: well there was another one too we had to graph, okay this is the Y equals X line this is the equilibrium line,
+S1: correct
+S19: we had to graph lines of constant reflux ratio so line of constant slope, at different X-Ds, [S1: uhuh ] so like we'd start over here and, you know pretend those are parallel somehow, right. [S1: oh right right okay ] well, i mean these are so close together, [S1: right ] and stuff and then you've gotta estimate these points right here and then like step off a certain number of stages and estimate [S1: correct ] these points right here,
+S1: right right right
+S19: and then like, but to, to generate a graph, that's um, that looks like this so we have points on this side and on this side, you have to draw a line starting almost at one. [S1: yeah, yeah ] and then once you get up here it's like, how could_ how can you (xx) [S1: right right i know ] (stages.) [S1: yeah, right but ] so that's why it was it was like, frustrating cuz it's like you tried so hard to do it perfectly, and you're just like ugh, anyways
+S1: that's engineering.
+S19: yeah um, it kinda makes you wonder.
+S20: Speaker information restricted
+S1: okay. good
+S20: Speaker information restricted
+S19: hm?
+S20: Speaker information restricted
+S19: for whi- for which one?
+<1:55 S19 AND S20 CONVERSATION CONTINUES IN BACKGROUND>
+S1: let's see what you have. what're you listening to?
+S22: uh i don't even know actually, W-C-B-N. [S1: oh ] i don't know if you know that station. they play some good music, [S1: W-C-B-N ] on Sundays, uh, good Middle Eastern music. [S1: oh ] uh, hold on (xx) alright let me uh, reorganize here.
+S1: okay
+S22: (i gotta find everything.) <PAUSE:14> alright. [S1: mhm ] i'm not sure if i'm going about this the right way. so for thi- for the first problem, (xx) interaction the first step you should take is find the heat transfer coefficient, um for the l- oil, using, a laminar_ (if you c-) f- figure out the Reynolds numbers below.
+S1: yes
+S22: alright okay.
+S1: correct
+S22: and then do you need to take into account, the heat transfer coefficient of the condensing steam or is that irrelevant? [S1: um ] or is that, is that just to show you that that's what is keeping the pipe temperature constant?
+S1: for the steam you mean for the steam outside of the pipe?
+S22: yeah
+S1: no no you don't need that.
+S22: don't need that
+S1: because, because we're given the temperature inside the pipe right? the temperature of the wall just right inside the, [S22: mhm ] the pipe. so we don't really care what's happening outside, because we know the temperature inside and that's wh- all we need for here to calculate the new wall you know, [S22: okay ] and everything else is given.
+S22: okay so you just need the heat transfer coefficient for the inside? okay.
+S1: correct
+S22: okay, and then after you find the heat transfer coefficient, um do we know a relationship to find like, the temperature like along the, uh length of the pipe?
+S1: you mean a temperature okay a fun- um temperature [S22: like ] as a function of X going
+S22: function of length. yeah
+S1: okay no.
+S22: cuz i assume that's, we guess we don't need that.
+S1: no you don't um you don't need it and you don't have an equation for that. [S22: okay ] what you do have is this thing, right? [S22: right ] the Nu- Nusselt number. now, why do you think you need a temperature um, as a function of X, as a function of Z, over X or whatever you call that length?
+S22: because i thought it would be changing like along the whole length of the pipe.
+S1: right so you want to that into_ you want to take the change into account through the, [S22: bulk temp- ] physical properties you mean? wh- wh- why do you need why do you need that change? if you_ for the for [S22: right ] part A if you just want to calculate H right?
+S22: mhm
+S1: you want to use this equation right? [S22: correct right ] where does that change come into, picture then?
+S22: the change i guess will come in through the, the bulk. [S1: right ] in the bulk temperature.
+S1: okay, but what we gave you is um, is the,
+S22: do you want them the same?
+S1: average, right we say okay we give you a temperature and we say like these physical properties are given at that temperature and [S22: mhm ] we assume they're constant. [S22: oh ] okay?
+S22: okay
+S1: and this temperature is actually average temperature of the bulk. so, um, but you don't know it yet because you don't know the ou- outlet temperature right?
+S22: mhm
+S1: but it is actually the average temperature of the bulk so that's the physical properties that you need
+S22: the s- the seventy-seven degrees?
+S1: right
+S22: is the average temperature of the bulk okay.
+S1: yeah. so, the physical properties are these and you assume they're constant so you don't really need to know, the change [S1: mhm ] of temperature with, um, along the tube you know.
+S22: okay. okay. so you only need to know, inlet and outlet, okay?
+S1: yeah
+S22: alright. cool.
+S1: so just put those physical properties in here and get the H, [S22: okay ] and then you need to, to find the temperature for the next part. [S22: mkay ] the outlet temperature.
+S22: cool thanks.
+S1: mhm <PAUSE:04> five kilowatts.
+S19: oh hey Brandon?
+S13: yeah
+S19: i just thought of something. for part A, on number two, did you get the an- get answers that match the ones in the book?
+S13: um... oh for the_ you mean for number one, part A? or
+S1: oh yeah i'm sorry number one.
+S13: actually no but i put down the ones that were in the book. but they're pretty close i got like, (i got) like point-four-oh-five and i got, point-three-nine-five.
+S19: i thought the answer was like point-eight-seven-five or something like that.
+S13: oh, i wa- i was, i was talking for the, the liquid, the leftover. [S19: mm ] the, what'd i get for my answer? cuz the Y average depends on your, your X that you put in, [S19: mhm ] so, basically i got point-three-nine-five so i just rounded up to point-four-oh-five. [S19: yeah ] and then when you put that in you're, gonna get the same one as you do in the book, for your Y average.
+S19: okay, maybe that's why my (xx)
+S13: what'd you get as your X? you remember?
+<SIMULTANEOUS CONVERSATIONS NEXT :32><CONVERSATION 1>
+S19: i just remember my answers didn't match up exactly... i got point-three-five, [S13: uhuh ] and i didn't i didn't round which made my X to (the X) point-nine-seven-five which is like point-one, [S13: yeah ] different than the answer (xx)
+S13: mhm... i can tell you what i got, i i think it's
+S19: don't worry about. it's not like i'm gonna go back and change anything now.
+S13: yeah. i was talking to somebody else and they didn't get the same answer they did in the book either. so, yeah
+<CONVERSATION 2><PAUSE:08>
+S22: wait a minute, so, okay so once you find H, [S1: mhm ] what, what equation could you use to determine the, temperature out? i'm still really [S1: okay ] confused. [S1: um, so ] cuz this is the this is the, property at seventy-seven degrees right?
+S1: yes
+S22: and this is the properties at, uh ninety-eight i think?
+S1: yes
+S22: ninety-eight.
+<END SIMULTANEOUS CONVERSATIONS>
+S1: right, so um once you get the H, [S22: right ] this equation that you write is um this is correct [S22: that was correct ] but how do you, how do you, okay, how do you want to use this? this is the H for inside the pipe [S22: inside the pipe ] that you just calculated [S22: right ] this is the A for, where? the area is
+S22: the area's gonna be... (xx) maybe sur- surface area, [S1: yeah ] of the pipe.
+S1: the inner surface area right? .
+S22: the inner surface area right.
+S1: okay so you have this this too, now this is what T where?
+S22: wall
+S1: at wall right minus T
+S22: um, i guess that'd be, that'd be T outside or, i don't know. (xx) that would be, the temperature of, the bulk.
+S1: right temperature of the bulk, correct?
+S22: mhm
+S1: so, this is what, this is something you don't know yet right? [S22: mhm ] now
+S22: so this seventy-seven degrees is th- like the T-bulk that we're assuming for the physical properties but it's not necessarily the temperature coming out.
+S1: no
+S22: okay.
+S1: no it's not. [S22: okay ] um, okay so, so relating the Q to the change of temperature of the oil, [S22: mhm ] as it goes in the pipe, what can you say? you can say that, this, this Q is transferred to the oil so it raises its temperature to [S22: right ] from the inlet to some outlet temperature, [S22: right ] right? how do you write that, mathematically?
+S22: th- the change in Q? umm
+S1: it's not a change in Q it's just a change in temperature.
+S22: change in temperature
+S1: it's the same Q, just raises the temperature of the oil right?
+S22: right so the, thing that's raising the temperature of the oil would be the, condensing the steam right? [S1: um ] or it's not_ that still doesn't take into account does it?
+S1: right bu- it's the condensing the steam, it's it's the condensation of the steam but we don't care about that [S22: don't care about that ] because we don't have any information on the steam either. right? [S22: okay ] but, if you, you want to say this is the energy that is transferred to the oil. [S22: (mhm) ] okay? now, this energy increases the temperat- temperature of the oil from some temperature to some other temperature right?
+S22: mhm
+S1: okay so how do you say, Q is equal to, um, the increase in the temperature of the oil times something?
+S22: increase in temperature of the oil (xx)
+S1: if you give energy to some system it_ the temperature increases right? [S22: right ] if you know the increase in temperature how you calculate the Q?
+S22: increase in temperature, would it_ wouldn't be through conduction would it? [S1: um ] (would) conduction (xx)
+S1: the the conduction
+S22: because this is convective
+S1: yeah this is convective but, [S22: so ] um, we're talking about the increase of temperature, with time let's say. okay we're not talking about the conduction. actually i'm not explaining it good to you let me think of a better way to explain it.
+S22: it's probably like obvious. mm
+S1: okay lemme, just draw you a picture. let's say, i have, this material, okay? initially i have some T-one some temperature inside of this T-one, and then i give some heat to it. okay? [S22: mhm ] and then the temperature inside is T-two, at some other time. [S22: mhm ] how can i calculate how much energy i gave to this?
+S22: mm would it be like, accumulated uh, generation?
+S1: correc- no it's not generation. it's not generation. generation is only when you have reaction.
+S22: right okay so it'd be, amount leaving equals, accumulation.
+S1: accumulation right. [S22: okay ] accumulation what what did we have for accumulation what kin- what form did we have?
+S22: it was uh, C-P
+S1: exactly
+S22: times delta-T
+S1: times, yeah exactly. [S22: okay ] C-P times delta-T times, we want to have it in terms of, energy, net energy.
+S22: wasn't it <HUMMING> hm hm hm hm (xx)
+S1: C-P is in terms of let's say joules per
+S22: it wasn't D-T was it?
+S1: D-T, D-T you mean temperature?
+S22: (in) time
+S1: uh no, no, we want to_ okay let's look at the units. [S22: okay ] C-P is joules per kilogram Kelvin, and then delta-T will be in Kelvin right? [S22: right ] so Kelvins cancel we have joules per kilogram.
+S22: so we just do the mass?
+S1: yeah, exactly,
+S22: okay okay
+S1: so multiply by mass so it's M-C-P delta-T.
+S22: okay
+S1: and if you want to have it in terms of, joules per second you should have M-dot then. right? because this thing is just joules per second [S22: right ] this is watts right? or joules per second. [S22: okay ] so use M-dot. so, this is the M-dot-C-P delta-T of oil [S22: mhm ] and this delta-T will be from where to where?
+S22: that would be from, this is for the oil?
+S1: yeah. we say we_ as it as it goes in we give it this much energy so it re- it increases its temperature this much from where to where?
+S22: from sixty degrees to, where the T outlet is.
+S1: exactly, exactly, from inlet to outlet. so this delta-T is from inlet to outlet, and this delta-T is just wall minus bulk. [S22: mkay ] okay? [S22: (xx) ] and this bulk is average bulk right?
+S22: mkay
+S1: it's the same
+S22: so wait, would you have to take into account that this is gonna be negative since, the input temperature is lower than, the output?
+S1: um yeah, you you do actually, so this outlet minus inlet correct. [S22: okay. ] good.
+S22: okay
+S1: so, um, so, in, in this equation you don't care what Q is but you have H you have A you have T-wall, you don't know T-bulk average because you don't know the outlet, [S22: mhm ] but then, you have the same unknown here so you can sol- solve for the outlet,
+S22: okay
+S1: right?
+S22: alright
+S1: mhm
+S1: cool
+S13: kay so i have a quick question on (xx) [S1: sure ] (but) so for this, the_ i mean basically you're saying these two equal to each other and this delta-T is this, temperature bulk inlet minus temperature bulk out, or the, other way around?
+S1: yeah, [S13: okay ] it's outlet minus inlet because outlet is higher.
+S13: yeah outlet so it's temperature bulk outlet, so this is what that delta-T is, and this delta-T is basically this, from, equation right there right? cuz that's like
+S1: mm yes, so it's like an average delta-T correct. yes.
+S13: so you're saying, solve for basically the same, T-bulk out okay.
+S1: yep, that's all you need. okay. you have a question?
+S20: Speaker information restricted
+S1: okay so what happened?
+S17: we, another quick question.
+S15: oh we just had_ real quick. okay, so, how you were saying that these Hs, um, but this equation's actually, or, [S17: Nusselt's ] it's this, yeah that's Nusselt so you, you just have to multiply it by K over L like this to get the H.
+S1: yes
+S15: okay now we're just checking, um, the L will be, for like laminar, wouldn't it be zero to X-C, [S17: so your, L-is X-C ] and then, turbulent would be, X-C, to L right?
+S1: you're getting actually one N- Nusselt number for the whole thing, averaging like this. [S15: ye- ] right?
+S15: yeah, i th- oh
+S1: so your L
+S15: well y- you've got two different equations though right?
+S1: yeah but you put 'em in here and then you get just one H, one average H for the [S15: yeah ] whole thing,
+S15: yeah
+S1: right?
+S15: yeah
+S1: so you don't really need to break anything apart anymore, like you don't need to break [S17: okay ] the solution, in two different solutions anymore. um, what i mean is, let's say this is the average H and if i put it in the equation for Nusselt i get the Nusselt average, is this H average times the total L,
+S15: oh yeah, alright
+S1: or sorry, times the K or times the total L. times the total L, right divided by K. [S15: mhm ] [S17: mhm ] so that total L again cancels out, [S17: mhm ] right?
+S15: oh so this L, for each situation the L will be, total L.
+S1: um, for_ yes
+S17: well you're taking [S1: fo ] into account
+S1: well see this thing doesn't even have_ like when you do this you get this thing this equation times some L
+S15: yeah tim- times K over L. H is, this, times K over L. because it's
+S1: yes. oh okay [S15: cuz this ] i see what you're saying, [S15: Nusselt equals that ] okay, so you're saying that would be H and that would be the Nusselt right um... [S15: so ] so are you saying that when you, calculate the average Nusselt number,
+S15: it seems like when [S1: for here ] you cal- calculate Nusselt, you're looking only at the whole th- or just the segment, like you're no- if, if it's laminar you're only going from, this point to this point and then for the turbulent you'd go from this point to this point for your [S17: mhm ] L, for Nusselt. but i'm not sure
+S1: yes, that's true.
+S15: because it seems like that would be a way that it's weighting it too because like if like, if this part's small, [S1: mhm ] then, it will, take in account, by this L.
+S1: right
+S15: so
+S1: um, okay but, let's
+S17: you're canceling your things out though too aren't you?
+S1: to make sure to make sure not, to make sure we're not confused let's write it down, write it down and see what we're, what we're getting. um...
+S15: alright, (you) can write it down (xx)
+S1: so, let's, say, for this thing for H-X of laminar we have, it's K over X-C. [S17: mhm ] actually times point-three-three-two, Reynolds to the one-halves Prandtl to the one-third correct? [S17: right ] [S15: mhm, mhm ] so, and then H-X for turbulent is K over,
+S17: L minus X-C?
+S1: right.
+S15: okay it is. yeah, that's what i was thinking.
+S1: actually
+S15: of course, this was the part that was ambiguous.
+S1: no no no, no no, it's just
+S17: you end up canceling.
+S1: no no it's X it's [S17: it's just ] the big X whatever it is because, you say if it's turbulent, if you're talking about a local, heat transfer coefficient <PAUSE:06> (xx) yes it's L, L minus X-C.
+S15: okay
+S17: okay
+S1: times point_ and there's a coefficient here which you're not given it's two-nine-six actually, (not) two-point-eight, so this is the coefficient that you actually put in here but you don't really need to know it.
+S15: oh really?
+S1: because you know when you integrate it you'll get this and that's all you need to know. right you know
+S15: okay so, instead of like doing this as two, you can just do it a w- as one like, they're, never mind. <LAUGH> yeah okay. because, [S1: um ] if you evaluate this two points you cou- you could get that equation is that what you're saying?
+S1: if i evaluate, these two points i can get, this equation?
+S15: you you'd, yeah you'd end up with that equation is that what you're saying?
+S1: no no no i'm saying this is the equation for the local one that you put in there [S15: oh okay ] and then when you integrate it you get this.
+S15: oh okay.
+S1: but you actually don't need it because you know when you integrate it what kind of, constant you get here.
+S15: oh okay
+S1: so you don't really need to know the constant you just have to know, what kind of functionality it will have for, Reynolds because you're integrating differently, and, you've_ well we talked about this this will be Reynolds to the point-eight at the end minus Reynolds to the point-eight,
+S15: yeah okay
+S1: at the transition point, [S17: mhm ] and um, then that gives you... K-H <PAUSE:17> you know what's easier? what you can do is you can just calculate an average Nusselt number. say Nusselt number is um, one over L, Nusselt average is one over L, times the integral of zero to X-C of Nusselt, for laminar, D-X, plus X-C to L, Nusselt for turbulent, D-X, so you won't have to worry about those rearranging those X and L and everything. okay? [S15: oh okay ] an equation for this is given as this thing now. right?
+S17: mhm
+S1: so you [S15: oh ] just stick this in here, and then you stick the other one and this one in here, and then you
+S15: okay so you just use the two locals? or, or wait
+S1: yeah the two locals [S17: mhm ] and then you know when you integrate them how_ what kind of co- coefficient they give you, so from here you say, from here you say that, so the Nusselt average is one over L, for this part i know it gives me six-six-four, Reynolds at X-C to the one-halves Prandtl to the one-thirds, okay? [S15: mhm ] plus, um, the point-oh-three-six-six that i had, [S15: mhm ] Reynolds to the point-eight, Prandtl to the one-third this thing evaluated at X-C, and L, correct? [S15: yep ] [S17: mhm ] [S15: yep ] and then that gives you the average Nusselt number. and then [S15: oh okay ] [S17: you can find your average H ] once you know the average Nusselt number you can find tw- your avera- average H. [S17: okay ] now Ravi pointed something out which is which actually is very interesting that, he calculated where it becomes transition, [S17: mhm ] where it becomes turbulent the transition point, and he found out that it was only two-point-seventy-three meters inside the thing. [S15: oh ] [S17: mhm ] so for the most part it's actually turbulent. [S15: mhm ] [S17: mhm ] so in i- just just using this equation, just using like the average, turbulent for the [S17: mhm, ] whole thing, [S17: (xx) ] won't introduce much error. [S15: oh ] i assume because it's only two-point-seventy-three [S15: yeah ] meters in and it's one kilometer long. [S15: yeah ] [S17: okay ] so for the most part it's actually turbulent. so, i would say if you, if you don't want to do this, <S15: LAUGH> just put the ran- put the turbulent one in. i will talk to the grader and make sure that, [S17: okay ] you know they_ cuz, your answer will be very close actually. [S15: okay ] because it_ i mean for most part it's actually turbulent right?
+S15: okay
+S17: okay
+S15: i think that's [S1: but tha- ] what i did. yeah i just did [S17: yeah that's what i did too. ] turbulent.
+S1: okay then just don't worry about it. [S15: oh ] but but um if you want to write that
+S15: it's nice to know.
+S1: yeah. but if you want two write that [S17: mhm just to see (it) ] just make sure you do_ you add this part to it [S17: right ] that you calculate where it becomes, turbulent and you say, because for most part it's turbulent that's how we do it. [S15: oh okay ] but this is this would be the, general way to do it if it's [S15: okay ] not turbulent for the most part.
+S17: okay
+S15: so basically this equation, if you divide it comes into play if it's maybe like five meters long or something. because it's so big, that's why, you could ignore it. okay.
+S1: yeah yeah.
+S17: mkay
+S1: cuz for, [S17: for a ] like two-point-seventy-three meters is laminar and then for one kilometer (then) [S15: <LAUGH> yeah ] one thousand minus two-point-seventy-three [S15: yeah ] is turbulent. so it's basically [S17: oh yeah ] turbulent everywhere.
+S15: okay
+S17: for the last part um when you're trying to figure out, D-D D-T, um basically what i was doing was just taking the Q and dividing it by the, um latent heat fusion, and then saying that that was my D-M D-T, [S1: mhm ] and then figuring out D-D D-T by replacing M with rho-V and then replacing, V with L-W-D (xx)
+S1: that's exactly right.
+S15: okay
+S17: okay i just wanted to check.
+S1: absolutely right. um, [S15: i think i (mighta boxed that) ] now, check that calculation though because i'm not sure i mean he told me that it was two-point-seventy-three. [S17: okay ] i've never, i've never done this calculation [S17: okay ] [S15: oh yeah ] so check it, if it is that small, then you can do that.
+S17: then we can just keep it [S15: okay ] with the turbulent.
+S1: okay
+S17: okay
+S15: thanks Ali
+S17: thank you.
+S1: sure... Jose.
+S23: hello Ali how are you?
+S1: you're late. <LAUGH>
+S23: yeah but i_ it's just a short, [S1: okay ] question that i have. i won't go over.
+S1: okay, let me actually_ if, see if you can
+S18: can i ask you one question (xx)
+S1: sure, no problem. mhm
+S18: um this is for problem number two, and i was wondering, if the area to use when you're using this, is just the whole surface area. so that it's all exposed to the water?
+S1: but we're only talking about the [S18: or, ] bottom surface. [S18: all surfaces ] we're talking about the, Q that goes through the bottom. right? so that's only the bottom.
+S18: okay, thank you.
+S1: sure
+S23: i basically, i basically have it done but i just wanted to run it by you so you make sure that, i was, doing it right, so for the first problem what i did is assumed, that to be my, bulk f- b- bulk, temperature so my T-L was that.
+S1: <LAUGH> no you're not supposed to do this. this is what you're supposed to calculate later okay?
+S23: what_ but no no alright, yeah, okay, yeah and then i recalculated, to that.
+S1: okay how did you recalculate it (xx)
+S23: i well, first i, calculated my Nusselt number from the equation, from the values given, [S1: mhm ] uh i didn't know about this G, the G is the mass flow rate over the area, [S1: yeah it's the mass flux ] i found that on the book, [S1: yeah because it's ] i don't understand what it is.
+S1: okay i'll tell you what it is um, do you know what um, V times A do you know what this is? the velocity times area. [S23: velocity times the area ] what does that give you?
+S23: that should give you flow rate mass flow rate.
+S1: no, volume flow rate.
+S23: vol- that's right volume (and area)
+S1: exactly right? so that's volume flow rate we call it this. [S23: right ] okay so if you multiply this by rho, what does it give you? [S23: (a rho) ] rho times velo- this, will give you what?
+S23: that'll give you, your mass flow rate.
+S1: exactly so M-dot. so so for_ from here we can say that, rho times V times A is just M-dot correct?
+S23: right
+S1: right?
+S23: okay so that's what you're doing there.
+S1: now, now if you divide, both sides by A you can say rho-V is just M-dot divided by A, [S23: mhm ] and
+S23: so that's the (formula) [S1: that's rho-V ] we need okay?
+S1: yeah
+S23: uh so, got my Nusselt number, got my H, [S1: uhuh ] then, uh,
+S1: make sure you put your units for the temperatures.
+S23: okay. alright uh
+S1: the grader's gonna take points off.
+S23: alright thank you. [S1: okay mhm ] uh and then i equated the two, uh Q equations, [S1: mhm ] one with the mass flow rate and the, C-P, [S1: yes, correct ] too and then
+S1: so and what delta-T do you put here and what delta-T are you using here?
+S23: this delta-T is a T of the out, [S1: mhm ] and this is T-in, [S1: uhuh ] inside the tube,
+S1: correct
+S23: and then this delta-T is an average of the bulk temperatures at the, outlet and bulk temperature at the, the inlet.
+S1: mm the average of the inlet and_ well that average difference between the wall, and the inlet and the wall and the outlet right? [S23: right ] okay [S23: yeah ] correct that's correct.
+S23: which is that one there, and then that's that comes out to that and just plug and chug, [S1: mhm ] and i get that as my, out- final outlet. [S1: okay ] and then that is ninety-eight percent of what i had assumed, [S1: yes ] i don't know if you wanted (xx)
+S1: no no no, no that that's fine that's [S23: (i mean it's) ] fine you don't even need to, do this part. you actually say okay, seventy-seven, things are given, i just use them and i calculate my outlet temperature [S23: mhm ] it's ninety-two-point-twenty-three that's all. [S23: oh good (just do the) ] and then you check if your average was actually around this, that's fine.
+S23: yeah and it and it is i mean it's really [S1: yeah ] close to that average or, okay.
+S1: that that's absolutely fine.
+S23: for the second problem. uh, i figure out the Q, well uh fir- the first thing i did was um, calculate in my Reynolds number so i could use the Nusselt again Nusselt equation for flow, [S1: this is ] past parallel plate.
+S1: yes but this is when your whole heat transfer is occurring in the turbulent regime. which means, if you have a situation like this, this is the plate right?
+S23: mhm
+S1: and then there's flow, there's flow going over it right?
+S23: oh there is flow going_ i didn't know you see, i assumed that the iceberg was basically floating because if you assume actual physical conditions of a, of the iceberg you would have shrinkage, on all s- all directions you wouldn't, have just decrease in (xx)
+S1: oh right right yeah we're not worrying about that we're just saying okay y- you're saying flow is below it. that's [S23: right ] not that's not what i'm talking about i'm [S23: okay ] just saying like what kind of phy- physical situation they're saying. [S23: mhm ] they're saying let's say f- flow is over this, [S23: right ] and then, so the boundary layer starts to form, and then at some point it becomes turbulent, right?
+S23: mhm
+S1: from here it's turbulent. now, this equation holds when, all of the heat transfer starts when the tur- when the, um, viscous boundary layer is already turbulent. [S23: okay ] what i mean is, [S23: i ] [S23: right ] what i mean is, let's say you switch the temperature at this point to some other temperature T-S. [S23: mhm ] and from, here this is T-infinity here is T-infinity so there's no heat transfer in the laminar regime, [S23: right ] the heat transfer starts, when, when the flow is already turbulent.
+S23: okay
+S1: okay? so the heat transfer starts when the flow is already turbulent. then you can use this equation. for the case that we have
+S23: how do i, i mean, the way that i thought about it was, tell me if i'm wrong i mean, i figured out the Reynolds number, [S1: mhm ] and then that that's a huge Reynolds number that i'm getting.
+S1: but it's that_ that's at the end.
+S23: oh that's at the en- oh that's at the end of the [S1: yeah ] plate okay.
+S1: because you're putting the L the total L in there right? okay, so this this
+S23: right that's right which is a thousand meters or something.
+S1: you know that it's turbulent here but it doesn't mean that it's turbulent [S23: all the w- okay ] everywhere in the plate right?
+S23: alright
+S1: so it's laminar for some part and then it starts to become turbulent, right? so for the first part of the thing it's laminar. but, i would say do something. go and check, where it becomes laminar. um, where it where it tran- where the transition point is.
+S23: right where the transition, how oh i just, decrease the L length until i hit
+S1: until you hit five times [S23: five times ten-to-the-fifth ] ten-to-the-fifth. so you can just like, calculate it right away you can say this if rho-V-X [S23: mhm ] over mu. and [S23: right ] this is the only unknown. [S23: right ] right?
+S23: right
+S1: so you know where it's, the transition point is.
+S23: at what length is the transition right.
+S1: right? [S23: okay ] from laminar to turbulent.
+S23: right
+S1: and if this length is very short then you can say okay for most part it's turbulent.
+S23: okay so (xx) (already know how to do that)
+S1: okay if not, you have to solve for the laminar part separately, for the turbulent part separately, using the appropriate equations,
+S23: how would, would you then consider, heat flow, uh, not parallel but perpendicular, heat flow?
+S1: no. all you have to do is, you say for for the lami-
+S23: because you would have the H, you would have an H-naught here and another H here, [S1: yeah ] (no?)
+S1: yeah. so you have, two different Hs you get two different heat transfers add them up. yeah. okay?
+S23: and you just add them up, alright oh okay. okay.
+S1: so check your calculations and see if, um [S23: if i get my length ] the the assumption of turbulent for the whole part is a good assumption if it is, then just [S23: (then jus-) ] use this equation. [S23: okay. ] if not you have to solve for the laminar part separately, turbulent part separately.
+S23: right, okay and once once i have that i i use my H that i calculated, and then got my Q.
+S1: right
+S23: right? and then, using this Q and getting the_ this known value i can figure out what, what the, [S1: shrinkage ] the recession rate is right? [S1: yes ] it's not a differential equation it's just straight out, just calculate [S1: no no no. it's straight. yeah ] from this Q down to that and multiply it and [S1: yeah ] it'll come out okay.
+S1: mhm
+S23: this one,
+S1: mhm
+S23: i think i know how to do it, i wanna run it through, [S1: mhm ] you, i'm gonna do uh Q is equal to, i'm gonna say, lemme see it's, (there.) Q is equal to one over H-naught, ah what is the equation (xx) A, plus one over K-A, i say that right? over_ no, ay yai yai. well i i d- it's the it's the one with the, and then, the thing is that i know that this value i know this value but i_ this is the one that i'm gonna calculate from the vertical, right?
+S1: yes, correct
+S23: this is J_ H-ou- outside.
+S1: yes
+S23: and that's that's the one that you say we should iterate on?
+S1: um, yes but your equation is not correct your equation is like this it's delta-T over this thing. [S23: right right ] so delta-T_ in delta-T you don't know T-naught, [S23: mhm ] T-outside,
+S23: right
+S1: right? that's called_ that's T-naught.
+S23: okay
+S1: and this delta-T you don't know T-naught, and, in this H also you don't know T-naught.
+S23: right, so [S1: okay? ] that's why you need to
+S1: that's why you say if you guess first,
+S23: a T-naught
+S1: if you guess a T-naught you can calculate this, and then you can calculate Q from Q you can calculate T-naught back.
+<PAUSE:04>
+S23: oh okay, right.
+S1: okay? so you guess a T-naught first, and then you calculate your H for outside, [S23: mhm ] right? and then knowing H you can calculate the Q. because [S23: right ] you put it in here. and then once you calculate Q then you put the Q back from here to here, and calculate this T-naught again.
+S23: alright
+S1: okay?
+S23: okay
+S1: and then you iterate.
+S23: alright okay
+S1: okay?
+S23: alright thank you very much. this T-naught is outside right? is a [S1: yes ] temperature outside?
+S1: yes
+S23: okay. alright thank you very much. [S1: sure ] (xx)
+{END OF TRANSCRIPT}
+Please contact the English Language Institute with questions or comments.

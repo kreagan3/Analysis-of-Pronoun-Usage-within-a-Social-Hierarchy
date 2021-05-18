@@ -1,0 +1,702 @@
+<PERSON ID="S1" LANG="NS" ROLE="JF, Lecturer" SEX="M" RESTRICT="NONE" AGE="2">
+<FIRSTLANG> KOR </FIRSTLANG>
+</PERSON>
+<PERSON ID="S2" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S3" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S4" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S5" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S6" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S7" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S8" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S9" LANG="NS" ROLE="UN, Student" SEX="F" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S10" LANG="NS" ROLE="UN, Student" SEX="F" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S11" LANG="NNS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1">
+<FIRSTLANG> KOR </FIRSTLANG>
+</PERSON>
+<PERSON ID="SS" LANG="NS" ROLE="UN, Students" SEX="U" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="SU-f" LANG="NS" ROLE="UN, Student" SEX="F" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="SU-m" LANG="NS" ROLE="UN, Student" SEX="M" RESTRICT="NONE" AGE="1"/>
+
+
+
+
+S1: ugh, i hate this board.
+S2: well it's cuz somebody, pulled it all the way down and it says, not to.
+S1: yeah.
+S2: turkeys.
+<SU-f: LAUGH>
+S1: turkeys. <LAUGH>
+S3: is this all we get, three pages?
+S1: there's more coming. i don't think we'll be doing it for three hours though. um, which is v- tentative, well let's say i predict that we'll be outta before, uh one o'clock. which is fine cuz i gotta take somebody to get a root canal anyway. [S2: ouch ] and i should probably get ready for that, ordeal.
+S2: i hate that.
+S1: did i tell you i g- i took in a cat, a stray cat? did i tell you this story?
+SS: no <LAUGH>
+S1: um well you know it's not really a story, worth telling, until, this thing that happened yesterday. i'm not supposed to have, pets in my house, um so, i i kept worrying about the landlord coming by and you know the landlord doesn't, sneak on over and and try to catch you at things so i thought i'd be fine but, he left a message yesterday morning around ten saying that, he would be coming over to show my, my place to some people who wanna rent it for next year, and, if i had picked it up if i had picked up the phone then, uh i woulda been alright but i i was sleeping in so i didn't get the message until later when i woke up, about quarter to eleven, and, i had fifteen minutes to get, this place cleared of any cat, residence, uh <SS: LAUGH> evidence, so you know i like i took the, kitty, kitty uh, what is that? the kitty litter stuff and i stuck it in my trunk in the trunk of my car, you don't wanna you don't wanna know what it smelled like a little bit later, uh and i, [S2: oh ] usher the cat out the door you know and i thought oh i'll never see that cat again, you know cats come they eat your food and then they leave and, you know they don't s- stay up nights thinking about you or anything. so i was like alright there goes the cat, oh well. and uh you know i i put it out in the little shed and i closed the door and i when i came back later it was gone, so i figured ah off it went, people come over, my landlord comes over they see the place, um, you know i go out and do some errands and i come back about two hours later, i go to the shed and i, am thinking i'm gonna go outside and maybe look for the cat and see if he's still around, and the cat is in the corner of the shed and it hasn't moved, a muscle. <SU-f: LAUGH> you know it's just it's sitting there on top of some clay that i have in that shed. and i thought this was so great, you know, it's li- i felt like this cat approved of me, <SS: LAUGH> it accepted me. and it immediately reminded me of, and i and and lemme tell you i don't normally have these kind of uh Bible school Christian moments but you know th- there's that thing in um, in_ at church you know they they, teach you about the figure of Christ knocking on the door? you know and you're supposed to open up your life to him. i felt exactly like that. i was like this cat has accepted me. <SS: LAUGH> you know? and i told my girlfriend all about it and we had like a, a a moment of being affirmed in our relationship, thanks to this cat. <SS: LAUGH>[SU-f: wow. ] it was nice. yeah. so the cat's around. we can't take her to Miami but, uh we'll give her to some people to take care of her.
+S2: hm. <LAUGH>[S1: yeah ] hmm.
+S1: despite my not giving it any shots. or um getting it declawed or any of these things. which i kinda don't believe in. you know.
+S4: the shots you don't believe in?
+S1: i don't believe in the shots. you know? i i i don't like, i don't like_ i haven't named the cat either cuz i don't agree with that.
+S3: shots are a good thing.
+S2: for cats (especially)
+S3: if you ever watch Emergency Vets they're like did you inoculate your animal? and they're like, no and they're like well he's gonna die.
+S1: oh yeah? oh.
+S3: yeah there's a lotta diseases that they can't cure they only can prevent with, inoculation.
+S1: well you know that's, that's a cat's life. <SS: LAUGH> i feel like
+S3: that's horrible.
+S4: <LAUGH> (what about when) you get a [S1: well, you know ] disease from your cat?
+S1: if it's a matter of my getting the disease then i'll get it all the shots that it needs <S4: LAUGH> but, i don't know. i feel like i'm humanizing the cat or something (and,) making it go to the doctor and getting its stuff cut off and, getting its, fingernails all pulled out i i don't really like that. <S3: LAUGH> you know? i don't know. that's probably faulty reasoning somewhere but, um we'll let these people who are recording me figure that out. <SS: LAUGH> um, okay, i- take out a piece of paper and take some random notes. okay? uh, [SU-f: random ] yeah this is to prevent, stupid mistakes, that you've been making throughout, uh the semester from occurring through this last paper.
+S3: um i don't have a, writing utensil again.
+S2: ohh. (you can have ink)
+S1: did you not buy a pen for (the semester) (xx)
+S3: <LAUGH> no
+<SS: LAUGH>
+S1: uh i'll probably repeat this later when more people show up. um, but write this down, for your sake, while it's still fresh, on my mind. uh comma splices, what are those? do you know? well you don't l- have to know what they're called i guess but, it's a run-on sentence. right? two sentences joined by a comma. uh they should be, separated into two separate sentences or you should do some sort of punctuation fix, um semicolon dash maybe even a colon, okay? Leslie you are a, big-time violator of the comma splice rule, and so is Erica (who's not here.)
+S4: i thought i did better this time.
+S1: <LAUGH> i still caught some, right? you you got rid of the uh, the incomplete sentences, <SS: LAUGH> but you're still having trouble, <LAUGH> at the other end.
+S4: thank you very much Simon for announcing my uh, problem (in) class.
+S1: yeah i can read you, some examples
+S4: no that's alright, i'll read (xx) <LAUGH>
+S1: um, yeah y- you make these kind of mistakes because you get away with them in spoken speech, spoken language but i- in written language it's, really visible and, um, well the, the grader will wonder about the rest of your paper if you don't know the difference between a complete sentence and a run-on sentence. so, be sure to catch those. uh, footnoting there's, still some huge confusion going on about footnoting you guys are trying to footnote um, you're footnoting but you're thinking bibliography. and uh the difference, well there's there're many differences i guess, the underlying purpose of the of the, of the whole affair is the same but, do this, alright? just do this until somebody, pulls you aside and says that's wrong, okay, which i'm betting will never happen. you got, you're writing an essay, you've read about three or four authors for this essay. okay? the first time you mention or you quote from one of the authors that you read for this essay for this paper that you're writing, footnote that person. okay? and footnote that person, um in the format that i gave you, alright, on that printed, thing, alright, also it's in your little brown handbook. and at the end of that footnote, alright which should, it should end with the page number that this citation is taken from, put a semicolon, and give a little message like, further uh further citations will be done parenthetically. okay? and then after that each time you cite, cite this author you just y- you just have to put a parentheses, an open parenthesis, author's name, page that's that this citation is taken from and closed parenthesis. alright? you don't have to go nuts with this either. alright? if you're_ if in one paragraph you're talking, about a certain aspect of an argument or a certain bit of text that you've already cited, you don't have to keep citing this same person. alright? um Amy you do this. you go nuts with the footnoting. um i commend you for being kinda responsible because you don't wanna take credit for a- another person's, work but if it's clear just in the text in your own text that you're talking about somebody else's writing, or that it's clear, or it's clear that you are continuing in the vein, that you have been, right and you've already footnoted that, it's okay you can let off (of) that. alright? footnotes go at the bottom of the same page <LAUGH> as the citation that the footnote is referring to. if it doesn't it should all go at the end of the paper on a separate page, called works cited or something. okay? or notes. alright? what else? um... when you quote something, or whenever you you use um, quotation marks right either to denote, something that's being cited or the title of an essay or some other work that deserves quotations, <WRITING ON BOARD> punctuation, goes inside, the quotation marks. mkay? so the last thing that occurs on that sentence, is this thing. alright? not the period or the comma. if you're using any other kind of, punctuation point, alright, uh other than the period or the comma, semicolon colon exclamation point or question mark, or others, okay those go out on the outside.
+S4: hmm
+S1: hmm?
+S4: i thought it was the opposite.
+S1: no no no no. <SU-f: LAUGH> this is outside this is inside.
+S4: so wait when we, when we put like Foucault page whatever, the period goes after the parenthesis right? or it goes inside the quotation?
+S1: no no. that's not that's not a punctuation, Foucault whatever, you talking about a parenthetical citation? [S4: yeah ] yeah.
+S4: do we put the, punctuation inside the parenthesis and put, a period, (at the end of?)
+S1: um usually not. unless you need to cite the punctuation that, the author is using too. here. um... <WRITING ON BOARD>[S4: mhm ] mystify is the last word used in a sentence by Foucault, alright? and you wanna cite this sentence, right? so you got blah blah blah mystify, right? and, close the quotes, cite him Foucault, period here. okay? if you're not doing this or if the citation doesn't occur at the end of the sentence... okay let's say it comes in the middle of a sentence, then the comma or the, well i guess it would only be a comma goes here. okay? if mystify, is the title of a work... an essay by Foucault, and that comes at the end of a sentence that you're writing, period inside. cuz you don't need this the only w- reason why you violate the inside, quotation mark, rule here is because you've got the citation, and you can't let that float between this sentence and the one after it. okay? but other th- other than that, um always inside. it's a small thing i know. i know. um but you know, if it doesn't really matter to you which way you do it do it the right way, and you really won't have to worry about it. okay? and this way somebody'll know that a person like me taught you this stuff. and i'll be remembered. yeah?
+S6: what were you, what, <SS: LAUGH> you know that line that you had? okay, what what were you saying was the separation between having, uh like an exclamation point or a question mark, and you said that wouldn't go in, [S1: no. ] the quotation? or i didn't hear what you were saying. [S1: um ] see how you have that line you have like period then you have a comma [S1: yeah ] and then on the other side you have, semicolon
+S1: uhuh. this stuff goes inside, unless you've got a citation to include in your sentence [S6: okay. ] this stuff goes outside.
+S6: of quotations?
+S1: right.
+S6: always?
+S1: always.
+S6: see that's totally new to me. are you sure?
+S1: <LAUGH> it isn't actually. <SS: LAUGH> um, here's why uh you can, the thing is if you add a comma here and it's your comma and not Foucault's comma, you know you still need the comma so, it's alright. right? th- y- that's like it's sliding. it's it's_ technically you're adding something to Foucault's text. so, you know there_ it's worth thinking about but if it's just a comma or a period i guess the decision has been made, it's alright. but if it's a significant punctuation point like one of these? right let's say, you were really excited about this sentence, and you wanted, an exclamation point of your own, well if you had it inside then you're, attributing the exclamation point to Foucault, which is a significant change, um to the tone of the sentence maybe. [S6: okay ] that's why it goes on the outside. right so here, you are really interested or excited about his thoughts on mystification, question mark goes here, or you had no idea what he was talking about, <LAUGH> quot- question mark goes here or uh exclamation goes there question goes there.
+S4: what if the punctuation is in the quote?
+S1: oh, if he, has used the punctuation? use it, and then it's stupid but you've gotta put a period at the end of it too, [S4: okay ] kay? to denote the end of a sentence... yeah. um there are people who do this, for a living, <SS: LAUGH> study this kind of thing (xx) copyeditors, and others. um, right so there're rules for things even if you think, that the whole, endeavor is kind of, pointless. um what else did i nee- oh, titles of essays are in quotation marks, okay, titles of books, titles of movies titles of plays, the name of a ship, those things all go, um either are underlined or italicized, right rules for that in your little brown book as well. oh do you see how you would never footnote and parenthetical, cite at the same time? right that would never be, there would never be an occasion for that. so don't do that. the essays that, you will be referring to the Ha- Hammer and Malak essays from the coursepack, right? when you got the coursepack there was a cover page and the printing information was on that cover page. <SU-f: LAUGH> refer to that for the information that needs to go (in the paper...) what you lost it? probably?
+S2: (probably) (xx)
+<PAUSE0:10>
+S2: oh no, this?
+S1: show me.
+SU-f: next one. next page.
+SU-f: not that page.
+S1: nah nah, not that page. yeah.
+S2: ta da.
+S1: isn't that nice?
+S2: that is just great.
+S1: don't copy it exactly cuz, that's not in footnote, footnote format. <S2: LAUGH> okay but all the information is there... so show me you know how to do this stuff. right for this last paper, cuz i've been letting it slide cuz i'm, more interested in you, um learning the other things that i've taught you. but uh you know you should learn this too. <PAUSE0:07> okay. <PAUSE0:18> take a look at uh one of these, handouts that i just gave you, the one that starts documents such as. <PAUSE0:13> you need one t- h- [SU-m: yeah ] who else needs one? here take one of, (each of these.) <PAUSE0:40> hey we may get everyone here today. <SU-m: WHISTLE>[SU-f: wow ] that'd be nice. it shouldn't feel like a reunion but, <SS: LAUGH> it kinda does. how you been since first day of class? (what do you know?)
+S3: <LAUGH> oh where di- where did that one guy go? <LAUGH> the really funny one.
+S1: what one guy?
+S4: yeah he was hilarious. <LAUGH>
+S2: oh yeah. <LAUGH>
+S3: the one who always said the really random stuff.
+S4: he sat like right there.
+S2: the one that was really like, gung ho
+<SS: LAUGH>
+S1: oh Justin
+S2: yeah.
+S4: was that his name?
+S1: yeah um he left.
+S2: oh, well
+S3: oh. well [S1: yeah he ] i kinda figured since he's (xx)
+<SS: LAUGH>
+S1: he got a job and, and left. but he wrote me a very nice email, afterwards.
+S4: he was very entertaining.
+S1: yeah. yeah.
+S2: <LAUGH> he was hysterical. <SS: LAUGH> oh, great.
+S1: yeah he's very loud wasn't he?
+<SS: LAUGH>
+S2: yeah
+S1: (xx)
+S2: he'd walk in, sorry i'm late <LAUGH>
+S3: and he'd say hi whenever (we) walked in
+S1: he was just he was just literally loud.
+SS: yeah.
+S1: okay.
+S4: i think he played like tuba or something something (that's loud) <SS: LAUGH> i think he's, [S5: he played what? ] partially deaf or something. he plays like tuba or something like that.
+S1: oh. i think that hmm. didn't he tell us that?
+S5: (xx) (that stuff)
+S4: yeah he's in the music school. [S1: yeah okay ] he's definitely a brass person.
+<SS: LAUGH>
+S1: okay um, look at this long paragraph, in the middle, um i'm... this is this is gonna g- it's gonna sound stupid but i like long paragraphs. um i like long paragraphs because if, there's a good reason for its length, um it means that the student is on to something or is willing to, to, think this through. it's a better sign than you know short paragraphs that, um, are not transitioning well between, one to the next. i want you to uh look over this paragraph with me, and uh we're looking for just uh style here, right because the language here i thought was pretty tight. um although there are some co- co- corrections that i would make but when it's on i thought um it was it was on. Greenbladt examines written history in his tit- essay titled Marvelous Possessions. actually i don't like that first sentence. okay um, qualify what i just said, uh with with what i'm going to say about this first sentence. uh the first sentence, ideally should provide uh a topic of discussion for the s- for the sentence that_ for the paragraph that it's starting, or it should provide some sort of reasonable, transition from the paragraph that occurred before it. okay? that Greenbladt examines written history is a timid claim and is not going to serve either of those (goals.) okay? um right it's just this paragraph is just saying this guy Greenbladt wrote an essay, called Marvelous Possessions. okay? um so you see in that, in the margins i would say something like work for a better transition sentence. um Columbus's arrival in the new world in fourteen ninety-two and his claim, of the land for the king and queen are obvious, obviously cases of cultural dominance_ obvious cases, of cultural dominance. Columbus lands, and proclaims possession of the land. the essay begins with pointing out, the essay begins by pointing out, the contradiction in claiming land, that is already named and inhabited... further the act of taking possession of the land itself is is is described in detail, as a specific set of procedures. the procedure includes declaring witnessing and recording. footnote, should be on the bottom. all three of these involve, the use of language, something the indigenous people did not understand. the procedure and the use_ and use of language was used to create, official historical texts and to write history. okay stop there for a second. um first question i have when i see that footnote is why is the footnote there? right why has this author chosen to footnote that sentence? or that thought as opposed to, ones before it or after it? um i couldn't figure out a good reason for her doing this. um, so probably, maybe the footnote should have occurred after Marvelous Possessions right af- right off the bat? okay? you mentioned the essay, um footnote it there. and then afterwards you can just kinda, um take it for granted that the reader is following you. okay? the fir- procedure for in- listen to these um, these three sentences, one more time. the procedure includes declaring witnessing and recording. all three of these involve the use of language something the indigenous people did not understand. the procedure and use of language was used to create official historical texts and to write history okay? these three sentences are very close to each other. alright that that is they they're relevant, to one another they're talking about, uh a couple of things, but it's all in that same area of discussion. right? language as used by Columbus versus the kinda language that we imagine the indigenous people, used. and the confusion or, the m- the non communication between the two that, you know resulted in, kind of writing that Columbus did write. some difficulty though in expressing that or you know it's not great difficulty but it could be better. um, first of all that second sentence all three of these involved the use of language something the indigenous people did not understand makes it sound like, the indigenous people did not understand the use of language and we don't mean that we mean this particular use of language. okay? so uh the quick fix for that sentence would be, all three of these involved, the kind of y- language that the indigenous people did not unders- understand. alright? um, or or something other that, that doesn't need a comma between it, right? so that, the sentence is clear about, uh what it is the indigenous people, that the indigenous people did not understand. okay? but i'm going to propose that there could be even a better fix that, marries that first sentence with the second sentence, um, and in a happy way. the procedure includes declaring witnessing and recording how 'bout a colon there? and then the next one, is, you know restating what this declaring witnessing and recording is about right? i told you that's one of the, one of the, the occasions for for a colon, right? when you say, or re-say something in other words that you mention at the beginning of this clause. right? um, the root of all evil colon money, some such thing. <SS: LAUGH> the procedure includes declaring witnessing and recording colon, an event of language, that the indigenous people did not understand... okay? how 'bout that? i don't think there's any loss of meaning, loss of content. and the thing is quick, right? it's tight. the procedure and use of language was used to create official historical texts and to write history, um i don't like, the double, double use use of use of language and used and also historical texts and to write history right? uh when you see the same word coming up, too many times, or more than once like this in the in the same sentence, unless you mean it, right unless you're cluning cluing, the reader in to two separate use of of a word that um you are necessarily playing against each other, or jux- juxtaposing in some meaningful way, um usually, this deserves some sort of editing. okay, um get out a thesaurus and, instead of use twice, you know find a secon- another word for the second, for the second occasion. or maybe the problem is just well you're trying to split too many hairs or you can say this in sort of one breath without needing to come (back and forth.) <S4: SNEEZE>[S2: bless you. ] um i think this is an example of that last kind of problem. okay? um there's meaning here for sure but it's not being it's, it's stumbling on its own words. okay? uh i think here try this on, and see if it makes uh, makes an improvement or if if the, correction loses something. um... the procedural use of language, right maybe instead of procedure and use of language maybe we can just say the procedural use of language or the formalist, use of language the formal use of language, makes official texts and creates written history. makes official texts i mean makes, makes texts official. okay? um the procedural use of language makes texts official and creates written history... does that sound okay to you? [SU-f: mhm ] um, i think that's a good fix, for that sentence but if you if you write that sentence i also worry about, lack of s- lack of transition, or um some sort of, awkwardness uh between those two sentences that is, now you've got two sentences well you already do now but even after the fix you've got two sentences that start, the procedure. okay? so maybe you can actually make those three sentences into one long one, that reads something like, the procedure includes declaring witnessing and recording colon, an event of language that the indigenous people d- did not understand comma, that this procedure_ that this procedural use of language makes official texts and creates written history... or maybe instead of comma a semicolon. right whatever you know, whatever the end result, um i'm getting you guys to, start to understand, start to notice where, or what a pa- what a sentence will do in order to, show you, clue you in that uh it needs help. <LAUGH> the sentences are crying out for help. <S4: LAUGH> um, and other fixes that you can make in order to really make efficient your constructions. alright? um, the theme of this_ the theme for for writing papers in this class has always been, you write better in order to think better and vice versa. right? if you get your, sentences in line if you get your thoughts in line and make them behave, it will lead to content that you otherwise would have overlooked. alright? inexact words will le- lead to inexact thoughts... um, since the indigenous people did not know the language the only historical information comes from the dominant culture, as Greenbladt states writing in this case quote fixes a set of public linguistic acts etcetera. interesting, no comma, interesting is the fact that the procedure for claiming the land in- involved a declaration. this declaration was made in a language that the indigenous people did not understand, right. um, there's a candidate for, contraction right? those two sentences, could easily go in one sentence. no need to end the word_ end the sentence talking about declaration, restart another one talking about declaration right? involved a declaration, that was made in a language that uh, the indigenous people did not understand. in a letter Columbus writes, that he was met with no opposition upon claiming the land. since the native people did not know what he said this lack of opposition was stated for the Europeans, to read and record history further validating their possession of the land. the language used in letters written by Columbus is analyzed throughout the essay. Columbus also wrote letters admiring the orderl- orderliness of the society he encountered, however, these comments came later and were no- were not established, as historical facts, as the procedure of possession was. okay? i like this part of the paragraph because we're getting away from, what we now see has been um although high quality summary nonetheless summary. okay? the stuff that comes before this however sentence, um is a retelling of Greenbladt. okay? and i told you some of that is necessary. um and i think this writer gets away with it because she does it well. um but it is just still summary. alright here with this however clause, we've got some activity. alright here the author is, stepping in and doing something. these comments came later and were not established as historical facts as the procedure of possession was. good. Columbus also wrote of the marvelous nature of the new world. regardless his first letter served to establish historical facts that they have authority and have the conquered the l- land. okay? something going on here. okay? and this is really telling. um most of you guys when you happen upon a really good thought will freeze. <LAUGH> you know? you r- you scare yourself, at that moment, and you will scramble back toward, summary, again. okay? and that scrambling back is really noticeable in instances like this where, it seems like, the scrambling back is not necessary. okay? Columbus also wrote of the marvelous nature of the y- new world. there's a definite break in thought between that sentence and the one before it. okay? that shouldn't be for a number of reasons. one reason, m- most obvious reason being that, it breaks up the flow of the, flow of the paragraph but also because, well you're onto something there. right? don't go back to Columbus yet. talk about this difference between, what Columbus writes about, and what he sees. how much of what he sees translates, into what he writes about, and why? right that's what Greenbladt is getting at, that's why he studies text. alright there's a whole world of things, and a whole, person's worth of thoughts, and feelings that Columbus is, under, at this moment. but out of those out of that world he only chooses a couple of details to write about. okay why? why that selection? that's what the author's on, uh but passes that moment too quickly. okay? this stuff becomes obvious, uh when i talk about it it should become obvious to you when you look at it yourself. right that is between drafts. if you go to a draft and look at it uh let's say you've given it a day, right you haven't worked on it all day yesterday. and you go go to it and read it, as if you were, um, well as if you hadn't read it a- as if you hadn't written it yourself. right? approach it as you would approach a foreign text. and see how it stands up, under those circumstances. right? under those demands. questions here? is that a hand or, throwing hair? <LAUGH> okay. <SS: LAUGH> okay um, let's see. take a look at the next one, <SU-f: SNEEZE>[S2: bless you ] [SU-f: thank you. ] um the one by Waylett... well it's gonna be hard to keep a secret that this is Chris because, the paper we're doing will have his, first and last name on the first page right? but it's okay because we're here to, um, say good things about Chris. um, here's um a good example, of a paper, right or a a part of a paper, kind of tranzen- transcending the needs of a paper, right the need to talk about and mention and, sort of, evidence your knowledge of a text that you've written, right? and application. right? and the evidence for this is, well there's stuff being talked about here that hasn't been talked about before, by any of these authors singly. this is what i called um writing in the intersection of things, right? taking one person's idea and applying them, um in another, area, of discussion, right? this is what happens here. it's a bit messy, okay and Chris admits to this so, i don't mind telling you, right, um, it's a bit messy but once you catch on to the reasoning behind it um and the discussion too, um you'll see that it's pretty good. here, this formalism described by Greenbladt is an intriguing process that places, something of an unjust act, and makes it appear fair and inviting he's talking about, the open formalism and the closed formalism, Greenbladt mentions. this idea of open and closed formalism is seen throughout the different texts in this discussion. okay? in the margin i said sent- this sentence needs to go elsewhere i'll tell you, why later on. since Columbus figured, that he was landing on an island inha- inhabited by the Indians under the control of the Grand Khan, it is clear that he didn't believe he was making a discovery merely ignoring the natives. Columbus clearly recognized the Indians as the owners of the land and included them, in, his contract, in which he claims Spanish ownership of the land uh you see my editing there? alright my including the_ by including the Indians, as witnesses he is therefore giving them recognition, in the declaration. he accomplishes this_ his goal of ownership in a very vague form so as to leave room for interpretation later on. Columbus refrains from using too many details since he hardly even knows what he has just discovered. Columbus was successful at attem- accomplishing a legalistic act that would entitle his monarch, monarchs to the land, the land he had just come across as well as all its entities. okay? this wasn't clear to me until i got to the next paragraph but what you see Chris doing here is he's starting, he started this this page, or he ended this_ he ended the page before talking about open formalism and, drawing the reader's attention to that part of Greenbladt's text. what he's doing then is giving a paragraph to the openness of the formalism and then a paragraph after that to the closedness of the formalism. this wasn't entirely clear to me Chris because, you end, the incomplete paragraph on this page by saying this idea of open and closed formalism is seen throughout. so i think here and now you're either going to move on and talk about other texts where open and closedness is relevant, or uh or something else. i didn't know that you were still continuing in that vein. i needed to reorient myself and i i probably shouldn't have had to do that. okay? also it's not clear in that first full paragraph, that you're talking about the openness of, the open part of, of of Greenbladt's binary. alright? you don't mention that there, you don't mention the word open, or you don't use it, as you do in the last in- uh incomplete sentence incomplete paragraph. on the other hand this act of formalism was very closed, and corrupt toward the Indians right? now i know because, i guess the on the o- on the other hand transition i think oh okay now, i see what he's doing. he's given me one now he's giving me the other. alright? too much confusion here. right? or or it doesn't need to be, this confusion doesn't need to occur. um cuz it's a really simple fix. Columbus obviously knew that the natives didn't speak English and that no one was going to oppose him, he included them in his proclamation, not to give them a voice in the matter but only to use their absence of opposition against themselves. this action was very closed to the Indians not only because Columbus used their ignorance as a trick, but also because his declaration was then legally binding against the Indians from that point on. that's good. alright that's tight, um the language there is efficient, and that's a pretty succinct way of putting, this part of the argument. alright this part of the summary. um, notice also how much, Chris has spent talking about openness and closedness alright? it could have easily been, a sentence or two mentioned and then, you know this discussion could have carried on, he doesn't do this, right? he stays with this idea throughout the paper, he mentions it here, in order to clarify, what Greenbladt means by it, but he also does this thing with the other essays, and surprisingly with uh the Tempest and, Starship Troopers too. alright? that's engagement, right? that's application. take an idea, use it in other occasions. okay? do that and you'll also take care of um problems with thesis and argument, right main argument, right? the thesis here is that this open and closedness can be, seen in other works. right and th- and it all goes toward this whole thing about culture and misunderstanding, and wrong histories and right histories. okay? big idea, you pare it down by finding, uh a single element that captures it pretty well, take that into other texts and show me how it works there. yeah? textbook. okay? um, one more, look at Anderson, seven. this is Eric's paper, um... Eric does essentially what Chris does, uh but he's got a lot more style about it. <LAUGH> but what he gains in style he loses in sort of um content or, he doesn't go on for as long, with an idea, um as Chris is willing to... oh he also has this comma splice problem, um so i can i can point that out to you here too. Pratt would agree with Shakespeare with regard to why there exists a power differential between Caliban and Prospero he has a comma there, clearly shouldn't be. Caliban has no chance at power because he lacks the education refinement_ and refinement that is required of a leader. Caliban like (Wamanpoma,) um lacks the formalism that is required to obtain power, he has no chance of being a leader because he doesn't, uh yeah that's a comma splice too, which i missed he has no chance of being a leader because he doesn't have the skills that are established by the authoritative power. uh authoritative power might be, redundant. Caliban is a creature of sensation not intellect, and until he can become more of a reasoning being his chance at freedom is small. Shakespeare like Pratt wants to argue that leadership and power should not be decided from this authoritative p- point of view, a suggestion that is evident in Prospero giving up his art, at the end of the book. in order to become a good leader, Prospero must become an equal with the rest of humanity, los- using loyalty, instead of magic in order to lead. okay? um, yeah that's r- that's um, Eric is really smooth about, the arguments that he makes that is he he doesn't interrupt stuff by saying, this is like what we read about Greenbladt here. or this resembles Pratt here. right? he goes into it, immediately almost effortlessly by just using their language. alright? so, he says in that last long sentence, or the second to last sentence, Shakespeare like Pratts wants to argue that leadership of pow- and power should not be decided from this authoritative point of view, a suggestion that is evident in Prospero giving up his art. that's a really good point about Prospero giving up his art. right? or, Chris is uh Eric is suggesting that, the art that he gives up his power this magic that Prospero gives up at the end of the play, signifies, right a surrendering of this sort of this whole um hierarchy of power. alright? the hierarchy of power that has, uh oppressed Caliban and enslaved him, and has on the other hand um, reinstated the dukedom, to Prospero. okay? um, right. that's a pretty good point. i would say. um but he does it too quickly, right i feel like he could give me at least two more sentences on it just to make things clear. but i know he's on to this i know he he, he knows this, um just by virtue of of the fact that he can use it this well in this sentence... okay? so take Chris, and take and Eric right and like, merge their brains into one, <SU-f: SNEEZE> and you've got, all the good parts [SU-f: bless you ] of a paper. [SU-f: thanks <LAUGH>] okay... buddy up will you? cuz i don't have enough copies of this... just take one (for like two or three people.) <PAUSE0:28> do you have questions about any of the, um, the samples that i, that we went over, so far? <PAUSE0:11> okay Chris you wanna prep us or anything? you wanna say anything before we go over your your draft?
+S7: uh, not really. <LAUGH> it's a little, it's rough. i haven't actually read the whole thing (you know all at once) so, but, yeah.
+S1: okay.
+S7: i don't know if there's (anything) (xx) <LAUGH>
+S1: did you were you able to do a draft for the previous paper?
+S7: yeah.
+S1: okay um, i should've liked to ask Chris uh Eric that too. um, okay. let's do Chris's. <PAUSE0:08> tell you what, um, since i'm getting, kinda tired of just reading the whole thing myself, <LAUGH> why don't we go around and we'll take paragraphs, and i'll hold you responsible for talking about that paragraph. okay? Margaret Atwood's story The Handmaid's Tale, is a satire depicting the dangers of Christian fundamentalists, especially the danger pertaining to women. On a first glance the novel appears to criticize Christian beliefs, but after a closer look the novel really doesn't at all criticize the beliefs taught in the Bible the novel is a satire, on the people who use the Bible as justification for their oppressive behavior. right. Atwood portrays her belief, of our society's effects on women effects there, the right one or the wrong one? [S2: the right one? ] yeah. <SS: LAUGH> through the character of Offred. Offred is a typical woman who is victimized by a society overly controlled by men, who abuse their power greatly. oh that's awkward. overly controlled by men who abu- abuse their power greatly right? uh one too many adverbs. um, and other things too... is a satire depicting the dangers of Christian fundamentalists... hmm... okay that's alright. i think you mean Christian fundamentalism. right? [S7: yeah ] it's not the people we're scared of it's, the idea right? but we're not i- this isn't a story about, you know, Jerry Falwell or, something like that alright this is a story about, the thought the ideology. um especially the danger pertaining to women pertaining there is the wrong word to talk about what danger is doing to women right? it's it's a weak word it's an indirect word. right? danger pertains to women? what does that mean does that mean that the women are under danger or the women just have to do with the danger in some ways right? you mean something like, the danger um, pointed at women i don't know that's stupid too but, y- you see what i mean there. [S7: yeah, okay. ] <SU-f: LAUGH> um on a first glance, the novel appears to critic- criticize Christian beliefs... but after a closer look the novel really doesn't at all criticize the beliefs taught in the Bible Bible is capitalized. the novel is a satire on the people, who use the Bible as justifica- is a satire on the people is just, a longish way of saying satirizes. okay? na- novel satirizes the people who use the Bible, to justify their oppressive behavior. okay? use the w- use the verb when you have the word_ verb you don't have to make verbs out of is and nouns. alright? uh, okay. next one. Leslie why don't you do the next paragraph.
+S4: okay. according to Hammer Handmaid delivers, a clear message opposing Christian fundamentalism. American Christian fundamentalists, are, fanatical and dishonest and therefore highly dangerous. they seek to erode the liberties which all Americans and especially American women cherish. this satire is valid in the sense that all of the dogmas and morals of Christianity are panoptic and therefore dangerous, but invalid in any accurate account of what fundamental Christianity is.
+S1: what do you think? [S4: um ] things you would change? if any?
+S4: it's, to the point. it's clear.
+<SS: LAUGH>
+S1: <LAUGH> are you just being nice to Chris? or do you really feel that way? or are you just hedging your bets? or
+S4: um, is that, last sentence, the w- the satire is that a um, run-on sentence sort of? [S1: hm? ] the last sen- well the last sentence of the paragraph this satire is valid, could that be like maybe broken up?
+S1: how?
+S4: um, this satire is valid in the sense that um, maybe he can explain more about, um, why it's valid, like what the dogmas and morals are. you know like
+S1: well the at least the ones that he calls panoptic [S4: right. ] and da- and dangerous.
+S4: and then he could talk about m- how they're invalid.
+S1: yeah. Chris do you really mean that all morals of all Christian morals are panoptic and dangerous?
+S7: no.
+<SS: LAUGH>
+S4: (maybe talk about) the ones you mean, s- more specifically?
+S1: i mean you can you can mean that i don't mean to bully you or anything but, you know it's them fight- them's fighting words.
+S7: um, i don't mean (to be mean) but yeah well i mean, i guess all was a bad word to use but
+S2: many
+S4: some of <LAUGH>
+S5: i think you just, you just mean that a lot of them can be used in a way that, is not beneficial. like they can all be forced into a, panoptic uh, i don't know
+S1: maybe you mean [S7: have you- ] dogmatism is dangerous? and not
+S7: yeah have you read this before yet?
+S1: no.
+S7: okay. <S4: LAUGH> well it's_ well i mean the sentence the paragraph breaks there but the idea, i just broke it cuz it's a long, mm i don't know.
+S2: yeah i think that that paragraph could be longer
+S7: yeah i did continue (xx)
+S1: oh okay, okay. [S2: um ] um, alright so we should just hold on then? okay
+S7: i guess well there's two_ well the sentence right there there's the two parts, it's valid and it's invalid and then the next two paragraphs one explains why it's valid and the next one, explains why it, [S1: okay ] (xx)
+S1: well why'd you break up the paragraph then? it's not that long. it's fine
+S7: well because the next one, you see there's the next two paragraphs talk about it. [S4: oh, that is long ] and the second one is pretty long. so i thought
+S1: okay well you're doing the thing that, you didn't_ you're not doing the thing here that you didn't do in the, in the other paper, right? transitions and and, markers that [S7: yeah, (xx) ] give the reader an idea of, what strategy you're, operating under right? how are these paragraphs_ how am i supposed to anticipate these paragraphs?
+S7: how do you do that?
+S1: well, um, you can do it, you know, the easiest way to do it would be, um, there are two ways to explain this phenomenon or there are two sides to this story end paragraph next paragraph. [S7: okay ] okay? or i mean that's that's like a grade-school way of doing it but, [S7: yeah ] something to that something that gestures, the same way that that example gestures.
+S7: that's gonna continue?
+S1: right. okay? um, you need to footnote that, right? or you should, first time you're [S7: yeah ] quoting Hammer, right? this might be a good place to do it. no rule that says you can't footnote
+S7: how do you how do you footnote uh
+S1: block quotes?
+S7: block yeah.
+S1: just at the end of the block.
+S7: okay yeah.
+S1: is that your, was that your [S7: yeah ] question?
+S6: oh i was just gonna say like, would you just, like have the footnote at the end of the block and still have Hammer underneath it like the way he has there, [S1: no ] or you wouldn't have that at all?
+S1: right you wouldn't have that at all. right, one, but not both. right? just like, just like you wouldn't <WRITING ON BOARD> do that.
+S6: i just didn't know if it worked different with the block or not.
+S1: mhm. okay? Sarah?
+S2: the suggestion that the fundamental Christian world of Gilead exists in our world today, leads to the conclusion that Christianity is a panoptical religion. the premise of Christianity is that people can personally, have a relationship with God and that he, always is watching us. this power and knowledge of God makes him the ultimate eye. [S1: oh ] a Christian, could live a full life of sin and deception and never suffer any consequences. but being under the constant surveillance of God will inevitably lead most devout Christians towards, confession and repentance. the only other feasible outcome for a true believing Christian who struggles with, sin is to fall from their faith. much like the consequence in Gilead of being sent to the colonies a Christian may fear the ultimate consequence of, eternity in hell. wow...
+S1: or any of you, this isn't just, Sarah's paragraph...
+S3: um, just, like, for the sentence that says, have a relationship with God and that he always is watching us, would you say he is always watching us? is it... where should you put the always?
+S1: oh say again? which sentence?
+S6: it's between the first and, the second
+S3: between the first and the second page that that he always is watching us would you say he is always watching us?
+S1: and that he always is watching us. is always watching us sounds better to me.
+S3: yeah. (i thought it should be that.)
+S2: i like it. i like it a lot.
+S1: i like it too. yeah. uh, oh. there's an example of where a period should go inside quotes right? the ultimate eye, dot, end quote...
+S7: is that fair to use eye like that? cuz, i don't know, i don't know
+S1: fair?
+S7: yeah fair like it's a, thing, from the book that, isn't explained at all but, kind of assume that (it's)
+S1: uh hm... maybe you should footnote that, actually.
+S7: okay.
+S1: yeah. good. and you can get that um, get that footnote out of the way too.
+S4: question about that one. would you like if he's footnoting that would he like, give a, a definition of what that eye is in Atwood at in the footnote? you know how like, sometimes
+S1: in the footnote? [S4: yeah ] mm, you could, for sure you could you could define eye or you could sort of r- remind the reader or for the benefit of somebody who hasn't read that book, uh talk about what the eyes are in the novel, in the footnote. okay? you would do that if the rest of this paragraph is going to go on talking about eyes but not really pause to to explain what they are, okay? the other thing you can do is not do that in the footnote and just sort of briefly do it in the sentence that talks about the eye. okay? yeah but for sure you can do that sort of thing in the footnote.
+S6: h- how would you do it would you put that before like all the information or after the information?
+S1: after. [S6: okay. ] mhm... anything else?
+S2: i don't see anything terribly wrong with it.
+S1: no it looks good to me too. yeah i like this idea immensely. um i don't know why i didn't thought uh why i didn't think about this before. alright? um faith i think here is the, is the right word. alright? w- you were talking about, the relationship between, the panoptic inmate and the guard, the unseen guard right? that relationship is one of faith. it's a perversion of faith but you know it's it's it's the same thing it's, not, it's believing in something that you don't see or you have no proof of. right? right so, maybe um not a big mistake or an accident that, Christian fundamentalists um, well a theocracy like Gilead, operates, under uh panoptic rules. good good good. next one? Jenny?
+S3: it doesn't appear that Atwood's satire is necessarily directed at Christianity but instead toward Christian followers who do not hold the faith of their religion but embrace the rituals and dogmas of their church. since the women of Gilead aren't allowed to read the Bible they are given a very skewed image of what is in the Bible. in a Biblical sense fruit is usually considered to be the result of the spirit such as peace, love and good works. in Gilead the fruit always refers to the babies. [S1: mhm. ] this is drawn from the Bible description of Jesus being the fruit of Mary's womb. this mi- misinterpretation, doesn't exist in our world but only in Gilead. other parts of the Bible that are looked at in Gilead are verses about male dominance and women being submissive and bearing children. Atwood has a fairly_ has a very fair dispute with the Christian view on this subject but she places a ridiculous amount of focus on this topic. in Gilead, the verses from the Bible that deal with this issue seem to be the only verses anyone looks at.
+S1: oops what what? stick with one verses. S E S not S U S. [S7: oh yeah. ] vers- versus S U S is, me versus him. [S7: yeah. ] Tyson versus Holyfield. [S7: oh ] okay.
+S3: Jesus isn't isn't even mentioned in this satire against the Christian faith. similar, to disputes over homosexuality, verses are emphas- emphasized out of [S1: that one too ] parts of the Old Testament that most Christians have probably never read. the whole handmaid system comes from a practice found in the Old Testament. passages found in the obscure places in the Old Testament are usually difficult to interpret, in any good sense of context and for the most part were abolished with the death and resurrection of Jesus Christ.
+S1: mm?
+S3: (well) it sounds like (you know) the Bible pretty well.
+<SS: LAUGH>
+S4: um, you used aloud L A O U D shouldn't it be A L L O W E D?
+S1: oh where?
+S4: um in the second sentence since the women of Gilead aren't allowed
+S1: oh yeah yeah.
+S4: that's a good contribution
+<SS: LAUGH>
+S2: (xx)
+S4: <LAUGH> that was easy
+S2: <LAUGH> yeah that's the thing i'm like
+S1: <LAUGH> you are tricky. um that sentence en- s- that sentence i don't like anyway. since the women of Gilead aren't allowed to read the Bible they are given a skewed vi- image of what is in the Bible. right what, what
+S6: just cuz it says Bible twice (in there?)
+S1: yeah why, why (xx)
+S2: maybe it should be like they aren't allowed to read period you know read
+S1: yeah. right.
+S7: like just get rid of that first the Bible?
+SU-m: (xx)
+S7: yeah i know.
+S4: i have a like, i have a question about that in general like, repeating the same word in a sentence is that like always bad or is it okay sometimes?
+S1: uh well, it's it's never bad. right? it's not a bad like [S4: like could it be good sometimes to do? ] pull you aside and <LAUGH> make you sit in a corner bad but
+S4: like in the sentence, in the, paragraph before, this one he uses consequence, twice but it doesn't seem like it, interrupts like the flow of the sentence or anything.
+S1: mm. um, okay i'll i'll give you this, this to you, in terms of kind of what's better and what's worse, cuz of it's not really a rule, um, what would be what would be bad or towards bad, is um, both using a word, the same wo- word more than once when you don't need to and also you can hear, that word being reported repeated, and so it distracts you. okay? better than that would be repeating a word, um but it doesn't really_ you don't really hear it, like the consequence one, which i didn't catch either. um, better than that would be not repeating the word at all, and better than that would be um using words that really, make the subtle distinction between ideas if, there exists such a a distinction and and it's it's uh relevant to what you're talking about. repeat words if you're if you mean it if that if that has a point. okay? maybe the first time you use that word, you use it in one way and you mean for the reader to understand it and the second time you mean it there's a second aspect to that word, that you mean in, in that part of the sentence. right? but you know those scarce_ cases are rare, um, so otherwise it's it's usually just uh um, you know laziness of of writing, right of of writing drafts. um you didn't feel like taking out a thesaurus at that moment or you just wanted to get that idea down on the page before you forgot it or something. alright? um, so fix it between drafts. um, good. you have anything to say about what Chris is talking about here? <PAUSE0:07>
+S4: when he says that um, i don't remember what it was about her use of the scriptures being ridiculous? um, hold on i gotta find it.
+S1: ridiculous amount of focus on this topic.
+S4: yeah. it doesn't, i don't_ like the statement doesn't seem to be really like proved afterwards how it is ridiculous like, because like there are like a lot of, people who still use the Old Testament, you know, like
+S1: uhuh okay.
+S4: the Old Testament like, ideally like, was supposed to be, you know the, like Christian Scientists or like, churches like that, only use the Old Testament so like, it seems like
+S1: right yeah that's good. uh maybe you want to, say that you think this is ridiculous because, well um it's it's a convenient use of, it's a convenient um, taking out of context of certain passages, right that might, be proma- uh problematized by other parts of the Bible. right? i think you're you're getting at that you're_ that's why you're saying they don't talk about Jesus.
+S4: also because like there's scriptures in the New Testament that also like in, Thessalonians and Phillipians it, [S7: yeah it's interesting stuff ] it talks about women's , things like not speaking out in the church, so like [S1: hm ] you know someone could use those too. and that's in the New Testament, so i don't know like, you might wanna <LAUGH>
+S1: i remember in the movie they, they um... during this sa- the ceremony during the Prevaganza, um, the guy, right this is when they get their veils, right? the guy says we'll let the the Old Testament be our guide, or be our constitution or something like that, i don't think there's anything like that in the book, right? any, you know uh, proof that this that Gilead is only listening to the Old Testament. right but i i do remember that from the movie.
+S7: do y- i was looking for_ do you know the Bible very well?
+S4: huh?
+S7: i was looking for_ i don't know if it would actually help my paper at all but there's a verse, that talks about, women bearing children, because of, um, Eve's original sin? [S4: oh ] and it's, do you know what i'm talking about? it's in the New Testament
+S4: i think it's ab- uh i think that scripture's about like women having like, menstruation like, i think that's what you're talking about [S7: oh ] like that's a punishment, [S7: yeah ] for Eve's sin? that's in the Old Testament, i don't know exactly where it is though
+S1: well it's it's right in Genesis isn't it?
+S4: um, (i don't know,) i don't know.
+S1: yeah when they're getting kicked out of the Garden of Eden, [S4: mhm ] you know and he's explaining why you're being punished the way you are? right?
+S7: that_ it says, (xx)
+S1: yeah it's right there.
+S7: okay
+S4: is it_ is bearing children part of that?
+SU-f: (xx) fortune (xx)
+S1: yeah.
+S7: oh okay.
+S1: what about the trope of um, of one being, bride to Jesus?
+S7: what's that?
+S1: or one being bride to Jesus one, one marrying the church?
+<PAUSE0:07>
+S7: what about that?
+<SS: LAUGH>
+S1: are you familiar with that? you know there is there is and the the the reason why nuns don't, [S7: yeah ] um, take a v- take a vow of celibacy is because_ and they wear rings too don't they? [S2: i don't know ] i think they do. um, it's because they are declaring their, kind of, they're becoming um brides to the faith brides to the church, right? to Christ. um, i don't know if that might be useful to you too.
+S4: you might get into a whole mess though <LAUGH> if you [S1: yeah, right ] start like talking about all that stuff (after) (xx)
+<SS: LAUGH>
+S1: well i you know i like this, i like this because, you know you're t- you're, taking Atwood, somewhere that, that it hasn't gone yet in this class. right? and you're decoding um, the Biblical allusions in in Atwood's novel very smartly. okay? but also because you have a certain, you have like a bone to pick here, right? you you notice that about, the tone here so far? okay? i mean i'm not suggesting that you guys you know pick fights with authors, um, but if you do, right, it sure gives you something to say, it gives you something to argue for. right? so in that r- in that regard it's, it's good, it's to be welcomed.
+S4: i have another, [S1: yeah ] (thought there.) um, i think the sentence like in the middle where it says this misinterpretation doesn't exist in our world but only in Gilead, do you really, <LAUGH> believe that that, is true? like, [S7: well it's ] and especially when you talk about like Christian fundamentalists, in the beginning, i mean
+S7: do they really refer to being like, the fruit as being
+S4: you mean like this, specific?
+S7: i was talking yeah specifically with the fruit.
+S4: oh okay. you might wanna like specify cuz it seems more like to me like you're saying like, this sort of misinterpretation of the Bible, doesn't, occur in our world.
+S7: as a whole you mean? s- yeah. [S4: yeah ] i just meant specifically that. [S4: oh okay. ] it's an idea that was specifically put, in Gilead, [S4: okay ] i don't know, because of their need for babies.
+S1: you wanna do the next one? okay? Matt i think that's yours.
+S8: um, Atwood isn't the first author to make a criticism against the Christian church. [S1: criticize. criticize the church. hm? ] okay. [S7: yeah. ] Mark Twain's portrayal of the Sunday Christians in Huckleberry Finn, are two-faced and hypocritical. this kind of satire on Christianity is acceptable because it makes its point, but is still nonoffensive to a large Christian audience. although Margaret Atwood and Samuel Clemens clearly oppose Christianity, their satires are altogether trivial, towards the Christian faith and only oppose the structures and dogmas of the church, which are admittedly inherently evil. it's hard to tell if Atwood's attempt is to entirely, i- is to entirely sincere
+S1: be sincere...? is enst- [S8: yeah it sounds, sounds weird ] entirely sincere or is to be entirely sincere? one or the other?
+S8: or somewhat constrained for the sake of popularity.
+S1: um, what do you think Matt?
+S8: um...
+S1: who was the Sunday Christian in Huck Finn? i don't remember
+S7: he goes t- i don't (xx) <LAUGH>
+S8: i don't really like that second sentence.
+S7: he ends up with this fa- it's the Romeo and Juliet thing where, they have the two families who are, [S1: oh ] disputing.
+S1: yeah okay, okay. um, hmm... go on Matt. i didn't mean to interrupt.
+S8: um i just, i didn't like that second sentence.
+S1: you didn't like the second sentence? what's wrong with it?
+S8: um... i don't know he's saying, that the Christian is two-faced and hypocritical or this [S7: yeah ] picture or Mark [S7: yeah ] Twain is?
+S7: the Christians.
+S1: oh yeah right.
+S7: yeah it's, (xx)
+S1: yeah uh right now it reads that the portrayal is two-faced, portrayal are two-faced so that doesn't make sense, um, of the two-faced Sunday Christians, right? you need something like that. uh i think that's a dead end, Matt uh Chris. [S7: yeah. ] yeah you're you're not talking about it enough to warrant it, being mentioned. so if you can, if you're gonna if you're gonna cite some of this and, no no that's that's opening up a whole new avenue, of discussion. yeah, i'd take that out. okay? you only talk about it here right?
+S7: yeah i think so.
+S1: okay. yeah take it out. it is hard to tell if Atwood's attempt is to, be entirely sincere or, somewhat constrained for the sake of popularity uh constrained, constrained? strained?
+S7: i don't think i've talked about this. i had the idea that (xx) that, maybe i didn't
+S1: you're saying that Atwood is a appealing
+S7: i'm saying that , she might, oppose Christianity but since that her audiences, consisted of so many Christians that she limited to, kind of a superficial like, she doesn't, she doesn't you know tear [S1: hm ] apart the church too much
+S1: so you think Atwood's satire is actually more superficial than, than Twain's.
+S7: no both their, they're both, for the sake of popularity i think they, made_ didn't make_ even though they both opposed Christianity, they don't, make a direct attack on it i guess. [S1: okay. ] they leave it to, you know Sunday Christians and d- um
+S1: okay, for the sake of, um, for the sake of moderation, uh, nonoffensive?
+S7: i don't think that's a word.
+<SS: LAUGH>
+S1: right i don't think so either.
+S7: i couldn't think of a better one though.
+S1: well, you can say inoffensive but, i think you just mean, isn't, offensive, right?
+S7: yeah. <LAUGH>
+S1: that still isn't offensive to a large Christian audience... <LAUGH> yeah. nonoffensive as a verb is, or as an adjective is strange because, i mean you can think of, you can imagine being offensive as an act but being nonoffensive as an act? it's strange. how do you not be offensive, you know, purely? okay, um, next one.
+S9: whether Atwood is directing her satire towards Christian churches or towards an indifferent Christian America is an issue of concern. according to Malak one of the novel's successful attempts concerns the skillful portrayal of a state that in theory claims to be founded on Christian principles, yet in practice miserably lacks spirituality and benevolence. this description of Gilead could in fact be a description of our American society but i believe it lacks a certain bit of skillfulness that Malak would like us to believe. here the satire of Christian fundamentalism isn't necessarily pointed at Christians but at our society and the influence given over, to right wing fundamentalists. but the historical notes at the end of the novel hurt this part of Atwood's satire. the entire historical notes at the end of the novel represents a satire on critics who spin out theories about literary works or historical texts without genuinely recognizing or experiencing, the pathos expressed in them. they circumvent issues classify data construct clever hypotheses garbed in ritualistic fashionable jargon, but no spirited illumination ever comes out of their endeavors. this humorous ending of the novel pokes fun at scholarly critics, who take an unemotional viewpoint over a situation and end up missing much of the significance of the scenario. this fits in with the story perfectly in Gilead's view of Biblical history. nobody in the novel demonstrates a spirituality the society would want you to have, and nobody really buys into the system. the sexual ceremony performed with the handmaid isn't enjoyed by anyone and yet is supposed to be a very spiritual event. there is absolutely no spirited illumination of Christianity in Gilead.
+<PAUSE0:20>
+S1: mm, can you say something about it Amy?
+S9: well it's the wrong whether, the first senten- [S1: uhuh ] first word
+S2: fundamentalists needs an S on the end [S3: yeah ] needs to be plural. <LAUGH> we grab the easy stuff quick.
+<SS: LAUGH>
+S1: yeah you guys are <LAUGH>
+S2: oops <LAUGH>
+S1: Chris coulda done that on his own.
+S7: yeah <LAUGH>
+S9: one thing like the about the historical notes at the end of the novel (at) this part and then it says the entire historical notes at the end of the novel is that bad that it just like kinda repeats itself a little like that?
+S1: what? what's that?
+S9: like where it says but the historical notes at the end of the novel, and then it says the entire historical notes at the end of the novel like you know that one part sort of (in quotes?) or, could you just have the first part different so it doesn't just, [S1: hm. yeah okay ] (different from the other one?)
+S2: and, is this, is the descrip- this description of Gilead could in fact be a description of our American society but i yadda yadda yadda is that a run-on sentence sort of?
+S1: where are you?
+S2: or no? right after the first, um, block quote or
+S1: this description of Gilead
+S2: or is there does there need to be a comma there?
+S1: this description of Gilead could in fact be a description?
+S2: doesn't there not need to be a comma after Gilead?
+S1: no comma.
+S2: right. and after here in the next sentence shouldn't there be a comma?
+S1: after here...? oh. um, your choice...
+S4: when he said, he believes that, it lacks a certain bit of skillfulness
+S1: yeah what does that mean?
+S4: um, i think (xx)
+S7: that's uh, the next, paragraph is all about that actually.
+S1: who lacks the skillfulness? what does?
+S7: Malak. um, or maybe she does no she does yeah. his uh, claim that, in his quote it says it's a skillfu- skillful, portrayal, and i'm saying it's, not so true, in (xx)
+S1: oh i see ... oh okay um, the wording is off then, right? just say but it isn't as skillful quote, put that in quotes, as Ma- as Malak, takes it, as Malak sees it... okay? is that what you were gonna say, Leslie?
+S4: yeah, sort of. <LAUGH>
+S1: um, so you're d- you're disagreeing with Malak on that point, and you're going on to disagree with him about, what he says, about the historical notes too?
+S7: j- i'll just tell you what i mean cuz in the next par- the next paragraph talks about um, her uh, satire here is that the, historians are looking at, the situation in a very unemotional, unrelated way, [S1: mhm ] and in the same way, her book, the people of Gilead are looking at the Bible in this very unemotional way, um, and Chri- well Christianity as a whole in a very unemotional, way and they're not drawing into the reasons for the rituals and stuff, and (it would)
+S1: what do you mean that Atwood is doing that?
+S7: well that's what i said and then, seeing as that At- Atwood's, satire is on, Christianity that is, describing her view of how a, like an_ i don't know i don't think i can explain it. <SS: LAUGH> that that since since that's her satire, that portrays her view, as well as, of what
+S1: Atwood is satirizing, uh a hypocritical, interpretation of the Bible, right for the purposes of establishing a theocracy that, is really just about power. okay? so if she's satirizing that, then y- you imagine that she is for the kind of spiritual reading of the Bible that you're, you're saying bl- is missing in Gilead right?
+S7: i suppose <BEEPER GOES OFF> but, that's what i thought at first but i don't, i'm a little shaky <LAUGH> on this.
+SU-m: sorry, (that was me) <SU-f: LAUGH>
+S1: yeah it's this paragraph is a little shaky.
+S7: but, but i don't think she is though. i think that her, it could be interpreted that way but i don't think that's the way she uh
+S1: i could make a lifeline joke but i'll, pass.
+<SS: LAUGH>
+S2: <SINGING> do do do do do do
+S1: are y- are you saying that Offred, are you saying the Atwood is satirizing, spirituality or, an unspiritual hypocritical way of, interpreting the Bible?
+S7: um i'm saying kinda both.
+S1: both? <SS: LAUGH> how's she doing both? [S7: <LAUGH>] okay um, you lost me a little bit here, i i've lost the vein of things.
+S7: (seem) to lose it myself.
+S1: yeah.
+S2: let's let's read on for a minute. <SS: LAUGH>[S1: yeah okay ] (to) the next paragraph. <LAUGH> this'll this'll help. i have faith in Chris.
+S1: who is that Jenny? [S10: me ] ah Chrissy.
+S10: alright in a sense Atwood is trying to express what has become of Christianity in America, but at the same time her disapproval of Christian rituals and dogmas is then hypocritical. if Atwood is indeed criticizing the Christian church for its practices, she is failing to recognize or experience the pathos of these rituals. what may seem to be ruthlessly tyrannical, may actually be rooted in spirituality and deep emotion. [S1: oh ] Atwood is ignoring the importance that Christianity and all its rituals have on its followers. even today Christians are subjecting themselves to persecution, in an attempt to serve God. this kind of sacrifice isn't made out of necessity, but out of, out of a love for Jesus Christ. Atwood chooses to completely ignore this type of Christian, in the state of Gilead. in the novel, in a novel depicting the dangers of Christian fun- fundamentalists, Jesus
+S1: funda- fundamentalism.
+S7: yeah.
+S10: Jesus is never mentioned. her choice to ignore this side of Christianity, may be justified if it is her attem- intent to show that this type of Christian, is far too rare in our society. but i doubt that this was her intent, and her reasons for overlooking this, was only to make a stronger point of the dangers of dog- dogmas.
+S1: i think that's pretty clear. okay. um, can you fault her for this? can Atwood be faulted for, not considering, um Christians who are subjecting themselves to persecution in an attempt to serve God?
+S7: i thought about that too and i- i guess it go_ in uh, i think Malak's, because he talks about how, like Gilead is fictional in certain ways, and how it's okay to be fictional, that, and if you had these kind of Christians it would kinda ruin the
+S4: the whole point of it.
+S7: yeah it would ruin the point of the novel.
+S1: yeah it would it would water down the satire a bit. okay? um, i don't know. i i don't wanna say that your your concern here is, um irrelevant to the discussion, but, you know if Atwood is trying to write about a society that is the logical consequence of some fundamentalist thought that she saw, um being prevalent in th- in the eighties, right, then, the novel that she writes is a_ is, going to, be such or the world that she writes about is going to be such so that those elements are exaggerated to a very grotesque point. right? if she'd then insert some sort of qualifying idea about, how, but in other s- instances you know, this sort of fundamentalism is okay or is in service of Christian beliefs, right? let's say, we have in this novel jus- juxtaposing Gilead, you know a second theocracy, that was doing pretty well you know? um, i don't know, i feel like it would, it would kinda cheat, the s- the strength of the satire. okay? so unless you mean, something like, well actually within this novel, we see instances of, real service or you know, um, persecution that should be borne, right? unless you mean that, uh i don't know, i i don't quite, i don't quite follow why, you are, objecting the way you are.
+S7: well in the, there's no_ in Gilead there's no one who actually, none of the characters actually believe, in what's_ in the system, [S1: you don't think? ] in a way.
+S1: what about Aunt Lydia?
+S7: um...
+S1: i think she's the test.
+S7: what's that?
+S1: i think she's the test she seems to be the, the [S7: so ] strongest believer.
+S7: well she seems to, it gives her power to be a, to, you know like a preacher who, like a televangelist who's trying to get money <SU-f: LAUGH> but, you know, it gi- it's he's doing it for the money not for, his
+S1: how do you know how do you know she's doing it for one and not the other? sure she does that but
+S7: i guess you don't know but i mean it's gi- i don't know, the power_ it's kinda kinda like Serna- Serena Joy that was, the stay-at-ho- like the advocate of, you know staying at home and being a mother until she actually had to do it... (and i)
+S1: go on. <S7: LAUGH>
+S4: i think the reason why this particular paragraph to me, well, if you probably in this essay address the other people too, and could show how you could make a strong argument talking about the people who, do use the Old Testament and the people who don't, then maybe, it would be easier to prove that [S1: oh yeah, yeah. ] Atwood is like, [S7: (like) what do you mean? ] you know like, you talk about um, like you really seem to be very like, strongly opposed to her use of the Old Testament and like sort of, overdoing it, and not showing that there's an other side, like there's other Christians, who don't like, worship God out of necessity but they choose to, i think y- to make a strong argument you'd have to also, be able to talk about the people who do what she says, is going on. like i- because like if you argue for both sides, for most people you won't be r- be be able to really [S7: okay ] make a convincing argument (you know.)
+S1: yeah you need a you need a counterexample is what you need.
+S4: yeah. that's what you need.
+S1: um, you know what though, and this is kind of a lame concern, but uh, you're straying from the paper topic too. right? you had me when you were talking about how Christianity is already necessarily panoptic, right, cuz i'm thinking wow he's talking about Foucault. i didn't think anybody would. <SS: LAUGH> right? i you got me then but, you're kind of outside of things now.
+S4: i was thinking that.
+S1: okay uh, take a break. just a little one
+<MULTIPLE CONVERSATIONS UNTIL BREAK>
+S4: (xx)
+SU-f: i know, i'm (kind) (xx)
+S4: (i've got) like one more page to <LAUGH> write
+S2: i know i'm kinda jealous. but you know what just ticks me off though? cuz now i have all these like, [S3: great ideas? ] ideas in my head
+<BREAK IN RECORDING>
+S2: i don't know he said you know it just wasn't he said your arguments are not clear like things weren't and i said oh that's really bizarre, cuz (i am)
+S1: it's hard to justify a D minus [S2: yeah. he said it was the worst ] as a grade, unless the paper was, like weeks and weeks late or it's in the wrong language or something.
+S2: hm'm i- there were they were actually like a day early. <LAUGH> which i (xx)
+S3: yeah especially after he thought you were so good last semester it's like what happened?
+S2: i know and i was like oh (Bob) i'm like this is making me feel awful but i mean my final grade was, well not what it shoulda been.
+S4: (maybe he felt bad) cuz you started crying. (you were probably) (xx) <LAUGH>
+S1: it's really hard to get, just a D minus, straight off (xx)
+S2: well i did. every time. i said j- and he didn't hate me i mean we had a (xx)
+S3: that is so weird. did you see anybody else's papers or did you ask (if they all) or
+S2: see that's the thing is we did a couple of 'em_ like in class, um, we would like switch papers and stuff and like, i we would do topic you know like, little papers in class like little essays or whatever and we would trade around the room and we'd like read 'em out loud to kind of, so we could have a discussion, you know but not nobody cuz nobody really wanted to come forward and discuss everything, and, people would they would discuss my pap- my stuff, i mean i knew what i was talking about a little bit, and everybody else's i mean yeah that but everybody always everybody's papers always sound better than me. than my own.
+S1: maybe he felt guilty about giving you so many As the previous semester.
+S2: well that really makes me feel bad <SS: LAUGH> cuz i did well that semester. i don't know it was not fun though i, it was really an awful semester and so th- you know i was sending_ and i always send my stuff home my mom always likes to see my papers and stuff [SU-f: oh no ] so i send her like these folders home i'm like mom here, she's like what is this? and i'm like i don't know. [S4: oh my god. ] <SS: LAUGH> uh oh.
+S1: did you piss him off or something?
+S2: no we got along super well. that was the thing.
+S3: that is so odd.
+S2: i i don't know but anyways.
+S4: maybe this maybe the class was just [S1: it's ] stressful and you just didn't do the, [S1: <LAUGH> it's weird. ] work in the class or something.
+S2: well see [S3: that is so weird ] i i i know i know i didn't put forth like tons and tons of effort but i put forth a little bit of effort, like more than D minus.
+S1: what if you, what if you looked at an A paper, you know a paper that he gave you an A on and compared it to the, paper that he gave you the D on?
+S2: well it's totally different.
+S1: well as far as quality is concerned
+S2: well, the thing i- i don't know i thought they were the kind of the same number one, Buddhism and, you know Chinese philosophy, are a little different_ ah the philosophy was like a little obs- obscure to me. like uh the Chinese philosophy was just kind of
+S1: what are you what are you, Taoism? Confucianism?
+S2: yeah. all of it. like i just [S1: that's not so different from (Buddhism) ] i didn't have, i just didn't have, as much of an idea i don't think i liked it as well as Buddhism. and, then, also i j- i don't know what it was i the papers were different in length like the, Buddhism papers were only two to three pages, whereas my Chinese philosophy were like eight, seven or eight, which might have something to do with it but, not a D minus worth.
+S3: who were the other people in your class? were they like upperclassmen? or were they
+S4: philosophy can be hard though it just seems so
+S2: they did, no they were all_ well well a little bit, i mean, they were probably all most of 'em were like a year above me, but i don't, [S4: i wouldn'ta been able take that oh my god i was just like ] i mean it was miserable. oh it was so funny i just i was like okay.
+S4: every single time i'd sit down i would be like, start writing a paper i would freak out and my boyfriend has to like, convince me that i can get through school. <LAUGH> like every, single time especially for this class. like i totally like, <S3: LAUGH> i probably could do, much better like if i just had my head on straight when i'm doing it but i'm just usually like i'm gonna get a E, i'm gonna get a E i'm gonna get a E like the entire, it's really bad i think i need an operation or something <LAUGH> before, it's bad, especially like this semester just cuz i've been working so much i'm just, a mess i can't wait until the nineteenth. [SU-m: oh ] <LAUGH> it's insanity.
+S2: oh
+S5: i could <SS: LAUGH> wait until the nineteenth
+S3: wait i was <LAUGH> i was (xx) nineteenth (xx) for like ever.
+S2: i don't think i was supposed to fill this part out. oops.
+S4: yeah you are
+S2: this not this part? are we?
+S4: yeah, why not?
+S5: i think we're supposed to fill out , all the bottom, like, from here down.
+S2: oh. [S4: yeah ] okay.
+S1: i think you're doing okay
+<SS: LAUGH>
+S2: not really
+S4: you won't get graded don't worry
+S2: i know. D minus.
+S1: tell me, go go around the room one more time and tell me what you guys are studying.
+S4: music, viola.
+S2: general studies, anthro religion and soc.
+S3: computer science.
+S6: architecture.
+S9: psychology and religion.
+S7: education.
+SU-m: psychology and film video.
+S11: haven't decided yet.
+S5: i don't know.
+<SS: LAUGH>
+S1: you do a lot of writing Amy, i bet.
+S9: i guess. not not as much as you'd think like psych classes they give you like one, two papers [SU-m: yeah they're not bad ] and they're usually short and they don't like, really
+S1: huh
+SU-m: they're not that bad really
+S2: wait, did we already talk about if you were in two-oh-one last semester?
+S9: what religion?
+S2: yeah.
+S9: um i was in it for first semester last year yeah they don't offer it second semester.
+S2: with wait (i get the professor) that was like [S9: (xx) ] (xx) that class was hysterical.
+S9: you have to get used to his speech (patterns)
+S2: i know i liked him a lot, and i liked, Jackson a lot.
+SU-f: (was his name) Jackson?
+S9: i don't know their names i really i went to lecture probably two thirds of the time but i don't (know their names)
+S2: oh my god i was, laughing so hard half the time i was so, the problem with Ralph Williams is that i was so intrigued by you know his, [S9: theatrical performance ] flailing arms that i was just like what is he talking about? this is so fun <SS: LAUGH> and i didn't know what was going on (i had no idea)
+S9: he stresses the wrong words in sentences (like it's) weird.
+S2: and he but he when he gets up there like he'll seriously like, gallop across the stage and it's hysteri- i just sat there and i was like i love him he's so fun.
+S1: what is this, what is this way you have, of using the word stress? i've caught it i've caught caught this particular usage am- among this group. you [S9: yeah ] you're you're fond of it [S9: i use it a lot, yeah. ] but you mean it you mean it like you know, surprised or
+S9: just freaking_ i mean just like no like just, i don't know i'm just [S1: what is that about? ] stressed like just freaked out i'm just
+S4: i mean actual stress like [S9: yeah ] tense muscles, <SS: LAUGH> anxiety, [S1: yeah, yeah, but i yes but ] things of that nature.
+S1: whenever [S4: i probably have knots in my shoulders and neck right now. <LAUGH>] (Amy) says it she means like, she means shock or, [S9: yeah, (xx) (have stress) ] maybe i- is that like a behavioral studies, term? or
+S9: no it's just my friends.
+<SS: LAUGH>
+S1: well that's more interesting actually.
+<SS: LAUGH>
+S2: that's funny.
+S1: i'm stressed.
+S8: i like Collins a lot. [S9: huh? ] Derrick Collins, witchcraft
+S9: oh yeah the witch- you were in that. that was pretty cool.
+S2: wait, were you guys in witchcraft?
+S8: yeah
+S9: yeah which one [S2: so was i ] were you in? were you in the um [S4: witchcraft? ] Derrick Collins one or were you in the women's studies one?
+S2: no i was , i was in Derrick Collins. <LAUGH>
+S9: i learned so much in that class honestly though
+S2: i did too.
+S8: mhm
+S9: like that's the first class that i learned stuff that (xx)
+S3: what's (witchcraft?)
+S2: history of witchcraft
+S8: yeah
+S3: oh that's cool
+S8: it was really
+S4: how come i never see these classes when i'm looking through the
+S8: it was really good.
+<SIMULTANEOUS CONVERSATIONS NEXT 1:20; ONLY ONE TRANSCRIBED>
+S2: i only take random classes
+S9: yeah you had_ didn't you love our G-S-I wasn't she the funniest thing? [S8: (Malgosia?) ] remember that day when she has like (xx) hat, [S8: i know ] <LAUGH> that she had and like, it was all windy and stuff <S8: LAUGH> so she hated it? [S8: she'd be like ] we're on like the fifth floor of Dennison, i i'm really sick of this stuff, she'd say like (xx)
+S2: did you have Gloria?
+S9: huh?
+S2: did you have Gloria?
+S8: Malgosia
+S2: oh
+S2: wait, which is the one with the big hoops?
+S8: not Malgos-
+S9: Malgosia had like a really like pretty face and she (xx)
+S2: did she have real short hair?
+S8: yeah
+S9: yeah
+S2: okay no, i was thinking of Glor- Gloria's the one that's, the (fruitcake.) <SS: LAUGH> i don't know if you guys ever talked to her, but she ha- sh- i don't know if she was Italian, [S8: oh, i know ] she w- i went to one of her review sessions and i almost died, like i sat there (and was like hm?)
+S9: no i never (xx)
+S2: i was so, i had a (xx)
+S9: oh that guy. that guy pretended like he'd really like read up and like do background work cuz he's a classical (studies) that he knew all about [S2: but he ] like all the writers and stuff
+S2: but the thing is he didn't know anything about witchcraft. i was like, we we w- had a review session like and we missed our discussion section he had to cancel, and so he, at the very end said okay i'm gonna have like a little review session that's gonna be in the lecture hall um, it was one of the days that we didn't have lecture or whatever, so s- some extra people came, and i s- was sitting there like who is this guy? <LAUGH> he doesn't know_ we ask him a question and he'd go, oh i don't know. i mean it was off that review sheet we were like asking him about these, like, [S8: really? ] identifications [S9: i think ] that would be on the exam
+S9: i think Malgosia hooked me up a little bit
+S8: i don't know i think i did re- i did really w- that's probably the best th- i've ever done in any class.
+S2: really?
+S8: mhm
+S9: did you keep up with the reading?
+S8: uh, out of like out i don't know the twenty-five hundred i read about, like, twenty-five pages, seriously
+S9: oh i read all of that book [S2: i did, i read ] that one with all the (exorcism) i read all of it
+S8: i didn't, like i just felt like Collins did such a good job with like lecturing and
+S2: he well he read [S8: essentially ] straight off of [S9: yeah i thought that was a little like ] an outline directly out of the book.
+S8: i know, i mean
+S2: and i was like <LAUGH>
+S8: yeah
+S9: he was funny though remember when he was like, he was like [S2: he told us to drink and have sex ] why don't you just have sex with each other [S8: th- ] while you're at it <LAUGH>
+S8: yeah that's pretty much (xx)
+S2: i was like
+S9: that was so funny.
+S8: that's how he ends every uh, [S2: it was so funny ] every class he's like alright so, get together study, you know drink a little bit it helps studying, you know it also helps sex but just drink a little bit. and it was like okay thanks
+<SS: LAUGH>
+S2: yeah and we were were we were dying, right before our exam he was like seriously he's like [S4: some of these professors are like ] okay, go out and drink [S1: shoulda got that guy on tape ] he goes it helps your ideas flow better,
+S2: and i was going, oh my god.
+S8: he's like if if you can remember it, if you can remember it drunk then you can remember it sober.
+<SIMULTANEOUS CONVERSATIONS NEXT :40; ONLY ONE TRANSCRIBED>
+S4: it's worse in the music school like since like you deal with people so closely in music school like, the professors will su- just not say anything in front of you. like i remember one time i won't even name names this professor_ like this conductor made a really, like s- the joke was extremely, like distasteful and, [S1: uhuh ] he made it to me and it just, well he's gone now because of sexual harassment. <SS: LAUGH> it's really bad cuz you get like you you develop a personal relationship with a lot of the people because you work with them all the time, and like, you go out with them and they drink and like, they start to get a little drunk and then like they talk about your audition or like, <S2: LAUGH> it's it's not good.
+SU-f: what year are you in the music school?
+S1: it's an interesting thing to watch professors get drunk.
+S4: yeah it's very f- weird.
+S1: should avoid that if you can.
+S4: yeah i didn't know i was like a freshman when it like occurred. i went to a one of the conductor's, houses to play for his wife's birthday party or something and, he started drinking and he just like yeah yeah your audition was good but, what were you doing when you blah blah blah and like yeah you barely got in the uh orchestra and, you know
+S5: what do you play and what are you majoring in?
+S4: viola performance.
+S5: oh by any- do you know Betsy Williams? [S4: she plays violin? ] she's a voice major?
+S4: oh voice major?
+S5: no she's a voice major.
+S4: no.
+S5: she's one of my roommates.
+S4: i don't know any (these) people who are the vocalists cuz they're all like, in their own world. <SS: LAUGH> they always carry around their bottles of water with their like scarves around their necks oh my god i have a cold [S8: bust out (your musicals) ] i'm like <LAUGH> (and it's) so like, [S8: bust out the musicals ] (like i don't know)
+S2: oh we had, two in our hallway and they, i think they were roommates or something they were always yelling at each other. [S4: really? ] they were, acro- like next to each other, and they'd be yelling at each other that they were singing too loud. you're singing too loud and then they would do it and they're like you're singing too loud it was just like oh my goodness.
+S4: yeah like, especially sopranos they're like... [S2: <LAUGH> oh my ] they're sort of, like, in this other world. it's funny like, each like, instrument, they have a different like, [S2: seriously? ] yeah like the string players you know like
+S1: oh the string players? <SS: LAUGH>
+S4: well like the brass people are like gross and like, <LAUGH> yucky, <SS: LAUGH> you know and like
+S2: gross and yucky <LAUGH>
+SU-f: they're like, definitely (good.)
+S4: the musical theater people ra- people are like totally dramatic and like, [S2: oh yeah, i (xx) some of those (xx) yeah, yeah ] all the guys are gay and like <LAUGH>[SU-f: (remember that, that freshman) (xx) from my high school ] like there was one straight guy in our freshmen musical theater class, like one straight guy it was hilarious and he was always getting hit on by the other guys and like, it was funny like there's all these like, you can alway- you can almost generally tell like, what instrument people play just by like, the way they, sort of like walk down the hall it's really weird. <LAUGH>
+S2: (it's okay) (xx) (at my high school) there were lots of gay guys.
+S4: and they don't- you don't usually cross over like, you don't find too many string players being friends with like brass people or like, vocalists <S2: LAUGH> being friends with like pianists it's, like you usually have friends who are like, like all my friends [S8: wow ] are like string players. okay. anyways. <SS: LAUGH> (xx) this is like its own little world.
+S1: you make it sound like they carry their instruments around all over the place.
+S4: no but like i mean you play with people like in string quartets and stuff and, like even in orchestra you like s- like the brass people are way back there like making jokes, while like the string people like have to be on their best behavior because they're l-
+S1: they're like playing secret chords to each other <SS: LAUGH>
+S4: like (the brass) people will sit back there and like make like jokes and they're all laughing so do like the bass players cuz they're like, like back like the conductor can't see everything they're doing but then like, if you're like in the string section you're like in the front and you have to be like sort of like on better behavior and like, if you make jokes it has to be like really quiet. <SS: LAUGH> you know like you can't just like bust out laughing like the brass players who just like really like, they don't have (their) (xx) <SS: LAUGH> (so, it's interesting) <LAUGH>
+SU-f: (xx)
+S1: alright. before you guys get, started on another topic, we're gonna start so <LAUGH> get your stuff out.
+<SS: LAUGH>
+S4: okay... are we still talking about this (xx) <LAUGH>
+S1: yeah we've still got, <SS: LAUGH> we got we guess we still got two more pages.
+S2: oh
+S1: uh we up to, Amy did you go?
+S9: yeah i went
+S1: okay. Chris why don't you, go ahead. no reason why you shouldn't, examine your own paper.
+S7: the great irony of Atwood's, feministic tale is that the proa- the protagonist Alfred Offred, has all the characteristics of a godly Christian woman. she is independent enough to have, a mind her of her own but never strong enough to act on her own will without the aid or suggestion of someone else. Atwood provides, us with two women, who fit into very, who fit into very stereotypical categor- categories, of opposites. Moira is an example of a woman who demonstrates all the qualities men should have. she's a strong independent woman who can never, happily submit herself to a man and therefore is out of place in Christian society. she could be labelled as the man-hating lesbian, who has no femininity whatsoever. <SS: LAUGH> Janine on the other hand is an example of a woman, far on the other end of the spectrum, who shows very little independence and strength. other women don't like her because of the way she submits herself but at the same, time they feel sympathy towards, the mistreatment she, gets led into.
+S1: L-E-D
+S7: yeah um this kind, this is the kind caught that <SS: LAUGH> of woman, you'd expect to cling to, abusive relationships because of her, natural inclination to be, passive and yield too much power
+S1: it's it's surprisingly appropriate <SS: LAUGH>
+S2: this is the kink <SS: LAUGH>
+S7: <LAUGH> um, Offred fits, in the middle of these two women and demonstrates the perfect balance of what
+S1: you see what i mean? <LAUGH>
+S7: yeah, i saw it. <LAUGH>
+S1: sorry, sorry <SS: LAUGH> okay
+S7: Offred i- uh fits in the middle of these two women and demonstrates the perfect balance of what the Christian woman should be. for a protagonist in a feminist, novel Offred is surpass- surprisingly surpassingly i think it should be surprisingly [S1: mhm ] much more, of a traditional woman and less independent than one would ever expect. much like a l- a left wing conservative, Atwood appears to be trying to show a more, conservative view of her feministic ideas.
+S1: what do you think of that?
+S3: where it says, um they feel sympathy towards the mistreatment she gets led into they don't feel sympathy towards mistreatment they feel sympathy towards her, right?
+S1: where are you where are you (now?)
+S3: um, in like, probably like, [S7: oh ] almost halfway
+S7: right above the kink <SS: LAUGH>
+S3: yeah right above the kink it says, feel sympathy towards the mistreatment they wouldn't really feel sympathy towards mistreatment they'd feel sympathy towards her right?
+S1: the women don't like her because of the way she submits herself.... but at the same time they feel sympathy towards, the mistreatment she gets led into. what do you object, to?
+S3: just how do you feel sympathy towards mistreatment, like, mistreatment isn't the thing they feel sympathy towards, don't they feel sympathy towards her, Janine?
+S1: oh
+S4: (xx) because of the mistreatment she gets, she gets led into?
+S1: yeah. thank you. right... okay so we have, we have Offred... and you say that she has characteristics, of a godly Christian woman, she is independent enough, but never strong enough to act on her own will without the aid or suggestion of someone else. is that a characteristic of a, Christian woman? is that an ideal?
+S7: i don't i'm trying to say that she's not, um... i think some of_ i don't know if it's worded (right or)
+S1: yeah the maybe the wording is um... yeah it's it's misleading. i see what you're_ you're saying that she's not, passive, but she's not, mm
+S7: she's not a leader.
+S1: well you're saying, more than that she's not a leader.
+S3: well he's saying that she thinks independently but she doesn't act independently. right? it says mind of her own but never strong enough to act, without the aid or suggestion of someone else so i mean she's thinking things she just never acts on it really.
+S1: and that's, a Christian ideal?
+S3: i don't know <LAUGH>
+S4: is this like a, according to you or according to, the novel
+S7: Christian ideals. <LAUGH>
+S1: i think if you're gonna characterize Offred that way, um it's going to be hard to call her an ideal Christian woman. right? if you're saying that she has all these, thoughts, and we know that she has all these thoughts about escaping and whatever, but then you say that because she doesn't act out on those thoughts sh- that makes her, that makes her Christian?
+S7: it doesn't make her Christian but, for, like, um, for it's a, feminist novel and you you would expect that the, main character would be much more, independent than, [S1: right uhuh. oh okay right ] than Offred, actually is, and she's more, and instead of being like this equal person who, you know should get, treated equally she, wants to be, or i don't know if she wants to be but she's more, she's less, she's more of a, a woman described, like a Christian, i don't know, i wanna say like a woman who's, submits to her husband or something she's more of that than [S1: meek ] she is of a feminist.
+S1: right. <PAUSE0:05> um, yeah fix the wording, on that second sentence, okay? you're saying that, on the one hand you're saying that it's ironic that Atwood would write a feminist satire that stars, a character who is not, uh feminist in the way that say Janin- uh Moira is. okay? but on the other hand, she's not, uh passive to the point that Janine is. okay? so what are you saying? what is Offred then?
+S7: i think she's, saying that Off- like that's, she fits into... i guess it goes (on) with this thought too that the Bible describes, it doesn't give a description of ma- mi- mu- women being equal, but um different in, where the male is the leader, and the woman is, like um, like that a w- i don't know, i just thought, the next paragraph kind of explains it <SS: LAUGH> (i'm like a Nazi)
+S4: i guess i think that she's like , more refined than the other two women, like
+S1: refined?
+S4: refined [S7: (xx) ] as in like, being a Christian because like, um, one is like, totally like, emotional and like, you know let's like, like she completely gives in, you know and then like the other one is like, totally strong and you know but, Offred is like, she's more like what a Christian woman should be because she's not like, you know too extreme or too evil sh- no she's more sort of refined she has more of a balance, like she doesn't speak out or, you know do extreme
+S2: it's like she acts appropriately
+S4: right exactly like, maybe she's not ex- like what a Christian woman should be but more so like the ideal of what a Christian woman should be. do you know <LAUGH> maybe that was
+S2: (they face) (xx)
+S1: (what are you) saying?
+S4: i don't know like she's like, when people look at her, you know her actions show someone who's, what a Christian woman should be.
+S2: but don't they want [S7: yeah i'm saying ] everyone to sort of act like Janine?
+S7: i'm saying the Bible_ well the Bible doesn't say like men should be this way and women should be this way it kinda is, like i say this later that um, it's saying God created man this way and women created, women, this way, <SS: LAUGH> God created women i- G- God created men and women in a certain way, and
+S4: when you say like she's a, godly woman are you saying, according to what you believe or according to what the novel is saying? like that's what i, am confused about. because yeah like according to the novel like, she wouldn't be, you know, she doesn't completely submit to this idea.
+S1: i think that Chris thinks-
+S7: i saying i'm saying how there's a net- like a, like the Bible says a way that like the wo- you know women are this way and men are this way and that's the way not the way that they are you know, the Bible tells 'em to be but that's the way God created 'em to be, and so it's kind of a, it's kinda ironic because it's like a natural thing, (xx) never mind but anyway, <LAUGH> and so that's like the Bible's naturalistic view of how men and women are, and i'm saying y- normally feminists would take offense to that, i guess and claim that, there sh- should be more equality than the Bible, says and Atwood, isn't, is isn't saying that.
+S1: i i see what you're i see what you're getting at but we're continuing the same problem of your paper, uh going down, a related but um,
+S7: well i thought this i thought this actually was [S1: but wrong path. ] more relevant.
+S1: huh? <SS: LAUGH>
+S7: i thought this was a relevant path. <LAUGH>[S1: well ] i mean i c- cuz the paper is like is is she a, heroine?
+S1: yeah you you are getting to that. right? but you're answering it, you know, your criteria for heroism, um is leading this discussion, in a way that, mm, it's taking you further and further away from Foucault i'd say. okay? [S7: yeah. ] like i liked th- i liked that you're comparing, Offred to Moira and Janine, because i think the three of 'em can be compared in that way that you were doing here, in the way that you are comparing them here. okay? uh but instead of talking about, that difference being godly or ungodly, okay, uh what about if you talked about them in terms of, kind of proper citizens of a panoptic society? would you say that Janine, is a better citizen in that respect than Moira?
+S7: yeah.
+S1: why?
+S7: because she's not trying to fight um, she's not opposing, the power.
+S1: what is the, what is the goal? what is the dream of a panoptic hierarchy?
+S7: it's, to have discipline, over the people.
+S1: uhuh <S4: LAUGH>
+S4: Moira's not disciplined
+S3: well Janine doesn't have to be watched as like the ideal panoptic citizen doesn't have to be watched [S1: right ] because they have this fear. Moira always has to be watched <SU-f: LAUGH> because she doesn't fear the, [S1: right. ] you know the watchfulness of everybody else.
+S1: that's it. right? on one on in one sense she doesn- Janine doesn't have to be watched, at all, okay because, she's always being watched, inside. um Moira, right, Moira is the opposite... um i think you're going_ y- you might wanna, you might wanna talk about this difference, in that way just so you're starting to, to tip this discussion back toward where we want it. mkay? um, you can do this you can talk about_ if you can carry up until this point in the in the essay, um, both your point, that this is a panoptic society and that panoptic societies are easily translatable into Christian societies, then talking about Christianity here and how, Offred is God godly, and others aren't, would make sense still, right? it i- you still wouldn't be outside of the realm of discussion that i want you to be in. okay? but if you're not if you're gonna lose Foucault all the way, like completely, um then it needs to be corrected. okay? and i think you sh- i think you should, carry, up until this point your your thesis that, um that faith in Christianity is like the faith of, a panoptic, uh system, the faith of, the faith in the panoptic power.... right? both higher powers both both are higher powers both involve, uh a certain giving up of yourself, right? both involve, faith, both involve higher purpose, right. other notes, about this paragraph...? next one, Cliff?
+S8: alright... the Bible gives a view of marriage as one where the man is the leader and the woman is submissive to the man. this idea isn't just believed, to be the will of God but it is also the believed to be the way of God created, crea- w- the way God created man and woman for each other. Offred and her relationships support this idea with men. even though there is a weight, weighted balance of power between men and women in Gilead Offred demonstrates the need for more power, but not a need to be equal from the standpoint of most feminists. even after she shows disgust for the Commander she still aims to satisfy Fred and make him happy. this idea of a woman's desire to meet the needs of m- of a man is very Biblical and believed to be the way God created, uh women to be. although Nick and Offred's relationship is fabricated, it is not very stereotypically natural. [S1: one word ] yep. um, at first their attraction is completely physical and Offred admires the healthy b- brawn of Nick. but as their relationship progresses Nick is the source of a feeling of safety and trust for Offred. ironically he is neither safe nor powerful but she seeks to provide him these things. their relationship is not at all, an equal one but, a natural one that fits the description of how God created man and woman, even though there is nothing natural about it at all.
+S1: when you say natural do you mean the same thing as, as Christian? [S7: (yeah) ] you're saying that how, Offred relates to the f- Commander is a stereotypically Christian, um way, that is of a submissive woman who serves her man? [S7: yeah. ] but you're also saying that the way she relates to Nick is Christian?
+S7: yeah
+S1: how so?
+S7: um, well he's a stereotypical, like, um...
+S1: savior?
+S7: yeah i guess well because she finds safety in him, and that's a Christian thing that, men provide safety for women.
+S1: i don't think there's overlooking the fact that there's animal lust, involved <S4: LAUGH> between, Nick and Offred. [S7: okay ] and unless i missed a really important day at Sunday school, animal lust, <SS: LAUGH> is not, a Christian ideal. um
+S7: (xx)
+S1: maybe you're you're looking at a difference here
+S7: maybe it's, well in this... ah well, i kinda see what you're saying yeah <LAUGH>
+S1: not a similarity
+<SU-f: LAUGH>
+S7: i mean the the way you say animal lust but it is, like the whole thing with like Moira being gay is kind of, interesting i think like, cuz it's not, cuz she's totally throwing away these ideas that women should do [S1: mhm ] this and women should like men and, [S1: mhm ] i don't know.
+S1: hm right so for Moira there is no, yeah right. do you do you remember how, Moira fails to, enlist the cooperation of men? okay? there is a certain suggestion about, uh Moira that because she is not attracted to men she doesn't have an avenue for, deliverance the way Offred does. right? she can't be saved by men the way Offred can be saved (by men.) i like that, and i like the stuff about Nick and, her relationship to Nick, versus her relationship to the Commander, because, you can do a good comparison of, um, you can do a com- good comparison between what you say here and what Hammer says, of that love triangle. okay? but right now i think you're really starting to see that the discussion is it has strayed, um from points that it w- that we wanted to cross. right? and now we're talking, almost purely about you know, Christian faith and and Christian ideals. um, did you notice, do you notice that when you read aloud sentences, you can catch, the awkwardness, um more easily than you could just reading it silently? right? this idea of a woman's desire to meet the needs of a man, is very Biblical and believed to be the way God created women to be. right, um, yeah there's something singsongy and, kinda limerickish about that that um, probably should be corrected. Offred and her relationships support this idea with men? alright that's that's inexact. support this idea with men. okay? support with men, is is a strange thought, a strange way of thinking. um, fiddle with that sentence until you get that right. next one?
+S11: Handmaids is a sa- satire depicting how valid a source of power can be turned and used for irres- irre- irresponsible behavior. the source of power is Bible. Gilead use the Bible as justification for its structure and behavior. rather than a society that is submissive to the, teaching of the Bible it is clear that the Bible is only used to back up idea that, ideas that were already formed. normally people don't submit themselves to, a panoptical lifestyle, unless there is a strong reason to it. everyone i- in Gilead has been tricked into living this way through, gradual, individual change that, were all justified through the Bible in hopes, of forming a better society.
+<PAUSE0:06>
+S1: what do you think? <PAUSE0:07> i think that's true, enough what you're saying here, but it's a strange place in the in the essay to have it. right? it it seems like a some sort of sum- summary paragraph. um, that maybe can occur like at the very end or something? okay but like you_ before this you were right in the middle of of details and now you're kind of out of that. um so i would think about the placement of that paragraph. <PAUSE0:10> otherwise?
+S2: i like the paragraph, (xx)
+S1: pretty straightforward? [S2: mhm ] okay. alright you got an easy one Seungchan. <LAUGH> go on, finish up. uh finish us off why don't you Kelly?
+S5: the Enlightenment which discovered the liberties also invented the disciplines. the society of Gilead has become so enlightened that it has learned how to hold massive discipline over the citizens a task that appears to be more difficult to our society than dangerous. ironically Gilead's enlightened social structure is very degenerating to the citizens. all individuality is lost and none of the characters in the novel even those at the higher end of the system seem to enjoy their lives. Malak calls this a dystopian world since nobody really seems to be better off in it. do you want me to read the next one?
+S1: uh let's do this one first... what are you doing with the, with the quotation marks there what's that about?
+S7: um
+S1: oh, i see okay i see.
+S7: (inside) well qu- i quoted and, in the quote there's the quotations uh (over) (xx)
+S1: yeah uh if you do that, then Enlightenment should be in single quotes. [S7: yeah okay ] okay? and the closed quotes should go before Foucault three-three-seven, right?
+S7: yeah. and then that one should be, never mind
+S1: what? [S7: i was gonna say it should be footnoted but ] is that explained in the next paragraph?
+S7: no no no <SS: LAUGH>
+S2: oh
+S1: what were you gonna say?
+S7: um, never min- i was just thinking that that could be footnoted but, i [S1: ah ] i had Foucault earlier so [S1: yeah right. ] but. yeah i'm kinda (xx) this is, ideas i never, expanded. <LAUGH> and like the yeah the paper doesn't (mention it,) if you're, looking for (more of 'em) on the next page.
+S1: the paper is doing what drafts normally do towards the end, okay? it kind of, it's it's picking up loose stuff that you, forgot about during the discussion or, the rest of your notes, and kind of putting them together, in like a scramble paragraph. okay? it's uh, right, it's it's stir-fry it's you know leftover delights <LAUGH> okay. um, right so you you'll see that, the last three paragraphs, are not, continuing any single thought it's it's not furthering, um, a strong argument. okay? this is typical of the ends of drafts. typical of uh of the ends of, of papers too you guys. um, papers that haven't gone through enough drafts usually. okay? mm, anything specific you wanna say about this Kelly?
+S5: um, massive discipline, does that make sense?
+S1: massive discipline
+S5: i don't know how discipline could be massive, (xx)
+S1: yeah, you're right.
+S5: and uh, after it says
+S1: right. discipline isn't, isn't strong, isn't big or small it's, [S7: yeah. ] strong or weak.
+S5: um it says Gilead's enlightened social structure is very degenerating to the citizens [S1: yeah ] should it be like degenerative? or [S1: right or ] (xx)
+S1: yeah.
+S2: i liked the idea that even those at the higher end of the system don't seem to enjoy their lives. [S1: mhm ] that, because i think like with the higher power would come, happiness and i think that's really apparent also with Serena Joy, like and the Commander both, [S1: yeah. ] (if) that can be
+S1: right. it's it's telling, it's telling that, at at_ the higher up the, the power, system you go, um the more violations that you have right? the Commander is, you know is lustful is, you know all these things that a Christian, shouldn't be even in Gilead. um, right but he's he's still not happy. i don't know if he's unhappy the way the same way that the Handmaids are unhappy but, yeah nobody's really happy here... degenerating to the citizens is a weird way of saying something. right d- degenerate, you don't degenerate to, right? the thing itself degenerates but you don't degenerate to anything. or you can degenerate into something else but, you know it's it's not a, it's not an affecting, uh action. you see? um i'll do the last one i guess. in a way, Handmaids allows allows us to strip down past all the hoopla hoopla? <SS: LAUGH> and really see into Offred
+S4: God what a great word <LAUGH>
+S7: it's a rough draft.
+<SS: LAUGH>
+S4: i like that [SU-m: kink hoopla ] (i think) that's my favorite word.
+SU-m: kink hoopla
+S1: this will all be explained in the next draft. <SS: LAUGH> we can see her natural instincts and desires and how they transcend, from the conformity that is desired in Gilead. uh you trans- you transcend things, okay? uh that is y- you_ they transcend the conformity, you don't transcend from. she exemplifies the subtle domination of women by men and all the negative effects, right effects wrong effects?
+S4: wrong
+SU-f: wrong
+S5: (think it's right)
+S2: right effects.
+SU-m: right.
+S4: mm
+<SS: LAUGH>
+S3: mm
+S2: pssht
+S1: this holds not only on herself but on her relationships as well. Atwood recognizes the inherent differences between men and women, but also stresses how the imbalance of power deteriorates relationships, and people as well. that's nice. um, yeah but this is i- right. right. [S7: it's just out there ] do you see why it's at the end? i think it's kinda closing things out... okay. um the best thing i think you have in here, again, unless i'm, um unless it's just me and i don't think it's just me, you like this too don't you? this idea that um
+S3: that was good.
+S1: yeah, i know.
+S2: yeah it's good but you know that, yeah.
+S1: um you need to work on style. okay? uh sentences are, a bit clunky, um, transitions are missing, um paragraph order could be rethought right? all this stuff that you're supposed to expect and, address.
+S2: it was good though.
+S1: okay let me give you back your papers and some leftover quizzes and things and let me have you fill out evaluations. (xx) what are you trying to do <SS: LAUGH> (steal my pen?)
+S4: i was gonna give it back and then i'm (steal) (xx)
+S1: do you guys want a copy of this? [SU-f: sure ] [SU-m: yeah ] you know, just cuz just so you know what we're talking about or
+SU-f: that'd be great. [S1: yeah. ] thanks.
+S1: there's a (transcript)
+<SS: LAUGH>
+S2: Chris is going no
+S3: do we need to use pencils for the evaluation?
+S1: yeah you gotta use pencils.
+S3: do you have some?
+S5: (i got a) pencil
+S1: yes i do.
+<0:06 UNINTELLIGIBLE SPEECH><MULTIPLE SIMULTANEOUS CONVERSATIONS UNTIL END>
+S2: i hope it's nice out.
+S3: i know you can't tell in here can you?
+S2: i know it is the weirdest thing [SU-m: it looks good out ] even when it's the most gorgeous sunshiny day ever it's (xx) you can never see it in here.
+SU-f: (how 'bout) do you have an extra syllabus?
+S3: it looks cloudy from in here
+S1: um
+SU-m: i ju- i just looked up i saw blue sky. blue sky and clouds.
+SU-f: how long have you been teaching this class?
+S1: this is my fourth time teaching comp, one-twenty-five, and i've taught creative writing before.
+S2: did Chrissy leave?
+SU-f: wow, cool.
+S4: uhuh
+SU-f: yeah
+S2: (xx)
+S1: it's nice, i enjoy it. hey since you guys don't need it anymore can somebody spare a syllabus? for
+SU-f: no don't give one
+{END OF TRANSCRIPT}
+Please contact the English Language Institute with questions or comments.

@@ -1,0 +1,669 @@
+<PERSON ID="S1" LANG="NS" ROLE="SG, Instructor" SEX="M" RESTRICT="NONE" AGE="2"/>
+<PERSON ID="S2" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="2"/>
+<PERSON ID="S3" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S4" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S5" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S6" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S7" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S8" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S9" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="SU-6" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="SU-7" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="SU-8" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="SU" LANG="NS" ROLE="SU, Student" SEX="U" RESTRICT="NONE" AGE="0"/>
+<PERSON ID="SS" LANG="NS" ROLE="UN, Students" SEX="U" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="SU-f" LANG="NS" ROLE="UN, Students" SEX="F" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="SU-m" LANG="NS" ROLE="UN, Students" SEX="M" RESTRICT="NONE" AGE="1"/>
+
+
+
+
+S1: they're gonna be posted on the Internet but like not until Monday, or something like that [S2: really? ] so i figured (xx)
+S3: when's the test? this Thurs- two weeks from next (xx)
+S1: yeah, it's like a one-to-four ratio
+S3: it's gonna snow hell of a ratio Jesus
+S1: yeah, (xx) or so. um the exam'll be two, Tuesdays from now. and the review will be next_
+S2: (this Thurs-) two Thursdays?
+S1: two Thursdays from now. and the review will be this coming Wednesday. and, i i took a lot of your criticism about the last review to heart and, i'm running it. so don't worry about it, okay? it'll be okay. uh me me and Angie are running it.
+S4: wait is Wednesday the only review?
+S1: Wednesday is the only review session, but it's it's in class. wh- can you not make class? or what?
+S4: oh in class.
+S1: it's in class just like last time, yeah. [SU-f: oh, right ] so we're gonn- we're gonna go over a lot of stuff and a lot of material. try to help y'all out a little bit.
+SU-f: instead of saying, we can't answer that.
+S1: um, okay, so, <SU-f: LAUGH>[SU-f: shit ] let's start. <SIGHS> this is the, like, such a cool thing if you have the right attitude about it, alright? these, the first thing to think about is that this is a mammalian brain. and, mammalian brains are fundamentally, and structurally, incredibly similar. what you are about to see is, in most ways that really matters, not very much different from what you see in in human brains. it's a lot smaller, and there's a lot of stuff that's less well uh, developed. but for the most part everything that's structured in this brain, humans have as well. they just have bigger or smaller versions of 'em. and, one of the things that you're gonna wanna do, is, one of the things- you- you're i definitely want you to see is that the cortex itself, in terms of its organization is pretty homogenous, and not very interesting. but, on the other side of the cortex, underneath the cortex, there's all this cool stuff. and that's really what you want to get at. get at it from underneath the cortex. things like the fornix, right? which is attached to the cingulate gyrus or the corpus callosum which is here. then goes underneath it's a myelinated sheath which seems to be involved in the organization of emotional, patterns. um midbrain structures, like, the hippocampus, which if you guys can find, is really really cool. i'll give ya_ i'll hel- i'll try to help you find it, but it's organized, basically underneath the temporal lobe, which is here. okay? these are all not cortical they're underneath the cortex. so, after you, do the work that's in here, think about the the the uh midbrain and the, hindbrain structures. and then all the stuff that's happening in, the brain stem, like the pons. um, the thalamus should be very easy to find. so will the inferior and superior colliculi okay? they're they're actually very very obvious. and the, the cerebellum. what i would recommend you do, is, take half your bra- you go- you got two halves of your brain right? take half your brain and take it through that step-by-step process that's on the sheet in front of you. and that will take you all the way to uh, pretty much like basically early subcortical, examination. take the other half of your brain, and dig around. try to find the stuff that that you that you think might actually be very very interesting that's actually in the book. and in particular, think about it in in terms of this context. the cortex itself, is really only about an eighth of an inch thick. okay? everything underneath the cortex is, uh connections, to other cortical areas, and midbrain hindbrain areas. so the things that you find underneath the cortex really will tell you a whole lot about how the brain's put together and how it works. wow. okay. it's gonna hafta be four to a brain. dissection sheets are over here. alright. okay. we, we've procured some incredibly high technology, <S5: LAUGH> plastic knives, nice. [SU-f: no way ] okay, gloves are over here. okay, we have some like, really high-tech instruments designed to cut your brains up, alright? we also have some metal spat- metal spatulas, it doesn't matter. as a matter of fact, i recommend you use these, because it, it gives you a better cut, and they're lighter. it it- you- it's easier to control control the cut. um, these brains have been, uh stored in formaldehyde so they're a lot harder than they normally would be. if you took a brain like this from a sheep, you know if you were hunting down sheep one night and you, caught a sheep, and you pulled the brain out it would actually be very squishy and and very very uh, easy to damage. what happened with these, is that they were put in formaldehyde and they were soaked, so they've been basically hardened and solidified. that being said it's a very soft tissue. this is all you're gonna need. okay? this is all you're gonna need. you might wanna use two, but you should be able to do everything you need to do with fingers. and with with the butter knives. so, come on up, grab yourself a ins- implement of destruction.
+SU-m: we need tweezers?
+S1: tweezers are cool, for pulling away some of the smaller parts, and everyone's in- every group should try to have some. [SU-f: huh? ] okay?
+S6: now you go out and sell (underwear) again (xx)
+S1: um
+S7: yeah i know
+S1: okay... follow the, basically follow the dissection process step by step. i wanna reiterate, this is a, teaching technique, this is a pedagogical method for you guys, to learn, where, the parts of brain are. i don't care what your brain looks like at the end of this. <SU-m: LAUGH> i heard some chemist was telling me some story about some pig that she was dissecting all semester and if she messed up the brain she got points off. i don't care, okay? what matters to me is that you use this to help you, on the exam, which comes in two weeks because i guarantee that there's gonna be anatomical questions on the exam in two weeks, alright? just take my word for it. just count on that. so um, have some fun with this, use it to to find the parts that're in here, and then dig around a little bit. if you have questions about a particular uh, organ or nucleus, see if you can find it.
+S7: hey tell me about the pineal gland. wh- what exactly does the pineal gland what does (what does the pineal gland do)
+S1: the pineal gland
+S7: i just noticed it
+SU-m: it's right,
+S7: it's in the hindbrain, [S1: yeah it's ] or the or the midbrain.
+S1: it's really hard to find
+S7: but it didn't say anything about it in the book
+S1: the pineal gland is it's really only interesting if you're into, uh, uh (property dualism, which is Cartesian)
+S7: i i don't even know what that is
+S1: uh it's a it's a it's a theory that that consciousness (xx)
+S7: (oh my god a) yeah [S1: yeah ] why is it interesting if you you (xx)
+S1: well because Descartes thought that consciousness can't (do anything)
+S7: well yeah that's what i mean [S1: yeah ] you ever see those old movies? [S1: uhuh ] (xx) what was that movie? The Eliminator?
+S1: i think so yeah
+S7: where the guy's pineal gland, like <S1: LAUGH> you know what i mean?
+S1: it's cracks me up. um, one last thing. is i- are any of y'all, leaving before tomorrow? any of you guys going out go- going out of town for the weekend?
+S8: possibly.
+S1: possibly. is anybody else going out of town for the weekend? alright. [SU-m: (i wanna leave town for the weekend.) ] um, i didn't have, i don't have your questions yet because of a photocopy snafu. <SU-m: LAUGH> i'll have 'em by eight-thirty tomorrow morning on the fourth floor, outside my office. mkay? they'll be in a box. so, that's why, i'm just asking now. otherwise just get 'em, you know, get 'em tomorrow. good.
+<MULTIPLE CONVERSATIONS NEXT 7:20 ONLY ONE TRANSCRIBED>
+S8: man i remember (seeing where you guys) (xx) you know. (xx) (specific) one of these little curves?
+S7: no.
+S8: this whole area?
+S7: it's well like uh like front- frontal lobe i guess [S8: this whole area? ] frontal lobe
+S8: cuz then we can point to like a specific, thing you know?
+S7: like temporal is temporal is uh right here [S8: right ] i don't know what the_ where this_ where the differentiation is at. [S8: right occipital (xx) ] and the occipital is, yeah that's the uh
+S8: somewhere up here
+S7: that's the cerebellum [S8: yeah, (somewhere) ] (xx) so it- it's in the back, correct?
+S8: and then (parielesum,) up here?
+S7: right
+S8: and parietal up on top
+S7: honestly, yeah, i don't remember her showing us, i think she said it was really sketchy you know sort of between where exactly between like uh, you know parietal ends and the frontal starts.
+S8: so... alright. trying to find the central sulcus (xx) precentral and postcentral,
+S7: look at the eyes? (xx) those are the eyes you think?
+S8: uh, it's possible
+S6: whoa it's freaky,
+S7: (i thought there) was only one optic nerve that comes into the brain (maybe these things start here) (xx)
+S8: when's a (xx) this seems like it's the spinal cord?
+S6: uh this is the medulla? medulla and then coming up with this here the spinal cord. [S8: right ] here so,
+S8: i guess, this would would be the pons, somewhere here? [S7: right right ] cerebellum, uh... you know where the central sulcus, is?
+S6: right there
+S8: yep. pre and postcentral, gyri?
+S6: i don't even see where that is.
+S7: this this alright
+S8: nah, know where you know where the central
+<SS: LAUGH>
+S6: we should (be able to see) it a lot better if we
+S8: cut it open? oh yeah it's a
+S7: i didn't quite make it though tried to bring [S8: we should uh ] her over so it'd be veteran service. well okay so we got the (xx) central sulcus. the precentral or postcentral gyri gla- no that's an external? or,
+S8: it look li- it looks like a (xx) (and uh)
+S7: i thought that was a internal too like around a ling- like here's a, a gyri postcentral gyrus there, (xx) [SU-m: (xx) ] no doubt, this is like eighth grade.
+S8: alright, um... olfactory and optic nerves. olfactory looks like
+S7: this is removed where it says removed i don't know if that's a diagram of what we were supposed to be looking at. hey Dan.
+S1: yeah.
+S7: o- is the olfactory bulb in this or not?
+S8: is this it right here?
+S1: um, it's doubtful.
+S7: doubtful?
+S1: yeah
+S7: cuz it says removed on this diagram
+S1: yeah, it's it's usually yanked off, [S7: yeah? ] during dissection. [S7: alright ] what you do, what you should be able to find too is, let me see, well look at that. maybe you guys do have that. [S8: as in, olfactory? ] that, that looks like the olfactory bulb to me.
+S7: and what's the other one on_ the matching one on the other side? is that an optic nerve?
+S1: uh well there're there're two of them. right? there're two olfactory bulbs, so there's one on each side. [S7: oh really? ] yeah. and here's uh, now here's, here's a thinker for you (Rick.) the olfactory bulb. you know the optic chiasm is a cross-over, right? and what's happening there is that basically in the uh, the reason for that is because you know right hemisphere controls left side of brain [S7: yeah, right ] olfactory systems are not like that. olfactory systems are what you call ipsilateral. [S7: yeah yeah ] this is contralateral. [S7: right ] ipsilateral. and so, when you see this, you see the way it kinda goes with the brain there.
+S8: i have a question, when, when you're looking for the occipital lobes. [S1: uhuh ] does it matter, when you look at the frontal lobe. is it just an area? or is it like
+S1: it's just it's area i mean, it's supposed be divided (into) central sulcus
+S8: (cuz they always in all the diagrams they always) point to a specific, area
+S1: yeah, i mean it's hard to find. like, the central sulcus is supposed to be right about, here. actually you can see it on this one really nice
+S7: and the sulcus that's like another just word for what? like a canal basically, it's not a structure it's just a differentiated
+S1: sulcus means, yeah sulcus is a is a um is is a is like a value. [S7: right okay ] yeah, and and so here's your central sulcus. here's your frontal lobe there's your parietal lobe and there's your occipital lobe back here. so this division here, should tell you what you're (xx)
+S7: and temporal temporal parietal that difference is there something that separates those two?
+S1: temporal lobe is is sort of yeah temporal lobe is sort of hard to find on sheep. but it's folded under [S7: yeah ] the way you think about it. think about the brain as a fist [S7: right ] and the thumb is the is the temporal lobe [S7: right ] and then you have your occipital lobe here. and the frontal lobe. so. the temporal lobe sort of folds underneath from the other cortex. [S8: right. ] (xx)
+S8: now now where's the optic nerve on there?
+S1: and you guys it's really hard to find on this, but it would be here.
+S8: that far back?
+S1: well it kind of goes, it it shou- this is part of it right there.
+S7: this is this is actually a sheep brain right?
+S1: that's actually a sheep brain. and so this is a really good way to tell you where it would be.
+S7: i don't even i don't even see. i see op- optic, chiasm optic tract,
+S1: yeah, the optic tract is here. and what would happen is you- you would see a crossover. some of the crossovers are more clear than others. but that's like, this is the superior colliculus and so it's going right into the superior colliculus from there. this one's not. this one's been beaten up. we- we'll try to_ if you if you guys can't find certain organs, wander around a little bit and see if you can find them.
+SU-m: alright
+SU-m: (xx) pons and medulla (xx)
+S8: uh, this would be, (xx) see it looks like the (pondula) pulled it out [S7: yeah ] and this would be the pons and this would be the medulla. i mean this wo-
+S7: well i think that little thing that we tore down (xx) [S8: okay ] would be the pons. [S8: right right right ] cuz there's a better picture of it [S8: turn the page. and then the hypothalamus ] (xx) whose book whose book is that? that thing's gonna get nasty smellin- smelling that thing for another week in your book bag. <LAUGH>
+S8: hypoth- hypothalamus and this is, somewhere [S7: we gotta open this ] under there [S7: we gotta open it up and and see ] it looks like it's (xx)
+S7: no yeah look at it. that's what it s- that's what it says. turn the brain over again. alright it says, i- uh it, try to find the uh, cranial nerves. i didn't think we cou- i didn't think we could do that. [S8: (xx) ] without the brain being (open there.) in the book it looks like it's, really really hard to find. (gotta) kind of weave in and out of this tissue.
+S8: the, cingulate, uh, gyrus?
+SU-m: where is that?
+SU-m: i don't know.
+S7: oh that's
+S8: well if it's cingulate (xx) the cranial, (xx)
+S7: <LAUGH> i know i thought something was, [SU-m: yeah ] leakage.
+S8: leakage uh, (you mean) right there? the white part?
+S7: it's it's a great (xx) internal (xx) (structure) from the rest of the, [S8: right ] from the rest of the (xx) are connected with the (xx)
+S8: connected (to) the hemisphere
+S7: yeah, corpus callosum (xx) talking about that (xx) okay, yeah okay so you should be be, alright so you're at the corpus callosum
+S8: where's the cingulate gyrus? uh
+S7: now see if you get a different (xx)
+S8: it's uh (xx) right above the corpus callosum, it's gotta be like uh)
+S7: so that must uh, connect the the limbic system with the uh (rest of the brain) [S8: yeah see yeah yeah ] or the, or the cortical vestibules
+S8: the, right at the bulge, the uh the corpus (callosum.) [SU-m: hm' ] that's layer five.
+S7: i i i didn't realize it, like when i was m- meeting up there with uh, that three-seventy-whatever, two session. that everybody meets at the same time like right down the hall from each other. i saw, another girl (xx)
+S6: what here in uh Dennison [S7: two-seventy-two ] Abnormal? [S7: um ] is that Abnormal?
+S7: no Peterson, the, research class
+S8: yeah yeah Abnormal
+S7: yeah Abnormal Research yeah
+S8: you're in that also?
+S7: yeah
+S8: that's crazy.
+SU-m: we're all abnormal.
+S7: yeah, i know you kept saying that maybe i took, yeah. the thing um, there was this girl, who's in another one. (xx) she's in my Cognitive Psych class. now
+S8: she has three psych classes now?
+S7: yeah, and i got like stats too right now
+S8: (kind of) overworked [S7: yeah ]
+S6: it's a lot of work (xx)
+S7: (xx) (but,) it's, not so hard, so far but i'm but i'm kind of kind of lo- losing my energy because it's getting sort of like repetitive [S8: yeah ] and uh it's getting
+S1: when y'all y'all are chopping your brains up. [S6: come on (xx) ] [S7: yeah ] couple things to notice about this. some of the fibers are gray and some are white, [SU-m: mhm ] right? think about why that might be so. based on what we've talked about.
+S7: there's there's there's their speech class is gonna meet there, at Dennison right there, at four o'clock...
+S8: wow
+S7: how did you guys do on the test?
+S8: which one? (xx)
+S7: the (xx) [S8: (xx) ] yeah, it was easy. i i got a sixty-one. so [S8: i don't know what that is. i guess ] it's an A (xx)
+<PAUSE:05>
+S8: i guess, you wanna, cut the brains in halves. anyone, wanna?
+S7: <LAUGH> you got the brain. you got the buzzer. you got control control of the board. <LAUGH>
+S8: uh it, sounds like you're (xx)
+S7: <LAUGH><PAUSE:05> yeah, that's a dissection there. (xx)
+SU-m: (xx)
+<S7: LAUGH>
+S8: guess it's take off. (xx) just take this off?
+S7: (xx) yeah, cerebellum and all that
+S8: or we could chop it like this. <LAUGH>
+S7: no no no don't do that. see, does it rip right out? well anyway is that really totally (xx)
+S8: nah i could i could actually cut up uh
+S7: pretty nasty, oh that's cool. alright, cool.
+SU-m: (xx)
+S7: that's yeah it that's a regular one... funky. <SU-m: LAUGH> weird.
+SU-m: which one's that?
+S8: that's a keeper
+S7: that's a keeper. that's an easy one. [SU-m: alright ] cut, now carefully cut the callosum with your scalpel.
+S8: okay now find the corpus callosum. that would be (xx) type looking (xx)
+S6: boy it really is defined
+S8: where's the fornix exactly?
+S7: what the (xx) fornix? that's in a surrounded structure or something isn't it?
+S8: surrounding (in) a, uh, (i really don't know)
+S7: what does it uh, (xx) (xx)
+SU-m: part of the (xx)
+S8: well this would be the, [S6: thalamus ] thalamus.
+S7: the thalamus is right all the way in the middle. [S8: yeah ] and the hyp- and the hypothalamus is
+S8: the fornix is right around it
+S7: whew. God that stuff stinks when it gets close to it.
+SU-m: (xx)
+S6: don't ask me.
+<PAUSE:06>
+S6: (xx)
+S8: squeeze the crap out of it.
+S6: there it is
+S7: the fornix. a- a- all i see is (xx) [S8: (xx) ] so it must (xx) be connected to the corpus callosum, but it's just, [S8: oh it's connected because ] like that like that little differentiation maybe right there.
+S8: i guess it's kinda down (xx)
+S7: yeah yeah
+SU-m: i guess it (xx)
+S7: okay there's the pin okay so that thing right there on th- on the top end riding piggyback is the pineal pineal gland [S8: where is that? ] the pineal body. it's riding piggyback right up right up on the top of the pons it's like a separate little structure.
+S8: (xx)
+S7: that little that that little knobby thing
+S8: oh it's not (xx) this one is it?
+S7: i think that
+S8: oh okay
+S8: this thing right there [S7: well like this ] that little, bulb for that. okay, what'd you say that is?
+S7: the pi- the pineal body
+S6: what's that, where's that on the uh
+S7: no it's not i don't think it's [S8: oh okay ] look on look on this one because this is an actually a sheep brain.
+S6: he said it, he said there was no, apparent structure or i mean no, something
+S7: it's a gland so it must, release some hormone or something. tha- that's what i think it's about (xx)
+S8: (xx)
+S7: pineal gland. now he's hurt. i don't know what exactly it does.
+S8: (where's the) (xx)
+S7: oh that's how they disattach. because remember the (xx) hangs that it hangs that it's really delicate and probably falls off or, or gets um, taken.
+<PAUSE:08>
+S6: alright what else you guys?
+S8: the cingulate gyrus. [S7: oh that's, ] oh that's that's part of it right there.
+S7: i, i can't tell
+S8: (a gigantic) i think it's just the first layer
+S7: do you have like a little piece of gray like right on top of your thalamus?
+S8: not really no why.
+S7: cuz i want
+S8: that's separated. that that that that is the uh fornix there.
+S6: you think that's the fornix?
+S8: yeah
+S6: that's what i think too.
+S8: cuz it, just looks li- i forget what it does but it look like, (xx) uh you know (xx) or something.
+S7: cingulate gyrus is right there?
+S6: alright, hypothalamus?
+S7: hypothalamus is supposed to be underneath the uh (xx)
+S1: alright, guys. some of you are are taking the phrase gently separate a little too far, and pulling it to the point where i've already seen two groups rip their corpus callosum, alright? [SU-f: oh ] just pull it wide enough so that you get a little hole where you get the knife in there, and then cut, alright? but yo- some of you guys go <SOUND EFFECT> you know you're just ripping the brain apart.
+S8: (xx)
+S7: (xx) <LAUGH> worse than worse than that, i'm sure you could cut anywhere.
+SU-m: yeah
+S8: this would be the thalamus. this is definitely the thalamus. the the gyrus?
+S7: what do we do?
+S8: i mean this doesn't look like anything (xx)
+S7: I wonder what this (xx) is right here? look at this, little guy. it's like a little, like separate structure right here. [SU-m: (xx) ] yeah.
+S8: i don't have any clue
+S7: but that's a superior (colliculus,) it's right uh, (right there,) yeah, that's a, that's a little like, it's like a totally separate color. it's a different color, it's a different structure. [S6: is that the superior colliculus? ] oh yeah. i wonder i don't know what that what that is
+S6: is that, is that a midbrain thing? a midbrain thing?
+S7: that's a mid- that's a midbrain thing
+S8: it looks like, tissue riding the lateral ventricles (xx)
+SU-m: nah it's not (xx)
+SU-m: it's the superior colliculus
+S7: yeah. oh look here's (another)
+S8: see this is screwing me up cuz i'm looking at the other side of the brain
+S7: yeah (xx)
+S8: nah, not exactly no. actually i got the hole here ( now i actually got) (xx) i don't know, do we have it there?
+S7: you got, you got some stringy stuff coming off, comes off of the uh pons (and the) medulla
+S1: hey Kevin.
+S7: hey what?
+S1: is this pineal gland here? that's uh, behind the pons
+S7: i got i got pineal gland yeah
+S1: you got it?
+S7: yeah.
+S1: lemme see it. let's see.
+S6: we're assuming.
+<SS: LAUGH>
+S7: pineal gland is located (behind the thalamus) [S1: there it is ] and i think it's either that [S1: yep that's it ] and we're thinking that's the superior colliculus right there.
+S1: one of the best ways to see the superior colliculus is
+S6: it starts a separate body completely
+S1: yeah you got- you gotta really gotta get in there. after you, do each analysis, [S7: mhm ] cut this area away, and and cut away the cortex and then you're gonna see the superior colliculus more easily.
+S7: i got, i got a nerve coming out right there
+S1: uhuh uhuh that's one of the cranial nerves. it's (part of the)
+S8: (xx) the hypothalamus.
+S1: the hypothalamus?
+S8: yeah.
+S1: well the thalamus is, [S8: this thing right here ] this large object right here, so the hypothalamus is sort of a broad structure. you can see, (hey) look here. should say it right here. (it doesn't) (isn't that the hypothalamus) the hypothalamus is sort of it sorta holds the thalamus underneath right there. so it's not_ it's kinda, it's kinda hard to see as a differentiated object, [S8: okay ] it's real small.
+S8: like on on this half it'd be uh, [S1: lemme ] okay this is the hypothalamus right there?
+S7: (i guess let's see) (xx)
+S1: yeah yeah there's your there's your thalamus there.
+S8: (the) hypothalamus must be that coming in
+S1: yeah it's not a connecting area (xx)
+S7: what do you what do you what do you guys think (well) maybe this is a hypothalamus, it's like a separate sort of structure,
+S1: that uh [S7: or ] is the mammillary body. if you look underneath. that's, well well there's the opt- there's the optic tract right? yeah [S7: (xx) ] so what you're seeing right there is you're seeing, you're actually seeing the fib- the the cross-section of the fibers that make up the optic, tract, yeah.
+S6: so the optic tract is, there's an optic nerve, where? you mean,
+S1: this is the optic, this is the optic nerve.
+S6: optic, optic tract is [S1: yeah ] (xx) [S1: right ] (xx)
+S8: last question. [S1: yeah ] this part right there
+S1: this area here?
+S8: uh yeah (xx)
+S1: okay so this is gonna be, when you pull this over, that's your superior colliculus. it's just you can't see it very well cuz it's hidden by cortex.
+S8: oh, okay so that's what you were saying.
+S1: yeah, so, after you guys do some (xx) one thing you can do is you can actually do a a horizontal slice this way and sort of see wha- actually no one's ever done that. (xx) do the horizontal slice this way. and you
+S8: can we uh (xx) the cortex?
+S1: yeah, because what's happening is that the cortex is hiding, (xx) (some) meninges. the cortex is hiding all this cool stuff. [S6: right ] so if you can peel away the cortex, a lot of you will just <SOUND EFFECT> pull it away, you'll see a lot more
+S7: now would this lemme a- lemme get two more questions here, we got a gra- some gray material right there.
+S1: that's meninges. that's uh just um [S7: just ] yeah that's that's uh like the the the uh [S7: (xx) matter ] it's the membrane that protects the brain and cushions it.
+S7: and it's that far inside the brain (xx) structure
+S1: yeah, yeah well yeah because what it does it also goes inside the, [S7: th- ] this is a a_ that's a
+S7: a fold?
+S1: (this is_) what'd you, what'd you say?
+S8: the fold?
+S1: not the folds the um, (God) what the_ ventricles. these are the ventricles, [S8: mhm ] this is a ventricle, here
+S8: any s- any s_ (xx)
+S1: yeah those are those big_ space there? that's our, that's our ventricle. and there's a big old mama ventricle underneath.
+S8: (here)
+S1: y- yeah exactly, and you see this white really_ this is a really tough white fiber here? [SU-m: yeah ] that's actually tough fiber that separates this ventricle on the right hemisphere from the left hemisphere. when you chop through it there would be fluid inside this ventricle.
+S7: and so, the pineal gland, is there any uh, um, a hormone that it secretes? or,
+S1: yeah it secretes, i don't know what it's for, but it does secrete a hormone (xx)
+S7: purpose (xx) yeah
+S1: yeah i can't just remember though off the top of my head. i'll probably remember about, in another two weeks.
+<S7: LAUGH>
+S8: um, where'd he say the ventricles were?
+S7: um (lemme see) like. (in that hole)
+S8: like spaces?
+S7: yeah, an- anything any any of the separating areas have the ventricle because that's gonna be fluid (xx)
+S8: right you know
+S7: (you see these) layers
+S8: optic, chiasm.
+S7: you see, where we were pointing at?
+S6: no
+S7: i got a big old mother nerve right there.
+S8: that's the (xx) brain?
+S7: yeah it comes underneath.
+S8: (xx) down (over here?) is that underneath here?
+S7: (xx) oh yeah you do.
+S6: this point right here, (xx)
+S8: mammillary bodies?
+S7: i think they're mammillary bodies but i was pointing at i thought that mighta been the hypothalamus but that's that right there. so,
+S6: how was he saying to cut it?
+S8: he said cut it through the uh,
+S6: through the corpus?
+S8: through the corpus
+S7: i wanna get through the (xx) the midbrain after that?
+S8: yeah,
+S6: look at the (xx) look over here.
+S7: yeah, it's like, gritty man.
+<PAUSE:05>
+S8: the dorsal surface is like, (one or two from) here. (xx)
+S7: (that's not what he was saying about this) it's way, you know
+S8: alright you gotta pull the cortex and the cerebellum, away from the dorsal. from the dorsal brain stem?
+S6: yeah (xx)
+S7: pons. okay so, how do we know what the pons is? (how do we know what to do with this?)
+S6: maybe that's the mammillary body. what what'd he say (xx)
+S7: (xx) (over here)
+S8: uh, hippo- how do you get the hippocampus?
+S7: right, it's this <PAUSE:05> mm, (xx) don't have it (on mine,) what is this right here? hippocampus is, underneath, but i don't have it on the chart for the, sheep brain, olfactory,
+S8: (we're) trying to get in here to the visible (xx) what's this in here? (xx)
+SU-m: oh that's the (xx)
+S7: (y'all) want the half the brain to work with now?
+S8: see this in here? this (xx)
+S7: yeah that's what i was looking at too. yeah. i don't know. it it's a knobby little it's a knobby little structure.
+S8: it doesn't show (anything.)
+<PAUSE:06>
+S6: wow, like a little uh, section in there.
+S7: (well) that'd be amygdala. you got the nerve, (xx)
+S6: a separate sulcus
+S8: i'm just gonna slice it out.
+<PAUSE:10>
+S6: yeah, there's like all this bullshit in the way.
+S7: we don't have an amygdala on our (tract...)
+S8: alright
+S7: so that's a good slice.
+S6: i don't (if) (xx)
+S8: this looks like nothing to me <SS: LAUGH> i have no idea what this this thing this thing does
+S6: all the (definitions along there?)
+S8: still don't know.
+SU-m: (you might) <LAUGH>
+S7: yeah (xx) oh well, (is that a) that's a slice, right? [S8: side of that, yeah ] so you musta sliced outside of the (xx) .
+S8: at least there'll be something in there. i dunno but i needed something.
+S6: (what does a) (xx) (do?)
+SU-m: what is all this stuff?
+S7: i don't know, i think that's the, we just got outside the limbic system. so a lotta that st- it's like all that stuff is on the outside of the brain. you know? inside_ the inside it's it's really [SU-m: gray ] it's really yeah that's how, people say people say, (xx)
+SU-m: it's (xx)
+S8: whoa. this broke right off. <LAUGH>
+S6: i think that's the top of the cere- [SU-m: this thing? ] the top of the cerebellum or top of the, occipital?
+SU-m: seems like the smaller you get smaller and smaller little curves see how it, [SU-m: yeah ] see how it gets smaller and smaller (xx) [S7: yeah ] each other.
+S7: it's like a little snail. so that's,
+SU-m: (xx)
+S8: this is the nerve this is the optic nerve [S7: i-i-i- it might be ] (xx) optic nerve
+S7: cuz the optic nerve goes back to the, [SU-m: yeah (xx) ] cuz the optic nerve goes right back to the, um back of the brain. back to the um, to the whatchamacallit. to uh, here. what do you call that? the occipital lobe (there.)
+S6: (xx)
+<S7: LAUGH>
+SU-m: (xx) organs (xx)
+S6: ( no i didn't i needed a lot on demand.)
+S7: all those little curves
+S8: yeah what is that stuff? (xx)
+S7: (xx) like
+SU-m: let's see (xx)
+S8: i like the red (piculars.) [S7: whew ] this part's just done. [S7: whew ] kind of falling apart.
+<PAUSE:05>
+SU-6: (xx) take a break
+S8: hold on a sec
+S6: (xx) back together again
+S7: take one to two brain hemispheres and pull the cortex and cerebellum away from the nerval brain stem. [SU-m: that's the brain stem ] [S8: yeah i ] so that's what you were trying to do and [S8: (xx) ] it ripped okay. hey Dan?
+S1: yo... i don't know what, i can't tell y-
+S6: see a little bit of pressure [S7: (see it's like brain) (xx) ] a little bit of pressure and all this could start pulling apart. [S8: mhm ] see they're all they're all curved slices like this one right here. [S8: yeah ] (xx) here. cool, (xx)
+S1: mhm?
+S7: oh uh, alright, so, we got one half of this this this toast but we [S1: alright ] gotta identify a coupla things (out) here
+S1: alright let's take a look at what we got here.
+S8: don't look at me (since)
+S1: no, this is good this is a start, okay. [S8: okay ] alright.
+S8: (xx) <LAUGH>
+S1: alright
+S7: you looked you looked you looked uh, blank.
+S1: alright, [S6: look looked uh mild ] this is yours, remember we were talking about those large objects? here's_ okay so first let me find everything. that looks like, okay. here's your superior colliculus. and your inferior colliculus, [S8: this this is ] okay? yeah.
+S8: and uh, isn't this the corpus? the uh
+S1: this is the cerebellum.
+S8: the cerebellum.
+S1: right. now imagine like with humans, it would look like this, right? which is why we w- w- confused wi- with, animals, yeah it's like straight back so this is superior inferior colliculi. now, what you're supposed to be able to do if you cut right through the middle of this, is find the substantia nigra but i i haven't found (anybody can) do it. um okay <S8: LAUGH> you can do it, alright. so th- this is a good example. you see that the thalamus, which was, here, right? and then the hypothalamus was here. and then you have this_ this is real- i have no idea what exactly this, object right here is. [S6: red stuff? ] no this this this big old pumping, uh nucleus right here, it's got it's got [S7: a lot of veins in it (xx) ] a lot of veins in it. it's highly innervated [S7: (xx) little veins ] yeah if you, pull away this stuff here, let me show you something. this is really tough cuz it's (hypolaminated,) but if you pull this away, you get, you see this? you see all the, you see the little stripes, the little lines there? [S8: yeah (xx) ] that is, all fibers. that's all nerve fibers. i don't know what that is. um, i think, i think, it's like, basically, i mean this may actually be a thalamus and this may be the hypothalamus, and in which case, you know like all this crap we've been doing before is is wrong i've been told wrong all these years. it makes more sense because this is a big old object that has a whole lot of nerve fibers extending from it and there's a smaller object beneath it. but, whatever it is it's really interesting because of all the uh, all the nerve fibers [SU-m: (nerve fibers) ] [S7: mhm ] coming out of it. they're highly myelinated. so you guys found the superior colliculus and inferior colliculus. and then what else what else we got here? where_ oh is this colliculus?
+SU-m: yeah
+S1: okay, this is the fornix. alright?
+S8: wait where is- isn't the fornix right on the, [S1: the fornix ] (xx) (ventral) ventral side of the ah corpus callosum?
+S1: it's on the ventral side of the corpu- it's on the ventral side of the corpus callosum and what you need here is that, okay is this the corpus callosum here?
+S8: uh, no this is, <LAUGH> (i threw it in the parts)
+S1: okay okay. and then, okay
+S8: he just kinda took a cross-section and i just tried to pick it apart, (xx)
+S1: oh, okay so this is actually goes on top like that.
+S8: i don't remember to be honest with you it was (like yeah) [S7: (xx) <LAUGH> and yeah that's right (it was on) that top curve (there) ] it was the uh and the uh and then this is the uh, the corpus callosum and then that's the stuff below it
+S1: okay you see this little lump here? if if i understand correctly if i remember correctly this would actually go, into the temporal lobe cuz this looks like, a temporal lobe (project-) so when you cut this one open be a little more careful. try to separate, try to cut off the top of the cortex.
+S6: (this is) the other half
+S1: this the other half of it?
+S6: there's a lot. (xx)
+S1: yeah. okay ooh yeah yeah [S7: so try to cut off from ] here it is, check this out. alright, now pull this away.
+S7: what's on your_ what's in your right f- between your right thumb and finger right here?
+S1: right here?
+S7: no right up there
+SU-m: no, that's no-
+S7: no the the, pull it back, [S1: mhm ] what's that snail, like, that thing that kinda curves around and stuff? [S8: right there? ] looks like a little knob (xx) like this right here.
+S1: i don't i don't know. i don't know what that is. this is um, this part right here is interesting because there, is the fornix. you see that? you see this, right here? this is the fornix and if you pull this away, [SU-m: peel it? ] yeah, if you peel it away, really gently. underneath that?
+SU-m: ooh
+SU-m: look at that
+S7: the, stringy uh?
+S1: yeah, it it's really interesting isn't it? and and underneath that, on this side, should be, [S8: (xx) ] the hippocampus. yeah, i know be careful with that all the <SU-m: LAUGH> crap that's coming outta here. but this this curves around like that and then, where's the, am i doing this the right way? oh okay. so this is frontal and this is, okay. and this_ what happened here is that, underneath this, kinda nestled in there should be the hippocampus, (and) in the temporal lobe right in here, should be, the amygdala. so if you pull the fornix away and you pu- there's another layer of fornix here, if you pull that away, you should find the hippocampus sort of nestled in the cortex [SU-m: mkay ] alright? yeah
+S7: so those things are actually, you can't see 'em unless you dig (xx)
+S1: yeah you really gotta dig.
+S7: so i should make should make like i should make a cut on top of the cors- [S1: yeah ] corpus callosum and just try and?
+S1: cut on top and try to and try to get at it in two ways. but remember that what's gonna happen is that those bodies will separate away from [S7: right right right ] each other. you know what i mean? but it's hard. like finding the hippocampus is really hard...
+<PAUSE:12>
+S7: what is this, uh guy filming here doing?
+SU-m: (xx)
+S8: (it's about) language (or something)
+S7: oh really?
+S8: something about second languages (or something)
+S7: weird.
+<PAUSE:05>
+SU-m: did (you guys) get (xx) (for this?)
+S7: (i used) (xx)
+<SU-m: LAUGH><UNINTELLIGIBLE SPEECH><PAUSE:17>
+SU-m: oh man
+SU-m: come on (xx)
+SU-m: (brain parts in my book)
+SU-m: (xx)
+S7: (yeah) you can get a real thin slice and use it as a bookmarker if you freeze-dry it. <SS: LAUGH>
+SU-6: (and then the) girl stops and (flick) open my book (in the library) <SS: LAUGH> and then a piece of brain falls <SU-m: LAUGH> (out) on the table
+S8: (xx) i'm not finding anything (xx)
+S6: (xx)
+S7: what's behind it? what are you looking at? is there something behind there?
+SU-m: (xx) didn't he say you peel that lexical layering away (and) the hippocampus is behind there? [S7: um ] but there's no_ it's not as defined is it's just like you pull away (xx) we're trying to wedge it so it just starts to break apart (xx)
+<UNINTELLIGIBLE SPEECH>
+S7: (no,) it's stronger like the more you cut into it it's gotten really so (xx) in there
+S8: (xx)
+S7: yeah i know.
+S8: (xx)
+<UNINTELLIGIBLE SPEECH>
+SU-m: (you know how it goes) back together
+<PAUSE:08>
+S6: you just take really small slices in the, [S7: i wanna get ] hippocampus and the
+S7: yeah i wanna get (on to-) i wanna get (all this stuff)
+SU-m: that was really weird
+S6: see it was on TV like they took a um, forget like a a like an (xx) like a, like a serial killer, like (xx)
+S7: oh when they sliced him into like microscopically thin pieces
+S6: sliced them into really thin pieces.
+SU-8: and sews him up. and no one (finds out) about it wow
+S7: yeah you ca- i think you can buy that program for like on_ for your computer. the Digital Man. like it's like sixty bucks or seventy bucks and you can go to the_ the site is weird yeah they free- they freeze the pieces [S6: (xx) they slide 'em ] (then) they stain 'em, like different colors and then they, they get computer-image all of 'em. [SU-m: (xx) ] freaky they did that, they just did that for a woman too
+S6: did they?
+S7: yeah cuz they didn't have a woman, who was like scummy enough to wanna do that to i guess <LAUGH>
+S8: aw this is cool you can, peel off this uh, this sheet thing
+S7: oh the outside, oh the outside, scuzz
+S8: the tired? (xx) yeah, yeah (xx)
+<UNINTELLIGIBLE SPEECH>
+S7: you're just going to town on the (xx) ooh there's nothing left of (xx)
+S7: whew
+SU-m: (i guess i'll watch right after) (xx)
+SU-6: (xx) that's a solid, that's a solid, slice
+S8: what is that thing?
+S7: i dunno i thought that's the cingulate gyrus? or the um, yeah i think it's the cingulate gyrus. look. it's that it's that curly (curly thing.) (xx)
+S6: oh yeah.
+S7: do do
+S6: mkay (are these, are these just like) (xx)
+S7: there's (veal.) <PAUSE:05> alright (xx) wow that's a big motherfucking (xx)
+S6: look at the size of it.
+S7: (wow) that must be an artery.
+<PAUSE:08>
+S7: (the other side of that, look at the side of this) [S6: huge ] it's fucking huge. it's a huge, huge artery... the- these must be this guy (xx) was talking about. and this is the corona (radii.) you will see the large white radiation fibers that pass from the cortex through the corpus callosum to the other side. i think that's that right there peel gently in order to expose the hippocampus that's right here. gently my ass.
+<PAUSE:05>
+S7: unless it was already (de-juiced) [SU-m: (yeah we already did that) ] <LAUGH> well those are all the radii right there. (check it out) those are the things that connect (the arc.) you should see large white radiation fibers that pass from the cortex through the corpus callosum to the other side. corona radiati.
+S6: we gotta keep going through them? (because) [S7: yeah ] (there's not much) (xx)
+S7: it says peel them gently away to expose the hippocampus so i'm just coming at the hippocampus from the other side. from what you were coming at it from. (i don't know about) gentle...
+SU-m: it look- tastes like chicken
+<UNINTELLIGIBLE SPEECH>
+S6: every time it seems to (go, just go) right part, (xx) (save that shit)
+S7: we need some, we need some better tools. (xx)
+<PAUSE:07>
+S6: so where's the hippo- where's the hippocampus supposed to be? [S7: (xx) ] like on this thing?
+S8: (xx)
+S6: should be like in in there then?
+S7: yeah it should be, right. right in this right in th- well look. looks like it, sh- should be right in here. right on the bottom (xx) right on the bottom (here,) of this, mm so here's my thalamus, when i'm coming from the other side. and then there's, some big meaty-ass structure. now wait a minute here,
+S6: the hippocampus should be right up (over) here. (xx)
+<PAUSE:10>
+S6: i know it's not that little, dark, thing on the bottom (though.)
+S7: oh, (you) got something there (xx)
+S8: do you think that amygdala (you think) (xx) or did he tell us (xx)
+S6: you know i don't know what (he told us) he said go one more layer and find (hippocampus...) (going) down another (layer) (xx)
+S7: (xx) i i wonder i i i found (xx)
+<PAUSE:06>
+S8: you might wanna pull this completely apart cuz we'll be able to identify it better
+S7: i think i toasted (my) (i can't get any further) cuz it seems like nowhere (xx) (from a different) way
+S6: well you're almost to (the other side)
+S7: i'm not getting to the (cavity.)
+<UNINTELLIGIBLE SPEECH :08>
+S7: <LAUGH> i know, we got hashed, we got hashed now. look at that look at our brain we got hashed.
+S6: sorry dude.
+S7: <LAUGH> we were looking
+S6: isn't it amazing that he can like (pick) up all the little pieces and be like oh that's the (da-da-da)
+S8: (xx)
+S6: i dunno.
+S8: hafta find something (in there going go) above this cortex (xx)
+S6: some of those shapes?
+S8: yeah it's really (xx)
+S7: <LAUGH> i know
+S6: so you like, pass, pass this little thing that's broken apart real nice [S7: yeah ] this is all like, gristly and
+<PAUSE:10>
+S7: you gotta nice sec- you gotta nice section there. it's just like, (it's really fine)
+SU-m: all i got all i have left is the midbrain, and the uh, a little bit of the internal structure like my, cortex is, toast. my cerebellum's toast.
+S6: (too much shit to work with) i'm telling you (xx) (let's get it) (xx) (there it is)
+S7: where? oh, yeah. oh yeah. (xx) did you get the outside (there?)
+S6: (xx)
+S7: you got the outside (of each) (though right?)
+S6: (xx)
+S7: yeah.
+S6: (this is) kinda dark, (i wonder) what's going on
+SU-m: oh yeah. that's general slime.
+SU-m: (xx) (i'm gonna flip it over) (xx) (it says he) said the (xx) hypothalamus would be, somewhere in here
+SU-m: cool
+<PAUSE:05>
+SU-m: gimme that
+<PAUSE:04>
+SU-m: (there's not) enough (of that)
+<PAUSE:06>
+S6: gimme that
+<SU-m: LAUGH><UNINTELLIGIBLE SPEECH>
+S8: (xx) before we go?
+SU-m: (xx) part of this (xx)
+S7: wow that's really (different) i wonder if, (xx)
+S8: you sure it's not (part of) (xx)
+S7: yeah hold on i wonder what's uh,
+S6: wasn't that something in three-seventy-three we should (be able to list the) (xx)
+S7: <LAUGH> right.
+SU-m: (xx) (last night)
+S7: you didn't?
+SU-m: i can't believe that i (xx)
+S7: (xx) for the (stat) the stat shit is, didn't it? i fucked up with the multiple choice. i only got like forty-something, one. i got forty-one.
+S6: well yeah i got (i was_ right ) that stuff that stuff i (still couldn't) figure (out at all) (xx) (like) until i got to the short answers [S7: (xx) ] she gave me short answers (like) she gave me two on almost all of 'em i was like, yeah. [S7: yeah. ] (it was) easy.
+S7: are you coming to se- are you coming to look?
+SU-8: yeah.
+S7: we have like (four) we have like half, now. (xx)
+S8: (xx) our brain.
+S7: <LAUGH> there's not much left.
+S9: alright. well what did you do with the, the brain stem? i mean, did you find anything?
+S7: we found a couple of [SU-m: (xx) ] we found a couple of things, yeah
+S8: the brains,
+S9: well there you go,
+S7: well no no no wait a minute i think, are you messing with my cerebellum, now?
+S8: (this is) the cerebellum yeah [S7: yeah ] (xx)
+S7: where did you (mess,) see- look um, so, this is how the brain goes like that so there's your_ that's the cerebellum or the uh [S8: (that's) the cerebellum ] this is the um, what would you call that? hindbrain?
+S6: the spinal cord?
+S7: no no spinal cord's down here.
+S6: and that's the medulla
+S7: okay so that's the medulla, right there. and then [SU-m: uh ] this the
+S6: (xx)
+SU-7: what's going on? <LAUGH>
+S6: (that's it right there)
+S7: yeah, so that right there (is the pons, it's that thing) (xx) and that's the, the, hindbrain section, the medulla with uh, um, with the midbrain. which is this stuff right in here. so, that's like the superior colliculus in here somewhere, which we found and then destroyed somehow [S9: <LAUGH> okay ] and then there's a there's a, inferior colliculus in here somewhere too, but i think that's probably (where it is) (though it could be that right there too) i don't know. how did you guys do with your brain? what'd you find, anything?
+<GLASS FALLS ON THE FLOOR>
+S9: i knew that was gonna happen (xx) around on the floor
+S7: what is that a bottle (xx) or something?
+S9: um... yeah we found it eventually, like we had to (mess with) (xx) this corpus thing.
+S7: yeah, yeah (all this) corpus callosum, all that.
+S9: i haven't done any reading yet, so like... i'm gonna cram the last week [SU-m: (xx) ] <AUDIO DISTURBANCE> this is where i work.
+<PAUSE:05>
+S8: (man,) i'm getting like dizzy and like, lightheaded. i mean (xx) with no food (in like) (what is it now?)
+S9: doesn't this look like chicken? or isn't there chicken (xx)
+<SU-m: LAUGH>
+S8: it feels like a chicken.
+S9: <LAUGH> yeah (xx)
+S7: no chicken no sushi... oh yeah, (the little) sacks in between 'em there.
+S6: (who's the) (xx)
+S7: what do we got for the time? how much longer w- should we really be expected to stay here?
+S8: whenever.
+S7: we can leave whenever?
+S8: yeah.
+S7: like i'm, i'm getting ready, right now, right?
+S9: thank you
+S1: how are y'all doing?
+S7: (oh we're doing) (xx)
+S8: (xx) (find a time break)
+S7: we uh, we can't find the hippocampus (still) but, (i think) we we got everything else
+S1: i'm gonna help you guys try to find the hippocampus here (xx) watch out for, yo lea- don't get brains on the tables okay? <SU-f: LAUGH> (xx) that's disgusting.
+S7: alright, so, so we had that, and then this guy, comes out, [S1: yeah, okay ] and then you said pull a little bit farther and uh,
+S1: right
+SU-f: if we're done, how do we get rid of our, tissue?
+<MULTIPLE SIMULTANEOUS CONVERSATIONS NEXT 1:12><CONVERSATION 1>
+S1: okay, yeah this is important hold on here. alright, um, if you're finishing up, there's a, container right over here that says, well let's see (see if i can find one.) discard parts. it says parts discard, okay? only, only throw brain tissue in there don't throw gloves or snot or, tampons or any of that other stuff, just brains okay? <SS: LAUGH>[SU: (brains go in there?) ] yeah, the sec- the same thing is clean up your mess. clean up your mess.
+SU-f: why are you gonna recycle them?
+S1: okay? [SU-m: uh, tampons? ] no we're not gonna recycle the brain parts. [SU-f: oh good ] okay? don't worry about it. um, uh, wash off your utensils, and wash off your your uh, your plate, in th- in thes- in these places here. (and then)
+SU-m: (we have to) wash our plates off?
+S1: what? excuse me? <SU-m: LAUGH> don't wa- (xx) wash out wash out your trays and throw your gloves away in this plastic garbage bag right over here. okay?
+SU: where do we (xx)
+S1: uh, give 'em to me and_ (well actually.) these go in the discard parts right here. mkay? yeah. clean up, clean up your mess in these trays up front.
+<CONVERSATION 2><PAUSE>
+S7: it's only six-thirty (xx)
+S8: let's see if we can (go)
+S7: mhm, i'm about ready. [SU-8: (let's go) ] i wanna t- i wanna take a look at those questions (and stuff that we got just so i can really) (xx)
+<UNINTELLIGIBLE SPEECH>
+SU-m: it's gonna be fucking hard, (xx)
+S6: yeah...
+<UNINTELLIGIBLE SPEECH>
+SU-m: (xx) these
+SU-m: i need i need (xx) (one, question)
+S7: yeah, (xx) (xx) you're right [S6: (xx) ] you're right it's one question you're right you're right you're right. you're right.
+S8: that's a lotta shit.
+S7: early brain development (xx)
+S6: it'll be easier (than that stuff)
+S7: (right.) it'll be clearly marked, yeah.
+S6: (xx) trying to find the part.
+<END SIMULTANEOUS CONVERSATIONS>
+S1: okay. now let m- let me take a look here and see what you got (here)
+S7: yeah (xx)
+S1: you guys are really (cooking.)
+SU-m: (xx)
+S7: these are some intense questions man, these are some really, intense questions.
+S1: they're okay, i mean actually,
+SU-m: they're okay?
+S1: well, the materi- a lot of this you don't know yet, right? but, we're gonna talk about this next_ but but think about it this way, i think these are a lot more conceptually straightforward so, yeah
+SU-m: yeah there
+S7: no i agree yeah [S1: yeah ] it's not [S1: yeah so ] like, it's not as much [S1: yeah ] going on a limb yeah
+S1: yeah there's only one (xx) right.
+S1: uhuh, right
+S6: (xx) (xx)
+S1: yeah, you, your brain is so tough, it's really hard. (xx)
+S8: is that a, no. wait he said th- are those (clutches?) did you get those from over here?
+S7: yeah i just wanna look at your i just wanna (xx) for a second
+SU-m: (xx)
+S1: okay, you see this, you see this area, okay, no you see this uh, section right (there?) where it kinda curves around a little bit? alright, that's uh that's the hippocampus. right there. (xx) you push it and no wonder (xx) you ripped it all up you can't see it. (the whole) of this section right there, (is) the hippocampus. it's so hard to get at, you know?
+S6: it's like it's like it's like (it formed into one) with all the uh
+S1: yeah, yeah. it really is.
+S6: it's kinda get, a little bit on the bottom of that.
+S1: mhm
+S7: alright, what was the thing that you never found?
+S1: um, i never found the amygdala. the amygdala is nestled so deep inside there that in order to get to it you usually have to destroy it. it's it's it's underneath, all this cortex, right?
+S6: we don't have (amygdala.)
+S7: what did, what did you say with the gloves?
+S1: uh, put the gloves in the plastic garbage bag. actually it's due on Monday, alright, yeah.
+S1: when is your critique due?
+SS: Monday.
+S1: Monday.
+SU-m: Thursday.
+SU-m: Monday?
+SU-m: Monday i thought it was Thursday.
+S1: <LAUGH> critique.
+SU-f: i thought it was Thursday.
+S1: the the outline was due on Thursday.
+SU-m: wait wait wait how we gonna get 'em to you?
+S1: give 'em to me in class, y'all are planning to
+{END OF TRANSCRIPT}
+Please contact the English Language Institute with questions or comments.

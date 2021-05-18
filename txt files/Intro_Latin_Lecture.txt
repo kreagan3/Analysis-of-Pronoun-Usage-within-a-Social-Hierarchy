@@ -1,0 +1,228 @@
+<PERSON ID="S1" LANG="NS" ROLE="JF, Instructor" SEX="F" RESTRICT="NONE" AGE="3"/>
+<PERSON ID="S2" LANG="NS" ROLE="SU, Student (Andy)" SEX="M" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S3" LANG="NS" ROLE="JU, Student (John)" SEX="M" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S4" LANG="NS" ROLE="SU, Student (Kurt)" SEX="M" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S5" LANG="NS" ROLE="SU, Student (Mary)" SEX="F" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S6" LANG="NS" ROLE="JU, Student (Jim)" SEX="M" RESTRICT="ALL" AGE="1"/>
+<PERSON ID="S7" LANG="NS" ROLE="SU, Student (Tanya)" SEX="F" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S8" LANG="NS" ROLE="JU, Student (Paul)" SEX="M" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="S9" LANG="NS" ROLE="JU, Student (Nicole)" SEX="F" RESTRICT="ALL" AGE="1"/>
+<PERSON ID="R1" LANG="NS" ROLE="ST, MICASE Researcher" SEX="F" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="SU-f" LANG="NS" ROLE="UN, Student" SEX="F" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="SU-m" LANG="NS" ROLE="UN, Student" SEX="M" RESTRICT="NONE" AGE="1"/>
+<PERSON ID="SS" LANG="NS" ROLE="UN, Student" SEX="U" RESTRICT="NONE" AGE="1"/>
+
+
+
+
+S1: um, i'm gonna go ahead and put the verb for, the quiz on the board <PAUSE WHILE WRITING ON BOARD> okay we're using do, dare dedi datus today, to give.
+<STUDENTS TAKING QUIZ>
+S1: when you're finished with your vocab quiz, would you, turn to the required readings (and for your_ her quiz_ ) required readings in lesson sixteen and, take out any kernel and modifier charts you might have had for those, from yesterday i wanna go through the, forms
+<PAUSE:09>
+SU-f: (apparently) that's an extra one... oh thanks, (Zack)
+<PAUSE:21>
+SU-f: isn't (xx)
+<PAUSE1:16>
+S1: okay, um... we're gonna go through these required readings, and then we're gonna work on the narrative reading from lesson sixteen, about the golden apple but, the theme for the day is, to think about, first of all <PAUSE WHILE WRITING ON BOARD> when do i <WRITING ON BOARD> see, a dative? (okay?) and this is basically, a morphological... consideration when do i see a dative form as i go from left to right? and <COUGHS> excuse me, at this point, the next question is, do i have enough information... to determine, dative use? I-E, is it kernel, versus non-kernel, and then within those categories, do i know where i am...? if the answer to this is no, the next question is as i continue to read, from left to right, when do i have enough info? <PAUSE WHILE WRITING ON BOARD> what we wanna do is develop a strategy for, basically not panicking when we see, a form like a dative particularly one such as cui, where there's a lot l- many levels of things you have to consider i've got a pronoun i've got a relative pronoun, i'm in a dependent clause, and it's in the dative case. but, we're just, looking at things going left to right, at what point do i know, a certain amount_ do i have enough information to make a decision? so looking at the first one um Andy can you read that one aloud, in Latin...? sixteen-one.
+S2: mhm, cui fortuna favit multos amicos abit.
+S1: mhm... how far into the sentence do you go before you see a dative word?
+S2: first word.
+S1: okay, (we met) cui... what do you know at this point...? (okay) do you have enough information to determine which use you have? in other words to classify it as being either kernel or non-kernel, just by looking at this dative word... John? (would)
+S3: (uh) yeah.
+S1: how so?
+S2: cuz it's uh, relative pronoun's the first word in the sentence and when it's usually, first word in the sentence then it's gonna function as the (comp, relative to the) (xx)
+S1: oh okay yeah in in other words if we're at the level of clause, <WRITING ON BOARD> for my relative clause do i have enough information, to decide whether this is, adjectival or noun? that is is it non-kernel, in kind of a different mode or kernel? sure, absolutely, you're in the world of a noun clause. but, as far as the dative use that is the particular dat- i mean you're right it was just (the) we're addressing it from the angle of form of this. do i know by looking at this word whether i have, a a special intransitive kernel or a special linking kernel, or something else, something non-kernel? Andy?
+S2: well have we only seen so far instances where, cui is used as special, as special linking? because i can't think of any instances where cui could be used as, s- special in- [S1: i can't ] i mean special linking. [S1: special linking ] if this is special
+S1: not without an antecedent.
+S2: okay
+S1: in other words it would have to refer back to some word that fell into that category of abstract nouns of helping and hindering, but as a as a relative as a relative pronoun introducing a noun clause, this really can only refer to, <WRITING ON BOARD> a person, or a thing in the abstract [S2: mhm ] as it's defined by the relative clause, so i i'd say no, that you'd have to rule out special linking. i don't think you can really rule out anything else though you need more information. d- if you get a special intransitive verb then you know, where you are. if you get, an accusative object for instance then you know you're in a non-kernel use. so you_ this you can you can rule out, special linking but we still have a wide [S2: mhm ] open field at this point, but that's some- i mean it's good to know that y- i shouldn't have to worry about this. does everybody understand why, you can rule out special linking, at this p-? no. okay what's the criteria Kurt as far as you understand it, for datives which occur in special linking kernels?
+S4: there has to be_ the dative is the is the dative object so there has to be another, word a n- noun in the nominative to s- serve as the subject of the sentence.
+S1: right, but there's an additional, restriction, and that is if you look on page one-sixty-five <PAUSE:05> in the middle of that page the s- s- s- s- se- the section entitled the special linking kernel, okay i've got, nouns, such as auxilio (ponori) impedimento saluti and usui, and these nouns are all generally nouns of either helping or hindering or advantage or disadvantage, so that's a restriction on the meaning of the noun. and, unless, this pronoun refers to such an idea such a noun s- elsewhere, it's not going to stand for it. in other words it won't represent that idea, and so on the basis of the meaning, or th- in this case the non-meaning of the relative, you can, eliminate that possibility. so special linking involves nouns of very particular meanings, in the dative case... okay, keep going, <WRITING ON BOARD> when do i have enough information Andy to decide, what use of the dative i've got does fortuna help you out?
+S2: no.
+S1: no, okay? i just know i have my subject. how about favit?
+S2: yes.
+S1: how does it help you out?
+S2: because it's a verb on that list.
+S1: mhm what list?
+S2: the list of verbs that take, um, dative, case.
+S1: mhm, dative objects it's on the special intransitive list, so if i recognize favit as being on that list, i can then, i know where i am with cui, and i and i know, <WRITING ON BOARD> then i've, got my environment for the dative case, and then, i should know how to translate the sentence. so Andy how did you translate this thing?
+S2: um, whom fortune favors has many f- he whom f- fortune favors has many friends.
+S1: mhm... okay. <PAUSE WHILE WRITING ON BOARD> questions on that anybody translate it differently...? anybody not see why that's, a correct answer it isn't the only correct answer, but it's certainly one correct answer... okay, good. sixteen-two... Mary can you read that one aloud?
+S5: inopiae desunt multa, avaritiae omnia
+S1: mhm, okay and where do you run into the dative noun?
+S5: inopiae
+S1: okay, is that enough in and of itself, to tell you anything?
+S5: no.
+S1: so i keep reading. <PAUSE WHILE WRITING ON BOARD> this is a word which, even, could be, a notion of helping or hindering i mean this idea of, um, poverty or neediness it's hard to rule that out so i would even keep the special linkings open. just, just because it's not, clearly an animate noun or clearly a concrete noun. how about multa? is that_ do you know where you are, at that point does it help you any, in any way...? how about desunt? <PAUSE:08> is it a special intransitive verb? <PAUSE:04> Jim is it on that list, (of) special intransitives?
+<PAUSE:07>
+S6: Speaker information restricted
+S1: no, so, so even if i can't absolutely pin it down at this point, this isn't a linking verb so i'm not in special linking. it isn't on my special intransitive list so i'm not in special intransitive, so, i can then say even if i can't at this moment, pin down the direct use of this, i know that i have a non-kernel dative, because it doesn't fulfill the criteria for either special intransitive or special linking. so then we move into the w- the four possibilities for the environment of the dative when it is not kernel, on_ starting on page one-sixty-seven. <PAUSE:05> dative with est and its compounds. okay, does that help me...? yeah, sure it says all compounds of the verb sum esse except absum , set up the expectation of a dative, hence adsum desum, well desum that's what i've got, that something is lacking to, something or something, fails, something, so, once i find this, as part of the correct environment then i know where i am... <WRITING ON BOARD> Mary as you continue to read that you see comma and then you see avaritiae... what does that signal for you as you read?
+S5: a new clause.
+S1: mhm, okay, and what about avaritiae?
+S5: well it's dative again but, we don't know, what it is yet?
+S1: okay, let's think about what we've experienced and what would be probable in such a circumstance. i have an abstract singular dative, okay i've got a nominative plural noun and i have a form, of the verb desum which is intransitive. then i get a comma then i get another singular dative, of an abstract noun. what am i likely to have based on what the kinds of pattern_ word order patterning that is seen in Latin?
+S5: gapping.
+S1: yeah. i probably have a parallel structure which involves gapping, so, avaritiae is parallel to inopiae. so, i can expect one or more of <WRITING ON BOARD> these things, to be gapped, missing on that side. okay, so with that in mind what's the next word after, avaritiae?
+S5: omnia.
+S1: omnia, okay, and omnia is parallel to?
+S5: multa.
+S1: multa and i'm at the end of my sentence, so my gap is clearly the verb, so, inopiae and avaritiae have the same function. (yep.)
+S2: where does the ending, for inopiae come from? i- does it pattern with tacens, like tacens?
+S1: no, it's first declension. look at the top of page one-sixty-four. oh i know what you're thinking, cuz you're thinking of inops?
+S2: yeah.
+S1: yeah. this is an example <WRITING ON BOARD> of_ this is the adjective meaning needy or poor, and it's a one-ending adjective, and follows tacens. what you have in inopiae, is a derived, noun from that adjective, that follows the first declension [S2: oh okay. ] inopiae, inopiae feminine meaning, neediness, or poverty. you see that same pattern_ we had the adjective sapiens, sapientis which meant which means wise, but what's the word_ anybody remember the word for wisdom?
+SS: sapientia.
+S1: sapientia, and you i- that's a regular formation pattern, um from third declension adjectives, with a, um, a derived abstract noun in first declension where you get this T I A, ending so that's what you have in inopia. and you have it in avaritiae too. same thing. so this is just (a) first declension noun. anybody have questions on these two? Mary how would you translate this into English?
+S5: well i, handed in my translation already so, trying to remember the many, um, are lacking for neediness. [S1: mhm ] and, um, e- everyone is lacking for greed.
+S1: okay, we're almost there. she said the many are lacking for neediness, every, one, is lacking for greed. there's something slightly off about that which is why it sounds a little funny. if you say the many and everyone, are you, reading those [S5: (xx) ] are you treating those substantives as [S5: (animate) ] animate or nonanimate?
+S5: animate.
+S1: as animate, sure, [S5: (so the neuter endings) ] but the neuter endings tell you that they must be nonanimate so try it again, with the neuter
+S5: the many things [S1: mhm ] are lacking for, um, neediness, and then, and then now is it animate with omnia, or (the)
+S1: we could say, instead of everyone, you just have [S5: say everything? ] everything.
+S5: everything is lacking for greed? (i guess)
+S1: mhm yeah, good. questions? okay, next one, sixteen-three. this isn't that awful, (omnus virum is it?) no not yet okay, good. Tanya. sixteen-three deus_ read the whole thing aloud in Latin.
+<PAUSE:07>
+S7: deus superbis resistet humilibus autem dat gratiem.
+S1: mhm, i'm reading along, right? right to left i see deus, what do i know so far?
+SU-m: subject
+S7: subject
+S1: subject. okay, so God or a god is <WRITING ON BOARD> doing something, and then i see superbis, do i have a dative there?
+S7: yeah
+S1: yeah, do i know at this moment_ can i make a decision about what use of the dative case i have?
+S7: 'm'm
+S1: no, i don't. i don't know enough except again i can probably rule out, special linking, because the dative is not, one of those auxilio impedimento (auricula words.) but i still need to know, <WRITNG ON BOARD> some more information particularly with reference to the verb, and i see resistet. do i know where i am? <PAUSE:05> Paul do i know where i am?
+S8: yeah.
+S1: how do i know?
+S8: resistet's on that special intransitive list.
+S1: yeah. <WRITING ON BOARD> so, as soon as i recognize that as being on the list, i know i have dative object here. (hm?) so, Tanya how would you translate just this much, of the sentence?
+S7: (um,) gods resist_ i'm not sure what that word means.
+S1: superbus? it means proud or arrogant.
+S7: so the gods resist the arrogant?
+S1: mhm [S7: mkay ] or go- the_ in this case one god, resists [S7: oh okay ] the arrogant. as i keep reading, humilibus. <PAUSE WHILE WRITING ON BOARD> what have i got here?
+S7: a dative.
+S1: a dative, okay? i don't, have enough information yet to do anything right? i need more. [S7: right. ] and the next word i see is autem, we'll pass over that that's not_ just means that my i- my clauses are going to be contrastive in meaning, but, what's the next word i see, or you see?
+S7: dat.
+S1: dat, okay. does this give me any information, or does it help me rule out anything? well it is is it a special intransitive verb?
+S8: (no i guess not...) no it's not.
+S1: nope, so whatever i've got going on here i don't have a special intransitive kernel. is it linking?
+S8: no.
+S1: no, i don't have special linking besides the semantics of this again (and i'm not gonna) rule it out. so, i'm in the world of non-kernel datives. at this point can i rule out dative with est?
+S7: yes.
+S1: (yes) (xx) mkay so, it's something else going on what's my next category Tanya? on page
+S7: dative with verbs meaning give tell show offer?
+S1: okay, is this a verb meaning give tell show offer? [S7: mhm ] yes so now i know where i am, and my expectation at this point_ what what further, structure, part of speech, part of the sentence do i expect Jim?
+S6: Speaker information restricted
+S1: mhm, because these are_ you give_ <WRITING ON BOARD> you have some subject, giving, gives direct object to, a beneficiary in the dative well i've already got the beneficiary, and i have the giving expression, um, i expect then to find out what is being given. and where d- do i get that in what word Tanya?
+S7: gratiem.
+S1: gratiem, so how would you translate the second half of the sentence?
+S7: but the gods give, the god gives, um, favor to the humble.
+S1: mhm, good. John.
+S3: what's autem (doing in this sense?)
+S1: it's a, a clause connector, that conjoins, um it_ <WRITING ON BOARD> here it is semantically and, functionally equivalent to sed. it means but. the, the thing about autem and a, few other words in Latin is that, we would expect sed, as English but to come at the very beginning of the second clause. there's a couple words in Latin that are called postpositives which means they always, trail into second position they don't like to be right in the first place but in translating, we have to translate it, first. i guess you could do it in English by saying... God resists the arrogant. to the humble, however, he gives favor, and that would_ i_ you can do it with however in English. you can't do it with but, which has to be right there, in the beginning. anybody have a question yeah Andy?
+S2: no i have a question on, on, number two.
+S1: mhm
+S2: if you translate that as, the, the many are lacking_ how did we translate it before?
+S1: well, Mary started out by saying the many are lacking. the problem, with that, is that, the many in English i think implies animacy.
+S2: oh the many th- if [S1: right ] you translate it as the many things, are lacking for the poor, [S1: mhm ] then you would trans- then you would consider in- inopiae, as a dative, right?
+S1: mhm it is a dative.
+S2: it is a dative.
+S1: it is a dative (but)
+S2: could you translate that as the poor are lacking many things?
+S1: um
+S2: and trans- and consider
+S1: we got a couple yeah we got a couple layers of things going on there, um, the first thing is, <WRITING ON BOARD> something that no one brought up, and that is whether or not_ how you resolve, (th- th-) the formal ambiguity of inopiae, because with, the forms that you now know of first declension, what are the possibilities for this?
+SU-m: could be ablative
+SU-m: genitive
+S1: nope that would be [SU-m: genitive ] with an A. could be genitive [SU-m: nominative plural ]
+S2: could be nominative plural.
+S1: <WRITING ON BOARD> could be genitive singular could be_ well that_ we know it's not that cuz we don't know how to use it, okay. could be nominative plural, or it could be dative singular. so the real first question you hafta answer here, is how do i decide when do i know for instance, that, this form represents a dative singular, rather than a nominative plural? and this is a problem that you can solve_ we had that, <WRITING ON BOARD> that possible probable necessary, set of steps, and you can solve this on the basis of semantics because, inopiae is an abstract noun, and it means poverty, or neediness. it and it does not in and of itself refer to any people. okay it's just the abstract notion. in Latin as in English, you don't often find abstract nouns in the plural. mkay, i mean that the notion of poverties doesn't, it doesn't really make much sense and it didn't make sense to the Romans either. so if you have an abstract noun, such as inopiae or sapientiae, or avaritiae or amicitiae, meaning poverty or wisdom, friendship, greed. these things are more likely on the basis of their meaning, to be singular than plural. it's not theoretically impossible, but it's really unlikely. so, these possibilities, move to a probability of dative singular, just because of, it's an abstract noun. so then i i for all intents and purposes, i know i have an_ a dative t- to go on with, so then i have this notion of <WRITNG ON BOARD> to or for, neediness or poverty, with respect to this abstract notion, multa desunt, many things are lacking, and with respect to greed, everything, is lacking. but it's really hard in English because, lack is something that, we interpret just the other way around. that, th- i lack height, okay, whereas the Latin would say, tallness or height is lacking, with respect to me, so desunt works just the other way around in English. any other questions? Mary.
+S5: i (still) don't understand like exactly what that translation would even mean, like, is that, the sense o- of for is that because of like many things are lacking because of me that it (is?) [S1: no ] i still don't understand
+S1: yeah it's a hard i- i- and [S5: just like, what's the (xx) ] this is true of all datives. you have this general... uh, it's almost as if you're putting, a limit on the truth value, of, a statement. so if i have the statement, <WRITING ON BOARD> many things are lacking, okay, or many things are missing, or lacking. and let's pick one slightly more concrete and easier from basic sentence sixteen-one, the city, is unfriendly. (okay) now, these are statements of fact. what the dative does is put a kind of, reference or specification, for these or limits their truth value. so it may not be true that the city is unfriendly, in all circumstances to all things and to all people, but i know, <WRITING ON BOARD> poetis, with respect to poets as far as poets are concerned, the city is unfriendly. an- and that's really what datives do, they, they kind of limit the range, of meaningfulness or validity, of a certain statement. so with i- in this one many things are missing, <WRITING ON BOARD> inopiae, if you're talking about poverty. with respect to poverty. as far as poverty's concerned, many things are missing. okay? now if you're talking greed avaritiae, everything is lacking. so, it's a way of providing perspective. when you get into reading narratives, what, what i often find the dative, does, if you're doing a a narrative, is that it's it's almost like, you're directing a film, and at a certain point, the camera shifts to look at a situation from a certain character's viewpoint and the dative can represent that kind of viewpoint. um, that perspective from which things are seen. it's a fuzzy area and that's one reason why the dative's so hard because it isn't one of those clean adverbial categories. other questions. okay, let's um <UNSPECIFIED FILLED PAUSE> let's skip sixteen-four, for the moment there are just too many places, too many things about this that could interfere with j- getting a handle on the dative. but look at sixteen-five, going through this same thing, Jim how would you_ could you read that one aloud?
+S6: Speaker information restricted
+S1: mhm, okay where do you hit where do you hit the dative word?
+S6: Speaker information restricted
+S1: yeah. <PAUSE WHILE WRITING ON BOARD> where are you at that point? or where might you be, or where do you definitely know you're not? which use of the dative can you rule out?
+S6: Speaker information restricted
+S1: well it's hard to rule out special intransitive until you actually have the verb.
+S6: Speaker information restricted
+S1: special linking, yeah, okay. now, when you get the verb lucet, where are you now?
+S6: Speaker information restricted
+S1: yeah, this verb is not, one of those, so then now we're going through, again our list on page one-sixty-seven, i don't have dative with est, um, is this a verb of giving showing telling or offering?
+S6: Speaker information restricted
+S1: no, okay. uh, third possible, specific category is it a compound verb? no. and on top of page one-sixty-eight there are certain_ there are datives that pattern with a certain set of adjectives, but i don't have any adjectives in this sentence, so, it's not that. so then i'm in, the default mode... which is, on the top of page, um, actually the bottom of page one-sixty-six. second paragraph under non-kernel occurrences. a dative that occurs without any special signal in the environment, generally designates the person, less often the thing, to whom the sentence refers or is of interest. the name commonly used to describe it is, dative of reference. so if i add, omnibus to the sentence fugit hora, and get omnibus hora fugit, time flies for everyone, okay. um, that seems to be where i am here this is just a general dative of reference, and, so the sun shines, for everybody [S6: Speaker information restricted] with respect to everybody... okay. questions, anything that came up in the dative lesson that you still are fuzzy about? <PAUSE:05> okay, let's look at Hercules and the golden apples for just a second. i wasn't sure how many of you had brought your course packs with so this is the, copy of what you had to read. <PAUSE:07><INAUDIBLE CONVERSATION BETWEEN S2 AND S9 > i'd like to go through this in sort of the same way that is going from_ looking at the Latin going from left to right and seeing how much you know at what point. consider the first five words in the first sentence, decimo (labora) confecto, Uristheus Herculi. so if i'm just describing, what i see there, okay, in decimo (laboro) confecto i see an ablative noun phrase decimo (labora,) with an ablative participle confecto and a comma, so, i draw on all of my stored knowledge and realize i have an ablative absolute. then i see a nominative noun Uristheus which is undoubtedly my subject and i see a dative noun Herculi. which is the name of Hercules, so i know at this moment that i can automatically rule out special linking. because he doesn't fit, the criteria. i can also probably rule out dative with est as showing possession, because it's unlikely that this sentence means, Uristheus belongs to Hercules or Hercules has Uristheus which is_ semantically it seems improbable. so i really need some more information before i can decide, whether i have special intransitive, um, or some other use of the dative case. as i continue to read to the right, as soon as i see undecimum laborem , and i have an accusative, i know that i don't have a special intransitive kernel. i'm in some use of the dative which involves the transitive active kernel, and that can be_ the two most likely possibilities are gonna be ones where the verb is of giving, something to someone, or of a compound which takes an accusative object plus, the dative. John?
+S3: are you saying those are the two most common, always? (the two xx)
+S1: no the two most common as soon as you know there's [S3: alright ] an accusative direct object involved. then when i see imposuit, okay that just allows me to to link it and say oh this is one of those compound verbs. Uristheus imposed, the eleventh labor on Hercules. <PAUSE:07> okay, now looking at the next sentence. Hercules aurea poma. if we assume that we know <WRITING ON BOARD> poma, comes from pomum, and is neuter, <PAUSE:05> what do i know at this point? what kind of a metaphrase would i give? what are my expectations after these three words? Jim?
+S6: Speaker information restricted
+S1: mhm so what do i expect?
+S6: Speaker information restricted
+S1: good, okay, and how far do i read, before i see, that, transitive active verb?
+S6: Speaker information restricted
+S1: not quite all the way to the end.
+S6: Speaker information restricted
+S1: yeah, okay cuz it's the infinitive that's gonna govern kernel type. so, i now know Hercules... was able to bring back, ought to bring back, um didn't want to bring back i need some sort of verb to govern the infinitive but i know what the syntactic and semantic relationship is between Hercules and these golden apples. and then when i get debuit i, i just fill it into that slot. okay he was supposed to bring back he ought to bring back, the golden apples from the garden of the Hysperides. after the first three words in the next sentence, Hysperides erant nymphae, okay, Nicole can you just describe what you, w- what you have in those three words.
+S9: Speaker information restricted
+SU-f: it's indicative
+<PAUSE:13>
+S1: well let's back it up once, if i see Hysperides erant, i know i've got my subject and my verb right? [S9: Speaker information restricted] okay <PAUSE WHILE WRITING ON BOARD> now, what are the two possibilities, actually now there's three possibilities that i can have, after erant, which by the way is a form of the verb to be.
+S9: Speaker information restricted
+S1: ah that's the one thing i can't have. [S9: Speaker information restricted] because the the verb sum_ forms of sum esse can't have_ they (are) never show up in transitive active kernels. so [S9: Speaker information restricted] what are my three possible kernel types, that i can have with est or sunt or some form of the verb to be?
+SS: linking
+S6: Speaker information restricted
+S1: linking <WRITING ON BOARD> and
+S5: special linking
+SU-f: special linking
+S1: special linking, and
+SU-m: intransitive
+S1: intransitive active, right where you're just talking about existence. so, i_ at this point if i have intransitive active, i'd expect no other parts. okay, nothing else. if i have linking, what do i ex- what is my expectation?
+SU-f: subject complement
+S6: Speaker information restricted
+S1: yeah which is going_ what's that gonna look like?
+SU-f: noun in the nominative
+SU-m: it's gonna be (the subject.)
+S1: noun in the nominative, or possibly, what other part of speech can i have?
+SU-f: adjective.
+SU-f: (an) adjective.
+S1: an adjective so, <WRITING ON BOARD> a noun or adjective, in, the nominative, okay. what if what if i have special linking? what is my expectation?
+S6: Speaker information restricted
+SU-m: dative
+SU-f: dative
+S1: a dative, what? dative [SU-m: (comp) ] part o- what part of speech?
+SU-f: (comp)
+SU-m: object.
+S1: a dative noun... but it's not any dative noun, right? what i- what is
+S2: inanimate dative noun [SU-f: animate ]
+S1: pardon?
+S2: inanimate [SU-f: animate ] dat- dative noun.
+S1: inanimate, non-animate dative noun
+S8: abstract
+S1: abstract, what kind of range of meaning do these things have? they're very restrictive.
+SU-m: (help or hinderance)
+S1: helping or hindering right these are the the, the danger, the aid, the impediment, the safety, that kind of thing, so it's an <WRITING ON BOARD> abstract dative noun, plus minus, advantage, shall we say. okay so those are my three expectations, John?
+S3: in this sentence um, couldn't it be, like, technically the other way around where like the, nymphae (xx) (created were) your subjects, and the, the Hysperides, were
+S1: it could be, but, usually what you've got at the beginning of a sentence, <WRITING ON BOARD> is what we call old or, given information, that is, especially in narrative stuff that's already been mentioned, or that the writer assumes is in the consciousness, of or awareness of the reader. and that comes first in the sentence, it's only later on in the sentence that you get, the new info. [S3: okay ] and, the Hysperides, were just mentioned in the sentence above, so they're the link, they're the discourse link, okay. he's supposed to get these things from the garden of the Hysperides, so you're thinking oh who are the Hysperides, and now we're gonna tell you. the Hysperides were, okay. so now, Nicole going back to, the issue of nymphae, when you see nymphae, which one of these three intransitive active linking or special linking do you automatically rule out?
+S9: Speaker information restricted
+S1: yeah because i have another item here okay. now, this could that could be a nominative plural noun, but it could also be a dative, so then i wanna check the meaning, to see whether, it fulfils this meaning criteria. does it?
+S9: Speaker information restricted
+S1: no [S9: Speaker information restricted] yeah Nymphs are people. okay they're way they're way_ they may be of an advantage or, pleasure to somebody, um, but they they're not going to_ they're not abstract. so i remove this, and i remove this, so now what have i got?
+S9: Speaker information restricted
+S1: mhm so what does it mean, just that much of it?
+S9: Speaker information restricted
+S1: yeah, were nymphs, [S9: Speaker information restricted] yeah, just kind of a narrative voice. John?
+S3: what if it was a, helping verb, of like advantage or disadvantage? how do you determine between then whether it's linking, or, special, intransitive?
+S1: ah because you already know that this is not a special intransitive verb.
+S3: well alright well, linking or, the one we just crossed off.
+S1: intransitive active? if you
+S3: not (int- active,) but the special one that we just did.
+S1: right okay, <WRITING ON BOARD> between this, and this?
+S3: say it was_ met the criteria for special linking, [S1: right ] how do you determine whether it would be special linking or just normal linking?
+S1: ah, it's gonna be special linking.
+S3: that'll take a verb?
+S1: yeah yeah, that'll regularly, um, pattern like that. it's only going to be a problem really if you're dealing with, first, um, declension nouns, because that's the only declension where the dative and the nominative are ambiguous. in every other instance you're not gonna have (a_ the) problem. but yeah no i would make spec- if it if it fills that criterion, if it's abstract, it's not likely to be plural so, okay, good. um, well thank you very much. i think we're done, and thanks for, allowing this to be videotaped, this project thanks you. um, assignment for Monday, we're moving on to lesson seventeen which is the genitive case it's pretty easy, um, it resembles structure in English, almost exactly, and we have no quiz on Monday, so, have a nice weekend a good holiday.
+R1: before you guys take off i need to (just_ it) takes about twenty seconds to fill this thing out.
+SU-f: (you can have) a bunch of old ones. can_ like this is the homework i brought [S1: mhm ] can you correct that?
+S1: you bet.
+SU-f: or, i have the translations (on) back, so
+S1: okay, yeah if anybody wants me to look at_ if you wrote out your stuff on the, uh, golden apples thing and you wa- you'd like me to take a look at it just hand it in.
+R1: is there anybody who hasn't given me a consent form back? okay.
+{END OF TRANSCRIPT}
+Please contact the English Language Institute with questions or comments.
